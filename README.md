@@ -23,6 +23,7 @@ Skills work with [OpenClaw](https://github.com/openclaw/openclaw), [Claude Code]
 | [`moverly-connect`](skills/moverly-connect/) | Connect to Moverly's property intelligence API. List transactions, check status, validate your connection. |
 | [`moverly-diligence`](skills/moverly-diligence/) | Property risk intelligence — flags, evidence-based insights, action recommendations across 37 risk categories and 323 checks. |
 | [`moverly-upload`](skills/moverly-upload/) | Upload case documents for automated diligence analysis. "PDF in, intelligence out" — title registers, searches, TA forms, leases. |
+| [`report-on-title`](skills/report-on-title/) | Generate a comprehensive Report on Title from PDTF state and diligence engine flags. Maps verified claims into professional buyer's conveyancer report sections. Customisable to firm house style. |
 
 ## Quick Start
 
