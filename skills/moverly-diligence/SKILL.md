@@ -72,10 +72,23 @@ Same as above but translate each flag: what it means for them, what happens next
 **"Compare my caseload"**
 `list_transactions` → for each, `get_status` gives `riskSummary` → sort by total risk score.
 
+## Resolving Flags — the describe → vouch loop
+
+When a flag has actions with `targetPath`, the agent can collect data and resolve it directly:
+
+1. Read the action's `targetPath` (e.g. `/propertyPack/alterationsAndChanges`)
+2. Call `moverly_describe_path` with that path (+ overlay like `ta6ed6` for required fields) → get strict schema
+3. The schema uses `discriminator` and `oneOf` for conditional dependencies — the valid shape changes based on answers. When a user says "Yes" to a top-level question (e.g. "Has Japanese knotweed been found?"), new detail fields become required. Collect data step by step, following the schema's branching logic.
+4. If any property has `enum: ["Attached", "To follow", "Not applicable"]` and the user has the document, upload it via `moverly_upload_document` with `pdtfPath` first, then set the property to `"Attached"`
+5. Call `moverly_vouch` with the collected data → strict validation, no extra properties
+6. Call `get_insights` → verify the flag resolved or shifted evidenceBasis
+
+This is the core agentic diligence loop — the agent sees a gap, knows the exact data shape needed, collects it conversationally from the user, validates, submits, and confirms resolution.
+
 ## Drafting Enquiries
 
-When a flag suggests raising an enquiry:
+When a flag suggests raising an enquiry (rather than collecting data directly):
 1. Read the flag's `actions` array for specific data needed
-2. Use `targetPath` (PDTF schema path) for precision
+2. Use `targetPath` (PDTF schema path) for precision — call `describe_path` to understand what data would resolve it
 3. Draft in professional conveyancing language
 4. State what evidence would resolve the flag

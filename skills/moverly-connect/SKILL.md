@@ -87,6 +87,51 @@ scripts/mcp-call.sh tools/call '{"name":"moverly_get_queue","arguments":{"transa
 3. Call get_insights to see updated risk picture
 4. Check `evidenceBasis: "data-driven"` flags for new findings
 
+### moverly_describe_path
+Get the strict JSON subschema at any PDTF path. Essential before calling `vouch` — tells the agent exactly what shape of data to submit.
+```bash
+scripts/mcp-call.sh tools/call '{"name":"moverly_describe_path","arguments":{"path":"/propertyPack/alterationsAndChanges","overlay":"ta6ed6"}}'
+```
+- `path`: PDTF schema path starting with / (required)
+- `overlay`: optional form overlay (e.g. `ta6ed6`, `baspiV5`) — adds `required` constraints
+- Returns: `{path, title, hierarchy, schema, overlay, note}`
+
+**Schema behaviour notes:**
+- Returned schema has `additionalProperties: false` at every object level — only declared properties accepted
+- Uses `discriminator` and `oneOf` clauses for conditional dependencies — the valid shape changes based on higher-level property values (e.g. answering "Yes" to a knotweed question means a details object becomes required)
+- `required` arrays are only populated when an overlay is specified (e.g. `ta6ed6` makes TA6 form fields mandatory). Without an overlay, the shape is permissive on which fields are present
+- Properties with `enum: ["Attached", "To follow", "Not applicable"]` indicate document attachment points. If setting `"Attached"`, also upload the document via `moverly_upload_document` with the `pdtfPath` parameter pointing to the attachment location
+
+### moverly_vouch
+Submit verified data at a PDTF path. Validates strictly against the schema — no additional properties allowed.
+```bash
+scripts/mcp-call.sh tools/call '{"name":"moverly_vouch","arguments":{"transactionId":"<id>","path":"/propertyPack/specialistIssues/japaneseKnotweed","value":{"hasKnotweed":"Yes","knotweedDetails":"..."},"overlay":"ta6ed6"}}'
+```
+- `transactionId`: required
+- `path`: PDTF schema path (required)
+- `value`: data matching the schema at that path (required) — call `describe_path` first to know the shape
+- `overlay`: optional, applies overlay-specific required field validation
+- `confidentialityLevel`: public | restricted (default) | confidential
+- ✅ Returns: `{status: "accepted", callerRole, message}` — triggers DE re-evaluation
+- ❌ Returns: `{isError: true}` with up to 10 human-readable validation errors and paths
+
+### Describe → Vouch workflow
+The core data collection loop for agents:
+1. Get insights → find a flag with `evidenceBasis: "evidence-incomplete"` and an action with `targetPath`
+2. Call `describe_path` with that `targetPath` (and overlay if applicable) → understand required shape
+3. Collect data from the user following the schema's discriminator/oneOf structure — ask follow-up questions when conditional fields apply
+4. If the schema includes attachment properties being set to `"Attached"`, upload the document first via `upload_document` with `pdtfPath`
+5. Call `vouch` with the collected data → validates and submits
+6. Call `get_insights` again → check if the flag resolved or moved to a different evidenceBasis
+
+### moverly_upload_document (with pdtfPath)
+When uploading a document that relates to a specific PDTF path (e.g. a knotweed survey for `/propertyPack/specialistIssues/japaneseKnotweed/attachments`), include the `pdtfPath` parameter. This creates a vouch-attributed document claim linking the file to the schema location:
+```bash
+FILE_B64=$(base64 -w0 knotweed-survey.pdf)
+scripts/mcp-call.sh tools/call "{\"name\":\"moverly_upload_document\",\"arguments\":{\"transactionId\":\"<id>\",\"fileContent\":\"${FILE_B64}\",\"fileName\":\"knotweed-survey.pdf\",\"pdtfPath\":\"/propertyPack/specialistIssues/japaneseKnotweed/attachments\"}}"
+```
+The document claim will include full vouch provenance (attestation by the uploading user) rather than generic upload provenance.
+
 ## Error Codes
 
 | Code | Meaning |
