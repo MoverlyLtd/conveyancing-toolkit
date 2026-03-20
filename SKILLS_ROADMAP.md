@@ -8,6 +8,7 @@
 | `moverly-connect` | Moverly | ✅ Live — MCP connection, transaction listing |
 | `moverly-diligence` | Moverly | ✅ Live — risk flags, evidence filtering |
 | `moverly-upload` | Moverly | ✅ Skill ready — awaiting Phase 2 MCP tools (`upload_document`, `get_queue`) |
+| `report-on-title` | Moverly | ✅ Skill ready — maps PDTF state + DE flags into full buyer's report (17 sections, practitioner precedent) |
 
 ## Next Up 🔨
 
