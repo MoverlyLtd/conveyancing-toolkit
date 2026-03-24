@@ -49,6 +49,14 @@
 | `osprey-connector` | Push/pull case data from Osprey Approach | High — needs API research |
 | `land-registry-portal` | Interact with HMLR Business Gateway / Portal | High — needs API research |
 
+### WhatsApp Agent Channel
+| Item | Description | Complexity |
+|------|-------------|------------|
+| `whatsapp-adapter` | WhatsApp Business API adapter for agent chat — phone-to-user resolution, template messages for outbound, transcript-as-provenance for vouched claims | Medium |
+| Seller interview via WhatsApp | Natural conversation → structured PDTF data, transcript is the evidence (no confirm-every-field) | Low (builds on interview mode) |
+| Buyer briefing via WhatsApp | Plain English risk explanation, "what should I ask my conveyancer?" | Low |
+| Multi-transaction routing | Same phone → multiple transactions, agent disambiguates naturally | Low |
+
 ## Ideas / Backlog 💡
 
 - Conveyancing quiz / training skill (test knowledge of process)
