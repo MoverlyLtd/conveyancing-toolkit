@@ -27,6 +27,19 @@ Every flag has an `evidenceBasis`. Default to showing only evidenced flags:
 
 For full category details → read `references/flag-categories.md`.
 
+## Evidence Provenance
+
+Each flag includes provenance fields:
+
+| Field | Purpose |
+|-------|---------|
+| `evidencePaths` | PDTF claim paths that contributed to this finding — use with `get_provenance` to trace data lineage |
+| `legalContext` | Check-level legal framework (legislation names, section numbers, thresholds) |
+| `legalDetail` | Scenario-specific legal application |
+| `rationale` | Step-by-step reasoning chain with `step` and `basis` fields |
+
+When explaining a flag to a user, cite `legalContext` for authoritative legal references. Use `evidencePaths` to show exactly which data drove the finding. Never fabricate legislation or section numbers — only cite what appears in `legalContext`/`legalDetail`.
+
 ## Fetching Insights
 
 Use moverly-connect's `mcp-call.sh`:
