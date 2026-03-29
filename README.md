@@ -19,6 +19,7 @@ Skills work with [OpenClaw](https://github.com/openclaw/openclaw), [Claude Code]
 | [`ca-protocol-compliance`](skills/ca-protocol-compliance/) | Conveyancing Association Protocol (5th Edition) compliance. Decision trees for building regs, planning, restrictive covenants, short leases. Works for SRA and CLC firms. |
 | [`cqs-practice-standards`](skills/cqs-practice-standards/) | CQS practice management standards. Governance, supervision, training, cyber security, file management. For SRA CQS-accredited firms. |
 | [`clc-compliance-tracker`](skills/clc-compliance-tracker/) | Council of Licensed Conveyancers regulatory compliance. 6 Ethical Principles, subsidiary codes (AML, Accounts, Lender, Transaction Files). For CLC-regulated firms. |
+| [`lenders-handbook-prescreen`](skills/lenders-handbook-prescreen/) | Exhaustive UK Finance Lender's Handbook Part 1 pre-screen. 24 categories, 90+ checks. Every reporting trigger, every "check Part 2" reference. Miss nothing. |
 
 ### Moverly-Connected (requires [Moverly](https://moverly.com) account)
 
