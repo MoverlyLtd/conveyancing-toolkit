@@ -1,0 +1,29 @@
+{
+  "name": "uk-conveyancing",
+  "description": "UK property conveyancing intelligence — SDLT calculator, lender pre-screening (90+ checks, 60+ lenders), protocol compliance checklists (Law Society, CA, CQS, CLC), and Moverly property intelligence integration for risk analysis, enquiries, and report generation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Moverly",
+    "email": "ed@moverly.com"
+  },
+  "homepage": "https://github.com/MoverlyLtd/conveyancing-skills",
+  "repository": "https://github.com/MoverlyLtd/conveyancing-skills",
+  "license": "MIT",
+  "keywords": [
+    "conveyancing",
+    "property",
+    "uk-property",
+    "stamp-duty",
+    "sdlt",
+    "lender",
+    "mortgage",
+    "compliance",
+    "law-society",
+    "cqs",
+    "clc",
+    "moverly",
+    "diligence",
+    "risk-analysis",
+    "pdtf"
+  ]
+}
