@@ -301,14 +301,45 @@ When connected to Moverly, most checks auto-populate from transaction data:
 | Buildings insurance (19.1–19.2) | `get_insights` → insurance-availability flags | Insurance adequacy |
 | BSA 2022 (9.14) | `get_insights` → condition-safety-specialist flags | Relevant building identification |
 
+## Part 2: Lender-Specific Requirements
+
+When a "check Part 2" item is triggered, read the specific lender's
+reference file from `references/lenders/{lender-slug}.md`.
+
+Each file contains the lender's answers to every Part 2 question
+(~108 items) scraped from the UK Finance website.
+
+**To look up a lender's Part 2 requirement:**
+1. Identify the section number from the Part 1 checklist above (e.g. 5.14.1)
+2. Read `references/lenders/{lender-slug}.md`
+3. Find the matching section number
+4. Apply the lender's specific requirement
+
+**Example:** For Nationwide on minimum lease term:
+→ Read `references/lenders/nationwide-building-society.md`
+→ Find section 5.14.1
+
+**Available lenders** (Tier 1 — ~80% of UK mortgages):
+nationwide-building-society, santander-uk-plc, barclays-bank-uk-plc,
+hsbc-uk-bank-plc, national-westminster-bank-plc, halifax,
+bank-of-scotland-beginning-a, tsb-bank-plc, virgin-money,
+yorkshire-building-society, skipton-building-society,
+coventry-building-society, leeds-building-society,
+principality-building-society, metro-bank-plc
+
+Plus 50+ Tier 2 and Tier 3 lenders in the same directory.
+
+**To refresh the data:** `node scripts/scrape-handbook.mjs`
+
 ## Sources
 
 - UK Finance Mortgage Lenders' Handbook Part 1 (England & Wales):
   https://lendershandbook.ukfinance.org.uk/lenders-handbook/englandandwales/
+- Part 2 data scraped from individual lender pages on the same site
 - UK Finance Disclosure of Incentives Form
 - Building Safety Act 2022
 - Insolvency (No 2) Act 1994
 
 This skill provides guidance based on publicly available handbook
 requirements expressed in plain language. Always refer to the current
-published handbook. Always check Part 2 for lender-specific requirements.
+published handbook.
