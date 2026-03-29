@@ -123,4 +123,4 @@ Flags updated (some resolved, some new)
 Agent calls get_insights → sees updated risk picture
 ```
 
-The whole pipeline is automatic. Upload a search result on Friday evening, and by Monday the flags are updated with the new intelligence incorporated.
+The whole pipeline is automatic. Upload a search result and the flags are updated with the new intelligence within minutes.

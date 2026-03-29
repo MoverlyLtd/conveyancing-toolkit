@@ -71,7 +71,7 @@ Claude uploads each document via `upload_document`. The processing pipeline runs
 3. **Claims mapper** writes PDTF claims with provenance
 4. **Diligence Engine** re-evaluates all 37 categories
 
-Sarah checks back a few hours later:
+Sarah puts the kettle on. By the time she's back with a cup of tea:
 
 > "What's the status on those documents?"
 
@@ -111,7 +111,7 @@ Then `get_insights` shows the updated risk picture:
 
 ### What happens:
 
-Documents uploaded and processed overnight. Next morning:
+Documents uploaded. A few minutes later:
 
 > "What changed after the search results?"
 
