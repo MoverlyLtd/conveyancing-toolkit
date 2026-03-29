@@ -10,7 +10,7 @@ Built and maintained by [Moverly](https://moverly.com). Open to contributions fr
 
 A collection of AI-ready tools that give conveyancers, estate agents, and property professionals instant access to structured property intelligence through Claude, OpenClaw, or any AI platform that supports the Model Context Protocol.
 
-Every tool in this toolkit is **free, open source, and MIT-licensed**. No subscription, no paywall, no bait-and-switch. The standalone tools work without any account or API key. The Moverly-connected tools require a Moverly API token for live transaction intelligence.
+Every tool in this toolkit is **free, open source, and MIT-licensed**. The standalone tools work without any account or API key. The Moverly-connected tools require a Moverly API token for live transaction intelligence.
 
 We believe the conveyancing profession deserves better tools. We're building them in the open and we want your help.
 
@@ -101,16 +101,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 Every contribution stays MIT-licensed and free forever. No contributor agreements, no relicensing. What you give stays open.
 
-## Our commitment
+## Our promise
 
-This toolkit is **guaranteed open source and free forever**. We will never:
-
-- Put standalone tools behind a paywall
-- Require a Moverly account for tools that don't need one
-- Change the licence to something more restrictive
-- Remove or degrade community contributions
-
-Moverly's business model is property intelligence infrastructure, not selling developer tools. The standalone tools in this toolkit are genuinely useful without Moverly — and that's the point. Better tools for conveyancers benefits everyone, including us.
+This toolkit will always be free and open source. Better tools for conveyancers benefits everyone — including us.
 
 ## About
 
