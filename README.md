@@ -15,6 +15,10 @@ Skills work with [OpenClaw](https://github.com/openclaw/openclaw), [Claude Code]
 | Skill | Description |
 |-------|-------------|
 | [`sdlt-calculator`](skills/sdlt-calculator/) | Calculate Stamp Duty Land Tax for residential purchases in England & Northern Ireland. Standard rates, first-time buyer relief, additional property surcharge, non-resident surcharge. |
+| [`conveyancing-protocol-checklist`](skills/conveyancing-protocol-checklist/) | Law Society Conveyancing Protocol (2019) stage-by-stage checklists. Instructions through post-completion. For SRA-regulated/CQS firms. Auto-completes with Moverly. |
+| [`ca-protocol-compliance`](skills/ca-protocol-compliance/) | Conveyancing Association Protocol (5th Edition) compliance. Decision trees for building regs, planning, restrictive covenants, short leases. Works for SRA and CLC firms. |
+| [`cqs-practice-standards`](skills/cqs-practice-standards/) | CQS practice management standards. Governance, supervision, training, cyber security, file management. For SRA CQS-accredited firms. |
+| [`clc-compliance-tracker`](skills/clc-compliance-tracker/) | Council of Licensed Conveyancers regulatory compliance. 6 Ethical Principles, subsidiary codes (AML, Accounts, Lender, Transaction Files). For CLC-regulated firms. |
 
 ### Moverly-Connected (requires [Moverly](https://moverly.com) account)
 
