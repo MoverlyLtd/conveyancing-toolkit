@@ -103,7 +103,7 @@ Every contribution stays MIT-licensed and free forever. No contributor agreement
 
 ## Our promise
 
-This toolkit will always be free and open source. Better tools for conveyancers benefits everyone — including us.
+This toolkit will always be free and open source. Better tools for conveyancers benefits everyone.
 
 ## About
 
