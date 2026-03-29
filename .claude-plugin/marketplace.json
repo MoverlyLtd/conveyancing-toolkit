@@ -1,0 +1,94 @@
+{
+  "name": "conveyancing-skills",
+  "owner": {
+    "name": "Moverly",
+    "email": "ed@moverly.com"
+  },
+  "metadata": {
+    "description": "Property intelligence and conveyancing workflow skills for AI agents. Standalone tools plus Moverly-connected intelligence.",
+    "version": "1.0.0",
+    "pluginRoot": "./skills"
+  },
+  "plugins": [
+    {
+      "name": "sdlt-calculator",
+      "source": "./sdlt-calculator",
+      "description": "Calculate UK Stamp Duty Land Tax for residential property purchases. Standard, first-time buyer, additional property, and non-UK resident calculations.",
+      "version": "1.0.0",
+      "category": "calculators",
+      "tags": ["conveyancing", "stamp-duty", "sdlt", "property-tax", "uk-property"]
+    },
+    {
+      "name": "lenders-handbook-prescreen",
+      "source": "./lenders-handbook-prescreen",
+      "description": "Exhaustive UK Finance Lender's Handbook Part 1 pre-screen with 90+ checks across 24 categories, plus Part 2 data for 60+ lenders.",
+      "version": "1.0.0",
+      "category": "compliance",
+      "tags": ["conveyancing", "lender", "mortgage", "handbook", "compliance", "uk-property"]
+    },
+    {
+      "name": "conveyancing-protocol-checklist",
+      "source": "./conveyancing-protocol-checklist",
+      "description": "Law Society Conveyancing Protocol compliance checklists. Track pre-exchange, exchange, completion, and post-completion obligations.",
+      "version": "1.0.0",
+      "category": "compliance",
+      "tags": ["conveyancing", "law-society", "protocol", "cqs", "compliance", "uk-property"]
+    },
+    {
+      "name": "ca-protocol-compliance",
+      "source": "./ca-protocol-compliance",
+      "description": "Conveyancing Association Protocol (5th Edition) compliance. Covers delays, enquiries, building regulations, planning, covenants, leasehold, and fraud.",
+      "version": "1.0.0",
+      "category": "compliance",
+      "tags": ["conveyancing", "ca-protocol", "compliance", "best-practice", "uk-property"]
+    },
+    {
+      "name": "cqs-practice-standards",
+      "source": "./cqs-practice-standards",
+      "description": "CQS practice management standards for SRA-regulated firms. Governance, supervision, training, complaints, cyber security, and file management.",
+      "version": "1.0.0",
+      "category": "compliance",
+      "tags": ["conveyancing", "cqs", "practice-management", "sra", "uk-property"]
+    },
+    {
+      "name": "clc-compliance-tracker",
+      "source": "./clc-compliance-tracker",
+      "description": "CLC regulatory compliance tracking. Code of Conduct, ethical principles, subsidiary codes, and outcomes-focused assessment.",
+      "version": "1.0.0",
+      "category": "compliance",
+      "tags": ["conveyancing", "clc", "licensed-conveyancer", "compliance", "uk-property"]
+    },
+    {
+      "name": "moverly-connect",
+      "source": "./moverly-connect",
+      "description": "Connect to Moverly's property intelligence MCP server. Transaction data, PDTF state, claims, provenance, document uploads, and form progress.",
+      "version": "1.0.0",
+      "category": "integrations",
+      "tags": ["moverly", "mcp", "property-intelligence", "pdtf", "uk-property"]
+    },
+    {
+      "name": "moverly-diligence",
+      "source": "./moverly-diligence",
+      "description": "Property risk intelligence and enquiry management via Moverly's deterministic diligence engine. Risk flags, evidence provenance, and pre-contract enquiries.",
+      "version": "1.0.0",
+      "category": "integrations",
+      "tags": ["moverly", "risk-analysis", "diligence", "enquiries", "uk-property"]
+    },
+    {
+      "name": "moverly-upload",
+      "source": "./moverly-upload",
+      "description": "Upload case documents to Moverly for automated diligence analysis. Guided multi-document workflows with classification and risk re-evaluation.",
+      "version": "1.0.0",
+      "category": "integrations",
+      "tags": ["moverly", "document-upload", "diligence", "uk-property"]
+    },
+    {
+      "name": "report-on-title",
+      "source": "./report-on-title",
+      "description": "Generate comprehensive buyer's conveyancer Reports on Title from Moverly transaction data and diligence engine risk flags.",
+      "version": "1.0.0",
+      "category": "workflow",
+      "tags": ["moverly", "report-on-title", "conveyancing", "uk-property"]
+    }
+  ]
+}
