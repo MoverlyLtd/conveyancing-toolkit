@@ -1,106 +1,121 @@
-# Conveyancing Skills for AI Agents
+# Conveyancing Toolkit
 
-Open-source skills that give AI agents accurate conveyancing knowledge. Built by [Moverly](https://moverly.com).
+The open-source AI toolkit for UK residential conveyancing. Free forever.
 
-## What Are Skills?
-
-Skills are instruction packs for AI agents. Each skill teaches an agent how to perform a specific task — calculating stamp duty, explaining title registers, running property diligence. The agent reads the skill's instructions, uses the bundled scripts and references, and gives the user a reliable answer.
-
-Skills work with [OpenClaw](https://github.com/openclaw/openclaw), [Claude Code](https://docs.anthropic.com/en/docs/claude-code), and any agent platform that supports tool use.
-
-## Available Skills
-
-### Standalone (no account needed)
-
-| Skill | Description |
-|-------|-------------|
-| [`sdlt-calculator`](skills/sdlt-calculator/) | Calculate Stamp Duty Land Tax for residential purchases in England & Northern Ireland. Standard rates, first-time buyer relief, additional property surcharge, non-resident surcharge. |
-| [`conveyancing-protocol-checklist`](skills/conveyancing-protocol-checklist/) | Law Society Conveyancing Protocol (2019) stage-by-stage checklists. Instructions through post-completion. For SRA-regulated/CQS firms. Auto-completes with Moverly. |
-| [`ca-protocol-compliance`](skills/ca-protocol-compliance/) | Conveyancing Association Protocol (5th Edition) compliance. Decision trees for building regs, planning, restrictive covenants, short leases. Works for SRA and CLC firms. |
-| [`cqs-practice-standards`](skills/cqs-practice-standards/) | CQS practice management standards. Governance, supervision, training, cyber security, file management. For SRA CQS-accredited firms. |
-| [`clc-compliance-tracker`](skills/clc-compliance-tracker/) | Council of Licensed Conveyancers regulatory compliance. 6 Ethical Principles, subsidiary codes (AML, Accounts, Lender, Transaction Files). For CLC-regulated firms. |
-| [`lenders-handbook-prescreen`](skills/lenders-handbook-prescreen/) | Exhaustive UK Finance Lender's Handbook Part 1 pre-screen. 24 categories, 90+ checks. Every reporting trigger, every "check Part 2" reference. Miss nothing. |
-
-### Moverly-Connected (requires [Moverly](https://moverly.com) account)
-
-| Skill | Description | MCP Tools Used |
-|-------|-------------|----------------|
-| [`moverly-connect`](skills/moverly-connect/) | Connect to Moverly's MCP server. Transaction listing, status, state, claims, provenance, form progress, schema validation, vouching. Foundation for other Moverly skills. | 16 tools |
-| [`moverly-diligence`](skills/moverly-diligence/) | Property risk intelligence + enquiry management. 37 categories, 323 checks. Evidence tracing, legal citations, flag explanation, enquiry workflows. | get_insights, get_provenance, raise/list/respond_enquiry |
-| [`moverly-upload`](skills/moverly-upload/) | Document-driven diligence. Upload case files → AI classification → structured extraction → DE re-evaluation → resolve flags. | upload_document, get_queue, vouch |
-| [`report-on-title`](skills/report-on-title/) | Generate Report on Title from PDTF state + flags. 17 sections per Law Society precedent. Customisable to firm style. | get_state, get_insights |
-
-## Quick Start
-
-### OpenClaw
-
-Copy the skill folder into your agent's skills directory:
-
-```bash
-cp -r skills/sdlt-calculator ~/.openclaw/skills/
-```
-
-Or install from [ClawHub](https://clawhub.com):
-
-```bash
-npx clawhub install sdlt-calculator
-```
-
-### Claude Code
-
-Skills work as project context. Copy the skill folder into your project:
-
-```bash
-cp -r skills/sdlt-calculator ./skills/
-```
-
-Then reference it in your `.claude/settings.json` or mention the skill directory in your system prompt.
-
-### Any Agent Platform
-
-Each skill is a self-contained directory with:
-- `SKILL.md` — instructions for the agent (when to use, how to use, what to present)
-- `scripts/` — deterministic tools the agent calls
-- `references/` — detailed knowledge the agent can consult
-
-Point your agent at the SKILL.md and it'll know what to do.
-
-## Why Deterministic Skills?
-
-LLMs are good at understanding questions and explaining answers. They're unreliable at remembering exact tax bands, legal thresholds, and regulatory rules. Skills solve this by giving the agent a script to run — the LLM handles the conversation, the script handles the calculation.
-
-An agent without the SDLT skill might hallucinate old tax rates or forget the first-time buyer cap. With the skill, it runs `sdlt-calc.sh 425000 --ftb` and gets **£6,250** every time.
-
-## Coming Soon
-
-- `leasehold-calculator` — Lease extension costs (marriage value, deferment rates), statutory vs voluntary routes
-- `pre-exchange-checklist` — Everything before exchange: searches, enquiries, mortgage offer, deposit, insurance
-- `post-completion-checklist` — SDLT return, LR application, notice to landlord, utility transfers
-- `lender-prescreen` — Flag common Part 1 handbook issues from property data alone
-
-## Moverly Connection Setup
-
-The `moverly-connect` and `moverly-diligence` skills require a Moverly Personal Access Token (PAT).
-
-1. Log in to your Moverly account
-2. Go to **My Account → API Access**
-3. Generate a new access token
-4. Set it as an environment variable:
-
-```bash
-export MOVERLY_PAT="mvly_pat_your_token_here"
-```
-
-See [setup/openclaw.md](setup/openclaw.md) for OpenClaw-specific configuration, or [setup/claude-code.md](setup/claude-code.md) for Claude Code / `.mcp.json` setup.
-
-## Contributing
-
-We welcome contributions — new skills, improvements to existing ones, bug fixes. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-## License
-
-MIT — use these skills however you like.
+Built and maintained by [Moverly](https://moverly.com). Open to contributions from everyone.
 
 ---
 
-Built by [Moverly](https://moverly.com) — property intelligence infrastructure for the agentic era.
+## What this is
+
+A collection of AI-ready tools that give conveyancers, estate agents, and property professionals instant access to structured property intelligence through Claude, OpenClaw, or any AI platform that supports the Model Context Protocol.
+
+Every tool in this toolkit is **free, open source, and MIT-licensed**. No subscription, no paywall, no bait-and-switch. The standalone tools work without any account or API key. The Moverly-connected tools require a Moverly API token for live transaction intelligence.
+
+We believe the conveyancing profession deserves better tools. We're building them in the open and we want your help.
+
+## Tools
+
+### Standalone — works immediately, no setup
+
+| Tool | What it does |
+|------|-------------|
+| **SDLT Calculator** | Stamp Duty Land Tax — standard, first-time buyer, additional property, non-UK resident. Deterministic bash script, no LLM maths. |
+| **Lender Pre-Screen** | Full UK Finance Lender's Handbook Part 1 (90+ checks, 24 categories) plus Part 2 requirements for 60+ individual lenders. |
+| **Lender Comparison** | Compare requirements across multiple lenders simultaneously — spawns parallel agents, returns a suitability matrix in seconds. |
+| **Law Society Protocol** | Conveyancing Protocol compliance checklists by stage. |
+| **CA Protocol** | Conveyancing Association Protocol (5th Edition) — the most transaction-specific compliance tool. |
+| **CQS Standards** | CQS Core Practice Management Standards for SRA-regulated firms. |
+| **CLC Compliance** | Council of Licensed Conveyancers regulatory framework tracker. |
+| **Property Law Reference** | Curated directory of 100+ authoritative sources — GOV.UK, HMLR Practice Guides, LEASE Advisory Service, Law Commission reports. Fetch-and-cite, not hallucinate. |
+
+### Moverly-connected — live transaction intelligence
+
+These tools connect to Moverly's MCP server for real-time, verified property intelligence. They require a [Moverly](https://moverly.com) API token.
+
+| Tool | What it does |
+|------|-------------|
+| **Moverly Connect** | Transaction data, PDTF state, verified claims with full provenance. |
+| **Moverly Diligence** | Risk flags from the Diligence Engine (37 categories, 323 checks, 2,215 scenarios), evidence trails, pre-contract enquiry management. |
+| **Moverly Upload** | Upload case documents for automated classification, extraction, and risk analysis. |
+| **Report on Title** | Generate buyer's conveyancer Reports on Title from verified transaction data and risk flags. |
+
+## Quick start
+
+### Claude Code
+
+```bash
+# Clone and point Claude at any tool
+git clone https://github.com/MoverlyLtd/conveyancing-toolkit.git
+
+# Then ask Claude:
+# "Calculate SDLT on a £425,000 purchase for a first-time buyer"
+# "Pre-screen this property against Nationwide's Part 2 requirements"
+# "Run a CA Protocol compliance check"
+```
+
+### OpenClaw
+
+```bash
+# Install individual tools
+npx clawhub@latest install moverly/sdlt-calculator
+npx clawhub@latest install moverly/lenders-handbook-prescreen
+```
+
+### Any MCP-compatible platform
+
+Point your agent at the `skills/` directory. Each tool has a `SKILL.md` that the agent reads for instructions.
+
+## Documentation
+
+- **[Getting Started](docs/getting-started.md)** — 2-minute setup
+- **[Use Cases](docs/use-cases.md)** — 7 real workflows with examples
+- **[Conveyancer Journey](docs/conveyancer-journey.md)** — a complete purchase, start to finish
+- **[Architecture](docs/architecture.md)** — how the layers fit together
+- **[MCP Reference](docs/mcp-reference.md)** — all 19 Moverly MCP tools
+- **[Authentication](docs/authentication.md)** — PAT, OAuth, platform configs
+- **[Building Tools](docs/building-skills.md)** — create your own
+- **[FAQ](docs/faq.md)** — common questions
+
+## Contributing
+
+We want this to become the industry standard toolkit for AI-assisted conveyancing. That means it needs more than just Moverly's perspective.
+
+**What we'd love to see:**
+
+- 🔧 **CMS integrations** — connectors for LEAP, Clio, Osprey, Proclaim, or any other practice management system
+- 📋 **Firm-specific checklists** — your pre-exchange checklist, your completion checklist, your new-build workflow
+- 📊 **Calculators** — apportionment calculators, completion statement checkers, key dates calculators
+- 🏛️ **Regulatory tools** — SRA compliance, LSAG guidance, specialist area checklists (new-build, leasehold enfranchisement, commercial)
+- 🔗 **Platform integrations** — search providers (InfoTrack, SearchFlow), identity verification, Land Registry
+- 📚 **Reference materials** — curated legal references, practice notes, worked examples
+
+**How to contribute:**
+
+1. Fork this repo
+2. Create your tool in `skills/your-tool-name/SKILL.md`
+3. Add helper scripts in `scripts/` and reference data in `references/` if needed
+4. Submit a PR
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+
+Every contribution stays MIT-licensed and free forever. No contributor agreements, no relicensing. What you give stays open.
+
+## Our commitment
+
+This toolkit is **guaranteed open source and free forever**. We will never:
+
+- Put standalone tools behind a paywall
+- Require a Moverly account for tools that don't need one
+- Change the licence to something more restrictive
+- Remove or degrade community contributions
+
+Moverly's business model is property intelligence infrastructure, not selling developer tools. The standalone tools in this toolkit are genuinely useful without Moverly — and that's the point. Better tools for conveyancers benefits everyone, including us.
+
+## About
+
+The toolkit is built on the [Property Data Trust Framework (PDTF)](https://github.com/property-data-standards-co/schemas) — the UK's emerging standard for structured property data, already carrying thousands of transactions through the National Property Transaction Network (NPTN).
+
+Moverly's Diligence Engine provides the intelligence layer — a deterministic rule engine that evaluates property risk across 37 categories, producing consistent, auditable results with full evidence provenance. Not an LLM. Not probabilistic. Every scenario has defined inputs, conditions, and outputs.
+
+Built and maintained by [Moverly](https://moverly.com) · [Documentation](docs/) · [MIT License](LICENSE)

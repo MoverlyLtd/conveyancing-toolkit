@@ -6,12 +6,12 @@
 
 ```bash
 # Add the Moverly marketplace
-/plugin marketplace add MoverlyLtd/conveyancing-skills
+/plugin marketplace add MoverlyLtd/conveyancing-toolkit
 
 # Install what you need
-/plugin install sdlt-calculator@conveyancing-skills
-/plugin install lenders-handbook-prescreen@conveyancing-skills
-/plugin install ca-protocol-compliance@conveyancing-skills
+/plugin install sdlt-calculator@conveyancing-toolkit
+/plugin install lenders-handbook-prescreen@conveyancing-toolkit
+/plugin install ca-protocol-compliance@conveyancing-toolkit
 ```
 
 ### Claude Cowork (web)

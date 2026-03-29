@@ -1,13 +1,13 @@
 {
-  "name": "uk-conveyancing",
-  "description": "UK property conveyancing intelligence — SDLT calculator, lender pre-screening (90+ checks, 60+ lenders), protocol compliance checklists (Law Society, CA, CQS, CLC), and Moverly property intelligence integration for risk analysis, enquiries, and report generation.",
+  "name": "uk-conveyancing-toolkit",
+  "description": "The open-source AI toolkit for UK residential conveyancing — SDLT calculator, lender pre-screening (90+ checks, 60+ lenders), protocol compliance (Law Society, CA, CQS, CLC), property law reference directory, and Moverly property intelligence integration. Free forever, MIT licensed.",
   "version": "1.0.0",
   "author": {
     "name": "Moverly",
     "email": "ed@moverly.com"
   },
-  "homepage": "https://github.com/MoverlyLtd/conveyancing-skills",
-  "repository": "https://github.com/MoverlyLtd/conveyancing-skills",
+  "homepage": "https://github.com/MoverlyLtd/conveyancing-toolkit",
+  "repository": "https://github.com/MoverlyLtd/conveyancing-toolkit",
   "license": "MIT",
   "components": {
     "skills": 11,
