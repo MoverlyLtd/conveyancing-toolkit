@@ -56,12 +56,13 @@ These run entirely within the AI agent — no external API, no account needed. T
 
 The PDTF MCP specification defines a standard protocol for property transaction data. Any system that implements it — Moverly, NPTN, or others — can be connected using this skill. This is the industry standard layer.
 
-**12 standard tools:**
+**15 standard tools:**
 
 | Category | Tools | Purpose |
 |----------|-------|---------|
-| Transaction data | `list_transactions`, `get_state`, `get_status`, `get_claims`, `get_provenance` | Read transaction data |
-| Data submission | `vouch`, `upload_document` | Write verified data |
+| Transaction discovery | `list_transactions`, `create_transaction`, `find_transaction` | Discover, create, and search transactions |
+| Transaction data | `get_state`, `get_status`, `get_claims`, `get_provenance` | Read transaction data |
+| Data submission | `vouch`, `upload_document`, `download_document` | Write verified data, manage documents |
 | Schema | `describe_path`, `list_overlays` | PDTF schema introspection |
 | Enquiries | `raise_enquiry`, `list_enquiries`, `respond_enquiry` | Pre-contract enquiry management |
 

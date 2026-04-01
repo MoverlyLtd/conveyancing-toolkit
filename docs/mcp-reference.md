@@ -11,6 +11,34 @@
 
 These tools are defined by the PDTF MCP specification. Any compliant server implements them.
 
+### Transaction Discovery
+
+#### `moverly_create_transaction`
+
+Create a new transaction, or return an existing one if a transaction already exists for the same UPRN within your organisation. Find-or-create pattern prevents duplicates.
+
+| Parameter | Type | Required | Description |
+|-----------|------|----------|-------------|
+| address | string | No* | Property address (*at least one of address/uprn required) |
+| uprn | integer | No* | Unique Property Reference Number (*at least one of address/uprn required) |
+| participantRole | string | Yes | Caller's role: "Seller", "Seller's Conveyancer", "Buyer", "Buyer's Conveyancer", etc. |
+| clientReference | string | No | External reference (e.g. case management system ID) |
+
+Returns: transactionId, status ("created" or "existing"), uprn, address, message.
+
+#### `moverly_find_transaction`
+
+Search for transactions by UPRN or address within your organisation.
+
+| Parameter | Type | Required | Description |
+|-----------|------|----------|-------------|
+| address | string | No* | Property address to search for (*at least one of address/uprn required) |
+| uprn | integer | No* | UPRN to search for (*at least one of address/uprn required) |
+
+Returns: array of matching transactions with id, uprn, status, address, createdAt.
+
+---
+
 ### Transaction Data
 
 #### `moverly_list_transactions`
