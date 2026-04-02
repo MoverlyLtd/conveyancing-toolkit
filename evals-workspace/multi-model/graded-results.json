@@ -974,6 +974,450 @@
       "score_pct": 20
     },
     {
+      "eval_id": 17,
+      "skill": "aml-source-of-funds",
+      "model": "claude-sonnet",
+      "model_label": "Claude Sonnet 4",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response specifies 12 months bank statements for savings showing accumulation pattern",
+          "pass": true,
+          "reason": "Explicitly states '12 months of bank/building society statements showing the accumulation pattern to \u00a3200,000 (not just a closing balance)'"
+        },
+        {
+          "expectation": "Response requires giftor's ID and giftor's bank statements (not just the buyer's)",
+          "pass": true,
+          "reason": "Clearly specifies 'Parents' photographic ID' and 'Parents' bank statements \u2014 3\u20136 months showing they hold the \u00a3100,000+ and the source of those funds'"
+        },
+        {
+          "expectation": "Response requires a signed gift letter confirming no obligation to repay",
+          "pass": true,
+          "reason": "Explicitly includes 'Signed gift letter' with 'No obligation to repay (confirming it's not a loan in disguise)' as a mandatory requirement"
+        },
+        {
+          "expectation": "Response mentions risk-based approach (not tick-box compliance)",
+          "pass": true,
+          "reason": "States 'Risk-Based Approach: Apply proportionate enquiry based on risk assessment \u2014 document your reasoning for the level of checks applied'"
+        },
+        {
+          "expectation": "Response mentions record-keeping period of 5 years from end of transaction",
+          "pass": true,
+          "reason": "Explicitly states 'Retain all CDD records for 5 years from the end of the business relationship'"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 17,
+      "skill": "aml-source-of-funds",
+      "model": "claude-sonnet",
+      "model_label": "Claude Sonnet 4",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response specifies 12 months bank statements for savings showing accumulation pattern",
+          "pass": false,
+          "reason": "Response only mentions 3-6 months bank statements, not the required 12 months"
+        },
+        {
+          "expectation": "Response requires giftor's ID and giftor's bank statements (not just the buyer's)",
+          "pass": true,
+          "reason": "Clearly states parents' ID verification and parents' bank statements are required"
+        },
+        {
+          "expectation": "Response requires a signed gift letter confirming no obligation to repay",
+          "pass": true,
+          "reason": "Specifies deed of gift or formal gift letter confirming genuine gift with no expectation of repayment"
+        },
+        {
+          "expectation": "Response mentions risk-based approach (not tick-box compliance)",
+          "pass": true,
+          "reason": "References enhanced due diligence requirements, risk assessment, and decision-making process documentation"
+        },
+        {
+          "expectation": "Response mentions record-keeping period of 5 years from end of transaction",
+          "pass": false,
+          "reason": "No mention of the 5-year record retention requirement"
+        }
+      ],
+      "total_pass": 3,
+      "total_expectations": 5,
+      "score_pct": 60
+    },
+    {
+      "eval_id": 18,
+      "skill": "aml-source-of-funds",
+      "model": "claude-sonnet",
+      "model_label": "Claude Sonnet 4",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response identifies this as requiring enhanced due diligence (EDD)",
+          "pass": true,
+          "reason": "Clearly identifies EDD requirements with specific section on 'Enhanced Due Diligence Triggers' and states EDD is 'strongly recommended as default approach'"
+        },
+        {
+          "expectation": "Response mentions source country risk assessment or FATF status",
+          "pass": true,
+          "reason": "Explicitly mentions UAE's FATF 'grey list' status and includes detailed 'Dubai-Specific Risk Assessment' section with risk profile analysis"
+        },
+        {
+          "expectation": "Response requires SWIFT/wire transfer confirmations or equivalent transfer evidence",
+          "pass": true,
+          "reason": "Specifically requires 'SWIFT/wire transfer confirmation' with detailed breakdown of required information including sending bank details, amounts, and exchange rates"
+        },
+        {
+          "expectation": "Response mentions currency conversion evidence",
+          "pass": true,
+          "reason": "Explicitly requires 'FX contract note or bank conversion confirmation' and mentions exchange rate documentation in SWIFT requirements"
+        },
+        {
+          "expectation": "Response mentions suspicious activity report (SAR) obligation if concerns arise",
+          "pass": true,
+          "reason": "Clear section on reporting obligations mentioning SAR filing with NCA and DAML process requirements"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 18,
+      "skill": "aml-source-of-funds",
+      "model": "claude-sonnet",
+      "model_label": "Claude Sonnet 4",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response identifies this as requiring enhanced due diligence (EDD)",
+          "pass": true,
+          "reason": "Clearly states 'enhanced AML due diligence' and has dedicated EDD section with specific requirements"
+        },
+        {
+          "expectation": "Response mentions source country risk assessment or FATF status",
+          "pass": false,
+          "reason": "References 'Higher risk jurisdiction considerations' but doesn't specifically mention FATF status or formal risk assessment"
+        },
+        {
+          "expectation": "Response requires SWIFT/wire transfer confirmations or equivalent transfer evidence",
+          "pass": true,
+          "reason": "Explicitly mentions 'SWIFT codes and correspondent banking relationships' and transfer route documentation"
+        },
+        {
+          "expectation": "Response mentions currency conversion evidence",
+          "pass": true,
+          "reason": "Specifically states 'Explanation of any intermediate stops or currency conversions'"
+        },
+        {
+          "expectation": "Response mentions suspicious activity report (SAR) obligation if concerns arise",
+          "pass": true,
+          "reason": "Explicitly mentions 'Suspicious activity report considerations' in the ongoing monitoring section"
+        }
+      ],
+      "total_pass": 4,
+      "total_expectations": 5,
+      "score_pct": 80
+    },
+    {
+      "eval_id": 19,
+      "skill": "building-regulations",
+      "model": "claude-sonnet",
+      "model_label": "Claude Sonnet 4",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions regularisation as an option (retrospective local authority approval)",
+          "pass": true,
+          "reason": "Clearly mentions regularisation as 'Apply to local authority for retrospective building regulations approval' and recommends it"
+        },
+        {
+          "expectation": "Response mentions indemnity insurance as an alternative",
+          "pass": true,
+          "reason": "Lists 'Option 2: Indemnity Insurance' as an alternative with details about limitations"
+        },
+        {
+          "expectation": "Response states indemnity insurance must be obtained BEFORE any approach to the local authority",
+          "pass": true,
+          "reason": "Explicitly states 'Do not contact the local authority until you've decided on your strategy' and 'indemnity insurance becomes unavailable' after contact"
+        },
+        {
+          "expectation": "Response mentions Part B (fire safety) as a key concern for loft conversions",
+          "pass": true,
+          "reason": "Prominently features Part B fire safety as 'critical concern for lenders' and discusses fire safety requirements extensively"
+        },
+        {
+          "expectation": "Response provides approximate costs for at least one option (regularisation \u00a3400-800 or insurance \u00a350-200)",
+          "pass": true,
+          "reason": "Provides costs for both options: regularisation '\u00a3400\u2013800' and indemnity insurance '\u00a350\u2013200'"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 19,
+      "skill": "building-regulations",
+      "model": "claude-sonnet",
+      "model_label": "Claude Sonnet 4",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions regularisation as an option (retrospective local authority approval)",
+          "pass": true,
+          "reason": "Clearly mentions regularisation certificate under Building Regulations 2010, regulation 12 with detailed explanation"
+        },
+        {
+          "expectation": "Response mentions indemnity insurance as an alternative",
+          "pass": true,
+          "reason": "Explicitly discusses Building Regulations Indemnity Insurance as option 3 with details"
+        },
+        {
+          "expectation": "Response states indemnity insurance must be obtained BEFORE any approach to the local authority",
+          "pass": false,
+          "reason": "Does not mention the critical requirement that indemnity insurance must be obtained before any approach to local authority"
+        },
+        {
+          "expectation": "Response mentions Part B (fire safety) as a key concern for loft conversions",
+          "pass": false,
+          "reason": "Only briefly mentions 'fire safety' in general terms, does not specifically reference Part B building regulations"
+        },
+        {
+          "expectation": "Response provides approximate costs for at least one option (regularisation \u00a3400-800 or insurance \u00a350-200)",
+          "pass": true,
+          "reason": "Provides costs for regularisation (\u00a3300-800) and insurance (\u00a3100-300), covering the expected ranges"
+        }
+      ],
+      "total_pass": 3,
+      "total_expectations": 5,
+      "score_pct": 60
+    },
+    {
+      "eval_id": 20,
+      "skill": "building-regulations",
+      "model": "claude-sonnet",
+      "model_label": "Claude Sonnet 4",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions checking competentperson.co.uk to verify if installer was registered",
+          "pass": true,
+          "reason": "Explicitly mentions checking competentperson.co.uk and explains the search purpose"
+        },
+        {
+          "expectation": "Response mentions FENSA specifically as the relevant competent person scheme for windows",
+          "pass": true,
+          "reason": "Clearly identifies FENSA as one of the two main competent person schemes for windows"
+        },
+        {
+          "expectation": "Response distinguishes between self-certification (competent person) and local authority routes",
+          "pass": true,
+          "reason": "Clearly distinguishes between FENSA/CERTASS certification and building control approval as separate routes"
+        },
+        {
+          "expectation": "Response warns about the 'no approach' rule before pursuing indemnity insurance",
+          "pass": true,
+          "reason": "Explicitly warns that contacting building control makes indemnity insurance unavailable and emphasizes deciding strategy first"
+        },
+        {
+          "expectation": "Response mentions Part L (energy efficiency/insulation) as relevant regulation for windows",
+          "pass": true,
+          "reason": "Specifically mentions Part L (energy efficiency/thermal performance) as the relevant Building Regulations requirement"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 20,
+      "skill": "building-regulations",
+      "model": "claude-sonnet",
+      "model_label": "Claude Sonnet 4",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions checking competentperson.co.uk to verify if installer was registered",
+          "pass": false,
+          "reason": "Response suggests checking if installer was registered but doesn't mention the specific competentperson.co.uk website"
+        },
+        {
+          "expectation": "Response mentions FENSA specifically as the relevant competent person scheme for windows",
+          "pass": true,
+          "reason": "FENSA is clearly mentioned as the relevant certification scheme for windows"
+        },
+        {
+          "expectation": "Response distinguishes between self-certification (competent person) and local authority routes",
+          "pass": true,
+          "reason": "Clearly distinguishes between FENSA certification and local authority building control approval as two different routes"
+        },
+        {
+          "expectation": "Response warns about the 'no approach' rule before pursuing indemnity insurance",
+          "pass": false,
+          "reason": "Mentions indemnity insurance as an option but doesn't warn about the 'no approach' rule requirement"
+        },
+        {
+          "expectation": "Response mentions Part L (energy efficiency/insulation) as relevant regulation for windows",
+          "pass": true,
+          "reason": "Specifically mentions Part L (energy efficiency) requirements in the context of window replacements"
+        }
+      ],
+      "total_pass": 3,
+      "total_expectations": 5,
+      "score_pct": 60
+    },
+    {
+      "eval_id": 21,
+      "skill": "restrictive-covenant-advisor",
+      "model": "claude-sonnet",
+      "model_label": "Claude Sonnet 4",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions s84 Law of Property Act 1925 as an option for modification/discharge",
+          "pass": true,
+          "reason": "Clearly mentions Section 84 LPA 1925 application and explains grounds under s84(a) and s84(aa)"
+        },
+        {
+          "expectation": "Response mentions restrictive covenant indemnity insurance with approximate cost range",
+          "pass": true,
+          "reason": "States indemnity insurance cost of \u00a350-150 for this type of covenant breach"
+        },
+        {
+          "expectation": "Response states that approaching the covenant beneficiary invalidates indemnity insurance",
+          "pass": true,
+          "reason": "Explicitly mentions the 'no approach' rule and states insurance becomes unavailable if contact made"
+        },
+        {
+          "expectation": "Response assesses risk factors: age of covenant (60yr+), no enforcement history, minimal breach",
+          "pass": true,
+          "reason": "Identifies covenant as 58 years old, notes no enforcement history, and characterizes as low-risk technical breach"
+        },
+        {
+          "expectation": "Response mentions Upper Tribunal as the forum for s84 applications",
+          "pass": false,
+          "reason": "Does not specifically mention Upper Tribunal as the forum for s84 applications"
+        }
+      ],
+      "total_pass": 4,
+      "total_expectations": 5,
+      "score_pct": 80
+    },
+    {
+      "eval_id": 21,
+      "skill": "restrictive-covenant-advisor",
+      "model": "claude-sonnet",
+      "model_label": "Claude Sonnet 4",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions s84 Law of Property Act 1925 as an option for modification/discharge",
+          "pass": true,
+          "reason": "Clearly mentions Upper Tribunal application under s.84 Law of Property Act 1925 with specific grounds"
+        },
+        {
+          "expectation": "Response mentions restrictive covenant indemnity insurance with approximate cost range",
+          "pass": true,
+          "reason": "Provides detailed cost ranges by property value (\u00a3200-\u00a3800+ premiums) and coverage details"
+        },
+        {
+          "expectation": "Response states that approaching the covenant beneficiary invalidates indemnity insurance",
+          "pass": false,
+          "reason": "Does not mention this critical point about invalidation of insurance if beneficiaries are contacted"
+        },
+        {
+          "expectation": "Response assesses risk factors: age of covenant (60yr+), no enforcement history, minimal breach",
+          "pass": true,
+          "reason": "Specifically addresses all three factors: 60-year-old covenant, no enforcement history, and de minimis breach"
+        },
+        {
+          "expectation": "Response mentions Upper Tribunal as the forum for s84 applications",
+          "pass": true,
+          "reason": "Explicitly states 'Upper Tribunal (Lands Chamber) application under s.84'"
+        }
+      ],
+      "total_pass": 4,
+      "total_expectations": 5,
+      "score_pct": 80
+    },
+    {
+      "eval_id": 22,
+      "skill": "restrictive-covenant-advisor",
+      "model": "claude-sonnet",
+      "model_label": "Claude Sonnet 4",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response notes the beneficiary's own extension as relevant to enforceability (acquiescence/waiver argument)",
+          "pass": true,
+          "reason": "Clearly identifies beneficiary's 2015 extension as creating acquiescence/waiver and weakening enforcement position"
+        },
+        {
+          "expectation": "Response discusses whether indemnity insurance is available and the 'no approach' prerequisite",
+          "pass": true,
+          "reason": "Explicitly discusses indemnity insurance availability and emphasizes the critical 'no approach' rule with clear warning"
+        },
+        {
+          "expectation": "Response mentions s84 LPA 1925 ground (aa) \u2014 covenant impedes reasonable use of land",
+          "pass": true,
+          "reason": "Specifically mentions s84 LPA 1925 ground (aa) and explains it as 'impedes reasonable use' for domestic extension"
+        },
+        {
+          "expectation": "Response distinguishes between a front/visible extension and rear extension in terms of risk",
+          "pass": true,
+          "reason": "Notes that rear extension is 'less visible than front alterations' when assessing enforcement risk"
+        },
+        {
+          "expectation": "Response provides practical advice on sequencing: decide insurance vs release before any contact",
+          "pass": true,
+          "reason": "Clearly advises to keep no approach rule intact 'until strategy is decided' and warns about losing insurance route if contact made"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 22,
+      "skill": "restrictive-covenant-advisor",
+      "model": "claude-sonnet",
+      "model_label": "Claude Sonnet 4",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response notes the beneficiary's own extension as relevant to enforceability (acquiescence/waiver argument)",
+          "pass": true,
+          "reason": "Clearly discusses acquiescence/waiver argument based on beneficiary's 2015 extension"
+        },
+        {
+          "expectation": "Response discusses whether indemnity insurance is available and the 'no approach' prerequisite",
+          "pass": false,
+          "reason": "Mentions insurance option but does not discuss the critical 'no approach' prerequisite for obtaining cover"
+        },
+        {
+          "expectation": "Response mentions s84 LPA 1925 ground (aa) \u2014 covenant impedes reasonable use of land",
+          "pass": true,
+          "reason": "Explicitly mentions s.84(1)(aa) regarding covenant impeding reasonable use of land"
+        },
+        {
+          "expectation": "Response distinguishes between a front/visible extension and rear extension in terms of risk",
+          "pass": false,
+          "reason": "Does not distinguish between front and rear extensions or note that rear extension may have lower visibility/enforcement risk"
+        },
+        {
+          "expectation": "Response provides practical advice on sequencing: decide insurance vs release before any contact",
+          "pass": false,
+          "reason": "Recommends starting with negotiation but doesn't advise deciding between insurance vs release strategy before making contact"
+        }
+      ],
+      "total_pass": 2,
+      "total_expectations": 5,
+      "score_pct": 40
+    },
+    {
       "eval_id": 11,
       "skill": "sdlt-calculator",
       "model": "claude-haiku",
@@ -1944,6 +2388,450 @@
       "total_pass": 2,
       "total_expectations": 5,
       "score_pct": 40
+    },
+    {
+      "eval_id": 17,
+      "skill": "aml-source-of-funds",
+      "model": "claude-haiku",
+      "model_label": "Claude 3 Haiku",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response specifies 12 months bank statements for savings showing accumulation pattern",
+          "pass": true,
+          "reason": "Explicitly states '12 months of the client's bank/building society statements showing the gradual accumulation of the \u00a3200,000'"
+        },
+        {
+          "expectation": "Response requires giftor's ID and giftor's bank statements (not just the buyer's)",
+          "pass": true,
+          "reason": "Clearly requires 'Photographic ID (passport or driving licence) for the parents' and '3-6 months of bank statements for the parents'"
+        },
+        {
+          "expectation": "Response requires a signed gift letter confirming no obligation to repay",
+          "pass": true,
+          "reason": "Specifies 'Signed gift letter from the parents confirming... That there is no obligation for the client to repay the gift'"
+        },
+        {
+          "expectation": "Response mentions risk-based approach (not tick-box compliance)",
+          "pass": true,
+          "reason": "States 'Apply a risk-based approach, with the depth of enquiry proportionate to the risk profile'"
+        },
+        {
+          "expectation": "Response mentions record-keeping period of 5 years from end of transaction",
+          "pass": true,
+          "reason": "States 'Retain all AML records for 5 years from the end of the business relationship'"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 17,
+      "skill": "aml-source-of-funds",
+      "model": "claude-haiku",
+      "model_label": "Claude 3 Haiku",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response specifies 12 months bank statements for savings showing accumulation pattern",
+          "pass": false,
+          "reason": "Response only mentions 3-6 months bank statements, not the required 12 months"
+        },
+        {
+          "expectation": "Response requires giftor's ID and giftor's bank statements (not just the buyer's)",
+          "pass": true,
+          "reason": "Response clearly states need for parents' ID and bank statements showing the transfer"
+        },
+        {
+          "expectation": "Response requires a signed gift letter confirming no obligation to repay",
+          "pass": false,
+          "reason": "Response mentions gift letter but doesn't specify it must confirm no obligation to repay"
+        },
+        {
+          "expectation": "Response mentions risk-based approach (not tick-box compliance)",
+          "pass": false,
+          "reason": "Response presents requirements as fixed checklist without mentioning risk-based assessment"
+        },
+        {
+          "expectation": "Response mentions record-keeping period of 5 years from end of transaction",
+          "pass": false,
+          "reason": "Response mentions maintaining AML file but doesn't specify the 5-year retention period"
+        }
+      ],
+      "total_pass": 1,
+      "total_expectations": 5,
+      "score_pct": 20
+    },
+    {
+      "eval_id": 18,
+      "skill": "aml-source-of-funds",
+      "model": "claude-haiku",
+      "model_label": "Claude 3 Haiku",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response identifies this as requiring enhanced due diligence (EDD)",
+          "pass": true,
+          "reason": "Explicitly mentions 'Enhanced Due Diligence' in section 4 with detailed EDD measures"
+        },
+        {
+          "expectation": "Response mentions source country risk assessment or FATF status",
+          "pass": true,
+          "reason": "Section 1 specifically mentions checking FATF list of high-risk and increased-monitoring jurisdictions"
+        },
+        {
+          "expectation": "Response requires SWIFT/wire transfer confirmations or equivalent transfer evidence",
+          "pass": true,
+          "reason": "Section 3 explicitly requires SWIFT/wire transfer confirmation with detailed requirements"
+        },
+        {
+          "expectation": "Response mentions currency conversion evidence",
+          "pass": true,
+          "reason": "Section 2 specifically addresses currency conversion evidence with detailed requirements"
+        },
+        {
+          "expectation": "Response mentions suspicious activity report (SAR) obligation if concerns arise",
+          "pass": true,
+          "reason": "Section 5 explicitly mentions SAR reporting to NCA if money laundering suspicion arises"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 18,
+      "skill": "aml-source-of-funds",
+      "model": "claude-haiku",
+      "model_label": "Claude 3 Haiku",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response identifies this as requiring enhanced due diligence (EDD)",
+          "pass": true,
+          "reason": "Explicitly mentions Enhanced Due Diligence (EDD) as first point with detailed requirements"
+        },
+        {
+          "expectation": "Response mentions source country risk assessment or FATF status",
+          "pass": false,
+          "reason": "No mention of FATF ratings, country risk assessment, or UAE's specific AML risk profile"
+        },
+        {
+          "expectation": "Response requires SWIFT/wire transfer confirmations or equivalent transfer evidence",
+          "pass": false,
+          "reason": "Only mentions bank statements but no specific requirement for wire transfer documentation or SWIFT confirmations"
+        },
+        {
+          "expectation": "Response mentions currency conversion evidence",
+          "pass": false,
+          "reason": "No mention of currency exchange documentation or conversion evidence requirements"
+        },
+        {
+          "expectation": "Response mentions suspicious activity report (SAR) obligation if concerns arise",
+          "pass": true,
+          "reason": "States obligation to report concerns to National Crime Agency (NCA) in accordance with AML regulations"
+        }
+      ],
+      "total_pass": 2,
+      "total_expectations": 5,
+      "score_pct": 40
+    },
+    {
+      "eval_id": 19,
+      "skill": "building-regulations",
+      "model": "claude-haiku",
+      "model_label": "Claude 3 Haiku",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions regularisation as an option (retrospective local authority approval)",
+          "pass": true,
+          "reason": "Clearly explains regularisation process including applying to local authority for retrospective approval"
+        },
+        {
+          "expectation": "Response mentions indemnity insurance as an alternative",
+          "pass": true,
+          "reason": "Discusses indemnity insurance as Option B alternative to regularisation"
+        },
+        {
+          "expectation": "Response states indemnity insurance must be obtained BEFORE any approach to the local authority",
+          "pass": true,
+          "reason": "Explicitly states 'indemnity insurance is no longer an option' if local authority contacted and 'only available if no one has contacted the local authority'"
+        },
+        {
+          "expectation": "Response mentions Part B (fire safety) as a key concern for loft conversions",
+          "pass": true,
+          "reason": "Specifically mentions 'critical fire safety regulations (Part B)' and notes lenders take this seriously"
+        },
+        {
+          "expectation": "Response provides approximate costs for at least one option (regularisation \u00a3400-800 or insurance \u00a350-200)",
+          "pass": true,
+          "reason": "Provides costs for both options: regularisation \u00a3400-800 and indemnity insurance \u00a350-200"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 19,
+      "skill": "building-regulations",
+      "model": "claude-haiku",
+      "model_label": "Claude 3 Haiku",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions regularisation as an option (retrospective local authority approval)",
+          "pass": true,
+          "reason": "Clearly mentions 'retrospective building regulations approval' and 'regularisation certificate'"
+        },
+        {
+          "expectation": "Response mentions indemnity insurance as an alternative",
+          "pass": false,
+          "reason": "No mention of indemnity insurance as an alternative remedy option"
+        },
+        {
+          "expectation": "Response states indemnity insurance must be obtained BEFORE any approach to the local authority",
+          "pass": false,
+          "reason": "Indemnity insurance not mentioned at all, so timing requirement not addressed"
+        },
+        {
+          "expectation": "Response mentions Part B (fire safety) as a key concern for loft conversions",
+          "pass": false,
+          "reason": "No specific mention of Part B fire safety regulations or fire safety concerns"
+        },
+        {
+          "expectation": "Response provides approximate costs for at least one option (regularisation \u00a3400-800 or insurance \u00a350-200)",
+          "pass": false,
+          "reason": "States costs 'can vary but may be significant' without providing specific cost ranges"
+        }
+      ],
+      "total_pass": 1,
+      "total_expectations": 5,
+      "score_pct": 20
+    },
+    {
+      "eval_id": 20,
+      "skill": "building-regulations",
+      "model": "claude-haiku",
+      "model_label": "Claude 3 Haiku",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions checking competentperson.co.uk to verify if installer was registered",
+          "pass": true,
+          "reason": "Explicitly mentions searching competentperson.co.uk for a certificate"
+        },
+        {
+          "expectation": "Response mentions FENSA specifically as the relevant competent person scheme for windows",
+          "pass": true,
+          "reason": "Mentions FENSA specifically in step 2 alongside CERTASS"
+        },
+        {
+          "expectation": "Response distinguishes between self-certification (competent person) and local authority routes",
+          "pass": true,
+          "reason": "Clearly distinguishes between competent person certificates (step 2) and local authority regularisation (Option A)"
+        },
+        {
+          "expectation": "Response warns about the 'no approach' rule before pursuing indemnity insurance",
+          "pass": true,
+          "reason": "Explicitly warns not to contact local authority before deciding strategy as it would rule out indemnity insurance"
+        },
+        {
+          "expectation": "Response mentions Part L (energy efficiency/insulation) as relevant regulation for windows",
+          "pass": true,
+          "reason": "Specifically mentions Part L (energy efficiency) in the regularisation section"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 20,
+      "skill": "building-regulations",
+      "model": "claude-haiku",
+      "model_label": "Claude 3 Haiku",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions checking competentperson.co.uk to verify if installer was registered",
+          "pass": false,
+          "reason": "No mention of competentperson.co.uk website or checking installer registration"
+        },
+        {
+          "expectation": "Response mentions FENSA specifically as the relevant competent person scheme for windows",
+          "pass": true,
+          "reason": "FENSA is specifically mentioned and described as the Fenestration Self-Assessment Scheme for windows"
+        },
+        {
+          "expectation": "Response distinguishes between self-certification (competent person) and local authority routes",
+          "pass": false,
+          "reason": "No clear distinction made between competent person self-certification and local authority building control routes"
+        },
+        {
+          "expectation": "Response warns about the 'no approach' rule before pursuing indemnity insurance",
+          "pass": false,
+          "reason": "No mention of indemnity insurance or the 'no approach' rule"
+        },
+        {
+          "expectation": "Response mentions Part L (energy efficiency/insulation) as relevant regulation for windows",
+          "pass": false,
+          "reason": "No specific mention of Part L regulations or energy efficiency requirements for windows"
+        }
+      ],
+      "total_pass": 1,
+      "total_expectations": 5,
+      "score_pct": 20
+    },
+    {
+      "eval_id": 21,
+      "skill": "restrictive-covenant-advisor",
+      "model": "claude-haiku",
+      "model_label": "Claude 3 Haiku",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions s84 Law of Property Act 1925 as an option for modification/discharge",
+          "pass": true,
+          "reason": "Explicitly mentions s84(a) LPA 1925 for discharging obsolete covenants and Upper Tribunal applications"
+        },
+        {
+          "expectation": "Response mentions restrictive covenant indemnity insurance with approximate cost range",
+          "pass": true,
+          "reason": "States indemnity insurance costs \u00a350-\u00a3300 depending on risk assessment"
+        },
+        {
+          "expectation": "Response states that approaching the covenant beneficiary invalidates indemnity insurance",
+          "pass": true,
+          "reason": "Clearly states 'no approach must have been made to the beneficiary' and warns insurance becomes unavailable after contact"
+        },
+        {
+          "expectation": "Response assesses risk factors: age of covenant (60yr+), no enforcement history, minimal breach",
+          "pass": true,
+          "reason": "Addresses covenant from 1965 (58+ years), notes never enforced, and describes home office as low-risk 'technical' breach"
+        },
+        {
+          "expectation": "Response mentions Upper Tribunal as the forum for s84 applications",
+          "pass": true,
+          "reason": "Explicitly states 'Upper Tribunal application (s84 LPA 1925)' and references tribunal fees"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 21,
+      "skill": "restrictive-covenant-advisor",
+      "model": "claude-haiku",
+      "model_label": "Claude 3 Haiku",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions s84 Law of Property Act 1925 as an option for modification/discharge",
+          "pass": false,
+          "reason": "No mention of s84 LPA 1925 - only discusses deeds of variation/release and Land Registry applications"
+        },
+        {
+          "expectation": "Response mentions restrictive covenant indemnity insurance with approximate cost range",
+          "pass": true,
+          "reason": "Clearly mentions indemnity insurance with cost range of \u00a3150-\u00a3500"
+        },
+        {
+          "expectation": "Response states that approaching the covenant beneficiary invalidates indemnity insurance",
+          "pass": false,
+          "reason": "No mention that approaching beneficiary would invalidate indemnity insurance - treats them as separate options"
+        },
+        {
+          "expectation": "Response assesses risk factors: age of covenant (60yr+), no enforcement history, minimal breach",
+          "pass": false,
+          "reason": "Only mentions non-enforcement history, doesn't assess age (60+ years) or minimal nature of breach"
+        },
+        {
+          "expectation": "Response mentions Upper Tribunal as the forum for s84 applications",
+          "pass": false,
+          "reason": "No mention of Upper Tribunal - incorrectly suggests Land Registry for deed of release"
+        }
+      ],
+      "total_pass": 1,
+      "total_expectations": 5,
+      "score_pct": 20
+    },
+    {
+      "eval_id": 22,
+      "skill": "restrictive-covenant-advisor",
+      "model": "claude-haiku",
+      "model_label": "Claude 3 Haiku",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response notes the beneficiary's own extension as relevant to enforceability (acquiescence/waiver argument)",
+          "pass": true,
+          "reason": "Clearly identifies the beneficiary's 2015 extension as suggesting acquiescence/waiver and weakening their enforcement position"
+        },
+        {
+          "expectation": "Response discusses whether indemnity insurance is available and the 'no approach' prerequisite",
+          "pass": true,
+          "reason": "Mentions retrospective indemnity insurance and explicitly states the critical 'no approach' rule"
+        },
+        {
+          "expectation": "Response mentions s84 LPA 1925 ground (aa) \u2014 covenant impedes reasonable use of land",
+          "pass": true,
+          "reason": "Specifically references s84(1)(aa) and the ground that covenant impedes reasonable use"
+        },
+        {
+          "expectation": "Response distinguishes between a front/visible extension and rear extension in terms of risk",
+          "pass": true,
+          "reason": "Notes that proposed extension is to the rear and therefore 'less visible', showing awareness of visibility as a risk factor"
+        },
+        {
+          "expectation": "Response provides practical advice on sequencing: decide insurance vs release before any contact",
+          "pass": true,
+          "reason": "Advises insurance only available if beneficiary has not been approached, and structures advice around negotiation first, then tribunal, then insurance as fallback"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 22,
+      "skill": "restrictive-covenant-advisor",
+      "model": "claude-haiku",
+      "model_label": "Claude 3 Haiku",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response notes the beneficiary's own extension as relevant to enforceability (acquiescence/waiver argument)",
+          "pass": true,
+          "reason": "Response specifically mentions the beneficiary's 2015 extension and suggests it may indicate covenant abandonment/waiver and that covenant is no longer being actively enforced"
+        },
+        {
+          "expectation": "Response discusses whether indemnity insurance is available and the 'no approach' prerequisite",
+          "pass": false,
+          "reason": "No mention of indemnity insurance as an option or the requirement not to approach beneficiary first"
+        },
+        {
+          "expectation": "Response mentions s84 LPA 1925 ground (aa) \u2014 covenant impedes reasonable use of land",
+          "pass": false,
+          "reason": "References modification/discharge process generally but does not specifically mention s84 LPA 1925 or ground (aa)"
+        },
+        {
+          "expectation": "Response distinguishes between a front/visible extension and rear extension in terms of risk",
+          "pass": false,
+          "reason": "No distinction made between front and rear extensions in terms of covenant breach risk or visibility"
+        },
+        {
+          "expectation": "Response provides practical advice on sequencing: decide insurance vs release before any contact",
+          "pass": false,
+          "reason": "Suggests approaching beneficiary for negotiation but provides no guidance on sequencing decisions about insurance vs release strategy"
+        }
+      ],
+      "total_pass": 1,
+      "total_expectations": 5,
+      "score_pct": 20
     },
     {
       "eval_id": 11,
@@ -2918,6 +3806,450 @@
       "score_pct": 0
     },
     {
+      "eval_id": 17,
+      "skill": "aml-source-of-funds",
+      "model": "gpt-54-mini",
+      "model_label": "GPT-5.4 Mini",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response specifies 12 months bank statements for savings showing accumulation pattern",
+          "pass": true,
+          "reason": "Clearly states '12 months of bank/building society statements' and 'credible accumulation pattern over time'"
+        },
+        {
+          "expectation": "Response requires giftor's ID and giftor's bank statements (not just the buyer's)",
+          "pass": true,
+          "reason": "Explicitly requires 'Giftor's photographic ID' and 'Giftor's bank statements' showing 3-6 months"
+        },
+        {
+          "expectation": "Response requires a signed gift letter confirming no obligation to repay",
+          "pass": true,
+          "reason": "Specifically mentions 'Signed gift letter' confirming 'no obligation to repay'"
+        },
+        {
+          "expectation": "Response mentions risk-based approach (not tick-box compliance)",
+          "pass": true,
+          "reason": "Opens with 'Use a risk-based approach' and mentions documenting reasoning"
+        },
+        {
+          "expectation": "Response mentions record-keeping period of 5 years from end of transaction",
+          "pass": true,
+          "reason": "States 'retain all CDD/source-of-funds records for 5 years from the end of the business relationship'"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 17,
+      "skill": "aml-source-of-funds",
+      "model": "gpt-54-mini",
+      "model_label": "GPT-5.4 Mini",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response specifies 12 months bank statements for savings showing accumulation pattern",
+          "pass": false,
+          "reason": "Response mentions bank statements showing build-up but doesn't specify the 12 month period requirement"
+        },
+        {
+          "expectation": "Response requires giftor's ID and giftor's bank statements (not just the buyer's)",
+          "pass": true,
+          "reason": "Clearly states 'ID and AML checks on the parents/giftors' and 'Bank statement from the parents showing the funds leaving their account'"
+        },
+        {
+          "expectation": "Response requires a signed gift letter confirming no obligation to repay",
+          "pass": true,
+          "reason": "Explicitly mentions 'Gift letter / deed of gift' confirming 'it is not repayable' and 'not a loan'"
+        },
+        {
+          "expectation": "Response mentions risk-based approach (not tick-box compliance)",
+          "pass": true,
+          "reason": "References 'if your firm's risk assessment' requires certain checks, indicating risk-based approach rather than blanket requirements"
+        },
+        {
+          "expectation": "Response mentions record-keeping period of 5 years from end of transaction",
+          "pass": false,
+          "reason": "No mention of the 5-year record retention requirement under AML regulations"
+        }
+      ],
+      "total_pass": 3,
+      "total_expectations": 5,
+      "score_pct": 60
+    },
+    {
+      "eval_id": 18,
+      "skill": "aml-source-of-funds",
+      "model": "gpt-54-mini",
+      "model_label": "GPT-5.4 Mini",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response identifies this as requiring enhanced due diligence (EDD)",
+          "pass": true,
+          "reason": "Explicitly mentions EDD in section 6 and discusses when it's appropriate for overseas funds"
+        },
+        {
+          "expectation": "Response mentions source country risk assessment or FATF status",
+          "pass": true,
+          "reason": "Section 1 specifically covers country risk assessment including FATF high-risk jurisdictions"
+        },
+        {
+          "expectation": "Response requires SWIFT/wire transfer confirmations or equivalent transfer evidence",
+          "pass": true,
+          "reason": "Section 2 explicitly requires SWIFT message/wire confirmation with detailed requirements"
+        },
+        {
+          "expectation": "Response mentions currency conversion evidence",
+          "pass": true,
+          "reason": "Section 3 specifically covers currency conversion evidence including exchange rates and FX documentation"
+        },
+        {
+          "expectation": "Response mentions suspicious activity report (SAR) obligation if concerns arise",
+          "pass": true,
+          "reason": "Section 10 explicitly mentions SAR reporting to NCA and DAML procedures"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 18,
+      "skill": "aml-source-of-funds",
+      "model": "gpt-54-mini",
+      "model_label": "GPT-5.4 Mini",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response identifies this as requiring enhanced due diligence (EDD)",
+          "pass": true,
+          "reason": "Explicitly mentions EDD requirements and when to apply them in section 9"
+        },
+        {
+          "expectation": "Response mentions source country risk assessment or FATF status",
+          "pass": false,
+          "reason": "While it mentions reviewing high-risk sectors/jurisdictions, it doesn't specifically address FATF status or formal country risk assessment"
+        },
+        {
+          "expectation": "Response requires SWIFT/wire transfer confirmations or equivalent transfer evidence",
+          "pass": true,
+          "reason": "Section 3 requires bank statements showing transfers and evidence of transfer from original source account"
+        },
+        {
+          "expectation": "Response mentions currency conversion evidence",
+          "pass": true,
+          "reason": "Section 7 specifically addresses currency exchange issues and asks whether currency conversion occurred"
+        },
+        {
+          "expectation": "Response mentions suspicious activity report (SAR) obligation if concerns arise",
+          "pass": true,
+          "reason": "Final section explicitly mentions considering whether a SAR is required if things don't add up"
+        }
+      ],
+      "total_pass": 4,
+      "total_expectations": 5,
+      "score_pct": 80
+    },
+    {
+      "eval_id": 19,
+      "skill": "building-regulations",
+      "model": "gpt-54-mini",
+      "model_label": "GPT-5.4 Mini",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions regularisation as an option (retrospective local authority approval)",
+          "pass": true,
+          "reason": "Clearly explains regularisation as preferred route with local authority retrospective approval"
+        },
+        {
+          "expectation": "Response mentions indemnity insurance as an alternative",
+          "pass": true,
+          "reason": "Explicitly presents indemnity insurance as remedy option 2"
+        },
+        {
+          "expectation": "Response states indemnity insurance must be obtained BEFORE any approach to the local authority",
+          "pass": true,
+          "reason": "Clearly states the 'before-any-approach rule' and emphasizes not to contact building control yet"
+        },
+        {
+          "expectation": "Response mentions Part B (fire safety) as a key concern for loft conversions",
+          "pass": true,
+          "reason": "Specifically identifies Part B fire safety as key concern that lenders treat most strictly"
+        },
+        {
+          "expectation": "Response provides approximate costs for at least one option (regularisation \u00a3400-800 or insurance \u00a350-200)",
+          "pass": true,
+          "reason": "Provides costs for both options: regularisation \u00a3400-800 and insurance \u00a350-200"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 19,
+      "skill": "building-regulations",
+      "model": "gpt-54-mini",
+      "model_label": "GPT-5.4 Mini",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions regularisation as an option (retrospective local authority approval)",
+          "pass": true,
+          "reason": "Clearly explains regularisation process including application, fees, and inspections"
+        },
+        {
+          "expectation": "Response mentions indemnity insurance as an alternative",
+          "pass": true,
+          "reason": "Discusses Building Regulations indemnity policy as an option with detailed explanation"
+        },
+        {
+          "expectation": "Response states indemnity insurance must be obtained BEFORE any approach to the local authority",
+          "pass": true,
+          "reason": "States 'It usually becomes unavailable if the council is contacted about the issue'"
+        },
+        {
+          "expectation": "Response mentions Part B (fire safety) as a key concern for loft conversions",
+          "pass": false,
+          "reason": "Mentions fire safety measures and fire doors generally but does not specifically reference Part B Building Regulations"
+        },
+        {
+          "expectation": "Response provides approximate costs for at least one option (regularisation \u00a3400-800 or insurance \u00a350-200)",
+          "pass": false,
+          "reason": "No specific cost figures provided for either regularisation or indemnity insurance"
+        }
+      ],
+      "total_pass": 3,
+      "total_expectations": 5,
+      "score_pct": 60
+    },
+    {
+      "eval_id": 20,
+      "skill": "building-regulations",
+      "model": "gpt-54-mini",
+      "model_label": "GPT-5.4 Mini",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions checking competentperson.co.uk to verify if installer was registered",
+          "pass": true,
+          "reason": "Explicitly mentions checking competentperson.co.uk for installer details"
+        },
+        {
+          "expectation": "Response mentions FENSA specifically as the relevant competent person scheme for windows",
+          "pass": true,
+          "reason": "Clearly identifies FENSA as the relevant scheme for replacement windows/doors"
+        },
+        {
+          "expectation": "Response distinguishes between self-certification (competent person) and local authority routes",
+          "pass": true,
+          "reason": "Clearly distinguishes between competent person self-certification route and building control/regularisation route"
+        },
+        {
+          "expectation": "Response warns about the 'no approach' rule before pursuing indemnity insurance",
+          "pass": true,
+          "reason": "Explicitly warns not to contact local authority before deciding strategy as it makes indemnity insurance unavailable"
+        },
+        {
+          "expectation": "Response mentions Part L (energy efficiency/insulation) as relevant regulation for windows",
+          "pass": true,
+          "reason": "Specifically mentions replacement windows are usually covered by Part L"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 20,
+      "skill": "building-regulations",
+      "model": "gpt-54-mini",
+      "model_label": "GPT-5.4 Mini",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions checking competentperson.co.uk to verify if installer was registered",
+          "pass": false,
+          "reason": "Does not mention competentperson.co.uk specifically as a verification resource"
+        },
+        {
+          "expectation": "Response mentions FENSA specifically as the relevant competent person scheme for windows",
+          "pass": true,
+          "reason": "FENSA is mentioned multiple times as the relevant scheme for windows"
+        },
+        {
+          "expectation": "Response distinguishes between self-certification (competent person) and local authority routes",
+          "pass": true,
+          "reason": "Clearly distinguishes between FENSA/CERTASS self-certification and Building Control notification/approval routes"
+        },
+        {
+          "expectation": "Response warns about the 'no approach' rule before pursuing indemnity insurance",
+          "pass": true,
+          "reason": "Explicitly warns that contacting Building Control may invalidate indemnity insurance availability"
+        },
+        {
+          "expectation": "Response mentions Part L (energy efficiency/insulation) as relevant regulation for windows",
+          "pass": false,
+          "reason": "Does not mention Part L or energy efficiency regulations specifically"
+        }
+      ],
+      "total_pass": 3,
+      "total_expectations": 5,
+      "score_pct": 60
+    },
+    {
+      "eval_id": 21,
+      "skill": "restrictive-covenant-advisor",
+      "model": "gpt-54-mini",
+      "model_label": "GPT-5.4 Mini",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions s84 Law of Property Act 1925 as an option for modification/discharge",
+          "pass": true,
+          "reason": "Clearly mentions s84 LPA 1925 with specific grounds (aa), (a), and (c)"
+        },
+        {
+          "expectation": "Response mentions restrictive covenant indemnity insurance with approximate cost range",
+          "pass": true,
+          "reason": "States typical cost \u00a350-300 and notes low-risk cases at lower end"
+        },
+        {
+          "expectation": "Response states that approaching the covenant beneficiary invalidates indemnity insurance",
+          "pass": true,
+          "reason": "Explicitly warns about 'no approach rule' and states insurance unavailable if beneficiary contacted"
+        },
+        {
+          "expectation": "Response assesses risk factors: age of covenant (60yr+), no enforcement history, minimal breach",
+          "pass": true,
+          "reason": "Identifies 1965 covenant (58+ years), never enforced, and assesses minimal/invisible breach"
+        },
+        {
+          "expectation": "Response mentions Upper Tribunal as the forum for s84 applications",
+          "pass": true,
+          "reason": "Specifically mentions Upper Tribunal (Lands Chamber) as forum for s84 applications"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 21,
+      "skill": "restrictive-covenant-advisor",
+      "model": "gpt-54-mini",
+      "model_label": "GPT-5.4 Mini",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions s84 Law of Property Act 1925 as an option for modification/discharge",
+          "pass": true,
+          "reason": "Explicitly mentions section 84 Law of Property Act 1925 and explains grounds for discharge/modification"
+        },
+        {
+          "expectation": "Response mentions restrictive covenant indemnity insurance with approximate cost range",
+          "pass": true,
+          "reason": "Provides detailed cost ranges: \u00a3100-\u00a3300 for straightforward cases, \u00a3300-\u00a3600 for higher risk, \u00a3150-\u00a3400 for business use specifically"
+        },
+        {
+          "expectation": "Response states that approaching the covenant beneficiary invalidates indemnity insurance",
+          "pass": true,
+          "reason": "Clearly states 'You usually must not contact the person with the benefit of the covenant before taking out indemnity insurance' and explains why"
+        },
+        {
+          "expectation": "Response assesses risk factors: age of covenant (60yr+), no enforcement history, minimal breach",
+          "pass": true,
+          "reason": "Addresses all factors: discusses 1965 covenant age, explains non-enforcement limitations, and analyzes minimal nature of home office use"
+        },
+        {
+          "expectation": "Response mentions Upper Tribunal as the forum for s84 applications",
+          "pass": true,
+          "reason": "Specifically identifies 'Upper Tribunal (Lands Chamber)' as the correct forum for section 84 applications"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 22,
+      "skill": "restrictive-covenant-advisor",
+      "model": "gpt-54-mini",
+      "model_label": "GPT-5.4 Mini",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response notes the beneficiary's own extension as relevant to enforceability (acquiescence/waiver argument)",
+          "pass": true,
+          "reason": "Clearly discusses the 2015 extension as supporting an acquiescence/waiver argument and weakening enforcement position"
+        },
+        {
+          "expectation": "Response discusses whether indemnity insurance is available and the 'no approach' prerequisite",
+          "pass": true,
+          "reason": "Explicitly covers the 'no approach' rule and states indemnity insurance is off the table if beneficiary has been contacted"
+        },
+        {
+          "expectation": "Response mentions s84 LPA 1925 ground (aa) \u2014 covenant impedes reasonable use of land",
+          "pass": true,
+          "reason": "Specifically mentions s84(aa) ground that covenant impedes reasonable use and secures no practical benefit"
+        },
+        {
+          "expectation": "Response distinguishes between a front/visible extension and rear extension in terms of risk",
+          "pass": true,
+          "reason": "States rear extension is lower risk than front-facing alteration because it's less visible and less likely to prompt enforcement"
+        },
+        {
+          "expectation": "Response provides practical advice on sequencing: decide insurance vs release before any contact",
+          "pass": true,
+          "reason": "Provides clear sequencing advice including not approaching beneficiary if insurance is being considered and obtaining insurance quotes first"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 22,
+      "skill": "restrictive-covenant-advisor",
+      "model": "gpt-54-mini",
+      "model_label": "GPT-5.4 Mini",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response notes the beneficiary's own extension as relevant to enforceability (acquiescence/waiver argument)",
+          "pass": true,
+          "reason": "Clearly discusses waiver, abandonment, and acquiescence arguments based on the beneficiary's 2015 extension"
+        },
+        {
+          "expectation": "Response discusses whether indemnity insurance is available and the 'no approach' prerequisite",
+          "pass": true,
+          "reason": "Explicitly mentions indemnity insurance and the key 'no approach' rule in section 6"
+        },
+        {
+          "expectation": "Response mentions s84 LPA 1925 ground (aa) \u2014 covenant impedes reasonable use of land",
+          "pass": true,
+          "reason": "Discusses s84 LPA 1925 application and mentions ground that covenant 'impedes some reasonable use of the land'"
+        },
+        {
+          "expectation": "Response distinguishes between a front/visible extension and rear extension in terms of risk",
+          "pass": false,
+          "reason": "No distinction made between front/visible vs rear extensions in terms of risk assessment"
+        },
+        {
+          "expectation": "Response provides practical advice on sequencing: decide insurance vs release before any contact",
+          "pass": true,
+          "reason": "Clearly advises on sequencing - mentions seeking release/consent first, and notes insurance only available if no approach made"
+        }
+      ],
+      "total_pass": 4,
+      "total_expectations": 5,
+      "score_pct": 80
+    },
+    {
       "eval_id": 11,
       "skill": "sdlt-calculator",
       "model": "gpt-52",
@@ -3890,6 +5222,450 @@
       "score_pct": 0
     },
     {
+      "eval_id": 17,
+      "skill": "aml-source-of-funds",
+      "model": "gpt-52",
+      "model_label": "GPT-5.2",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response specifies 12 months bank statements for savings showing accumulation pattern",
+          "pass": true,
+          "reason": "Explicitly states '12 months' bank/building society statements' and specifically mentions 'showing accumulation pattern, not just a snapshot'"
+        },
+        {
+          "expectation": "Response requires giftor's ID and giftor's bank statements (not just the buyer's)",
+          "pass": true,
+          "reason": "Clearly requires 'Giftor ID (each parent contributing)' and 'Giftor bank statements' with 3-6 months statements from each parent's accounts"
+        },
+        {
+          "expectation": "Response requires a signed gift letter confirming no obligation to repay",
+          "pass": true,
+          "reason": "Explicitly requires 'Signed gift letter' that 'Must expressly confirm: No obligation to repay (i.e., not a loan)'"
+        },
+        {
+          "expectation": "Response mentions risk-based approach (not tick-box compliance)",
+          "pass": true,
+          "reason": "Opens with emphasis on 'risk-based (not tick-box)' approach and uses risk-based language throughout"
+        },
+        {
+          "expectation": "Response mentions record-keeping period of 5 years from end of transaction",
+          "pass": true,
+          "reason": "Explicitly states 'retain CDD/SoF/SoW and supporting records for 5 years from the end of the business relationship/transaction'"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 17,
+      "skill": "aml-source-of-funds",
+      "model": "gpt-52",
+      "model_label": "GPT-5.2",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response specifies 12 months bank statements for savings showing accumulation pattern",
+          "pass": false,
+          "reason": "Response states 3-6 months baseline, not 12 months, and doesn't specifically require accumulation pattern evidence"
+        },
+        {
+          "expectation": "Response requires giftor's ID and giftor's bank statements (not just the buyer's)",
+          "pass": true,
+          "reason": "Clearly states need for donor CDD (photo ID + proof of address) and donor bank statements showing funds and transfer"
+        },
+        {
+          "expectation": "Response requires a signed gift letter confirming no obligation to repay",
+          "pass": true,
+          "reason": "Explicitly requires signed gift letter confirming 'no repayment is expected/required' and 'unconditional gift'"
+        },
+        {
+          "expectation": "Response mentions risk-based approach (not tick-box compliance)",
+          "pass": true,
+          "reason": "Opens by referencing 'risk-based approach' and emphasizes going further back on statements 'if risk indicates'"
+        },
+        {
+          "expectation": "Response mentions record-keeping period of 5 years from end of transaction",
+          "pass": false,
+          "reason": "Mentions 'record keeping' and maintaining copies but does not specify the 5-year retention period requirement"
+        }
+      ],
+      "total_pass": 3,
+      "total_expectations": 5,
+      "score_pct": 60
+    },
+    {
+      "eval_id": 18,
+      "skill": "aml-source-of-funds",
+      "model": "gpt-52",
+      "model_label": "GPT-5.2",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response identifies this as requiring enhanced due diligence (EDD)",
+          "pass": true,
+          "reason": "Explicitly mentions EDD multiple times and treats Dubai funds as higher-risk requiring enhanced checks"
+        },
+        {
+          "expectation": "Response mentions source country risk assessment or FATF status",
+          "pass": true,
+          "reason": "Section 1 specifically covers FATF position assessment for UAE and general country risk factors"
+        },
+        {
+          "expectation": "Response requires SWIFT/wire transfer confirmations or equivalent transfer evidence",
+          "pass": true,
+          "reason": "Section 2 mandatorily requires SWIFT MT103/wire transfer confirmation with detailed specifications"
+        },
+        {
+          "expectation": "Response mentions currency conversion evidence",
+          "pass": true,
+          "reason": "Section 3 specifically covers AED to GBP conversion evidence requirements including FX contract notes"
+        },
+        {
+          "expectation": "Response mentions suspicious activity report (SAR) obligation if concerns arise",
+          "pass": true,
+          "reason": "Section 9 comprehensively covers SAR/DAML reporting framework and obligations"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 18,
+      "skill": "aml-source-of-funds",
+      "model": "gpt-52",
+      "model_label": "GPT-5.2",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response identifies this as requiring enhanced due diligence (EDD)",
+          "pass": true,
+          "reason": "Explicitly mentions EDD and provides detailed triggers and measures for when it applies"
+        },
+        {
+          "expectation": "Response mentions source country risk assessment or FATF status",
+          "pass": true,
+          "reason": "Section 1 explicitly requires country/transaction risk assessment and mentions UAE's status relative to UK high-risk third country list"
+        },
+        {
+          "expectation": "Response requires SWIFT/wire transfer confirmations or equivalent transfer evidence",
+          "pass": true,
+          "reason": "Section 6 covers verifying remitting bank and payment route, though could be more explicit about SWIFT confirmations"
+        },
+        {
+          "expectation": "Response mentions currency conversion evidence",
+          "pass": true,
+          "reason": "Section 5 specifically mentions obtaining FX contract/receipt and evidence of debit/credit for currency exchange"
+        },
+        {
+          "expectation": "Response mentions suspicious activity report (SAR) obligation if concerns arise",
+          "pass": true,
+          "reason": "Section 11 explicitly states to consider whether SAR is required if adequate evidence cannot be obtained"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 19,
+      "skill": "building-regulations",
+      "model": "gpt-52",
+      "model_label": "GPT-5.2",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions regularisation as an option (retrospective local authority approval)",
+          "pass": true,
+          "reason": "Clearly describes regularisation as 'retrospective Building Regulations sign-off' under Option A"
+        },
+        {
+          "expectation": "Response mentions indemnity insurance as an alternative",
+          "pass": true,
+          "reason": "Extensively covers indemnity insurance as Option B with detailed pros/cons"
+        },
+        {
+          "expectation": "Response states indemnity insurance must be obtained BEFORE any approach to the local authority",
+          "pass": true,
+          "reason": "Explicitly states in bold that contacting LA makes 'indemnity insurance unavailable' and must decide strategy before approach"
+        },
+        {
+          "expectation": "Response mentions Part B (fire safety) as a key concern for loft conversions",
+          "pass": true,
+          "reason": "Prominently mentions Part B fire safety multiple times, including in opening paragraph and detailed requirements"
+        },
+        {
+          "expectation": "Response provides approximate costs for at least one option (regularisation \u00a3400-800 or insurance \u00a350-200)",
+          "pass": true,
+          "reason": "Provides costs for both options: regularisation \u00a3400-800 and indemnity insurance \u00a350-200"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 19,
+      "skill": "building-regulations",
+      "model": "gpt-52",
+      "model_label": "GPT-5.2",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions regularisation as an option (retrospective local authority approval)",
+          "pass": true,
+          "reason": "Clearly explains regularisation certificates under Option 1 with detailed process"
+        },
+        {
+          "expectation": "Response mentions indemnity insurance as an alternative",
+          "pass": true,
+          "reason": "Dedicates entire Option 3 section to indemnity insurance with detailed explanation"
+        },
+        {
+          "expectation": "Response states indemnity insurance must be obtained BEFORE any approach to the local authority",
+          "pass": true,
+          "reason": "Explicitly states policies become invalid if you approach LA before policy is in place"
+        },
+        {
+          "expectation": "Response mentions Part B (fire safety) as a key concern for loft conversions",
+          "pass": true,
+          "reason": "Lists fire safety elements including protected stair route, FD30 doors, smoke alarms, escape windows"
+        },
+        {
+          "expectation": "Response provides approximate costs for at least one option (regularisation \u00a3400-800 or insurance \u00a350-200)",
+          "pass": false,
+          "reason": "No specific cost figures provided for any options"
+        }
+      ],
+      "total_pass": 4,
+      "total_expectations": 5,
+      "score_pct": 80
+    },
+    {
+      "eval_id": 20,
+      "skill": "building-regulations",
+      "model": "gpt-52",
+      "model_label": "GPT-5.2",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions checking competentperson.co.uk to verify if installer was registered",
+          "pass": true,
+          "reason": "Explicitly mentions searching via https://www.competentperson.co.uk to locate certificates or identify the scheme/provider"
+        },
+        {
+          "expectation": "Response mentions FENSA specifically as the relevant competent person scheme for windows",
+          "pass": true,
+          "reason": "Clearly identifies FENSA as a key scheme for windows and mentions requesting FENSA certificates"
+        },
+        {
+          "expectation": "Response distinguishes between self-certification (competent person) and local authority routes",
+          "pass": true,
+          "reason": "Clearly distinguishes between self-certification under competent person schemes vs regularisation through Building Control"
+        },
+        {
+          "expectation": "Response warns about the 'no approach' rule before pursuing indemnity insurance",
+          "pass": true,
+          "reason": "Explicitly warns not to contact local authority first as it makes indemnity insurance unavailable, and emphasizes this rule multiple times"
+        },
+        {
+          "expectation": "Response mentions Part L (energy efficiency/insulation) as relevant regulation for windows",
+          "pass": true,
+          "reason": "Specifically mentions Part L \u2013 conservation of fuel/energy efficiency/thermal performance as the relevant regulation"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 20,
+      "skill": "building-regulations",
+      "model": "gpt-52",
+      "model_label": "GPT-5.2",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions checking competentperson.co.uk to verify if installer was registered",
+          "pass": false,
+          "reason": "Response suggests searching FENSA/CERTASS by postcode but doesn't mention the official competentperson.co.uk registry"
+        },
+        {
+          "expectation": "Response mentions FENSA specifically as the relevant competent person scheme for windows",
+          "pass": true,
+          "reason": "FENSA is mentioned multiple times as the primary competent person scheme for windows"
+        },
+        {
+          "expectation": "Response distinguishes between self-certification (competent person) and local authority routes",
+          "pass": true,
+          "reason": "Clearly distinguishes between FENSA/CERTASS certificates (competent person) and LABC completion certificates/regularisation"
+        },
+        {
+          "expectation": "Response warns about the 'no approach' rule before pursuing indemnity insurance",
+          "pass": true,
+          "reason": "Explicitly states indemnity is invalidated if local authority has been contacted and warns against approaching council"
+        },
+        {
+          "expectation": "Response mentions Part L (energy efficiency/insulation) as relevant regulation for windows",
+          "pass": false,
+          "reason": "Mentions 'thermal performance' briefly but doesn't specifically reference Part L of Building Regulations"
+        }
+      ],
+      "total_pass": 3,
+      "total_expectations": 5,
+      "score_pct": 60
+    },
+    {
+      "eval_id": 21,
+      "skill": "restrictive-covenant-advisor",
+      "model": "gpt-52",
+      "model_label": "GPT-5.2",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions s84 Law of Property Act 1925 as an option for modification/discharge",
+          "pass": true,
+          "reason": "Explicitly mentions s84 Law of Property Act 1925 with detailed grounds (s84(1)(a), (aa), (b), (c))"
+        },
+        {
+          "expectation": "Response mentions restrictive covenant indemnity insurance with approximate cost range",
+          "pass": true,
+          "reason": "States typical cost of \u00a350-\u00a3300 one-off premium, commonly towards lower end for home working scenarios"
+        },
+        {
+          "expectation": "Response states that approaching the covenant beneficiary invalidates indemnity insurance",
+          "pass": true,
+          "reason": "Clearly states 'no approach' rule and that contacting beneficiary makes indemnity insurance 'usually unavailable'"
+        },
+        {
+          "expectation": "Response assesses risk factors: age of covenant (60yr+), no enforcement history, minimal breach",
+          "pass": true,
+          "reason": "Addresses 1965 covenant age, notes 'no prior enforcement over many years' and discusses low-risk nature of minimal home office use"
+        },
+        {
+          "expectation": "Response mentions Upper Tribunal as the forum for s84 applications",
+          "pass": true,
+          "reason": "Explicitly states 'Application is to the Upper Tribunal (Lands Chamber) (not the county court)'"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 21,
+      "skill": "restrictive-covenant-advisor",
+      "model": "gpt-52",
+      "model_label": "GPT-5.2",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions s84 Law of Property Act 1925 as an option for modification/discharge",
+          "pass": true,
+          "reason": "Clearly mentions s.84 LPA 1925 application to Upper Tribunal with specific grounds"
+        },
+        {
+          "expectation": "Response mentions restrictive covenant indemnity insurance with approximate cost range",
+          "pass": true,
+          "reason": "Detailed cost analysis provided: \u00a350-\u00a3250 low risk, \u00a3200-\u00a3750 higher risk, \u00a3750-\u00a32,000+ very high value"
+        },
+        {
+          "expectation": "Response states that approaching the covenant beneficiary invalidates indemnity insurance",
+          "pass": true,
+          "reason": "Explicitly states 'If you contact beneficiaries for consent, you can invalidate the ability to insure' and 'once you start asking, indemnity insurance usually becomes unavailable'"
+        },
+        {
+          "expectation": "Response assesses risk factors: age of covenant (60yr+), no enforcement history, minimal breach",
+          "pass": true,
+          "reason": "Addresses 1965 covenant age, discusses 'never enforced' significance, and analyzes minimal home office breach risk"
+        },
+        {
+          "expectation": "Response mentions Upper Tribunal as the forum for s84 applications",
+          "pass": true,
+          "reason": "Specifically identifies 'Upper Tribunal (Lands Chamber) under s.84 LPA 1925'"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 22,
+      "skill": "restrictive-covenant-advisor",
+      "model": "gpt-52",
+      "model_label": "GPT-5.2",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response notes the beneficiary's own extension as relevant to enforceability (acquiescence/waiver argument)",
+          "pass": true,
+          "reason": "Clearly discusses the 2015 extension as supporting acquiescence/waiver arguments and deterring enforcement"
+        },
+        {
+          "expectation": "Response discusses whether indemnity insurance is available and the 'no approach' prerequisite",
+          "pass": true,
+          "reason": "Extensively covers the 'no approach' rule as critical for indemnity insurance availability"
+        },
+        {
+          "expectation": "Response mentions s84 LPA 1925 ground (aa) \u2014 covenant impedes reasonable use of land",
+          "pass": true,
+          "reason": "Specifically mentions s84(1)(aa) 'impedes reasonable use' as a potential ground"
+        },
+        {
+          "expectation": "Response distinguishes between a front/visible extension and rear extension in terms of risk",
+          "pass": true,
+          "reason": "Clear distinction made between rear extension (lower risk, less visible) vs front-facing changes (higher risk)"
+        },
+        {
+          "expectation": "Response provides practical advice on sequencing: decide insurance vs release before any contact",
+          "pass": true,
+          "reason": "Explicitly advises deciding on insurance vs release strategy before making contact, noting that approach kills insurance option"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 22,
+      "skill": "restrictive-covenant-advisor",
+      "model": "gpt-52",
+      "model_label": "GPT-5.2",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response notes the beneficiary's own extension as relevant to enforceability (acquiescence/waiver argument)",
+          "pass": true,
+          "reason": "Response explicitly discusses acquiescence/waiver/estoppel arguments arising from the neighbour's 2015 extension and how this can weaken their enforcement position"
+        },
+        {
+          "expectation": "Response discusses whether indemnity insurance is available and the 'no approach' prerequisite",
+          "pass": true,
+          "reason": "Response dedicates a full section to indemnity insurance, clearly stating the 'no prior contact with beneficiaries' requirement and explaining when it's available"
+        },
+        {
+          "expectation": "Response mentions s84 LPA 1925 ground (aa) \u2014 covenant impedes reasonable use of land",
+          "pass": true,
+          "reason": "Response explicitly mentions s.84(1)(aa) LPA 1925 ground regarding covenant impeding reasonable use where it secures no practical benefits of substantial value"
+        },
+        {
+          "expectation": "Response distinguishes between a front/visible extension and rear extension in terms of risk",
+          "pass": false,
+          "reason": "While the response mentions that a rear extension can be caught even if 'not visible from the road', it doesn't meaningfully distinguish risk levels between front/visible vs rear extensions"
+        },
+        {
+          "expectation": "Response provides practical advice on sequencing: decide insurance vs release before any contact",
+          "pass": true,
+          "reason": "Response clearly advises to 'decide strategy before any contact' and warns against contacting beneficiaries before considering insurance, as it can make insurance 'unobtainable'"
+        }
+      ],
+      "total_pass": 4,
+      "total_expectations": 5,
+      "score_pct": 80
+    },
+    {
       "eval_id": 11,
       "skill": "sdlt-calculator",
       "model": "gemini-3-flash",
@@ -4818,6 +6594,450 @@
           "expectation": "Response cites Part 2 as the source (not general knowledge)",
           "pass": false,
           "reason": "Cites UK Finance Mortgage Lenders' Handbook Section 5.14.1, not Part 2 specifically"
+        }
+      ],
+      "total_pass": 4,
+      "total_expectations": 5,
+      "score_pct": 80
+    },
+    {
+      "eval_id": 17,
+      "skill": "aml-source-of-funds",
+      "model": "gemini-3-flash",
+      "model_label": "Gemini 3 Flash",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response specifies 12 months bank statements for savings showing accumulation pattern",
+          "pass": true,
+          "reason": "Explicitly states '12 months of bank/building society statements' and emphasizes seeing 'accumulation pattern, not just a closing balance'"
+        },
+        {
+          "expectation": "Response requires giftor's ID and giftor's bank statements (not just the buyer's)",
+          "pass": true,
+          "reason": "Clearly specifies 'Giftors' Photographic ID' and 'Giftors' Bank Statements' as separate requirements from buyer checks"
+        },
+        {
+          "expectation": "Response requires a signed gift letter confirming no obligation to repay",
+          "pass": true,
+          "reason": "States 'Signed Gift Letter' requirement and specifically lists 'No obligation to repay (it is not a disguised loan)' as mandatory content"
+        },
+        {
+          "expectation": "Response mentions risk-based approach (not tick-box compliance)",
+          "pass": true,
+          "reason": "Opens with emphasis on 'risk-based approach rather than a tick-box exercise' and includes proportionate risk assessment section"
+        },
+        {
+          "expectation": "Response mentions record-keeping period of 5 years from end of transaction",
+          "pass": true,
+          "reason": "Explicitly states '5 years from the end of the business relationship or the date of the transaction' under Record-Keeping section"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 17,
+      "skill": "aml-source-of-funds",
+      "model": "gemini-3-flash",
+      "model_label": "Gemini 3 Flash",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response specifies 12 months bank statements for savings showing accumulation pattern",
+          "pass": false,
+          "reason": "Response only specifies 6 months of bank statements, not 12 months"
+        },
+        {
+          "expectation": "Response requires giftor's ID and giftor's bank statements (not just the buyer's)",
+          "pass": true,
+          "reason": "Clearly requires full AML ID checks on both parents and their bank statements showing the \u00a3100,000"
+        },
+        {
+          "expectation": "Response requires a signed gift letter confirming no obligation to repay",
+          "pass": true,
+          "reason": "Explicitly requires signed gift letter confirming it is unconditional with no repayment required"
+        },
+        {
+          "expectation": "Response mentions risk-based approach (not tick-box compliance)",
+          "pass": true,
+          "reason": "Opens by stating must adopt a risk-based approach and discusses risk assessment throughout"
+        },
+        {
+          "expectation": "Response mentions record-keeping period of 5 years from end of transaction",
+          "pass": false,
+          "reason": "No mention of 5-year record-keeping requirement anywhere in the response"
+        }
+      ],
+      "total_pass": 3,
+      "total_expectations": 5,
+      "score_pct": 60
+    },
+    {
+      "eval_id": 18,
+      "skill": "aml-source-of-funds",
+      "model": "gemini-3-flash",
+      "model_label": "Gemini 3 Flash",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response identifies this as requiring enhanced due diligence (EDD)",
+          "pass": true,
+          "reason": "Clearly states 'Enhanced Due Diligence (EDD) is the default standard' for overseas funds"
+        },
+        {
+          "expectation": "Response mentions source country risk assessment or FATF status",
+          "pass": true,
+          "reason": "Explicitly requires 'Source Country Risk Assessment (FATF)' and discusses UAE's FATF grey list status"
+        },
+        {
+          "expectation": "Response requires SWIFT/wire transfer confirmations or equivalent transfer evidence",
+          "pass": true,
+          "reason": "Specifically requires 'full SWIFT MT103 message or wire transfer confirmation' with detailed requirements"
+        },
+        {
+          "expectation": "Response mentions currency conversion evidence",
+          "pass": true,
+          "reason": "Explicitly requires 'Currency Conversion Evidence' including FX contract note showing AED to GBP conversion"
+        },
+        {
+          "expectation": "Response mentions suspicious activity report (SAR) obligation if concerns arise",
+          "pass": true,
+          "reason": "Clearly explains SAR reporting obligations to NCA and includes DAML process details"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 18,
+      "skill": "aml-source-of-funds",
+      "model": "gemini-3-flash",
+      "model_label": "Gemini 3 Flash",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response identifies this as requiring enhanced due diligence (EDD)",
+          "pass": true,
+          "reason": "Clearly identifies EDD requirement under Regulation 33 of MLR 2017 and explains why Dubai triggers this"
+        },
+        {
+          "expectation": "Response mentions source country risk assessment or FATF status",
+          "pass": true,
+          "reason": "Explicitly mentions UAE's removal from FATF Grey List in February 2024 and explains why many firms still consider it high risk"
+        },
+        {
+          "expectation": "Response requires SWIFT/wire transfer confirmations or equivalent transfer evidence",
+          "pass": true,
+          "reason": "Specifically mentions MT103 document requirement and includes it in the summary checklist"
+        },
+        {
+          "expectation": "Response mentions currency conversion evidence",
+          "pass": true,
+          "reason": "Addresses currency exchange houses and requires verification they are UAE Central Bank regulated"
+        },
+        {
+          "expectation": "Response mentions suspicious activity report (SAR) obligation if concerns arise",
+          "pass": true,
+          "reason": "Explicitly mentions SAR filing obligation to NCA when client is evasive and discusses Required Terms"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 19,
+      "skill": "building-regulations",
+      "model": "gemini-3-flash",
+      "model_label": "Gemini 3 Flash",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions regularisation as an option (retrospective local authority approval)",
+          "pass": true,
+          "reason": "Clearly describes regularisation under 'Option A' including process and definition as retrospective approval"
+        },
+        {
+          "expectation": "Response mentions indemnity insurance as an alternative",
+          "pass": true,
+          "reason": "Presents Building Regulations Indemnity Insurance as 'Option B' alternative to regularisation"
+        },
+        {
+          "expectation": "Response states indemnity insurance must be obtained BEFORE any approach to the local authority",
+          "pass": true,
+          "reason": "Explicitly states the 'Before Any Approach' principle and that contacting LA makes indemnity permanently unavailable"
+        },
+        {
+          "expectation": "Response mentions Part B (fire safety) as a key concern for loft conversions",
+          "pass": true,
+          "reason": "Identifies Part B fire safety as 'critical concern' and dedicates entire section to explaining fire safety requirements"
+        },
+        {
+          "expectation": "Response provides approximate costs for at least one option (regularisation \u00a3400-800 or insurance \u00a350-200)",
+          "pass": true,
+          "reason": "Provides costs for both options: regularisation \u00a3400-800 and indemnity insurance \u00a350-200"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 19,
+      "skill": "building-regulations",
+      "model": "gemini-3-flash",
+      "model_label": "Gemini 3 Flash",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions regularisation as an option (retrospective local authority approval)",
+          "pass": true,
+          "reason": "Clearly mentions 'Regularisation Certificate' as Option 2 with detailed explanation of retrospective local authority approval process"
+        },
+        {
+          "expectation": "Response mentions indemnity insurance as an alternative",
+          "pass": true,
+          "reason": "Mentions 'Building Regulations Indemnity Insurance' as Option 1 with comprehensive explanation"
+        },
+        {
+          "expectation": "Response states indemnity insurance must be obtained BEFORE any approach to the local authority",
+          "pass": true,
+          "reason": "Explicitly states the policy becomes 'void if the buyer contacts the council to ask about the conversion'"
+        },
+        {
+          "expectation": "Response mentions Part B (fire safety) as a key concern for loft conversions",
+          "pass": true,
+          "reason": "Discusses fire safety requirements including fire doors, interlinked smoke alarms, and protected escape routes"
+        },
+        {
+          "expectation": "Response provides approximate costs for at least one option (regularisation \u00a3400-800 or insurance \u00a350-200)",
+          "pass": true,
+          "reason": "States indemnity insurance costs 'usually \u00a3200\u2013\u00a3500'"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 20,
+      "skill": "building-regulations",
+      "model": "gemini-3-flash",
+      "model_label": "Gemini 3 Flash",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions checking competentperson.co.uk to verify if installer was registered",
+          "pass": true,
+          "reason": "Explicitly mentions searching competentperson.co.uk website to check for self-certification"
+        },
+        {
+          "expectation": "Response mentions FENSA specifically as the relevant competent person scheme for windows",
+          "pass": true,
+          "reason": "Clearly identifies FENSA as one of the most common schemes for windows alongside CERTASS"
+        },
+        {
+          "expectation": "Response distinguishes between self-certification (competent person) and local authority routes",
+          "pass": true,
+          "reason": "Clearly distinguishes between self-certification via competent person schemes and regularisation through local authority"
+        },
+        {
+          "expectation": "Response warns about the 'no approach' rule before pursuing indemnity insurance",
+          "pass": true,
+          "reason": "Explicitly states 'Do not contact the local authority building control department' and explains indemnity insurance becomes unavailable if council is notified"
+        },
+        {
+          "expectation": "Response mentions Part L (energy efficiency/insulation) as relevant regulation for windows",
+          "pass": true,
+          "reason": "Opens by stating replacement windows must comply with Part L covering thermal performance and energy efficiency"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 20,
+      "skill": "building-regulations",
+      "model": "gemini-3-flash",
+      "model_label": "Gemini 3 Flash",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions checking competentperson.co.uk to verify if installer was registered",
+          "pass": false,
+          "reason": "Response mentions checking FENSA and CERTASS websites directly but does not mention the competentperson.co.uk central registry"
+        },
+        {
+          "expectation": "Response mentions FENSA specifically as the relevant competent person scheme for windows",
+          "pass": true,
+          "reason": "FENSA is prominently mentioned throughout as a competent person scheme for windows, with direct reference to checking their website"
+        },
+        {
+          "expectation": "Response distinguishes between self-certification (competent person) and local authority routes",
+          "pass": true,
+          "reason": "Clearly explains that FENSA/CERTASS allow self-certification while non-registered installers must notify LABC for inspection"
+        },
+        {
+          "expectation": "Response warns about the 'no approach' rule before pursuing indemnity insurance",
+          "pass": true,
+          "reason": "Explicitly states the 'Golden Rule' warning client not to contact Local Authority as it would void indemnity insurance"
+        },
+        {
+          "expectation": "Response mentions Part L (energy efficiency/insulation) as relevant regulation for windows",
+          "pass": true,
+          "reason": "Specifically mentions Part L (Thermal Efficiency) as one of the key Building Regulations requirements for replacement windows"
+        }
+      ],
+      "total_pass": 4,
+      "total_expectations": 5,
+      "score_pct": 80
+    },
+    {
+      "eval_id": 21,
+      "skill": "restrictive-covenant-advisor",
+      "model": "gemini-3-flash",
+      "model_label": "Gemini 3 Flash",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions s84 Law of Property Act 1925 as an option for modification/discharge",
+          "pass": true,
+          "reason": "Clearly mentions s84 LPA 1925 with detailed explanation of grounds for discharge/modification"
+        },
+        {
+          "expectation": "Response mentions restrictive covenant indemnity insurance with approximate cost range",
+          "pass": true,
+          "reason": "States indemnity insurance costs \u00a350-\u00a3300 as one-off premium"
+        },
+        {
+          "expectation": "Response states that approaching the covenant beneficiary invalidates indemnity insurance",
+          "pass": true,
+          "reason": "Prominently features 'No Approach Rule' warning that contacting beneficiary makes insurance unavailable"
+        },
+        {
+          "expectation": "Response assesses risk factors: age of covenant (60yr+), no enforcement history, minimal breach",
+          "pass": true,
+          "reason": "Notes covenant from 1965 (60yr+), never enforced, and categorizes invisible home office as lowest risk/minimal breach"
+        },
+        {
+          "expectation": "Response mentions Upper Tribunal as the forum for s84 applications",
+          "pass": true,
+          "reason": "Specifically identifies Upper Tribunal (Lands Chamber) as the forum for s84 applications"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 21,
+      "skill": "restrictive-covenant-advisor",
+      "model": "gemini-3-flash",
+      "model_label": "Gemini 3 Flash",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response mentions s84 Law of Property Act 1925 as an option for modification/discharge",
+          "pass": true,
+          "reason": "Explicitly mentions Section 84 of the Law of Property Act 1925 for discharge/modification via Upper Tribunal"
+        },
+        {
+          "expectation": "Response mentions restrictive covenant indemnity insurance with approximate cost range",
+          "pass": true,
+          "reason": "Provides detailed cost table with ranges from \u00a3150-\u00a3800+ based on property value"
+        },
+        {
+          "expectation": "Response states that approaching the covenant beneficiary invalidates indemnity insurance",
+          "pass": true,
+          "reason": "Clearly states the 'Golden Rule' that contacting beneficiaries will close the insurance market and make policies unobtainable"
+        },
+        {
+          "expectation": "Response assesses risk factors: age of covenant (60yr+), no enforcement history, minimal breach",
+          "pass": true,
+          "reason": "Notes covenant is from 1965 (60+ years), mentions no enforcement history, and discusses de minimis breach for quiet home office"
+        },
+        {
+          "expectation": "Response mentions Upper Tribunal as the forum for s84 applications",
+          "pass": true,
+          "reason": "Specifically identifies Upper Tribunal (Lands Chamber) as the forum for Section 84 applications"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 22,
+      "skill": "restrictive-covenant-advisor",
+      "model": "gemini-3-flash",
+      "model_label": "Gemini 3 Flash",
+      "variant": "with_skill",
+      "grades": [
+        {
+          "expectation": "Response notes the beneficiary's own extension as relevant to enforceability (acquiescence/waiver argument)",
+          "pass": true,
+          "reason": "Clearly identifies the 2015 extension as providing 'strong argument of acquiescence or waiver' and calls it a 'smoking gun' evidence"
+        },
+        {
+          "expectation": "Response discusses whether indemnity insurance is available and the 'no approach' prerequisite",
+          "pass": true,
+          "reason": "Extensively covers the 'no approach' rule with clear warning that insurance is closed if any approach made, and discusses insurance as Option A"
+        },
+        {
+          "expectation": "Response mentions s84 LPA 1925 ground (aa) \u2014 covenant impedes reasonable use of land",
+          "pass": true,
+          "reason": "Specifically mentions 'Ground (aa): The restriction impedes a reasonable use of the land (the extension)'"
+        },
+        {
+          "expectation": "Response distinguishes between a front/visible extension and rear extension in terms of risk",
+          "pass": true,
+          "reason": "States 'Since the proposal is for a rear extension, the enforcement risk is generally lower than a front-facing alteration' and explains visibility impact"
+        },
+        {
+          "expectation": "Response provides practical advice on sequencing: decide insurance vs release before any contact",
+          "pass": true,
+          "reason": "Emphasizes maintaining silence until strategy chosen, warns that negotiation closes insurance option, and summary advises confirming no approach made first"
+        }
+      ],
+      "total_pass": 5,
+      "total_expectations": 5,
+      "score_pct": 100
+    },
+    {
+      "eval_id": 22,
+      "skill": "restrictive-covenant-advisor",
+      "model": "gemini-3-flash",
+      "model_label": "Gemini 3 Flash",
+      "variant": "without_skill",
+      "grades": [
+        {
+          "expectation": "Response notes the beneficiary's own extension as relevant to enforceability (acquiescence/waiver argument)",
+          "pass": true,
+          "reason": "Clearly discusses acquiescence and waiver, and the 'clean hands' doctrine due to neighbor's 2015 extension"
+        },
+        {
+          "expectation": "Response discusses whether indemnity insurance is available and the 'no approach' prerequisite",
+          "pass": true,
+          "reason": "Explicitly states the 'golden rule' that you must not contact the neighbor if seeking insurance, and discusses insurance as Option A"
+        },
+        {
+          "expectation": "Response mentions s84 LPA 1925 ground (aa) \u2014 covenant impedes reasonable use of land",
+          "pass": true,
+          "reason": "Specifically mentions ground (aa) under Section 84 LPA 1925 about impeding reasonable user without substantial benefit"
+        },
+        {
+          "expectation": "Response distinguishes between a front/visible extension and rear extension in terms of risk",
+          "pass": false,
+          "reason": "No distinction made between front/visible vs rear extensions - treats as general extension without considering visibility/location risk factors"
+        },
+        {
+          "expectation": "Response provides practical advice on sequencing: decide insurance vs release before any contact",
+          "pass": true,
+          "reason": "Clear sequencing advice in final recommendation: review title, get insurance quote first, only contact neighbor if prepared to lose insurance option"
         }
       ],
       "total_pass": 4,
