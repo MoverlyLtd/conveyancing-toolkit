@@ -12,7 +12,7 @@ This toolkit will always be free and open source. Better tools for conveyancers 
 
 | Tool | What it does |
 |------|-------------|
-| `sdlt-calculator` | Stamp Duty Land Tax — standard, first-time buyer, additional property, non-UK resident |
+| `sdlt-calculator` | Stamp Duty Land Tax — live rates from GOV.UK. 3/5 models get SDLT wrong without this tool. |
 | `lenders-handbook-prescreen` | Full UK Finance Lender's Handbook Part 1 pre-screen (90+ checks, 24 categories) plus Part 2 data for 60+ lenders |
 | `lender-comparison` | Compare lender requirements simultaneously — spawns parallel agents, returns suitability matrix |
 | `lease-impact-advisor` | Leasehold saleability assessment — risk banding, lender eligibility for 13 major lenders, extension cost estimates, marriage value analysis |
