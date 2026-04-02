@@ -206,6 +206,84 @@
         "Response provides a clear yes/no eligibility answer for each lender at 72 years",
         "Response cites Part 2 as the source (not general knowledge)"
       ]
+    },
+    {
+      "id": 17,
+      "skill": "aml-source-of-funds",
+      "prompt": "My client is buying a £750,000 property. They're using £200,000 from savings, £100,000 gift from parents, and £450,000 mortgage. What specific AML source of funds evidence do I need for each element under current SRA guidance?",
+      "expected_output": "Specific evidence requirements per funding element with SRA references",
+      "expectations": [
+        "Response specifies 12 months bank statements for savings showing accumulation pattern",
+        "Response requires giftor's ID and giftor's bank statements (not just the buyer's)",
+        "Response requires a signed gift letter confirming no obligation to repay",
+        "Response mentions risk-based approach (not tick-box compliance)",
+        "Response mentions record-keeping period of 5 years from end of transaction"
+      ]
+    },
+    {
+      "id": 18,
+      "skill": "aml-source-of-funds",
+      "prompt": "A client is purchasing with overseas funds from Dubai. What additional AML checks should I carry out beyond the standard source of funds requirements?",
+      "expected_output": "Enhanced due diligence requirements for overseas funds with specific checks",
+      "expectations": [
+        "Response identifies this as requiring enhanced due diligence (EDD)",
+        "Response mentions source country risk assessment or FATF status",
+        "Response requires SWIFT/wire transfer confirmations or equivalent transfer evidence",
+        "Response mentions currency conversion evidence",
+        "Response mentions suspicious activity report (SAR) obligation if concerns arise"
+      ]
+    },
+    {
+      "id": 19,
+      "skill": "building-regulations",
+      "prompt": "The property had a loft conversion done in 2019 but the seller has no building regulations completion certificate. The work was not done under a competent person scheme. What are the implications and remedies?",
+      "expected_output": "Decision tree between regularisation and indemnity insurance with the critical 'no approach' rule",
+      "expectations": [
+        "Response mentions regularisation as an option (retrospective local authority approval)",
+        "Response mentions indemnity insurance as an alternative",
+        "Response states indemnity insurance must be obtained BEFORE any approach to the local authority",
+        "Response mentions Part B (fire safety) as a key concern for loft conversions",
+        "Response provides approximate costs for at least one option (regularisation £400-800 or insurance £50-200)"
+      ]
+    },
+    {
+      "id": 20,
+      "skill": "building-regulations",
+      "prompt": "My client's property has replacement windows from 2018 with no FENSA certificate and no building control sign-off. The seller says they were installed by a local company. What should I advise?",
+      "expected_output": "Specific guidance on FENSA, competent person scheme checking, and resolution options",
+      "expectations": [
+        "Response mentions checking competentperson.co.uk to verify if installer was registered",
+        "Response mentions FENSA specifically as the relevant competent person scheme for windows",
+        "Response distinguishes between self-certification (competent person) and local authority routes",
+        "Response warns about the 'no approach' rule before pursuing indemnity insurance",
+        "Response mentions Part L (energy efficiency/insulation) as relevant regulation for windows"
+      ]
+    },
+    {
+      "id": 21,
+      "skill": "restrictive-covenant-advisor",
+      "prompt": "My client's property has a restrictive covenant against business use, but they want to run a small home office (not visible, no clients visiting). The covenant was imposed in 1965 and has never been enforced. What are the options and what would indemnity insurance typically cost?",
+      "expected_output": "Assessment of enforceability, insurance vs s84 options, with the critical 'no approach' rule",
+      "expectations": [
+        "Response mentions s84 Law of Property Act 1925 as an option for modification/discharge",
+        "Response mentions restrictive covenant indemnity insurance with approximate cost range",
+        "Response states that approaching the covenant beneficiary invalidates indemnity insurance",
+        "Response assesses risk factors: age of covenant (60yr+), no enforcement history, minimal breach",
+        "Response mentions Upper Tribunal as the forum for s84 applications"
+      ]
+    },
+    {
+      "id": 22,
+      "skill": "restrictive-covenant-advisor",
+      "prompt": "We've discovered a restrictive covenant preventing any alteration to the external appearance. My client wants to add a rear extension. The covenant was imposed in 1992 and the neighbouring property (the beneficiary) has itself had a large extension built in 2015. What would you advise?",
+      "expected_output": "Assessment weighing beneficiary's own breach, options analysis including insurance eligibility",
+      "expectations": [
+        "Response notes the beneficiary's own extension as relevant to enforceability (acquiescence/waiver argument)",
+        "Response discusses whether indemnity insurance is available and the 'no approach' prerequisite",
+        "Response mentions s84 LPA 1925 ground (aa) — covenant impedes reasonable use of land",
+        "Response distinguishes between a front/visible extension and rear extension in terms of risk",
+        "Response provides practical advice on sequencing: decide insurance vs release before any contact"
+      ]
     }
   ]
 }

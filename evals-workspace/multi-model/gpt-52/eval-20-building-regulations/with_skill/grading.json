@@ -1,0 +1,32 @@
+{
+  "grades": [
+    {
+      "expectation": "Response mentions checking competentperson.co.uk to verify if installer was registered",
+      "pass": true,
+      "reason": "Explicitly mentions searching competentperson.co.uk for records"
+    },
+    {
+      "expectation": "Response mentions FENSA specifically as the relevant competent person scheme for windows",
+      "pass": true,
+      "reason": "FENSA mentioned multiple times as the most common scheme for windows"
+    },
+    {
+      "expectation": "Response distinguishes between self-certification (competent person) and local authority routes",
+      "pass": true,
+      "reason": "Clearly explains self-certification via competent person schemes vs local authority Building Control approval"
+    },
+    {
+      "expectation": "Response warns about the 'no approach' rule before pursuing indemnity insurance",
+      "pass": true,
+      "reason": "Explicitly warns not to contact local authority and states contact can make indemnity unavailable"
+    },
+    {
+      "expectation": "Response mentions Part L (energy efficiency/insulation) as relevant regulation for windows",
+      "pass": false,
+      "reason": "Part L not mentioned - only general building regulations discussed"
+    }
+  ],
+  "total_pass": 4,
+  "total_expectations": 5,
+  "score_pct": 80
+}

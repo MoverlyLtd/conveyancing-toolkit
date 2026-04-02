@@ -1,0 +1,32 @@
+{
+  "grades": [
+    {
+      "expectation": "Response identifies this as requiring enhanced due diligence (EDD)",
+      "pass": true,
+      "reason": "Explicitly mentions 'enhanced due diligence (EDD)' and dedicates section 4 to EDD requirements"
+    },
+    {
+      "expectation": "Response mentions source country risk assessment or FATF status",
+      "pass": true,
+      "reason": "Section 1 specifically covers 'source-country risk assessment (UAE-specific)' and explicitly mentions checking 'FATF status'"
+    },
+    {
+      "expectation": "Response requires SWIFT/wire transfer confirmations or equivalent transfer evidence",
+      "pass": true,
+      "reason": "Section 2 explicitly requires 'SWIFT/MT103 (or equivalent wire confirmation)' with detailed specifications"
+    },
+    {
+      "expectation": "Response mentions currency conversion evidence",
+      "pass": true,
+      "reason": "Section 3 is dedicated to 'Evidence of FX conversion' and specifies 'FX contract note / bank conversion advice'"
+    },
+    {
+      "expectation": "Response mentions suspicious activity report (SAR) obligation if concerns arise",
+      "pass": true,
+      "reason": "Section 7 explicitly mentions escalating to MLRO for 'SAR' consideration and 'DAML' request"
+    }
+  ],
+  "total_pass": 5,
+  "total_expectations": 5,
+  "score_pct": 100
+}

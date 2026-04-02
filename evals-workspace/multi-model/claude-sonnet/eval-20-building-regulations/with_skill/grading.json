@@ -1,0 +1,32 @@
+{
+  "grades": [
+    {
+      "expectation": "Response mentions checking competentperson.co.uk to verify if installer was registered",
+      "pass": true,
+      "reason": "Explicitly mentions searching competentperson.co.uk by postcode and installation date"
+    },
+    {
+      "expectation": "Response mentions FENSA specifically as the relevant competent person scheme for windows",
+      "pass": true,
+      "reason": "FENSA is mentioned multiple times as the primary scheme, along with CERTASS"
+    },
+    {
+      "expectation": "Response distinguishes between self-certification (competent person) and local authority routes",
+      "pass": true,
+      "reason": "Clearly distinguishes between competent person schemes (FENSA/CERTASS) and building control regularisation as separate routes"
+    },
+    {
+      "expectation": "Response warns about the 'no approach' rule before pursuing indemnity insurance",
+      "pass": true,
+      "reason": "Explicitly states 'Do NOT contact building control until you've decided on strategy. Any contact invalidates indemnity insurance' and reinforces this at the end"
+    },
+    {
+      "expectation": "Response mentions Part L (energy efficiency/insulation) as relevant regulation for windows",
+      "pass": true,
+      "reason": "Specifically mentions 'Part L (thermal performance) compliance is rarely enforced retrospectively'"
+    }
+  ],
+  "total_pass": 5,
+  "total_expectations": 5,
+  "score_pct": 100
+}

@@ -1,0 +1,32 @@
+{
+  "grades": [
+    {
+      "expectation": "Response mentions s84 Law of Property Act 1925 as an option for modification/discharge",
+      "pass": false,
+      "reason": "Only mentions 'Tribunal application' without referencing s84 LPA 1925"
+    },
+    {
+      "expectation": "Response mentions restrictive covenant indemnity insurance with approximate cost range",
+      "pass": true,
+      "reason": "Clearly mentions indemnity insurance with specific cost range of \u00a350-\u00a3300"
+    },
+    {
+      "expectation": "Response states that approaching the covenant beneficiary invalidates indemnity insurance",
+      "pass": true,
+      "reason": "Explicitly states the 'no approach' rule and warns against contacting beneficiary"
+    },
+    {
+      "expectation": "Response assesses risk factors: age of covenant (60yr+), no enforcement history, minimal breach",
+      "pass": true,
+      "reason": "Identifies covenant age (1965), no enforcement history, and low-impact nature of proposed use"
+    },
+    {
+      "expectation": "Response mentions Upper Tribunal as the forum for s84 applications",
+      "pass": false,
+      "reason": "Uses generic term 'Tribunal' without specifying Upper Tribunal"
+    }
+  ],
+  "total_pass": 3,
+  "total_expectations": 5,
+  "score_pct": 60
+}

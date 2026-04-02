@@ -1,0 +1,32 @@
+{
+  "grades": [
+    {
+      "expectation": "Response identifies this as requiring enhanced due diligence (EDD)",
+      "pass": true,
+      "reason": "Explicitly mentions EDD is 'usually appropriate' for overseas funds and provides detailed criteria and requirements"
+    },
+    {
+      "expectation": "Response mentions source country risk assessment or FATF status",
+      "pass": true,
+      "reason": "Specifically mentions checking 'FATF high-risk / increased-monitoring jurisdictions' as part of source country risk assessment"
+    },
+    {
+      "expectation": "Response requires SWIFT/wire transfer confirmations or equivalent transfer evidence",
+      "pass": true,
+      "reason": "Explicitly requests 'SWIFT / wire transfer confirmation' showing sending bank, receiving bank, account holders, amount and date"
+    },
+    {
+      "expectation": "Response mentions currency conversion evidence",
+      "pass": true,
+      "reason": "Dedicates entire section to currency conversion evidence requiring FX contract notes and conversion confirmations"
+    },
+    {
+      "expectation": "Response mentions suspicious activity report (SAR) obligation if concerns arise",
+      "pass": false,
+      "reason": "No mention of SAR obligations or requirements to report suspicious activity to authorities"
+    }
+  ],
+  "total_pass": 4,
+  "total_expectations": 5,
+  "score_pct": 80
+}

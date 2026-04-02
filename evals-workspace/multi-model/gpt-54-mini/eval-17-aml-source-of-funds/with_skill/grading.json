@@ -1,0 +1,32 @@
+{
+  "grades": [
+    {
+      "expectation": "Response specifies 12 months bank statements for savings showing accumulation pattern",
+      "pass": true,
+      "reason": "Explicitly states '12 months of bank/building society statements' and mentions checking 'accumulation pattern over time'"
+    },
+    {
+      "expectation": "Response requires giftor's ID and giftor's bank statements (not just the buyer's)",
+      "pass": true,
+      "reason": "Clearly specifies 'Parents' photographic ID' and 'Parents' bank statements' showing they hold the gifted funds"
+    },
+    {
+      "expectation": "Response requires a signed gift letter confirming no obligation to repay",
+      "pass": true,
+      "reason": "Explicitly mentions 'Signed gift letter' confirming 'no obligation to repay' and other key terms"
+    },
+    {
+      "expectation": "Response mentions risk-based approach (not tick-box compliance)",
+      "pass": true,
+      "reason": "Opens with 'Under a risk-based SRA approach' and mentions enhanced due diligence considerations"
+    },
+    {
+      "expectation": "Response mentions record-keeping period of 5 years from end of transaction",
+      "pass": false,
+      "reason": "No mention of the 5-year record retention requirement anywhere in the response"
+    }
+  ],
+  "total_pass": 4,
+  "total_expectations": 5,
+  "score_pct": 80
+}

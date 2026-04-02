@@ -1,0 +1,32 @@
+{
+  "grades": [
+    {
+      "expectation": "Response specifies 12 months bank statements for savings showing accumulation pattern",
+      "pass": true,
+      "reason": "Explicitly states '12 months of bank statements' and explains need to see 'pattern of growth' and 'accumulation' of funds"
+    },
+    {
+      "expectation": "Response requires giftor's ID and giftor's bank statements (not just the buyer's)",
+      "pass": true,
+      "reason": "Clearly specifies 'Photographic ID for both parents' and '3-6 months of statements from the parents'"
+    },
+    {
+      "expectation": "Response requires a signed gift letter confirming no obligation to repay",
+      "pass": true,
+      "reason": "Details requirement for 'Signed Gift Letter' confirming 'no obligation to repay' and 'no legal or equitable interest'"
+    },
+    {
+      "expectation": "Response mentions risk-based approach (not tick-box compliance)",
+      "pass": true,
+      "reason": "Opens with emphasis on 'risk-based approach' and explains applying this rather than mechanical compliance"
+    },
+    {
+      "expectation": "Response mentions record-keeping period of 5 years from end of transaction",
+      "pass": true,
+      "reason": "Explicitly states 'Keep all AML evidence for 5 years from the date the business relationship ends'"
+    }
+  ],
+  "total_pass": 5,
+  "total_expectations": 5,
+  "score_pct": 100
+}

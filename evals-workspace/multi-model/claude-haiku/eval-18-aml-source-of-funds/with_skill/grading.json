@@ -1,0 +1,32 @@
+{
+  "grades": [
+    {
+      "expectation": "Response identifies this as requiring enhanced due diligence (EDD)",
+      "pass": true,
+      "reason": "Clearly states enhanced due diligence (EDD) measures should be applied"
+    },
+    {
+      "expectation": "Response mentions source country risk assessment or FATF status",
+      "pass": true,
+      "reason": "Explicitly mentions checking Dubai against FATF list and conducting source country risk assessment"
+    },
+    {
+      "expectation": "Response requires SWIFT/wire transfer confirmations or equivalent transfer evidence",
+      "pass": true,
+      "reason": "Specifically requests SWIFT/wire transfer confirmation with detailed requirements"
+    },
+    {
+      "expectation": "Response mentions currency conversion evidence",
+      "pass": true,
+      "reason": "Explicitly requires currency conversion contract note or bank confirmation"
+    },
+    {
+      "expectation": "Response mentions suspicious activity report (SAR) obligation if concerns arise",
+      "pass": false,
+      "reason": "No mention of SAR filing obligations or suspicious activity reporting requirements"
+    }
+  ],
+  "total_pass": 4,
+  "total_expectations": 5,
+  "score_pct": 80
+}

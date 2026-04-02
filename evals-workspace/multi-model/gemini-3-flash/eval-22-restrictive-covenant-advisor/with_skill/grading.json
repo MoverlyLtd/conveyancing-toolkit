@@ -1,0 +1,32 @@
+{
+  "grades": [
+    {
+      "expectation": "Response notes the beneficiary's own extension as relevant to enforceability (acquiescence/waiver argument)",
+      "pass": true,
+      "reason": "Clearly states the neighbor's 2015 extension makes them have 'much weaker standing to seek an injunction' and makes the covenant 'practically weaker'"
+    },
+    {
+      "expectation": "Response discusses whether indemnity insurance is available and the 'no approach' prerequisite",
+      "pass": true,
+      "reason": "Extensively covers the 'No Approach Rule' with warning formatting and states insurance 'will likely be unavailable' if contact made"
+    },
+    {
+      "expectation": "Response mentions s84 LPA 1925 ground (aa) \u2014 covenant impedes reasonable use of land",
+      "pass": true,
+      "reason": "Specifically mentions 'Ground (aa)' and quotes the test about impeding 'reasonable use' with no 'substantial value or advantage'"
+    },
+    {
+      "expectation": "Response distinguishes between a front/visible extension and rear extension in terms of risk",
+      "pass": false,
+      "reason": "No distinction made between front/rear extensions or visibility considerations - treats as straightforward breach"
+    },
+    {
+      "expectation": "Response provides practical advice on sequencing: decide insurance vs release before any contact",
+      "pass": true,
+      "reason": "Clear sequencing advice: 'Maintain Silence', decide strategy first, and emphasizes confirming no contact has been made before proceeding"
+    }
+  ],
+  "total_pass": 4,
+  "total_expectations": 5,
+  "score_pct": 80
+}

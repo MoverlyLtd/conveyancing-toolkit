@@ -1,0 +1,32 @@
+{
+  "grades": [
+    {
+      "expectation": "Response mentions s84 Law of Property Act 1925 as an option for modification/discharge",
+      "pass": false,
+      "reason": "Response mentions s78 LPA 1925 for annexation and s84 for Upper Tribunal, but doesn't clearly explain s84 as the statutory mechanism for modification/discharge"
+    },
+    {
+      "expectation": "Response mentions restrictive covenant indemnity insurance with approximate cost range",
+      "pass": true,
+      "reason": "Clear mention of indemnity insurance with specific cost range of \u00a350-\u00a3300"
+    },
+    {
+      "expectation": "Response states that approaching the covenant beneficiary invalidates indemnity insurance",
+      "pass": true,
+      "reason": "Clearly states at the beginning that contacting beneficiary makes insurance 'likely unavailable'"
+    },
+    {
+      "expectation": "Response assesses risk factors: age of covenant (60yr+), no enforcement history, minimal breach",
+      "pass": true,
+      "reason": "Addresses all factors: covenant from 1965 (58+ years), notes no enforcement since 1965, describes as 'technical breach at most'"
+    },
+    {
+      "expectation": "Response mentions Upper Tribunal as the forum for s84 applications",
+      "pass": true,
+      "reason": "Clearly states 'Upper Tribunal (s84)' as an option in the table"
+    }
+  ],
+  "total_pass": 4,
+  "total_expectations": 5,
+  "score_pct": 80
+}
