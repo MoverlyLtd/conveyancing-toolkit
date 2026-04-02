@@ -3,27 +3,27 @@
     {
       "expectation": "Response mentions regularisation as an option (retrospective local authority approval)",
       "pass": true,
-      "reason": "Clearly explains regularisation as Option A with detailed pros/cons and process"
+      "reason": "Clearly describes regularisation as 'retrospective Building Regulations sign-off' under Option A"
     },
     {
       "expectation": "Response mentions indemnity insurance as an alternative",
       "pass": true,
-      "reason": "Discusses indemnity insurance as Option B with coverage details and limitations"
+      "reason": "Extensively covers indemnity insurance as Option B with detailed pros/cons"
     },
     {
       "expectation": "Response states indemnity insurance must be obtained BEFORE any approach to the local authority",
       "pass": true,
-      "reason": "Explicitly states indemnity is only possible if nobody has approached local authority building control and warns not to contact them until strategy is agreed"
+      "reason": "Explicitly states in bold that contacting LA makes 'indemnity insurance unavailable' and must decide strategy before approach"
     },
     {
       "expectation": "Response mentions Part B (fire safety) as a key concern for loft conversions",
       "pass": true,
-      "reason": "Repeatedly emphasizes Part B fire safety as critical issue, mentions protected escape routes, fire doors, smoke alarms"
+      "reason": "Prominently mentions Part B fire safety multiple times, including in opening paragraph and detailed requirements"
     },
     {
       "expectation": "Response provides approximate costs for at least one option (regularisation \u00a3400-800 or insurance \u00a350-200)",
       "pass": true,
-      "reason": "States indemnity insurance costs often ~\u00a350-\u00a3200, though doesn't provide regularisation cost range"
+      "reason": "Provides costs for both options: regularisation \u00a3400-800 and indemnity insurance \u00a350-200"
     }
   ],
   "total_pass": 5,

@@ -3,30 +3,30 @@
     {
       "expectation": "Response notes the beneficiary's own extension as relevant to enforceability (acquiescence/waiver argument)",
       "pass": true,
-      "reason": "Response clearly identifies the 2015 extension as 'useful evidence of historic or neighbouring breach' that 'weakens the practical likelihood of enforcement'"
+      "reason": "Clearly discusses the 2015 extension as supporting an acquiescence/waiver argument and weakening enforcement position"
     },
     {
       "expectation": "Response discusses whether indemnity insurance is available and the 'no approach' prerequisite",
       "pass": true,
-      "reason": "Response explicitly states 'indemnity insurance is only available if there has been no approach' and makes this a central part of the advice"
+      "reason": "Explicitly covers the 'no approach' rule and states indemnity insurance is off the table if beneficiary has been contacted"
     },
     {
       "expectation": "Response mentions s84 LPA 1925 ground (aa) \u2014 covenant impedes reasonable use of land",
-      "pass": false,
-      "reason": "Response mentions s84 LPA 1925 Upper Tribunal application as an option but does not specifically reference ground (aa) or the reasonable use test"
+      "pass": true,
+      "reason": "Specifically mentions s84(aa) ground that covenant impedes reasonable use and secures no practical benefit"
     },
     {
       "expectation": "Response distinguishes between a front/visible extension and rear extension in terms of risk",
-      "pass": false,
-      "reason": "Response notes it's a 'rear extension' and mentions 'visible physical alteration' but does not distinguish risk levels between front vs rear extensions"
+      "pass": true,
+      "reason": "States rear extension is lower risk than front-facing alteration because it's less visible and less likely to prompt enforcement"
     },
     {
       "expectation": "Response provides practical advice on sequencing: decide insurance vs release before any contact",
       "pass": true,
-      "reason": "Response clearly advises 'Do not approach the beneficiary' and 'Do not contact the beneficiary first unless you are prepared to lose insurance eligibility'"
+      "reason": "Provides clear sequencing advice including not approaching beneficiary if insurance is being considered and obtaining insurance quotes first"
     }
   ],
-  "total_pass": 3,
+  "total_pass": 5,
   "total_expectations": 5,
-  "score_pct": 60
+  "score_pct": 100
 }

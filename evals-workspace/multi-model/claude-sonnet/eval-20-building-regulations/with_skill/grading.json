@@ -3,27 +3,27 @@
     {
       "expectation": "Response mentions checking competentperson.co.uk to verify if installer was registered",
       "pass": true,
-      "reason": "Explicitly mentions searching competentperson.co.uk by postcode and installation date"
+      "reason": "Explicitly mentions checking competentperson.co.uk and explains the search purpose"
     },
     {
       "expectation": "Response mentions FENSA specifically as the relevant competent person scheme for windows",
       "pass": true,
-      "reason": "FENSA is mentioned multiple times as the primary scheme, along with CERTASS"
+      "reason": "Clearly identifies FENSA as one of the two main competent person schemes for windows"
     },
     {
       "expectation": "Response distinguishes between self-certification (competent person) and local authority routes",
       "pass": true,
-      "reason": "Clearly distinguishes between competent person schemes (FENSA/CERTASS) and building control regularisation as separate routes"
+      "reason": "Clearly distinguishes between FENSA/CERTASS certification and building control approval as separate routes"
     },
     {
       "expectation": "Response warns about the 'no approach' rule before pursuing indemnity insurance",
       "pass": true,
-      "reason": "Explicitly states 'Do NOT contact building control until you've decided on strategy. Any contact invalidates indemnity insurance' and reinforces this at the end"
+      "reason": "Explicitly warns that contacting building control makes indemnity insurance unavailable and emphasizes deciding strategy first"
     },
     {
       "expectation": "Response mentions Part L (energy efficiency/insulation) as relevant regulation for windows",
       "pass": true,
-      "reason": "Specifically mentions 'Part L (thermal performance) compliance is rarely enforced retrospectively'"
+      "reason": "Specifically mentions Part L (energy efficiency/thermal performance) as the relevant Building Regulations requirement"
     }
   ],
   "total_pass": 5,

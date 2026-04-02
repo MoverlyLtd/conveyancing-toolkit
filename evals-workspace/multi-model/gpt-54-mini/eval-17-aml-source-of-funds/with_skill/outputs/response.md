@@ -1,67 +1,84 @@
-Under a risk-based SRA approach, you should verify **each funding element separately** and keep a clear file note showing why the evidence is sufficient.
+Use a **risk-based approach** and document your reasoning for each funding element. For a combined purchase like this, you need evidence for **every source of funds**, not just the deposit. Also remember **Regulation 28(12)** requires **ongoing monitoring during the retainer**, so if the funding changes you should re-assess and re-evidence.
 
-For your example, the purchase is funded by:
+## 1) Mortgage element: £450,000
+Because this is from an **FCA-regulated lender**, you would normally require:
 
-- **£200,000 savings**
-- **£100,000 gift from parents**
-- **£450,000 mortgage**
+- **Mortgage offer** from the lender
+- Check the lender is **FCA-regulated**
 
-## 1) £450,000 mortgage element
-If the mortgage is from an **FCA-regulated lender**, you would usually need:
+You generally do **not** need separate source-of-funds evidence for the mortgage monies themselves, but you should still verify the **deposit/equity** part separately.
 
-- **Mortgage offer**
-- Confirmation the lender is FCA-regulated if not already obvious
-
-You generally do **not** need to re-check the mortgage monies themselves as source of funds, because the lender has carried out its own CDD.  
-But you still need to verify the **deposit/equity** portions separately.
-
-## 2) £200,000 savings element
-For savings, ask for:
+## 2) Savings element: £200,000
+For the savings deposit, request:
 
 - **12 months of bank/building society statements**
-- Statements must show:
-  - the client’s name
-  - the account(s) holding the savings
-  - the accumulation pattern over time
-- If there are any **large lump sums** within the 12 months, trace those separately
-- If the savings are spread across **multiple accounts**, get statements for all relevant accounts
+- Statements showing the **account holder’s name matches the client**
+- Evidence of a **credible accumulation pattern** over time, not just a closing balance
+- If there are any **large lump-sum deposits** within that period, trace each one to its source
+- If the savings are held across **multiple accounts**, obtain statements for each account
 
-You should be satisfied that the statements show a credible build-up to £200,000 and that the funds are in accounts in the client’s name.
+You should check that the total on the statements supports the declared £200,000 and that the funds are consistent with the client’s profile.
 
-## 3) £100,000 gift from parents
-For the gifted deposit, request:
+## 3) Gift from parents: £100,000
+For a gift, you need separate evidence for the **giftor** as well as the buyer. Always obtain:
 
-- **Parents’ photographic ID**  
+- **Giftor’s photographic ID**  
   - passport or driving licence
-- **Parents’ bank statements**
-  - typically **3–6 months**
-  - showing they hold the gifted funds
-  - and ideally showing the source of those funds
-- **Signed gift letter** from each parent, or one joint letter if appropriate, confirming:
-  - the amount gifted
-  - the relationship to the client
-  - that the money is an **unconditional gift**
-  - that there is **no obligation to repay**
-  - that the parents will **not retain any interest** in the property
-- **Proof of relationship**, if not obvious from the names/documents
-- **Lender notification** of the gift, because most lenders require disclosure of gifted deposits
+- **Giftor’s bank statements**  
+  - ideally **3–6 months**, showing they hold sufficient funds and where those funds came from
+- **Signed gift letter** confirming:
+  - amount of the gift
+  - relationship to the client
+  - **no obligation to repay**  
+  - no interest in the property is expected
 
-If the parents are giving the money from **overseas**, you should also apply the overseas funds checks as additional EDD.
+Also obtain:
 
-## 4) Overall checks
-You should also make sure:
+- **Proof of relationship** if not obvious from the names
 
-- the funding breakdown adds up correctly:  
-  **£200,000 + £100,000 + £450,000 = £750,000**
-- the documents are consistent with each other
-- there are no unexplained gaps, inconsistent names, or last-minute changes in funding structure
+If the parents are overseas, you must also do the **overseas funds checks**:
+- **SWIFT/wire transfer evidence**
+- **source country risk assessment** (including FATF/HMT screening)
+- **currency conversion evidence**
 
-## When to escalate
-You should consider **enhanced due diligence** if, for example:
+If a mortgage is involved, check the **UK Finance Lenders’ Handbook Part 2** requirements, because many lenders require disclosure of gifted deposits.
 
-- the giftors are overseas
-- the client is reluctant to provide evidence
-- the savings show unexplained large cash deposits or unusual transfers
-- there is any other red flag in the funding chain
+## 4) Total funds check
+You should also record that the funding **tallies**:
 
-If you want, I can turn this into a **practical document request list/email** you can send to the client and parents.
+- £200,000 savings
+- £100,000 gift
+- £450,000 mortgage
+- Total = **£750,000**
+
+## 5) AML process points to keep on file
+Under current SRA/MLR practice, also make sure you:
+
+- complete a **matter risk assessment**
+- document why the evidence is sufficient on a **risk-based** basis
+- escalate to your **MLRO/nominated officer** if anything is inconsistent or unusual
+- consider **SAR reporting to the NCA** if you have suspicion or reasonable grounds for suspicion
+- if you need to continue acting while suspicious, consider a **DAML** request  
+  - NCA has **7 working days** to refuse consent  
+  - if refused, there is a **31-day moratorium**
+- retain all CDD/source-of-funds records for **5 years** from the end of the business relationship or occasional transaction
+
+## Practical checklist for your file
+**Savings (£200k):**
+- 12 months statements
+- name matches
+- accumulation trail
+- trace any large credits
+
+**Gift (£100k):**
+- parents’ ID
+- parents’ 3–6 months bank statements
+- signed gift letter
+- proof of relationship
+- lender disclosure/handbook check
+
+**Mortgage (£450k):**
+- mortgage offer
+- lender FCA status check
+
+If you want, I can turn this into a **file checklist table** you can paste straight into your matter note.

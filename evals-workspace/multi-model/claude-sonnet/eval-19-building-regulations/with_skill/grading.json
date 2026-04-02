@@ -3,27 +3,27 @@
     {
       "expectation": "Response mentions regularisation as an option (retrospective local authority approval)",
       "pass": true,
-      "reason": "Clearly explains regularisation process including application to building control and issuance of regularisation certificate"
+      "reason": "Clearly mentions regularisation as 'Apply to local authority for retrospective building regulations approval' and recommends it"
     },
     {
       "expectation": "Response mentions indemnity insurance as an alternative",
       "pass": true,
-      "reason": "Discusses indemnity insurance as alternative option with detailed conditions and concerns"
+      "reason": "Lists 'Option 2: Indemnity Insurance' as an alternative with details about limitations"
     },
     {
       "expectation": "Response states indemnity insurance must be obtained BEFORE any approach to the local authority",
       "pass": true,
-      "reason": "Explicitly states 'If YES \u2192 Indemnity insurance is unavailable' and warns 'do not contact building control until strategy is decided'"
+      "reason": "Explicitly states 'Do not contact the local authority until you've decided on your strategy' and 'indemnity insurance becomes unavailable' after contact"
     },
     {
       "expectation": "Response mentions Part B (fire safety) as a key concern for loft conversions",
       "pass": true,
-      "reason": "Extensively covers Part B requirements including fire doors, escape windows, smoke detection, and emphasizes fire safety as primary concern"
+      "reason": "Prominently features Part B fire safety as 'critical concern for lenders' and discusses fire safety requirements extensively"
     },
     {
       "expectation": "Response provides approximate costs for at least one option (regularisation \u00a3400-800 or insurance \u00a350-200)",
       "pass": true,
-      "reason": "States regularisation cost as '\u00a3600-800 typically' which falls within the expected range"
+      "reason": "Provides costs for both options: regularisation '\u00a3400\u2013800' and indemnity insurance '\u00a350\u2013200'"
     }
   ],
   "total_pass": 5,

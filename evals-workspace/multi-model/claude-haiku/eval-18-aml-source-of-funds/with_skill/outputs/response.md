@@ -1,25 +1,32 @@
 For a client purchasing with overseas funds from Dubai, here are the additional AML checks you should carry out beyond the standard source of funds requirements:
 
 1. Source Country Risk Assessment:
-   - Check Dubai against the FATF list of high-risk and increased monitoring jurisdictions.
-   - Check Dubai's Transparency International Corruption Perceptions Index score.
-   - Document your risk assessment of the source country.
+   - Check Dubai against the HM Treasury sanctions list.
+   - Assess Dubai's risk profile using the FATF list of high-risk and increased-monitoring jurisdictions.
+   - Consult the Transparency International Corruption Perceptions Index for Dubai.
+   - Document your source country risk assessment and how it impacts the overall risk profile.
 
 2. Currency Conversion Evidence:
-   - Obtain a currency conversion contract note or bank confirmation showing the original currency, exchange rate, and GBP equivalent.
+   - Obtain a currency conversion contract note or bank confirmation showing the original AED amount, the exchange rate used, and the final GBP equivalent.
+   - Verify that the GBP amount matches the funds being used for the purchase.
 
 3. SWIFT/Wire Transfer Confirmation:
-   - Request a SWIFT or wire transfer confirmation showing the sending bank, account holder, receiving bank, account holder, amount, currency, and date.
-   - If the funds passed through any intermediary accounts, trace the full chain of transfers.
+   - Request a SWIFT or wire transfer confirmation showing the full chain of payments:
+     - Originating bank and account holder
+     - Intermediary banks (if any)
+     - Receiving bank and account holder
+     - Amount, currency, and date of transfer
+   - Trace any intermediary accounts to understand the full route of the funds.
 
 4. Enhanced Due Diligence:
-   - Given the overseas and high-risk jurisdiction nature of the funds, you should apply enhanced due diligence (EDD) measures, including:
-     - More detailed source of wealth checks on the client
-     - Senior management/MLRO approval to proceed
-     - Ongoing monitoring of the transaction
+   - Given the overseas and higher-risk nature of the funds, apply enhanced due diligence (EDD) measures:
+     - Obtain more detailed source of wealth information from the client.
+     - Seek senior management/MLRO approval before proceeding.
+     - Conduct ongoing monitoring of the transaction and client relationship.
+     - Document your EDD assessment and decision-making process.
 
-5. Document Everything:
-   - Thoroughly document your risk assessment, the additional checks carried out, and your conclusions on the legitimacy of the funds.
-   - Retain all supporting evidence on the client file.
+5. Report to NCA (if required):
+   - If, after your investigation, you have any suspicion of money laundering, you must report this to the National Crime Agency (NCA) by filing a Suspicious Activity Report (SAR).
+   - Seek consent from NCA (a Defence Against Money Laundering, or DAML) if you need to proceed with the transaction while having suspicion.
 
-The key is to take a holistic, risk-based approach. The overseas and high-risk jurisdiction element significantly increases the money laundering risk, so you need to apply a heightened level of scrutiny and due diligence before accepting these funds.
+Remember, the depth of your enquiries should be proportionate to the overall risk profile. Document your risk assessment, the steps taken, and your rationale for accepting or escalating the matter. Maintain vigilance for any red flags throughout the transaction.

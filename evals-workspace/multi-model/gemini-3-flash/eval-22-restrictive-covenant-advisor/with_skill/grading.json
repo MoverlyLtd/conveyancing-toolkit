@@ -3,30 +3,30 @@
     {
       "expectation": "Response notes the beneficiary's own extension as relevant to enforceability (acquiescence/waiver argument)",
       "pass": true,
-      "reason": "Clearly states the neighbor's 2015 extension makes them have 'much weaker standing to seek an injunction' and makes the covenant 'practically weaker'"
+      "reason": "Clearly identifies the 2015 extension as providing 'strong argument of acquiescence or waiver' and calls it a 'smoking gun' evidence"
     },
     {
       "expectation": "Response discusses whether indemnity insurance is available and the 'no approach' prerequisite",
       "pass": true,
-      "reason": "Extensively covers the 'No Approach Rule' with warning formatting and states insurance 'will likely be unavailable' if contact made"
+      "reason": "Extensively covers the 'no approach' rule with clear warning that insurance is closed if any approach made, and discusses insurance as Option A"
     },
     {
       "expectation": "Response mentions s84 LPA 1925 ground (aa) \u2014 covenant impedes reasonable use of land",
       "pass": true,
-      "reason": "Specifically mentions 'Ground (aa)' and quotes the test about impeding 'reasonable use' with no 'substantial value or advantage'"
+      "reason": "Specifically mentions 'Ground (aa): The restriction impedes a reasonable use of the land (the extension)'"
     },
     {
       "expectation": "Response distinguishes between a front/visible extension and rear extension in terms of risk",
-      "pass": false,
-      "reason": "No distinction made between front/rear extensions or visibility considerations - treats as straightforward breach"
+      "pass": true,
+      "reason": "States 'Since the proposal is for a rear extension, the enforcement risk is generally lower than a front-facing alteration' and explains visibility impact"
     },
     {
       "expectation": "Response provides practical advice on sequencing: decide insurance vs release before any contact",
       "pass": true,
-      "reason": "Clear sequencing advice: 'Maintain Silence', decide strategy first, and emphasizes confirming no contact has been made before proceeding"
+      "reason": "Emphasizes maintaining silence until strategy chosen, warns that negotiation closes insurance option, and summary advises confirming no approach made first"
     }
   ],
-  "total_pass": 4,
+  "total_pass": 5,
   "total_expectations": 5,
-  "score_pct": 80
+  "score_pct": 100
 }

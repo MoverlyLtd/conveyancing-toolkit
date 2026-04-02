@@ -1,61 +1,71 @@
-For funds coming from Dubai (UAE), you still do the **normal source-of-funds evidence for the underlying source** (savings/gift/sale proceeds etc.), but you should usually add **overseas-funds checks and enhanced due diligence (EDD)** because cross‑border funding increases risk and often reduces the audit trail.
+For funds coming from Dubai (UAE), you still do the **normal source-of-funds evidence for the underlying category** (savings / sale proceeds / inheritance / gift / business income etc.), but you should usually treat it as **higher-risk cross‑border funding** and add **overseas-specific checks** on a **risk-based** basis (often **EDD**).
 
-### 1) Document a source-country risk assessment (UAE-specific)
-Record (on the matter risk assessment) why the UAE funding is low/medium/high risk by checking and noting:
+## 1) Source-country and sanctions risk assessment (overseas-specific)
+Document a short written assessment covering:
 
-- **UK sanctions**: screen the client and any funder/giftor/beneficial owner against the **HM Treasury / OFSI sanctions list** (and record results).
-- **FATF status**: check whether the UAE is on the **FATF lists** (high-risk / increased monitoring) at the time of the transaction and record the outcome.
-- **Corruption / financial crime context**: note any relevant country-risk indicators (e.g., Transparency International CPI) as part of your rationale.
-- **PEP/adverse media**: because UAE business links can involve senior officials/state-linked entities, do **PEP screening and adverse media** checks (client + any third-party funders/UBOs).
+- **Sanctions screening**: client (and any giftor/third-party funder/UBO) against the **UK sanctions list (OFSI/HM Treasury)** and PEP screening.
+- **FATF position**: check whether the **UAE** is on **FATF “increased monitoring” (grey list)** or “high-risk” list at the time of the transaction, and what that means for your matter risk rating.
+- General country risk factors (e.g., Transparency International CPI, local AML regime, any adverse media) and why you are/aren’t applying **Enhanced Due Diligence (EDD)**.
 
-### 2) Obtain a clear “chain of funds” into the UK (trace every hop)
-Beyond “they have the money”, you need “how it travelled”:
+## 2) Transfer audit trail: SWIFT / wire evidence (mandatory to request in practice)
+Obtain evidence that clearly shows the movement of money into the UK client account:
 
-- **Incoming transfer evidence**: SWIFT/MT103 (or equivalent wire confirmation) showing:
-  - sending bank, sending account holder name
-  - receiving UK bank, receiving account holder name
-  - amount, date, reference
-- **Account-to-account tracing**: if the money moved through **intermediary accounts** (including exchange houses, other family members, company accounts), obtain statements/confirmations for each leg so there’s no gap.
-- **Name matching**: ensure the sender name matches the client (or, if third party, that you have full third-party CDD + explanation and gift/loan documentation).
-- **Timing and amounts**: check amounts tally to the purchase funding schedule (deposit/balance) and that transfers aren’t oddly structured (e.g., many smaller payments with no rationale).
+- **SWIFT MT103 / wire transfer confirmation** (or bank transfer advice) showing:
+  - sending bank, sender name and account details (as far as banks disclose),
+  - receiving bank and beneficiary (your firm/client),
+  - amount, currency, date, and reference.
+- If the funds move through **intermediary/correspondent banks**, obtain the available SWIFT chain or confirmations and **trace each “hop”** (layering risk).
 
-### 3) Evidence of FX conversion and origin currency
-If funds are converted from AED (or another currency):
+## 3) Currency conversion evidence (overseas-specific)
+Where AED is converted to GBP, obtain:
 
-- **FX contract note / bank conversion advice** showing original currency, rate, fees, GBP amount and date.
-- Where conversion happens outside a bank (FX broker/exchange house), get:
-  - the broker’s documentation and regulated status (where possible),
-  - payment trail from the client to the broker and broker to the UK account.
+- **FX contract note** / bank conversion receipt / exchange provider confirmation showing **original currency, rate, fees, date, and GBP amount credited**.
+- Ensure the **GBP amount received** matches what you expect after FX/fees (reconcile).
 
-### 4) Apply Enhanced Due Diligence (EDD) in most Dubai-funds matters
-EDD typically means going further than your normal “12 months statements” approach:
+## 4) Prove the *overseas account* and beneficial ownership
+Because you may be less familiar with the documents:
 
-- **More history where needed**: if the UAE account shows recent large credits, obtain additional months (or transaction-specific evidence) until the build-up/source is clear.
-- **Source of wealth (SoW)**: document how the client built their overall wealth (especially for high-value purchases/cash purchases), e.g.:
-  - employment/business ownership and income
-  - sale of business/assets
-  - long-term investments
-- **Independent verification** (risk-based): Companies House equivalent evidence for UAE entities, audited accounts, business sale agreements, payslips/tax documents, etc., depending on the story.
+- Evidence the client’s **UAE bank account ownership** (bank statement showing name and account number/IBAN where available).
+- Verify the account is with a **regulated bank** (basic sense-check of the institution; escalate if it’s obscure or appears to be an MVTS/remittance-only arrangement without clear audit trail).
 
-### 5) If any third party is involved (gift/loan/company), treat them as part of the AML perimeter
-Common with overseas funds:
+## 5) “Source of wealth” overlay (often appropriate as EDD)
+For cross-border funds, you’ll often need to go beyond “where did this payment come from” to “how did the client become able to afford this”:
 
-- **Giftor/funder ID + verification**
-- **3–6 months bank statements** (or more if needed) showing they hold the funds **and** where they came from
-- **Gift letter / loan agreement** (and if mortgage, ensure lender is told—UK Finance Handbook requirements)
-- If the payer is a **company**: identify and verify **UBOs**, obtain corporate documents, and understand the commercial rationale.
+- Obtain corroboration of the client’s **source of wealth** consistent with their profile (e.g., employment contract + payslips/bonus letters; business ownership + accounts/dividend vouchers; property sale documents; inheritance paperwork, etc.).
+- Check for consistency between occupation, wealth, transaction value, and timeline.
 
-### 6) Practical red flags to look for (often seen in overseas-funds files)
-Escalate and consider MLRO referral if you see:
+## 6) Extra checks if the Dubai funds include a gift or third-party funding
+If any part is a gift (very common with deposits), you must do **separate CDD on the giftor**, plus overseas checks:
 
-- funds routed through multiple jurisdictions with no clear reason
-- use of cash deposits, exchange houses, or opaque intermediaries
-- last-minute change in funding route or sender
-- reluctance to provide UAE statements or SWIFT evidence
-- funds coming from an unrelated third party or corporate vehicle without a clear explanation
+- **Giftor’s photo ID**
+- **Giftor’s bank statements (3–6 months)** showing they hold the funds and the source of those funds
+- **Signed gift letter** confirming **amount, relationship, no obligation to repay, and no interest in the property**
+- Plus the same **SWIFT/wire** and **FX evidence** for the gift transfer, and document the relationship/rationale.
+- Also check lender requirements (UK Finance Lenders’ Handbook Part 2) for disclosure of gifted deposits.
 
-### 7) Record-keeping and “don’t proceed until satisfied”
-- Keep a clear note of **what you checked, what you relied on, and why you were satisfied** (or why you escalated).
-- If suspicion remains, escalate to the **MLRO** for consideration of a **SAR** (and potentially a **DAML** request if you need to continue acting). Avoid tipping off.
+## 7) Ongoing monitoring during the matter (Regulation 28(12))
+Apply **ongoing monitoring** throughout the retainer—if the client:
+- changes the funding route,
+- introduces a new overseas account,
+- adds a third-party payer,
+- or sends money from a different country/entity,
+you should **re-risk-rate and re-check** the new element (not just accept it at face value).
 
-If you tell me (i) whether it’s a **cash purchase or mortgaged**, (ii) the **underlying source** (salary savings, business income, property sale, gift, etc.), and (iii) whether funds come from a **personal UAE account, company account, or exchange house**, I can list the exact documents to request in that scenario.
+## 8) Red flags to actively look for (common with overseas funds)
+Escalate (and consider MLRO review/EDD) if you see:
+- funds routed via multiple jurisdictions or unrelated third parties,
+- last-minute change of sending account,
+- inability to evidence the underlying source (e.g., “savings” but no accumulation trail),
+- transfers via money service businesses without a clear trail,
+- inconsistent explanations, reluctance to provide documents, or pressure to complete.
+
+## 9) Reporting framework: SAR / DAML (must be on your radar)
+Even if nothing looks suspicious, your process should sit within the reporting framework:
+- If you **suspect** money laundering (low threshold), make an **internal report to the MLRO** and the MLRO may submit a **SAR to the NCA**.
+- If you need to proceed while suspicion exists, a **DAML** request may be required (NCA has **7 working days** to refuse; if refused, **31-day moratorium** applies).
+- Do not “tip off” the client.
+
+## 10) Record keeping (5 years)
+Keep all CDD/EDD and source-of-funds/wealth evidence, risk assessments, and ongoing monitoring notes for **5 years from the end of the business relationship/transaction**.
+
+If you tell me the **breakdown of the Dubai funds** (savings vs property sale vs business income vs gift) and whether there’s a **mortgage**, I can list the exact document pack to request for each element.

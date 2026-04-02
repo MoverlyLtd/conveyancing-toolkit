@@ -3,30 +3,30 @@
     {
       "expectation": "Response specifies 12 months bank statements for savings showing accumulation pattern",
       "pass": true,
-      "reason": "Explicitly states '12 months of bank/building society statements' and mentions checking 'accumulation pattern over time'"
+      "reason": "Clearly states '12 months of bank/building society statements' and 'credible accumulation pattern over time'"
     },
     {
       "expectation": "Response requires giftor's ID and giftor's bank statements (not just the buyer's)",
       "pass": true,
-      "reason": "Clearly specifies 'Parents' photographic ID' and 'Parents' bank statements' showing they hold the gifted funds"
+      "reason": "Explicitly requires 'Giftor's photographic ID' and 'Giftor's bank statements' showing 3-6 months"
     },
     {
       "expectation": "Response requires a signed gift letter confirming no obligation to repay",
       "pass": true,
-      "reason": "Explicitly mentions 'Signed gift letter' confirming 'no obligation to repay' and other key terms"
+      "reason": "Specifically mentions 'Signed gift letter' confirming 'no obligation to repay'"
     },
     {
       "expectation": "Response mentions risk-based approach (not tick-box compliance)",
       "pass": true,
-      "reason": "Opens with 'Under a risk-based SRA approach' and mentions enhanced due diligence considerations"
+      "reason": "Opens with 'Use a risk-based approach' and mentions documenting reasoning"
     },
     {
       "expectation": "Response mentions record-keeping period of 5 years from end of transaction",
-      "pass": false,
-      "reason": "No mention of the 5-year record retention requirement anywhere in the response"
+      "pass": true,
+      "reason": "States 'retain all CDD/source-of-funds records for 5 years from the end of the business relationship'"
     }
   ],
-  "total_pass": 4,
+  "total_pass": 5,
   "total_expectations": 5,
-  "score_pct": 80
+  "score_pct": 100
 }

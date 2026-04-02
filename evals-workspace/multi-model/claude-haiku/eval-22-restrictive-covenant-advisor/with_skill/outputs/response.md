@@ -1,22 +1,17 @@
 Okay, let's work through this step-by-step:
 
-1. The covenant restricts any alteration to the external appearance of the property. A rear extension would clearly be a breach of this.
+1. The covenant restricts any alteration to the external appearance of the property. A rear extension would constitute a material breach of this covenant.
 
-2. The key question is whether the covenant is still enforceable, given the 2015 extension to the neighboring beneficiary property.
+2. The covenant was imposed in 1992, so s78 of the Law of Property Act 1925 will likely have automatically annexed the benefit to the neighbouring property. The beneficiary still owns that land, so they have standing to enforce.
 
-Enforceability assessment:
+3. However, the fact that the beneficiary's own property has had a large extension built in 2015 without enforcement is a significant factor. This suggests acquiescence or waiver - the beneficiary has themselves breached a similar covenant, weakening their enforcement position.
 
-- The beneficiary still owns the land that was intended to benefit, so the first test is met.
-- The covenant was imposed in 1992, so the benefit has been properly annexed under s78 of the Law of Property Act 1925.
-- The fact that the beneficiary has itself breached the covenant without consequence is a strong indicator that the covenant may be deemed obsolete or unenforceable. The Tribunal is likely to view this as acquiescence.
-- The character of the neighborhood has also likely changed since 1992 if other properties have been extended, further weakening enforceability.
+4. Given the beneficiary's own breach, the change in the character of the neighbourhood, and the fact that the proposed extension is to the rear (less visible), I would advise the following options:
 
-Given these factors, I would advise the following:
+   a) Attempt to negotiate a release of the covenant with the beneficiary. Their own breach makes them less likely to refuse.
 
-1. **Do nothing approach:** The risk of the beneficiary enforcing the covenant is now relatively low, given the historic breach and neighborhood changes. A simple note on the file may suffice.
+   b) If negotiation fails, consider making an application to the Upper Tribunal under s84(1)(aa) of the Law of Property Act 1925. The grounds would be that the continued existence of the covenant impedes reasonable use, and the beneficiary has compromised their position through their own actions.
 
-2. **Indemnity insurance:** If the client wants extra comfort, they could consider obtaining a restrictive covenant indemnity policy. The insurer would likely view this as a low-risk case given the circumstances.
+   c) As a fallback, retrospective indemnity insurance could be obtained - but only if the beneficiary has not been approached about the proposed works. The "no approach" rule is critical.
 
-3. **Tribunal application:** As a final option, the client could make an application to the Upper Tribunal under s84 LPA 1925 to have the covenant modified or discharged on the grounds of it being obsolete or not securing any practical benefit. This would be the most robust solution, but also the most costly.
-
-In summary, I would recommend the "do nothing" approach or low-cost indemnity insurance as the most appropriate options here, given the strong factors undermining the enforceability of the covenant. But the client should be made aware that a Tribunal application remains an option if they want the covenant formally removed.
+The key here is that the beneficiary's own breach significantly strengthens the client's position, both for negotiation and a Tribunal application. I would not recommend just doing the works without addressing the covenant first, as the risk of enforcement remains. But the options of release or Tribunal application seem viable given the circumstances.

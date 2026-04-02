@@ -1,27 +1,34 @@
-Based on the information provided, here are the key implications and recommended remedies for the missing building regulations completion certificate for the loft conversion done in 2019:
+Okay, let's work through this step-by-step:
 
-Implications:
-- The loft conversion work is non-compliant, as a completion certificate is required by law for this type of structural and fire safety-critical work.
-- Lenders will likely require evidence of building regulations compliance before approving a mortgage. Many lenders are particularly strict about fire safety compliance (Part B) for loft conversions.
-- The lack of a certificate represents a risk of potential enforcement action by the local authority, and a potential diminution in property value if issues are discovered.
+1. Identify the work:
+   - Loft conversion done in 2019
 
-Recommended Remedies:
-1. Regularisation Route:
-   - The seller should apply to the local authority for retrospective building regulations approval (known as "regularisation").
-   - This involves submitting an application and having the work inspected by the local authority building control surveyor.
-   - If the work passes inspection, a regularisation certificate will be issued, confirming compliance.
-   - This is the preferred route, as it provides definitive proof of compliance, which lenders will accept.
-   - The process typically takes 4-8 weeks and costs £400-£800, which the seller should be prepared to pay.
+2. When was the work done?
+   - The loft conversion was done in 2019, so this is post-2000 work where full compliance with building regulations is expected.
 
-2. Indemnity Insurance (Not Recommended):
-   - Indemnity insurance is not recommended in this case, as the work was done recently (post-2000) and fire safety compliance is a critical concern for lenders.
-   - Indemnity policies only cover the risk of enforcement action, not any actual defects in the work itself.
-   - Many lenders will not accept indemnity insurance for loft conversions, especially where fire safety compliance is questionable.
+3. Was a competent person scheme used?
+   - No, the seller has confirmed the work was not done under a competent person scheme.
 
-Advice for the Conveyancer:
-- Advise the client (seller) to proceed with the regularisation route immediately, without contacting the local authority first, as any prior contact would eliminate the indemnity insurance option.
-- Explain the importance of obtaining a completion certificate for the lender's requirements and the potential risks of non-compliance.
-- Ensure the regularisation application is submitted promptly and monitor the process through to completion of the certificate.
-- Obtain a copy of the regularisation certificate to provide to the lender and include in the transaction file.
+4. Has anyone approached the local authority?
+   - This is a critical checkpoint. If anyone (seller, buyer, agent, etc.) has contacted the local authority about the missing completion certificate, then indemnity insurance is no longer an option - the only route is to go through regularisation.
+   - You need to establish whether any prior contact has been made before deciding the strategy.
 
-The key priority is to resolve the missing building regulations certificate through the regularisation process, as this is the most reliable and lender-acceptable solution for a recent loft conversion.
+5. Choosing the resolution route:
+
+   Option A: Regularisation
+   - Since this is post-2000 work without a completion certificate, regularisation is the preferred route.
+   - The key reasons are:
+     - Lenders will typically require a completion certificate for work done in the last 10-20 years.
+     - Loft conversions engage critical fire safety regulations (Part B) which lenders take very seriously. Indemnity insurance is often not accepted for Part B non-compliance.
+   - The regularisation process involves:
+     - Applying to the local authority for retrospective approval (no time limit)
+     - Typical cost of £400-800
+     - 4-8 week timescale for inspection and decision
+     - If work passes inspection, a "regularisation certificate" is issued
+
+   Option B: Indemnity insurance
+   - This route is only available if no one has contacted the local authority about the missing certificate.
+   - Indemnity insurance covers the risk of enforcement action by the local authority, but does not confirm the work meets building regulations.
+   - Indemnity is typically £50-200 and may be accepted by some lenders for older work, but is less likely to be accepted for fire safety non-compliance in a recent loft conversion.
+
+In summary, for a 2019 loft conversion without a completion certificate, I would strongly recommend the regularisation route. This provides the strongest evidence of compliance for the lender. Indemnity insurance is higher risk, especially for fire safety issues, and may not be accepted. The key is to establish if any prior contact has been made with the local authority before deciding the strategy.

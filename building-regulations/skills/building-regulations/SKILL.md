@@ -20,6 +20,23 @@ Help conveyancers assess and resolve building regulations issues found
 during the transaction. The most common issue is missing completion
 certificates for historical building work.
 
+## Response Rules — Always Include
+
+**DO:**
+- Always mention the **"before any approach" rule** — indemnity insurance is unavailable if anyone has contacted the local authority about the work
+- Always mention **approximate costs** for at least one resolution option (regularisation typically £400–800, indemnity typically £50–200)
+- For windows: always mention **Part L** (energy efficiency/thermal performance) as the relevant regulation AND **FENSA/CERTASS** as the competent person schemes
+- For loft conversions: always mention **Part B** (fire safety) as the critical concern
+- Always mention **competentperson.co.uk** as the place to check for self-certification
+- When comparing regularisation vs indemnity, always note which route **lenders prefer** (regularisation) and that **not all lenders accept indemnity**
+- When discussing extensions: distinguish between **front/visible** alterations (higher enforcement risk, more likely to attract attention) and **rear/concealed** alterations (lower risk, often not visible from public areas)
+
+**DON'T:**
+- Don't recommend indemnity insurance without first checking whether anyone has approached the local authority
+- Don't discuss indemnity without mentioning the cost range
+- Don't skip the competent person scheme check — it's the quickest resolution (certificate already exists)
+- Don't treat all building work as equal risk — front/visible changes vs rear/concealed changes have very different enforcement profiles
+
 ## Critical Rule: The "Before Any Approach" Principle
 
 **⚠️ This is the single most important fact in building regulations

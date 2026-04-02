@@ -1,15 +1,39 @@
-Okay, here are the key steps to advise your client in this situation:
+Okay, let's walk through the steps for this scenario:
 
-1. **Check for self-certification**: First, search the Competent Person Schemes website (competentperson.co.uk) to see if the windows were installed under a registered scheme like FENSA or CERTASS. If a certificate is found, that's equivalent to building regs approval and no further action is needed.
+1. Identify the work:
+   - Replacement windows installed in 2018
 
-2. **Assess the lender's position**: Review the UK Finance Lender's Handbook Part 2 to see if the lender is likely to accept an indemnity insurance policy for the replacement windows, or if they will require a building regulations completion certificate.
+2. Check for a competent person scheme certificate:
+   - Search competentperson.co.uk for a FENSA or CERTASS certificate for these windows
+   - If a certificate is found, that's equivalent to a building regulations completion certificate, so no further action is needed
 
-3. **Advise on resolution options**: 
-   - If the lender accepts indemnity insurance, advise the client to obtain a suitable policy. This is typically the easiest and most cost-effective route for replacement windows.
-   - If the lender requires a completion certificate, advise the client they will need to go through the regularisation process with the local authority building control department. This involves submitting a retrospective application and having the work inspected.
+3. Check if anyone has contacted the local authority:
+   - Confirm with the client that neither they nor the seller have contacted the council about the windows
+   - This means indemnity insurance is still an option (as long as no one else has contacted them)
 
-4. **Highlight the "before any approach" principle**: Strongly caution the client (and estate agent) against contacting the local authority themselves. Doing so will make indemnity insurance unavailable, even if that was the preferred route.
+4. Advise on resolution options:
 
-5. **Document the resolution**: Whichever route is taken, ensure you obtain and file the relevant documentation - either the indemnity insurance policy or the building regulations completion certificate. This protects the client and provides the necessary evidence for the lender.
+   Option A: Regularisation
+   - Apply to the local authority for retrospective building regulations approval
+   - Cost: typically £400-800
+   - Process: building control inspection and sign-off
+   - This provides formal confirmation that the windows comply with Part L (energy efficiency)
+   - Lenders generally prefer this route as it proves compliance
 
-The key here is to assess the lender's requirements first, then advise the client on the best way to resolve the missing certificate, while being very clear about the implications of contacting the local authority. Let me know if you need any clarification or have additional questions!
+   Option B: Indemnity insurance
+   - Obtain a one-off indemnity insurance policy to cover the enforcement risk
+   - Cost: typically £50-200
+   - Covers the risk of the local authority taking enforcement action and any diminution in property value
+   - Does not cover actual defects in the windows themselves
+   - Many lenders will accept indemnity insurance for replacement windows, as it's a relatively low-risk issue
+
+5. Recommend the best course of action:
+   - Since the work is relatively recent (2018), I would recommend going down the regularisation route if possible.
+   - This provides the lender with formal evidence of compliance, which they will likely prefer.
+   - However, if the client is pressed for time or the seller is unwilling to go through the regularisation process, indemnity insurance may be an acceptable alternative, as replacement windows are often viewed as a low-risk issue by lenders.
+
+6. Advise the client:
+   - Clearly explain the two options, including the approximate costs and the pros and cons of each.
+   - Emphasize that they should not contact the local authority themselves before deciding on the strategy, as that would rule out the indemnity insurance option.
+   - Recommend regularisation if possible, but make it clear that indemnity may also be an acceptable solution, depending on the lender's requirements.
+   - Ensure the client understands the residual risks of each approach (e.g., indemnity covering enforcement but not defects).

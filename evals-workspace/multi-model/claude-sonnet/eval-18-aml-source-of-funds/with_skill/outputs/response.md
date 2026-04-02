@@ -1,79 +1,90 @@
-For Dubai-sourced funds, you need to conduct **enhanced due diligence (EDD)** in addition to standard source of funds checks. Here's what to do:
+For overseas funds from Dubai, you must carry out **all standard source of funds checks for the underlying funding source** (savings, gift, sale proceeds, etc.) **PLUS** these additional overseas-specific checks:
 
-## UAE/Dubai Risk Assessment
+## Dubai-Specific Risk Assessment
 
-**Good news**: UAE is not on the FATF high-risk list and has robust AML frameworks. However, it's still an overseas jurisdiction requiring additional checks.
+**UAE Risk Profile:**
+- Not on FATF high-risk list (currently "grey list" - increased monitoring)
+- Not on HM Treasury sanctions list
+- However, Dubai is a known international financial hub with heightened AML risks
+- Enhanced due diligence is **strongly recommended** as default approach
 
-## Additional Evidence Required
+## Additional Evidence Requirements
 
-Beyond standard source checks for the underlying funding type (savings, gift, etc.), obtain:
+### 1. Currency & Transfer Documentation
+- **SWIFT/wire transfer confirmation** showing:
+  - Sending bank details and account holder name
+  - Receiving UK bank and account holder
+  - Amount in AED and GBP equivalent
+  - Exchange rate and conversion date
+- **FX contract note** or bank conversion confirmation
+- **Trace each step** if funds pass through intermediary banks
 
-### 1. Enhanced Source Documentation
-- **SWIFT/wire transfer confirmations** showing full routing from UAE bank to UK
-- **UAE bank statements** covering longer period (6-12 months vs. standard 3-6)
-- **Currency conversion evidence** - USD/AED to GBP conversion with rates and dates
-- **UAE Central Bank regulated institution confirmation** - verify the sending bank is properly regulated
+### 2. Banking Documentation
+- **UAE bank statements** (3-6 months minimum) showing:
+  - Account holder name matching your client
+  - Source of the funds being transferred
+  - Transaction history leading to the transfer
+- **Bank relationship confirmation** - how long has the client held the account?
 
-### 2. Client Connection to UAE
-- **Visa/residence permit** showing legal status in UAE
-- **Employment documentation** - UAE employment visa, salary certificate, or business registration
-- **Utility bills/tenancy agreement** proving UAE residence
-- **Explanation of UAE connection** - how long resident, reason for being there, occupation
+### 3. Source Country Verification
+- **Client's Emirates ID** or UAE residence visa (if UAE resident)
+- **Employment documentation** if funds relate to UAE employment:
+  - Employment contract or salary certificate
+  - UAE company trade license (if self-employed)
+- **Property sale documentation** if from UAE property disposal
 
-### 3. Tax and Regulatory Compliance
-- **UAE tax certificate** (if applicable - UAE has limited personal taxation)
-- **UK tax position clarification** - are they UK tax resident? Non-dom status?
-- **HMRC overseas income disclosure** if they're UK tax resident
+## Enhanced Due Diligence Triggers
 
-## Enhanced Due Diligence Steps
+Given Dubai's risk profile, apply **EDD** if any of these factors apply:
+- Large transaction amount (>£250k is common EDD threshold)
+- Cash purchase (no UK mortgage)
+- Client is not long-term UAE resident
+- Funds held in UAE for short period before transfer
+- Multiple currency conversions
+- Use of exchange houses rather than major banks
 
-### 1. Source of Wealth Assessment
-Go beyond just "source of funds" - how did they accumulate wealth in UAE?
-- Employment history and salary progression
-- Business interests or investments
-- Previous property sales
-- Family wealth or inheritance
+## Red Flags - Dubai Specific
 
-### 2. Sanctions and PEP Screening
-- Check client against **HM Treasury sanctions list**
-- **UAE PEP database screening** - government officials, royal family connections
-- **Adverse media searches** in both English and Arabic if possible
+**Escalate immediately if:**
+- Funds routed through other high-risk jurisdictions before reaching UK
+- Use of UAE exchange houses with limited international reputation
+- Client unable to explain source of wealth in UAE context
+- Recent large cash deposits into UAE accounts
+- Funds from UAE free zone companies with opaque ownership
 
-### 3. Banking Verification
-- **Direct confirmation from UAE bank** - speak to relationship manager if possible
-- **Account opening documentation** - how did they satisfy UAE bank's KYC?
-- **Large transaction patterns** - any unusual activity in UAE accounts?
+## Compliance Documentation
 
-## Red Flags to Watch For
+**You must document:**
+- **Risk assessment** - why you concluded the Dubai source was acceptable
+- **Source country assessment** - your evaluation of UAE/Dubai risks
+- **Enhanced checks applied** - what additional verification you conducted
+- **Decision rationale** - why you proceeded or declined
 
-- **Rapid movement through multiple UAE banks**
-- **Cash-intensive business in UAE** with no clear audit trail
-- **Recent arrival in UAE** with immediate large funds
-- **Funds originating from other jurisdictions via UAE**
-- **Shell company structures** in UAE free zones
-- **Reluctance to explain UAE connection**
+## UAE Banking Context
 
-## Documentation Requirements
+**Positive factors:**
+- UAE has strong banking regulation
+- Major international banks operate in Dubai
+- UAE has implemented FATF recommendations
+- Good KYC standards at major UAE banks
 
-Create a comprehensive file note covering:
-- UAE country risk assessment and conclusion
-- Client's connection to UAE and legitimacy
-- Source of wealth analysis
-- Enhanced checks performed and results
-- Ongoing monitoring plan
+**Risk factors to monitor:**
+- Historical reputation as money laundering hub
+- Significant cash economy elements
+- Free zones with beneficial ownership opacity
+- Exchange houses with varying standards
 
-## Regulatory Compliance
+## Record Keeping
 
-- **MLR 2017 Regulation 33** requires EDD for overseas transactions
-- **LSAG Guidance** recommends enhanced scrutiny of overseas funds
-- Consider **senior fee-earner sign-off** before proceeding
+Retain **all** documentation for **5 years** including:
+- SWIFT confirmations
+- Currency conversion records
+- UAE bank statements
+- Your risk assessment notes
+- Any correspondence about the Dubai source
 
-## Practical Next Steps
+## Reporting Obligations
 
-1. **Request comprehensive documentation** using the checklist above
-2. **Verify UAE bank regulation status** via UAE Central Bank website
-3. **Assess client's explanation** for UAE residence and wealth accumulation
-4. **Document your risk assessment** thoroughly
-5. **Consider MLRO consultation** before proceeding, especially if any concerns arise
+**Remember:** If any suspicion arises during your checks, you must report to your **MLRO first**, then potentially file a **SAR with NCA**. The **DAML process** (7 working days + 31 day moratorium) applies if you need to continue acting while suspicious.
 
-The key is proportionate response - UAE funds require enhanced checks but aren't automatically high-risk. Focus on understanding the legitimate connection to UAE and ensuring robust audit trail for the funds transfer.
+**Key principle:** Dubai funds require a more intensive verification process, but are not automatically suspicious. Your **risk-based approach** should be proportionate to the specific circumstances while recognizing the enhanced risk profile.

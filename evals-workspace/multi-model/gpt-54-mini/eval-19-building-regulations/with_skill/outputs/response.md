@@ -1,62 +1,47 @@
-A loft conversion done in **2019** with **no building regulations completion certificate** and **no competent person scheme certificate** is a significant conveyancing issue.
+A loft conversion done in **2019** with **no building regulations completion certificate** and **no competent person scheme certificate** is a fairly serious issue.
 
 ## Implications
-A loft conversion usually engages several Building Regulations parts, especially:
 
+A loft conversion usually engages several parts of the Building Regulations, but the key concern is **Part B — fire safety**. That is the area lenders and conveyancers tend to treat most strictly.
+
+Other relevant parts are likely:
 - **Part A** – structure
-- **Part B** – fire safety
 - **Part K** – stairs/guarding
-- **Part L** – insulation
-- sometimes **Part P** – electrics
+- **Part L** – insulation/energy efficiency
+- **Part P** – electrics, if new circuits/lighting were installed
 
-For a loft conversion, **fire safety (Part B)** is the main concern and the area lenders tend to treat most strictly.
-
-Because the work is from **2019**, this is relatively recent, so:
-- lenders may be reluctant to accept mere indemnity insurance
-- the buyer may want proper evidence that the conversion complies
-- if the work is defective, there may be practical safety and value concerns, not just enforcement risk
+Because the work is **post-2000**, full compliance would normally be expected.
 
 ## Remedies
 
-### 1) Regularisation with the local authority
-This is usually the **preferred route** for a 2019 loft conversion, especially where fire safety is involved.
+### 1) Regularisation certificate
+This is usually the **preferred route**, especially for a loft conversion.
 
-- The seller applies for **retrospective building regulations approval**
-- A building control surveyor inspects the work
-- If compliant, a **regularisation certificate** is issued
-- If not, remedial works may be required
+- The seller applies to the local authority for retrospective approval
+- Building control inspects the work
+- If acceptable, a **regularisation certificate** is issued
 
-**Pros**
-- Gives actual confirmation of compliance
-- More acceptable to lenders
-- Best where the work is recent or may have fire safety issues
+**Typical cost:** about **£400–800**  
+**Typical timescale:** around **4–8 weeks**
 
-**Cons**
-- Can take time
-- May uncover defects requiring costly remedial work
+This route is generally **preferred by lenders** because it confirms actual compliance, rather than just insuring against enforcement risk.
 
 ### 2) Indemnity insurance
-This may be possible **only if nobody has contacted the local authority** about the conversion.
+This may be an option **only if no one has contacted the local authority about the work**.
 
-But there are important caveats:
-- **Any contact with building control already made kills indemnity cover**
-- Some lenders will **not accept indemnity** for recent loft conversions or fire safety issues
-- Indemnity only covers **enforcement risk**, not defects in the conversion itself
+**Important before-any-approach rule:** if anyone has already approached the local authority — even informally — **indemnity insurance is no longer available** for that work.
 
-So for a 2019 loft conversion, indemnity is often **less attractive and potentially unacceptable**.
+**Typical cost:** about **£50–200** one-off premium
 
-## Important practical point
-Before anyone contacts the local authority, the parties must decide whether they want to pursue:
-- **regularisation**, or
-- **indemnity**
+However, for a **2019 loft conversion**, indemnity is often **not ideal** and **may not be accepted by all lenders**, particularly because of the likely **Part B fire safety** issues.
 
-If anyone has already contacted building control, **indemnity is no longer available**.
+## Practical point
+A loft conversion from 2019 with no sign-off is usually something the buyer’s lender will want resolved by **regularisation**, or at least by a very clear lender-specific confirmation that indemnity is acceptable.
 
-## Likely best approach
-Given the **2019 date** and the fact this is a **loft conversion**, the safest and most lender-friendly route is usually:
+## What should be done next?
+1. **Check competentperson.co.uk** anyway, just to confirm there is no missed self-certification.
+2. **Do not contact building control yet** until the strategy is agreed, because that would kill the indemnity option.
+3. Check the **specific lender’s Part 2 requirements** in the UK Finance Lender’s Handbook.
+4. If the lender is likely to require a certificate, push for **regularisation**.
 
-1. **seek regularisation**
-2. obtain any available supporting documents from the seller
-3. consider a specialist survey if needed
-
-If you want, I can also draft a short **buyer-facing conveyancing note** or tell you **what to ask the seller for next**.
+If you want, I can also help you draft a concise conveyancing note or client advice on this issue.

@@ -3,30 +3,30 @@
     {
       "expectation": "Response specifies 12 months bank statements for savings showing accumulation pattern",
       "pass": true,
-      "reason": "Clearly states '12 months' and 'accumulation pattern (not just a closing balance)'"
+      "reason": "Explicitly states '12 months' bank/building society statements' and specifically mentions 'showing accumulation pattern, not just a snapshot'"
     },
     {
       "expectation": "Response requires giftor's ID and giftor's bank statements (not just the buyer's)",
       "pass": true,
-      "reason": "Section 2A requires photo ID for each parent and Section 2B requires 'Giftors' bank statements \u2013 typically 3\u20136 months'"
+      "reason": "Clearly requires 'Giftor ID (each parent contributing)' and 'Giftor bank statements' with 3-6 months statements from each parent's accounts"
     },
     {
       "expectation": "Response requires a signed gift letter confirming no obligation to repay",
       "pass": true,
-      "reason": "Section 2C requires signed gift letter confirming 'non-refundable / no repayment'"
+      "reason": "Explicitly requires 'Signed gift letter' that 'Must expressly confirm: No obligation to repay (i.e., not a loan)'"
     },
     {
       "expectation": "Response mentions risk-based approach (not tick-box compliance)",
       "pass": true,
-      "reason": "Opening mentions 'SRA/MLR 2017 (risk-based) source of funds pack' and 'record on file why it is sufficient given your matter risk assessment'"
+      "reason": "Opens with emphasis on 'risk-based (not tick-box)' approach and uses risk-based language throughout"
     },
     {
       "expectation": "Response mentions record-keeping period of 5 years from end of transaction",
-      "pass": false,
-      "reason": "No mention of 5-year record retention requirements anywhere in the response"
+      "pass": true,
+      "reason": "Explicitly states 'retain CDD/SoF/SoW and supporting records for 5 years from the end of the business relationship/transaction'"
     }
   ],
-  "total_pass": 4,
+  "total_pass": 5,
   "total_expectations": 5,
-  "score_pct": 80
+  "score_pct": 100
 }

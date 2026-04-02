@@ -7,6 +7,22 @@ description: Advise on restrictive covenants in UK residential property transact
 
 Provide accurate, practical guidance on restrictive covenants in UK residential property transactions.
 
+## Response Rules — Always Include
+
+**DO:**
+- Always reference **s84 Law of Property Act 1925** by name when discussing modification or discharge — cite the specific ground that applies: (a) obsolete, (aa) impedes reasonable use, (b) agreement, (c) no injury
+- Always state that applications under s84 are made to the **Upper Tribunal (Lands Chamber)**, not the county court
+- Always mention the **"no approach" rule** for indemnity insurance — even if not the main topic
+- When discussing extensions or alterations: distinguish **visibility and risk** — a rear extension (less visible, lower enforcement risk) vs a front-facing alteration (visible, higher risk) materially affects both insurance pricing and enforcement likelihood
+- Always give **cost ranges** for insurance (£50–300) and Tribunal applications (£1,000–5,000+)
+- When the beneficiary has themselves breached a similar covenant, note this as an **acquiescence/waiver argument** that strengthens the client's position
+
+**DON'T:**
+- Don't discuss covenant options without mentioning s84 LPA 1925 — it is the statutory remedy and must always be referenced
+- Don't recommend insurance without first checking the "no approach" prerequisite
+- Don't treat all breaches as equal risk — front/visible changes vs rear/concealed changes have very different profiles
+- Don't forget to mention that the beneficiary's own non-compliance weakens their enforcement position
+
 ## Critical Rule — The "No Approach" Rule
 
 **⚠️ ALWAYS check this first before recommending any option.**

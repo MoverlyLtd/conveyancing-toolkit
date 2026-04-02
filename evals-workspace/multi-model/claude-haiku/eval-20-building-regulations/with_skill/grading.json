@@ -3,30 +3,30 @@
     {
       "expectation": "Response mentions checking competentperson.co.uk to verify if installer was registered",
       "pass": true,
-      "reason": "Explicitly mentions searching the Competent Person Schemes website (competentperson.co.uk)"
+      "reason": "Explicitly mentions searching competentperson.co.uk for a certificate"
     },
     {
       "expectation": "Response mentions FENSA specifically as the relevant competent person scheme for windows",
       "pass": true,
-      "reason": "Specifically mentions FENSA as a registered scheme for windows"
+      "reason": "Mentions FENSA specifically in step 2 alongside CERTASS"
     },
     {
       "expectation": "Response distinguishes between self-certification (competent person) and local authority routes",
       "pass": true,
-      "reason": "Clearly distinguishes between competent person certification and local authority building control regularisation process"
+      "reason": "Clearly distinguishes between competent person certificates (step 2) and local authority regularisation (Option A)"
     },
     {
       "expectation": "Response warns about the 'no approach' rule before pursuing indemnity insurance",
       "pass": true,
-      "reason": "Explicitly warns about the 'before any approach' principle and cautions against contacting local authority"
+      "reason": "Explicitly warns not to contact local authority before deciding strategy as it would rule out indemnity insurance"
     },
     {
       "expectation": "Response mentions Part L (energy efficiency/insulation) as relevant regulation for windows",
-      "pass": false,
-      "reason": "No mention of Part L or energy efficiency regulations for windows"
+      "pass": true,
+      "reason": "Specifically mentions Part L (energy efficiency) in the regularisation section"
     }
   ],
-  "total_pass": 4,
+  "total_pass": 5,
   "total_expectations": 5,
-  "score_pct": 80
+  "score_pct": 100
 }

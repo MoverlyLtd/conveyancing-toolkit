@@ -1,67 +1,45 @@
-## Replacement Windows 2018 - No FENSA Certificate
+This is a common issue with replacement windows. Here's my advice for your client:
 
-This is a very common issue and generally straightforward to resolve. Here's my guidance:
+## Immediate Action Required
 
-### Immediate Actions
+**First, check competentperson.co.uk** to search for a self-certification certificate. Even though the seller says they have no FENSA certificate, the installer may have been registered with FENSA or CERTASS (the two main competent person schemes for windows) and a certificate might exist that the seller doesn't know about.
 
-1. **Search competentperson.co.uk first** - even though the seller says no FENSA certificate exists, always check. Search by:
-   - Property postcode
-   - Installation date (2018)
-   - Look for FENSA or CERTASS schemes
+## The Building Regulations Issue
 
-2. **Ask the seller for documentation**:
-   - Invoice from the installer
-   - Any warranty documentation
-   - Company details of the installer
+The 2018 windows would need to comply with **Part L** (energy efficiency/thermal performance) of the Building Regulations. Without FENSA/CERTASS certification or building control approval, there's technically no evidence of compliance.
 
-### If No Certificate Found
+## Critical Rule: No Contact with Building Control
 
-**Critical Rule**: Do NOT contact building control until you've decided on strategy. Any contact invalidates indemnity insurance.
+**⚠️ Before any approach** to the local authority about this work, you must decide on your resolution strategy. Once anyone contacts building control about unauthorised work, indemnity insurance becomes unavailable for that work. This includes informal enquiries or "just checking."
 
-### Resolution Options
+## Resolution Options
 
-#### Option A: Contact the Original Installer
-- Ask if they were FENSA/CERTASS registered at the time
-- They may be able to issue a retrospective certificate
-- Even if not registered, they may provide technical compliance documentation
+### Option 1: Indemnity Insurance (Recommended for this scenario)
+- **Cost**: Typically £50-200 (one-off premium)
+- **Suitability**: Replacement windows are very low risk and indemnity is widely accepted by lenders for this type of work
+- **Speed**: Available immediately
+- **Covers**: Enforcement action risk and diminution in value
+- **Lender acceptance**: Most mainstream lenders readily accept indemnity for replacement windows
 
-#### Option B: Indemnity Insurance (Most Likely Route)
-This is the typical solution for replacement windows:
+### Option 2: Regularisation
+- **Cost**: Typically £400-800
+- **Process**: Apply to local authority for retrospective building regulations approval
+- **Timescale**: 4-8 weeks
+- **Risk**: Inspection required - if windows fail thermal performance standards, replacement may be needed
 
-- **Cost**: £50-150 (one-off premium)
-- **Lender acceptance**: Very high - replacement windows are low-risk
-- **Covers**: Enforcement action risk
-- **Availability**: Yes (assuming no building control contact made)
+## My Recommendation
 
-**Why indemnity works well here**:
-- Replacement windows are considered low-risk by lenders
-- Part L (thermal performance) compliance is rarely enforced retrospectively
-- Work is relatively recent and likely meets standards
-- Most UK Finance Handbook lenders accept indemnity for this type of work
+For 2018 replacement windows, **indemnity insurance is the appropriate route** because:
+- Windows are relatively recent but low-risk work
+- Lenders routinely accept indemnity for replacement windows
+- Cost-effective compared to regularisation
+- No risk of failing inspection and requiring remedial work
 
-#### Option C: Regularisation
-- **Cost**: £400-600 typically
-- **Process**: Building control inspection of windows
-- **Timescale**: 4-6 weeks
-- **Outcome**: Completion certificate if windows comply
+## Next Steps
 
-### My Recommendation
+1. **Confirm no one has contacted building control** about these windows
+2. **Check your lender's requirements** in Part 2 of the UK Finance Lender's Handbook (though most accept indemnity for windows)
+3. **Obtain indemnity insurance quote** - policy should be in buyer's name
+4. **Search competentperson.co.uk first** - there may be a certificate the seller doesn't know about
 
-**Go with indemnity insurance** unless:
-- Your specific lender requires completion certificates for all post-2010 work (check Part 2 of their Handbook)
-- The windows are obviously non-compliant (wrong glass type, safety issues)
-- Building control has already been contacted
-
-### Lender Check
-Verify with your specific lender, but the vast majority accept indemnity for replacement windows. It's one of the most widely accepted uses of building regulations indemnity insurance.
-
-### Client Advice
-
-Explain to your client:
-- This is a very common issue with a standard solution
-- Indemnity insurance provides adequate protection for this type of work
-- The premium is modest and provides lifetime cover
-- The policy will transfer to them and future owners
-- Risk of enforcement for 6-year-old compliant windows is extremely low
-
-**Key**: Ensure no one contacts building control before the indemnity policy is in place.
+Would you like me to clarify any aspect of this advice or discuss how to present the options to your client?

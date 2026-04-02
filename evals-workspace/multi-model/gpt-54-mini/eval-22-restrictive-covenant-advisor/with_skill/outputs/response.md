@@ -1,46 +1,40 @@
-First question: **has anyone approached the beneficiary about this covenant yet** — even informally, or through a planning application/consultation?
+First, I’d check the **“no approach” rule** before doing anything else: **has anyone contacted or approached the covenant beneficiary already** — even informally, or via a planning consultation? If yes, **indemnity insurance is off the table**.
 
-If **no**, keep it that way for now, because **indemnity insurance is only available if there has been no approach** to the beneficiary.
+Assuming there has been **no approach**, my practical view is:
 
-## Practical assessment
+### 1) Risk position
+- The covenant is a **restrictive covenant** and, on its face, a prohibition on **external alterations**.
+- A **rear extension** is still usually a breach if it changes the external appearance, but it is generally **lower risk than a front-facing alteration** because it is less visible and therefore less likely to prompt enforcement.
+- The fact the covenant dates from **1992** means it is not old enough to be presumed obsolete just by age.
+- However, the neighbour/beneficiary having built a **large extension in 2015** is helpful: that may support an **acquiescence/waiver argument** or at least show a willingness to tolerate similar works, which weakens their enforcement position.
 
-On the facts given, this looks like a fairly standard **“no alteration to the external appearance”** covenant, and a rear extension would likely be a **material breach** if built without consent.
+### 2) Enforceability / leverage
+You should check:
+- whether the beneficiary still owns land capable of benefiting,
+- whether the benefit was annexed under **s78 Law of Property Act 1925** (likely, unless excluded),
+- and whether the 2015 extension was carried out in breach of the same or a similar covenant.
 
-### Factors helping your client
-- The covenant is **1992** rather than very old, so it is likely still capable of being enforceable.
-- The neighbour/beneficiary has itself built a **large extension in 2015**.
-- That is useful evidence of **historic or neighbouring breach**, which:
-  - weakens the practical likelihood of enforcement,
-  - may support an argument for **release/modification** if needed,
-  - may make insurers more comfortable.
+If the beneficiary has themselves breached a similar covenant, that is a meaningful **acquiescence/waiver argument** in your client’s favour.
 
-### Factors against the client
-- A rear extension is still a **visible physical alteration**, so this is not a trivial/technical issue.
-- If the beneficiary is identifiable and still owns benefited land, the covenant is likely still enforceable in principle.
-- If you contact the beneficiary, you will likely **lose the insurance route**.
+### 3) Best route
+If no approach has been made and the client wants the least friction route, I’d usually suggest:
 
-## What I would advise
+- **Indemnity insurance** first, if available: typically **£50–300** for a residential policy, sometimes more depending on visibility/risk.
+- Keep the beneficiary uncontacted to preserve cover.
 
-### Best next step if no approach has been made
-1. **Do not approach the beneficiary.**
-2. Obtain a **restrictive covenant indemnity policy** before any works start.
-3. If the extension is already being planned in detail, ensure the policy is put in place **before**:
-   - submitting anything to the beneficiary,
-   - starting works,
-   - or making any contact that could alert them.
+If insurance is not available or not acceptable, the alternative is to consider an application under **s84 Law of Property Act 1925** to the **Upper Tribunal (Lands Chamber)**, not the county court. For a rear extension, the most relevant grounds would usually be:
+- **s84(a)**: the covenant is obsolete, or
+- **s84(aa)**: it impedes reasonable use of the land and secures no practical benefit of substantial value, or
+- potentially **s84(c)** if no injury would be caused.
 
-### If insurance is unavailable or unsuitable
-Then the options are:
-- **Negotiate a release** with the beneficiary, or
-- Apply to the **Upper Tribunal under s84 LPA 1925**.
+A Tribunal application is much slower and more expensive, typically **£1,000–5,000+** (often more once legal fees and valuation evidence are included).
 
-Given the neighbour has already extended, a **negotiated release** may be more realistic than a Tribunal application, depending on whether the beneficiary is willing to deal.
+### 4) Practical recommendation
+Given the facts, I would usually advise:
+1. **Do not approach the beneficiary yet** if insurance is being considered.
+2. Obtain a title review to confirm the exact wording and enforceability.
+3. If no one has contacted the beneficiary, get a quote for **indemnity insurance**.
+4. If insurance is unavailable or the lender insists on something stronger, consider a **s84 LPA 1925** application to the **Upper Tribunal (Lands Chamber)**.
+5. The neighbour’s own 2015 extension should be investigated and documented, because it may materially reduce their appetite and ability to enforce.
 
-## My overall view
-- **Enforcement risk:** moderate, but weakened by the neighbour’s own extension.
-- **Insurance:** likely the preferred route, **provided there has been no approach**.
-- **Do not contact the beneficiary first** unless you are prepared to lose insurance eligibility.
-
-If you want, I can help you with:
-1. a **risk rating** for lender/reporting purposes, or  
-2. a **recommended wording** for the report to client/lender.
+If you want, I can help you draft a short risk note for the file or a client-facing recommendation.

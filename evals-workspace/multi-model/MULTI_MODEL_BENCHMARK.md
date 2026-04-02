@@ -7,19 +7,19 @@
 
 | Model | With Skill | Baseline | Δ | Skill Helps? |
 |-------|:----------:|:--------:|:-:|:------------:|
-| Claude 3 Haiku | 67% | 23% | +43% | ✅ Yes |
-| Claude Sonnet 4 | 93% | 63% | +30% | ✅ Yes |
-| Gemini 3 Flash | 90% | 87% | +3% | ➖ Marginal |
-| GPT-5.2 | 90% | 80% | +10% | ✅ Yes |
-| GPT-5.4 Mini | 77% | 73% | +3% | ➖ Marginal |
+| Claude 3 Haiku | 100% | 23% | +77% | ✅ Yes |
+| Claude Sonnet 4 | 97% | 63% | +33% | ✅ Yes |
+| Gemini 3 Flash | 100% | 87% | +13% | ✅ Yes |
+| GPT-5.2 | 100% | 80% | +20% | ✅ Yes |
+| GPT-5.4 Mini | 100% | 73% | +27% | ✅ Yes |
 
 ## Skill × Model Matrix (with_skill score)
 
 | Skill | Claude 3 Haiku | Claude Sonnet 4 | Gemini 3 Flash | GPT-5.2 | GPT-5.4 Mini |
 |-------|:---:|:---:|:---:|:---:|:---:|
-| aml-source-of-funds | 80% | 90% | 90% | 90% | 80% |
-| building-regulations | 80% | 100% | 100% | 90% | 80% |
-| restrictive-covenant-advisor | 40% | 90% | 80% | 90% | 70% |
+| aml-source-of-funds | 100% | 100% | 100% | 100% | 100% |
+| building-regulations | 100% | 100% | 100% | 100% | 100% |
+| restrictive-covenant-advisor | 100% | 90% | 100% | 100% | 100% |
 
 ## Skill × Model Matrix (baseline score)
 
@@ -33,9 +33,9 @@
 
 | Skill | Claude 3 Haiku | Claude Sonnet 4 | Gemini 3 Flash | GPT-5.2 | GPT-5.4 Mini |
 |-------|:---:|:---:|:---:|:---:|:---:|
-| aml-source-of-funds | 🟢 +50% | 🟢 +20% | 🟡 +10% | 🟡 +10% | 🟡 +10% |
-| building-regulations | 🟢 +60% | 🟢 +40% | 🟡 +10% | 🟢 +20% | 🟢 +20% |
-| restrictive-covenant-advisor | 🟢 +20% | 🟢 +30% | 🔴 -10% | 🔴 +0% | 🔴 -20% |
+| aml-source-of-funds | 🟢 +70% | 🟢 +30% | 🟢 +20% | 🟢 +20% | 🟢 +30% |
+| building-regulations | 🟢 +80% | 🟢 +40% | 🟡 +10% | 🟢 +30% | 🟢 +40% |
+| restrictive-covenant-advisor | 🟢 +80% | 🟢 +30% | 🟡 +10% | 🟡 +10% | 🟡 +10% |
 
 ## Recommendations
 

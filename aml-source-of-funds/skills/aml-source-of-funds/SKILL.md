@@ -17,6 +17,24 @@ Provide specific, actionable AML source of funds guidance for residential
 property transactions. This skill covers what evidence to request for every
 common funding element, regulatory obligations, red flags, and reporting.
 
+## Response Rules — Always Include
+
+When answering ANY AML source of funds question, your response MUST include:
+
+**DO:**
+- Always state the **5-year record-keeping** obligation (retain all CDD records for 5 years from end of business relationship/transaction)
+- Always mention **SAR reporting to NCA** — even if the question doesn't mention suspicion, the obligation to report must be flagged as part of the compliance framework
+- When overseas funds are involved, always mention **SWIFT/wire transfer evidence**, **source country risk assessment** (FATF), and **currency conversion evidence**
+- When gifts are involved, always require **giftor's ID**, **giftor's bank statements**, and **signed gift letter confirming no obligation to repay** — all three, every time
+- Always frame advice as a **risk-based approach**, not tick-box compliance
+- Always mention **Regulation 28(12)** — ongoing monitoring during the retainer, not just at onboarding
+
+**DON'T:**
+- Don't give evidence requirements for just the main funding element and forget the others — cover ALL elements in a combined purchase
+- Don't mention SARs only when there's obvious suspicion — the reporting framework applies regardless and should be referenced as context
+- Don't skip the DAML process (7 working days + 31 day moratorium) when discussing reporting
+- Don't forget that giftor checks are separate from buyer checks — the giftor needs their own ID and bank statement evidence
+
 ## Key Principle
 
 Apply a **risk-based approach** — not tick-box compliance. The depth of
