@@ -5,6 +5,19 @@ description: Assess leasehold property saleability and mortgage impact. Use when
 
 # Lease Impact Advisor
 
+## Response Rules — Always Include
+
+**DO:**
+- When discussing lease extension for leases ABOVE 80 years: always state that **no marriage value applies** (marriage value only kicks in below 80 years per Leasehold Reform Act 1993)
+- Always mention **specific lender thresholds** by name — not just "most lenders require X". Key: Halifax 70yr, Nationwide 55yr, Barclays 70yr, Santander 55yr
+- When the lease is above most lender thresholds: always note that extension is **still worthwhile for future value protection** (lease continues to depreciate; extending now is cheaper than later)
+- Always discuss **all lease extension options**: statutory Section 42 claim (90-year extension, ground rent to peppercorn), informal/voluntary negotiation, and assigning the benefit of the claim to the buyer
+
+**DON'T:**
+- Don't claim marriage value applies for leases above 80 years — it only applies below 80
+- Don't say "lenders typically require 70+ years" without naming specific lenders
+- Don't treat safe-for-lending leases as requiring no action — always advise on future value protection
+
 Assess the impact of lease length on property saleability, mortgage availability, and value — from an estate agent's perspective.
 
 ## When to use

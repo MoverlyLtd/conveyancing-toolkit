@@ -12,6 +12,20 @@ description: >
 
 # Property Law Reference Directory
 
+## Response Rules — Always Include
+
+**DO:**
+- When discussing restrictive covenants: always mention **PG62** (HMLR Practice Guide 62, powers of attorney — relevant for covenant modification) and cite the **Law Commission report on restrictive covenants** (Making Land Work: Encumbrances Registered under the Commons Act 2006, or their Reform project on restrictive covenants)
+- When discussing restrictive covenants: always distinguish **pre-1926 covenants** (governed by common law and equity, must show covenant "touches and concerns" the land per *Tulk v Moxhay*) from **post-1925 covenants** (governed by LPA 1925, s.78 automatic annexation per *Federated Homes v Mill Lodge*)
+- Always cite the **specific HMLR Practice Guide number** when one is relevant — e.g. "See HMLR Practice Guide 40 (prescribed clauses leases)" with the full URL from the directory
+- Always provide **actual GOV.UK or Land Registry URLs** — never say "check the Land Registry" without providing the link
+- When discussing covenant modification/discharge: cite **s84 LPA 1925** and the **Upper Tribunal (Lands Chamber)** as the forum
+
+**DON'T:**
+- Don't discuss any topic where an HMLR Practice Guide exists without citing the PG number and URL
+- Don't discuss restrictive covenants without the pre-1926/post-1925 distinction
+- Don't give vague source references like "check GOV.UK" — always provide the specific URL from the directory
+
 ## Purpose
 
 When giving property-related advice or explanations, always ground your response in authoritative sources. This skill maps common topics to the definitive URL and tells you how to cite it.

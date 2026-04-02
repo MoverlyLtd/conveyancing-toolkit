@@ -12,6 +12,20 @@ description: >
 
 # CA Protocol Compliance
 
+## Response Rules — Always Include
+
+**DO:**
+- Always cite **specific communication timeframes** from the protocol — e.g. "respond to enquiries within 5 working days", "acknowledge correspondence within 2 working days", "provide weekly updates if no substantive response possible"
+- When discussing planning/building work: always treat **building regulations as a separate concern from planning permission** — they are different regimes (planning = land use, building regs = construction standards)
+- When discussing enforcement: always cite **all three enforcement timeline rules**: 4-year rule (operational development/change of use to dwelling), 10-year rule (breach of condition/other change of use), 12-month rule (listed building enforcement)
+- Always reference **specific CA Protocol section numbers** (e.g. s1.0-1.3 for delays, s4.0-4.1 for property information)
+- When discussing delays: cite the protocol's **escalation steps** (raise with fee earner → raise with senior partner/compliance → refer to regulatory body)
+
+**DON'T:**
+- Don't discuss planning issues without also flagging building regulations as a separate check
+- Don't mention only the 4-year enforcement rule — always include the 10-year and 12-month rules for completeness
+- Don't give vague timeframes like "promptly" — use the specific protocol timeframes
+
 Guide conveyancers through Conveyancing Association Protocol (5th Edition,
 2023) obligations. The CA Protocol complements both the Law Society CQS
 Protocol and CLC regulatory requirements.

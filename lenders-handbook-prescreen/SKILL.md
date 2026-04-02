@@ -11,6 +11,20 @@ description: >
 
 # Lender's Handbook Pre-Screen
 
+## Response Rules — Always Include
+
+**DO:**
+- Always give **specific minimum lease lengths per lender** when asked about lease eligibility — don't round or approximate. Key thresholds: Halifax 70 years, Nationwide 55 years (unique — lowest major lender), Barclays 70 years, Santander 55 years
+- When discussing building regulations: always mention the **enforcement timeline thresholds** — 4-year rule for building work (after which enforcement action is time-barred) and 10-year rule for other planning breaches
+- Always mention **indemnity insurance** as a potential resolution option for building regulations issues
+- Always provide a **clear yes/no eligibility answer** per lender, not just threshold numbers — e.g. "Halifax: YES — 72 years exceeds their 70-year minimum"
+- Cite **Part 2** as the source for lender-specific requirements and **Part 1** for general requirements (with section numbers: 5.14 leasehold, 5.5 building regs)
+
+**DON'T:**
+- Don't state generic "most lenders require 70+ years" without naming specific lenders and their actual thresholds
+- Don't say Nationwide requires 70 or 85 years — it's 55 years (one of the most permissive major lenders for lease length)
+- Don't discuss building regulations without mentioning the enforcement period and indemnity insurance option
+
 Exhaustive checklist covering every Part 1 requirement of the UK Finance
 Mortgage Lenders' Handbook for residential transactions in England & Wales.
 

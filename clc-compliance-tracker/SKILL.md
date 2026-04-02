@@ -12,6 +12,20 @@ description: >
 
 # CLC Compliance Tracker
 
+## Response Rules — Always Include
+
+**DO:**
+- Always state that the **CLC Code of Conduct prevails** where subsidiary codes (Accounts Code, etc.) conflict — this is the hierarchy rule
+- Always **distinguish CLC requirements from SRA/Law Society** equivalents — they are different regulators with different frameworks (e.g. CLC Accounts Code vs SRA Accounts Rules, CLC Regulatory Compliance Manager vs SRA COLP/COFA)
+- Always mention the CLC's **outcomes-focused approach** to regulation — CLC regulates by outcomes, not prescriptive rules
+- When discussing client money: always reference the **CLC Accounts Code** by name as a subsidiary code
+- When discussing complaints: explicitly note that CLC complaints procedures differ from SRA/Law Society procedures
+
+**DON'T:**
+- Don't mix CLC and SRA terminology — e.g. don't call the CLC compliance role "COLP" (that's SRA); CLC uses "Regulatory Compliance Manager"
+- Don't omit the Code of Conduct hierarchy when discussing subsidiary codes
+- Don't assume CLC and SRA rules are interchangeable — always specify which applies
+
 Guide CLC-regulated firms and licensed conveyancers through Council of
 Licensed Conveyancers regulatory requirements. The CLC is an
 outcomes-focused regulator — firms must deliver specified outcomes but

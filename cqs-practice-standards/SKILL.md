@@ -10,6 +10,17 @@ description: >
 
 # CQS Practice Standards
 
+## Response Rules — Always Include
+
+**DO:**
+- Always **distinguish CQS firm-level requirements from individual SRA competence requirements** — CQS accredits the firm's systems and processes; SRA regulates individual solicitor competence separately. Make this distinction explicit.
+- When discussing training: note that CQS requires firm-wide training records AND protocol compliance training, but individual CPD is an SRA requirement
+- When discussing supervision: CQS requires documented supervision procedures at firm level; SRA Code sets individual supervision standards
+
+**DON'T:**
+- Don't conflate CQS (firm accreditation scheme run by Law Society) with SRA regulation (individual and firm-level regulatory requirements) — they overlap but are distinct
+- Don't present CQS requirements without noting which ones go beyond SRA baseline obligations
+
 Guide SRA-regulated firms through Conveyancing Quality Scheme practice
 management requirements. CQS is the Law Society's quality standard for
 residential conveyancing — accredited firms must follow the Conveyancing

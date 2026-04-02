@@ -10,6 +10,16 @@ description: >
 
 # Conveyancing Protocol Checklist
 
+## Response Rules — Always Include
+
+**DO:**
+- When providing pre-exchange checklists: always include ALL of these items: searches currency (within 6 months), mortgage offer (valid and conditions met), deposit (cleared funds confirmed), buildings insurance (arranged to start from exchange/completion), signed contracts (by all parties), title checks complete, replies to enquiries satisfactory
+- Always structure output as a **numbered checklist** with clear pass/fail/pending status for each item
+
+**DON'T:**
+- Don't give partial checklists — cover all key pre-exchange items every time
+- Don't provide checklists without the specific protocol stage/section reference
+
 Generate stage-by-stage compliance checklists based on the Law Society
 Conveyancing Protocol (2019 edition). CQS-accredited firms must follow
 this protocol; non-CQS firms should follow it as best practice.

@@ -7,6 +7,19 @@ description: Calculate UK Stamp Duty Land Tax (SDLT) for residential property pu
 
 Calculate Stamp Duty Land Tax for residential property purchases in England and Northern Ireland.
 
+## Response Rules — Always Include
+
+**DO:**
+- **Always run the calculator script** — never calculate SDLT from memory or training data. The script has current rates; your training data may not.
+- When FTB relief is requested for a price **above the FTB cap (currently £500,000)**: the script will correctly apply standard rates. State clearly: "FTB relief does NOT apply because £X exceeds the £500,000 cap. Standard rates apply."
+- Always **quote the exact figure** from the script output — do not round or recalculate
+- When showing the result, include the **rates source date** from the script output (e.g. "Rates from: 2025-04-01")
+
+**DON'T:**
+- **Never calculate SDLT manually** — always use the script. Models frequently use outdated rates (e.g. old £625,000 FTB cap, old band thresholds)
+- Don't apply FTB bands (£300,000 nil rate, £300k-£500k at 5%) when the price exceeds the FTB cap — the script handles this correctly, trust its output
+- Don't override or "correct" the script's output with your own calculation
+
 ## When to Use
 
 - Buyer asks "how much stamp duty will I pay?"
