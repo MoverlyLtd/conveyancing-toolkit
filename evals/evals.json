@@ -1,0 +1,131 @@
+{
+  "skill_name": "conveyancing-toolkit",
+  "evals": [
+    {
+      "id": 1,
+      "skill": "sdlt-calculator",
+      "prompt": "What's the stamp duty on a house costing £425,000? I'm a first-time buyer.",
+      "expected_output": "Exact SDLT calculation using April 2025 rates: £6,250 total, 1.47% effective rate, with band-by-band breakdown",
+      "expectations": [
+        "Response contains the exact figure £6,250 (not an approximation)",
+        "Response contains 1.47% effective rate",
+        "Response shows band breakdown: £0 on first £300,000, £6,250 on £300,001-£425,000 at 5%",
+        "Response uses post-April 2025 rates (FTB nil rate band £300,000, not £425,000)",
+        "Response mentions first-time buyer relief applies up to £500,000 cap"
+      ]
+    },
+    {
+      "id": 2,
+      "skill": "sdlt-calculator",
+      "prompt": "I'm buying a second property for £650,000. How much stamp duty do I owe?",
+      "expected_output": "Additional property SDLT with 5% surcharge: £52,250 total including surcharge",
+      "expectations": [
+        "Response identifies this as additional property with 5% surcharge",
+        "Response provides exact total figure (not a round number)",
+        "Response shows the surcharge as separate from base SDLT",
+        "Response uses post-April 2025 standard rates (nil band £125,000)"
+      ]
+    },
+    {
+      "id": 3,
+      "skill": "sdlt-calculator",
+      "prompt": "Calculate stamp duty for a £275,000 property purchase",
+      "expected_output": "Standard SDLT: £3,750 total",
+      "expectations": [
+        "Response contains the exact figure £3,750",
+        "Response shows band breakdown: £0 on first £125,000, £3,000 on £125,001-£250,000, £750 on £250,001-£275,000",
+        "Response asks or clarifies buyer type (standard/FTB/additional) if not specified"
+      ]
+    },
+    {
+      "id": 4,
+      "skill": "lease-impact-advisor",
+      "prompt": "I'm an estate agent listing a flat with 68 years remaining on the lease. The asking price is £425,000. What should I know about the lease length?",
+      "expected_output": "Comprehensive saleability assessment with risk band, lender eligibility, extension cost estimate, and buyer pool impact",
+      "expectations": [
+        "Response identifies 68 years as a critical lease length issue",
+        "Response mentions specific lender names and their minimum requirements (not just 'most lenders want 70+ years')",
+        "Response mentions marriage value applies below 80 years",
+        "Response discusses lease extension options (statutory Section 42, informal, assign benefit)",
+        "Response quantifies the price impact (discount percentage or range)",
+        "Response mentions reduced buyer pool due to mortgage restrictions"
+      ]
+    },
+    {
+      "id": 5,
+      "skill": "lease-impact-advisor",
+      "prompt": "A buyer wants to purchase a leasehold flat with 95 years on the lease. Should I be concerned?",
+      "expected_output": "Low risk assessment: most lenders accept 95 years, no marriage value, but extension still advisable as investment protection",
+      "expectations": [
+        "Response identifies 95 years as relatively safe for most lenders",
+        "Response notes no marriage value applies (above 80 years)",
+        "Response mentions specific lender thresholds showing 95 years is acceptable",
+        "Response suggests extension is still worthwhile for future value protection",
+        "Response does NOT treat this as an urgent/critical issue"
+      ]
+    },
+    {
+      "id": 6,
+      "skill": "lenders-handbook-prescreen",
+      "prompt": "I'm reviewing a title for a leasehold property purchase. The lease has 72 years remaining and there's a loft conversion without building regulations sign-off. What does the lender's handbook say?",
+      "expected_output": "Specific Part 1 guidance on lease length requirements and building regulations, with section references",
+      "expectations": [
+        "Response cites specific Handbook Part 1 section numbers (5.14 for leasehold, 5.5 for building regs)",
+        "Response mentions Part 2 lender-specific requirements for lease length",
+        "Response discusses building regulations enforcement period (4-year/10-year thresholds)",
+        "Response mentions indemnity insurance as potential resolution for building regs",
+        "Response does NOT just give generic advice — provides handbook-specific guidance"
+      ]
+    },
+    {
+      "id": 7,
+      "skill": "ca-protocol-compliance",
+      "prompt": "A property has a rear extension built in 2021 without planning permission records. What does the CA Protocol say about handling this?",
+      "expected_output": "CA Protocol section 4.0 guidance on extensions, alterations, planning enforcement periods",
+      "expectations": [
+        "Response references CA Protocol section 4.0 or 4.1 specifically",
+        "Response mentions the 4-year enforcement period for operational development",
+        "Response discusses whether indemnity insurance is appropriate vs obtaining retrospective consent",
+        "Response mentions building regulations as a separate concern from planning",
+        "Response references specific enforcement timeline rules (4yr/10yr/12mo)"
+      ]
+    },
+    {
+      "id": 8,
+      "skill": "ca-protocol-compliance",
+      "prompt": "My client's transaction is being delayed by the other side not responding to enquiries. What does the protocol say?",
+      "expected_output": "CA Protocol section 1.0 guidance on delays and communication standards",
+      "expectations": [
+        "Response references CA Protocol section 1.0-1.3 on delays",
+        "Response mentions specific communication timeframes from the protocol",
+        "Response discusses escalation steps outlined in the protocol",
+        "Response does NOT just give generic advice about chasing — cites protocol provisions"
+      ]
+    },
+    {
+      "id": 9,
+      "skill": "conveyancing-protocol-checklist",
+      "prompt": "We're about to exchange contracts. What should I check against the Law Society protocol?",
+      "expected_output": "Pre-exchange checklist items from the Law Society Conveyancing Protocol",
+      "expectations": [
+        "Response provides a structured checklist of pre-exchange items",
+        "Response mentions specific protocol stages or sections",
+        "Response covers key items: searches currency, mortgage offer, deposit, insurance, signed contracts",
+        "Response references the protocol as source (not just general best practice)"
+      ]
+    },
+    {
+      "id": 10,
+      "skill": "property-law-reference",
+      "prompt": "I need to understand the rules around restrictive covenants on a freehold property. Where should I look?",
+      "expected_output": "Specific authoritative source URLs for restrictive covenant guidance",
+      "expectations": [
+        "Response provides specific URLs to authoritative sources (not just 'check the Land Registry')",
+        "Response mentions HMLR Practice Guides (PG40 or PG62)",
+        "Response references the Law Commission report on restrictive covenants if relevant",
+        "Response cites actual GOV.UK or Land Registry URLs",
+        "Response distinguishes pre-1926 vs post-1925 covenants if appropriate"
+      ]
+    }
+  ]
+}
