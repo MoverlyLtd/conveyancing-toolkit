@@ -1,0 +1,32 @@
+{
+  "grades": [
+    {
+      "expectation": "Response provides specific URLs to authoritative sources (not just 'check the Land Registry')",
+      "pass": true,
+      "reason": "Provides specific Law Society URL and GOV.UK Practice Guide 14 URL with proper citations"
+    },
+    {
+      "expectation": "Response mentions HMLR Practice Guides (PG40 or PG62)",
+      "pass": false,
+      "reason": "References Practice Guide 14 but not the specifically expected PG40 or PG62"
+    },
+    {
+      "expectation": "Response references the Law Commission report on restrictive covenants if relevant",
+      "pass": false,
+      "reason": "No mention of Law Commission report on restrictive covenants"
+    },
+    {
+      "expectation": "Response cites actual GOV.UK or Land Registry URLs",
+      "pass": true,
+      "reason": "Cites and fetches content from GOV.UK Practice Guide 14 URL"
+    },
+    {
+      "expectation": "Response distinguishes pre-1926 vs post-1925 covenants if appropriate",
+      "pass": false,
+      "reason": "No distinction made between pre-1926 and post-1925 covenant rules"
+    }
+  ],
+  "total_pass": 2,
+  "total_expectations": 5,
+  "score_pct": 40
+}

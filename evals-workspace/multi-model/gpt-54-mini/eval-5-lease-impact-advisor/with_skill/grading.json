@@ -1,0 +1,32 @@
+{
+  "grades": [
+    {
+      "expectation": "Response identifies 95 years as relatively safe for most lenders",
+      "pass": true,
+      "reason": "Clearly states 'Most mainstream lenders will accept it' and calls it a 'healthy lease length'"
+    },
+    {
+      "expectation": "Response notes no marriage value applies (above 80 years)",
+      "pass": true,
+      "reason": "Explicitly states 'No marriage value issue'"
+    },
+    {
+      "expectation": "Response mentions specific lender thresholds showing 95 years is acceptable",
+      "pass": false,
+      "reason": "No specific lender thresholds mentioned - only general statement about mainstream lenders"
+    },
+    {
+      "expectation": "Response suggests extension is still worthwhile for future value protection",
+      "pass": false,
+      "reason": "No mention of lease extension or future value protection considerations"
+    },
+    {
+      "expectation": "Response does NOT treat this as an urgent/critical issue",
+      "pass": true,
+      "reason": "Clearly states 'shouldn't be concerned' and 'not a red flag' - treats it as acceptable"
+    }
+  ],
+  "total_pass": 3,
+  "total_expectations": 5,
+  "score_pct": 60
+}

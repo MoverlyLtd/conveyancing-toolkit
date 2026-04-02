@@ -1,0 +1,37 @@
+{
+  "grades": [
+    {
+      "expectation": "Response identifies 68 years as a critical lease length issue",
+      "pass": true,
+      "reason": "Clearly identifies 68 years as 'CRITICAL (<70 years)' band with material impact"
+    },
+    {
+      "expectation": "Response mentions specific lender names and their minimum requirements (not just 'most lenders want 70+ years')",
+      "pass": true,
+      "reason": "Lists specific lenders (Barclays, Halifax/Lloyds, TSB, etc.) with their exact eligibility requirements"
+    },
+    {
+      "expectation": "Response mentions marriage value applies below 80 years",
+      "pass": true,
+      "reason": "Explicitly discusses marriage value inclusion below 80 years and 50% payable amount"
+    },
+    {
+      "expectation": "Response discusses lease extension options (statutory Section 42, informal, assign benefit)",
+      "pass": true,
+      "reason": "Covers both statutory Section 42 and informal extensions, plus assignability of notice to buyer"
+    },
+    {
+      "expectation": "Response quantifies the price impact (discount percentage or range)",
+      "pass": true,
+      "reason": "Provides specific discount range of 'mid-to-high single digits up to ~15%'"
+    },
+    {
+      "expectation": "Response mentions reduced buyer pool due to mortgage restrictions",
+      "pass": true,
+      "reason": "States 'buyer pool shrinks sharply' and explains shift to cash buyers/specialist lending"
+    }
+  ],
+  "total_pass": 6,
+  "total_expectations": 6,
+  "score_pct": 100
+}

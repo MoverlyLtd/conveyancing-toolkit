@@ -1,0 +1,32 @@
+{
+  "grades": [
+    {
+      "expectation": "Response identifies 95 years as relatively safe for most lenders",
+      "pass": true,
+      "reason": "Clearly states 'GREEN BAND - No concerns' and shows all major lenders are eligible"
+    },
+    {
+      "expectation": "Response notes no marriage value applies (above 80 years)",
+      "pass": true,
+      "reason": "Explicitly states 'Marriage value: Won't apply (only kicks in under 80 years)'"
+    },
+    {
+      "expectation": "Response mentions specific lender thresholds showing 95 years is acceptable",
+      "pass": true,
+      "reason": "Lists specific lenders with their year requirements (Nationwide 55+, Barclays/Halifax/Lloyds 70+, Virgin Money 85+)"
+    },
+    {
+      "expectation": "Response suggests extension is still worthwhile for future value protection",
+      "pass": true,
+      "reason": "States 'Consider extension when it drops to around 85-90 years to maintain maximum value'"
+    },
+    {
+      "expectation": "Response does NOT treat this as an urgent/critical issue",
+      "pass": true,
+      "reason": "Uses 'GREEN BAND - No concerns', 'Proceed with confidence', and 'No action needed before completion'"
+    }
+  ],
+  "total_pass": 5,
+  "total_expectations": 5,
+  "score_pct": 100
+}

@@ -5,124 +5,118 @@
 This benchmark compares AI model responses to conveyancing questions **with** and **without** the conveyancing toolkit skills. All evaluations use the same prompts — the only difference is whether the model has access to the skill.
 
 **Last updated:** 2 April 2026
-**Judge model:** Claude Sonnet 4 (automated LLM-as-judge grading)
-**Baseline model:** Claude Opus 4 (without skills)
+**Judge:** Claude Sonnet 4 (automated LLM-as-judge, strict grading)
+**Models tested:** Claude Sonnet 4, Claude 3 Haiku, GPT-5.4 Mini, GPT-5.2, Gemini 3 Flash
+**Evals:** 16 questions across 8 skills
 
-## The Headline: SDLT Across 5 Models
+## The Headline
 
-We asked five leading AI models a simple stamp duty question:
+### Skills help every model — and weaker models benefit most
 
-> *"I'm a first-time buyer looking at a flat for £510,000. What would the stamp duty be?"*
+| Model | With Skill | Baseline | Δ | Verdict |
+|-------|:----------:|:--------:|:-:|:-------:|
+| **Claude Sonnet 4** | 83% | 41% | **+42%** | ✅ Skills transform quality |
+| **Claude 3 Haiku** | 60% | 31% | **+28%** | ✅ Weaker model, bigger lift |
+| **GPT-5.2** | 78% | 57% | **+21%** | ✅ Closes knowledge gaps |
+| **GPT-5.4 Mini** | 71% | 49% | **+21%** | ✅ Same story |
+| **Gemini 3 Flash** | 83% | 65% | **+18%** | ✅ Already strong, still improves |
 
-The correct answer is **£15,500** (FTB relief doesn't apply — the £500,000 cap was restored in April 2025).
+Every model tested scores higher with skills. The weakest model (Claude 3 Haiku, 31% baseline) nearly doubles its score. Even the strongest baselines (Gemini 3 Flash at 65%) gain 18 percentage points.
 
-| Model | Without Skill | With Skill | Correct? |
-|-------|:------------:|:----------:|:--------:|
-| Claude Opus 4 | £15,500 | £15,500 | ✅ → ✅ |
-| GPT-5.4 Mini | £15,500 | £15,500 | ✅ → ✅ |
-| GPT-5.2 | £4,250 ❌ | £15,500 | ❌ → ✅ |
-| Gemini 3 Flash | £4,250 ❌ | £15,500 | ❌ → ✅ |
-| Gemini 2.5 Pro | £4,250 ❌ | £15,500 | ❌ → ✅ |
+### Multi-Model SDLT Test
 
-**3 of 5 models got it £11,250 wrong** — they used the old £625,000 FTB cap instead of the current £500,000 cap. With the skill, all 5 return the correct answer.
+We asked five AI models: *"I'm a first-time buyer looking at a flat for £510,000. What would the stamp duty be?"*
 
-The skill doesn't just add a safety net for the models that already know — it **corrects the models that don't**.
+Correct answer: **£15,500** (FTB relief doesn't apply — £500,000 cap restored April 2025).
 
-## Full Eval Results
+| Model | Without Skill | With Skill |
+|-------|:------------:|:----------:|
+| Claude Sonnet 4 | ❌ £0 | ✅ £15,500 |
+| GPT-5.2 | ❌ £4,250 | ✅ £15,500 |
+| Gemini 3 Flash | ❌ £0 | — |
+| GPT-5.4 Mini | ❌ £4,250 | ✅ £15,500 |
+| Claude 3 Haiku | ❌ £4,250 | ⚠️ Partial |
 
-### By Individual Eval
+**4 of 5 models got SDLT wrong without the skill.** Wrong answers ranged from £0 to £4,250 — all using stale rate data. With the skill, every model capable of following the calculator produces the right answer.
 
-| ID | Skill | Question | With Skill | Baseline | Δ |
-|----|-------|----------|:----------:|:--------:|:-:|
-| 4 | lease-impact-advisor | 68yr lease, £425k flat — what to know? | 6/6 (100%) | 5/6 (83%) | **+17%** |
-| 5 | lease-impact-advisor | 95yr lease — should I worry? | 5/5 (100%) | 3/5 (60%) | **+40%** |
-| 6 | lenders-handbook-prescreen | 72yr lease + loft conversion — handbook? | 4/5 (80%) | 3/5 (60%) | **+20%** |
-| 7 | ca-protocol-compliance | Extension without planning — CA Protocol? | 5/5 (100%) | 2/5 (40%) | **+60%** |
-| 8 | ca-protocol-compliance | Other side not responding — protocol? | 3/4 (75%) | 3/4 (75%) | +0% |
-| 9 | conveyancing-protocol-checklist | Pre-exchange — protocol checklist? | 4/4 (100%) | 4/4 (100%) | +0% |
-| 10 | property-law-reference | Restrictive covenants — where to look? | 2/5 (40%) | 1/5 (20%) | **+20%** |
-| 11 | sdlt-calculator | £510k FTB — stamp duty? | 5/5 (100%) | 5/5 (100%) | +0% |
-| 12 | cqs-practice-standards | CQS renewal audit — what to prepare? | 6/6 (100%) | 6/6 (100%) | +0% |
-| 13 | cqs-practice-standards | New fee earner — CQS onboarding? | 4/5 (80%) | 5/5 (100%) | -20% |
-| 14 | clc-compliance-tracker | Client complaint — CLC requirements? | 6/6 (100%) | 5/6 (83%) | **+17%** |
-| 15 | clc-compliance-tracker | Client money — CLC obligations? | 4/5 (80%) | 4/5 (80%) | +0% |
-| 16 | lenders-handbook-prescreen | Halifax/Nationwide/Barclays on 72yr lease? | 5/5 (100%) | 4/5 (80%) | **+20%** |
+## The Skill × Model Matrix
 
-### By Skill (averaged)
+### Where Each Skill Adds Value (delta: with_skill − baseline)
 
-| Skill | With Skill | Baseline | Δ | Key Insight |
-|-------|:----------:|:--------:|:-:|-------------|
-| **ca-protocol-compliance** | 88% | 58% | **+30%** | Specific section refs + enforcement timelines |
-| **lease-impact-advisor** | 100% | 72% | **+28%** | Named lenders + exact thresholds vs "most lenders" |
-| **lenders-handbook-prescreen** | 87% | 67% | **+20%** | Part 1 section refs + Part 2 lender-specific data |
-| **property-law-reference** | 40% | 20% | **+20%** | Live URLs vs general citations |
-| **clc-compliance-tracker** | 90% | 82% | **+8%** | Specific CLC outcomes vs general regulatory advice |
-| sdlt-calculator | 100% | 100% | +0% | Claude knows current rates (other models don't!) |
-| conveyancing-protocol-checklist | 100% | 100% | +0% | Baseline strong on general protocol knowledge |
-| cqs-practice-standards | 90% | 100% | -10% | Baseline CQS knowledge is surprisingly robust |
+| Skill | Haiku | Sonnet | Gemini Flash | GPT-5.2 | GPT-5.4 Mini | Avg Δ | Keep? |
+|-------|:-----:|:------:|:------------:|:-------:|:------------:|:-----:|:-----:|
+| **sdlt-calculator** | +0% | +100% | — | +80% | +60% | **+60%** | ✅ KEEP |
+| **lenders-handbook-prescreen** | +40% | +60% | +0% | +20% | +20% | **+28%** | ✅ KEEP |
+| **property-law-reference** | +20% | +40% | +40% | +40% | +40% | **+36%** | ⚠️ IMPROVE |
+| **ca-protocol-compliance** | +22% | +45% | +2% | +42% | +55% | **+33%** | ✅ KEEP |
+| **lease-impact-advisor** | +35% | +46% | +0% | +16% | +6% | **+21%** | ✅ KEEP |
+| **clc-compliance-tracker** | +38% | +36% | +26% | −2% | −2% | **+19%** | ⚠️ IMPROVE |
+| **cqs-practice-standards** | +26% | +16% | +16% | +0% | +8% | **+13%** | ⚠️ IMPROVE |
+| **conveyancing-protocol-checklist** | +25% | +0% | +25% | +0% | +0% | **+10%** | 🔴 REWORK |
 
-### Aggregate
+### Absolute Scores (with skill)
 
-| Metric | Score |
-|--------|-------|
-| **With skill (all evals)** | **89%** |
-| **Baseline (all evals)** | **72%** |
-| **Overall delta** | **+17%** |
-| Evals where skill wins | 7/13 (54%) |
-| Evals where tied | 4/13 (31%) |
-| Evals where baseline wins | 2/13 (15%) |
+| Skill | Haiku | Sonnet | Gemini Flash | GPT-5.2 | GPT-5.4 Mini | Avg |
+|-------|:-----:|:------:|:------------:|:-------:|:------------:|:---:|
+| cqs-practice-standards | 90% | 90% | 90% | 90% | 90% | **90%** |
+| lease-impact-advisor | 72% | 100% | 100% | 100% | 80% | **90%** |
+| ca-protocol-compliance | 45% | 68% | 68% | 88% | 88% | **71%** |
+| conveyancing-protocol-checklist | 75% | 100% | 100% | 100% | 75% | **90%** |
+| clc-compliance-tracker | 64% | 82% | 90% | 72% | 44% | **70%** |
+| lenders-handbook-prescreen | 60% | 80% | 80% | 50% | 50% | **64%** |
+| sdlt-calculator | 20% | 100% | — | 80% | 100% | **75%** |
+| property-law-reference | 20% | 40% | 40% | 40% | 40% | **36%** |
 
-## What the Numbers Mean
+## Recommendations
 
-### Where skills add the most value
+### ✅ KEEP — consistent value across models
 
-1. **Protocol specifics** — Section numbers, enforcement timelines, stage-by-stage structure. Baseline gives plausible general advice; skills cite CA §4.0 with the 4-year enforcement window.
+1. **sdlt-calculator** — Avg +60%. Most models have stale SDLT data. Skill guarantees correct rates.
+2. **lenders-handbook-prescreen** — Avg +28%. Part 2 lender-specific data is not in training sets. Named lenders with exact thresholds vs "most lenders require ~70 years."
+3. **ca-protocol-compliance** — Avg +33%. Specific section refs (CA §4.0) and enforcement timelines (4yr/10yr) that baselines miss.
+4. **lease-impact-advisor** — Avg +21%. Specific lender eligibility tables and marriage value calculations. Gemini Flash is an outlier (strong baseline), but all others benefit.
 
-2. **Lender-specific data** — "Will Halifax lend on 72 years?" The skill says yes (70yr minimum) with Part 2 citation. Baseline hedges with "most high-street lenders typically require around 70-75 years."
+### ⚠️ IMPROVE — value exists but inconsistent
 
-3. **Calculation correctness across models** — Claude happens to know current SDLT rates, but GPT-5.2, Gemini 3 Flash, and Gemini 2.5 Pro all use stale training data. The skill guarantees the right answer regardless of model.
+5. **property-law-reference** — Avg delta is good (+36%) but absolute score is poor (36%). The skill's static URL list doesn't match specific queries well enough. **Action:** Convert from static list to structured lookup with categories, or integrate with live URL checking.
+6. **clc-compliance-tracker** — Helps weaker models (+38% Haiku, +36% Sonnet) but GPT models already know CLC well (−2% delta). **Action:** Add more specific CLC Accounts Code detail and subsidiary code references that aren't in training data.
+7. **cqs-practice-standards** — Strong models already know CQS (+0% GPT-5.2). **Action:** Add CQS-specific audit checklists and version-dated requirements that models can't know from training.
 
-4. **Live reference URLs** — Skills link to current GOV.UK and HMLR pages. Baseline cites statutes and case law but can't provide working URLs.
+### 🔴 REWORK — insufficient value
 
-### Where baseline holds its own
-
-- **General regulatory knowledge** (CQS, CLC) — Claude's training covers these frameworks well enough for general questions. Skills add value on specific compliance items.
-- **Legal concepts** — Restrictive covenants, statutory provisions. Both skill and baseline cite the right legislation.
-
-### Where skills fall short (for now)
-
-- **Property law reference** scored only 40% with skill — the expectations require live URLs that the skill's static reference list doesn't always match to the specific query. This is a known gap being improved.
+8. **conveyancing-protocol-checklist** — Only helps weaker models (+25% Haiku, +25% Gemini Flash). Strong models already know the protocol cold. Avg delta +10%. **Action:** Either (a) merge into ca-protocol-compliance as the Law Society protocol is closely related, or (b) add significantly more detail (protocol version dates, paragraph refs, stage-specific evidence requirements) to differentiate from training data.
 
 ## Methodology
 
-- **16 evals** across 8 skills testing real conveyancing scenarios
-- **LLM-as-judge grading** using Claude Sonnet 4 against predefined expectations
-- **Expectations are strict**: partial or vague coverage counts as FAIL
-- **Multi-model SDLT test** run across 5 models (Claude Opus 4, GPT-5.4 Mini, GPT-5.2, Gemini 3 Flash, Gemini 2.5 Pro)
-- All eval prompts, responses, and grading results are in the `evals-workspace/` directory
+- **16 evals** across 8 skills testing real UK conveyancing scenarios
+- **5 models** covering strong (Sonnet, Gemini Flash), mid (GPT-5.4 Mini, GPT-5.2), and weak (Claude 3 Haiku)
+- **LLM-as-judge grading** using Claude Sonnet 4 against predefined expectations per eval
+- **Strict grading**: partial or vague coverage = FAIL; semantic equivalence accepted
+- All eval prompts, responses, and grades are in `evals-workspace/multi-model/`
 
 ## Reproducing
 
 ```bash
-# Run evals (requires skill files in this repo)
-bash evals/run-evals.sh
+# Generate responses across models
+export ANTHROPIC_API_KEY="..." OPENAI_API_KEY="..." GOOGLE_API_KEY="..."
+python3 evals/multi-model-eval.py --models claude-sonnet,claude-haiku,gpt-54-mini,gpt-52,gemini-3-flash
 
-# Grade with LLM judge
-export ANTHROPIC_API_KEY="your-key"
+# Grade only (re-use cached responses)
+python3 evals/multi-model-eval.py --grade-only
+
+# Single-model eval + grade
 python3 evals/llm-judge.py evals-workspace/iteration-N
 ```
 
 ## Updates
 
-We re-run this benchmark when:
-- New models are released (to verify skills are still needed)
-- Skills are updated (to verify improvements)
-- New skills are added (to expand coverage)
+We re-run when new models drop or skills are updated.
 
 | Date | Change |
 |------|--------|
-| 2 Apr 2026 | Initial benchmark: 13 evals, 8 skills, 5-model SDLT test |
+| 2 Apr 2026 | Multi-model benchmark: 5 models × 16 evals × 8 skills |
+| 2 Apr 2026 | Initial benchmark: single-model, 13 evals |
 
 ---
 
-*Built by [Moverly](https://moverly.com) as part of the UK Conveyancing Toolkit. Skills are open source under MIT license.*
+*Built by [Moverly](https://moverly.com). Skills are open source under MIT license.*

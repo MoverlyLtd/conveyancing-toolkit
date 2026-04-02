@@ -1,0 +1,27 @@
+{
+  "grades": [
+    {
+      "expectation": "Response provides a structured checklist of pre-exchange items",
+      "pass": true,
+      "reason": "Clear, well-organized checklist with bullet points for seller's conveyancer, buyer's conveyancer, and both parties"
+    },
+    {
+      "expectation": "Response mentions specific protocol stages or sections",
+      "pass": true,
+      "reason": "Explicitly references 'Stage B (Pre-Exchange)' and includes specific paragraph citations like '(Stage B, para 1)', '(Stage B, para 2)', etc."
+    },
+    {
+      "expectation": "Response covers key items: searches currency, mortgage offer, deposit, insurance, signed contracts",
+      "pass": true,
+      "reason": "Covers all key items - searches (para 11), mortgage offer (para 12), deposit funds (para 9), insurance (Critical Questions), and signed contracts (para 8)"
+    },
+    {
+      "expectation": "Response references the protocol as source (not just general best practice)",
+      "pass": true,
+      "reason": "Opens with 'based on the Law Society Conveyancing Protocol' and includes specific protocol paragraph references throughout"
+    }
+  ],
+  "total_pass": 4,
+  "total_expectations": 4,
+  "score_pct": 100
+}

@@ -1,0 +1,27 @@
+{
+  "grades": [
+    {
+      "expectation": "Response references CA Protocol section 1.0-1.3 on delays",
+      "pass": true,
+      "reason": "Multiple references to CA 1.0 throughout response addressing cooperation, promptness, and communication requirements"
+    },
+    {
+      "expectation": "Response mentions specific communication timeframes from the protocol",
+      "pass": false,
+      "reason": "No specific timeframes mentioned - only general references to 'promptness' and 'regular updates' without citing actual time limits"
+    },
+    {
+      "expectation": "Response discusses escalation steps outlined in the protocol",
+      "pass": true,
+      "reason": "Clear escalation steps provided: phone calls when emails stall, contacting estate agents, and supervisor reviews for significant delays"
+    },
+    {
+      "expectation": "Response does NOT just give generic advice about chasing \u2014 cites protocol provisions",
+      "pass": true,
+      "reason": "Consistently cites specific CA Protocol sections (1.0, 2.2, 1.8, 2.1, 2.0, 2.4) rather than giving generic chasing advice"
+    }
+  ],
+  "total_pass": 3,
+  "total_expectations": 4,
+  "score_pct": 75
+}

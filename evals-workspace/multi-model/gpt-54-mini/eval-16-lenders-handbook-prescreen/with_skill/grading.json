@@ -1,0 +1,32 @@
+{
+  "grades": [
+    {
+      "expectation": "Response gives specific minimum lease length for Halifax (70 years)",
+      "pass": false,
+      "reason": "Does not provide the specific 70-year minimum - only mentions checking 'Part 2 minimum' without stating the actual figure"
+    },
+    {
+      "expectation": "Response gives specific minimum lease length for Nationwide (55 years)",
+      "pass": false,
+      "reason": "Does not provide the specific 55-year minimum - only mentions checking minimum term requirements without stating the actual figure"
+    },
+    {
+      "expectation": "Response gives specific minimum lease length for Barclays (70 years)",
+      "pass": false,
+      "reason": "Does not provide the specific 70-year minimum - only mentions checking 'Part 2 minimum' without stating the actual figure"
+    },
+    {
+      "expectation": "Response provides a clear yes/no eligibility answer for each lender at 72 years",
+      "pass": false,
+      "reason": "Gives vague 'generally will lend' responses with conditions rather than clear yes/no answers based on the specific 72-year lease term"
+    },
+    {
+      "expectation": "Response cites Part 2 as the source (not general knowledge)",
+      "pass": true,
+      "reason": "Explicitly mentions 'Part 2 minimum lease term' and 'Part 2 requirements' as the source for lender criteria"
+    }
+  ],
+  "total_pass": 1,
+  "total_expectations": 5,
+  "score_pct": 20
+}

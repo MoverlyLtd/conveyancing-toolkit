@@ -1,0 +1,37 @@
+{
+  "grades": [
+    {
+      "expectation": "Response covers multiple CQS practice areas (governance, client care, training, file management, cyber security)",
+      "pass": true,
+      "reason": "Response thoroughly covers all five areas: governance/accountability, risk management, information security/cyber awareness, training/competency, client care/complaints, and file/case management"
+    },
+    {
+      "expectation": "Response mentions specific evidence types needed (e.g. training records, complaints log, SRO details)",
+      "pass": true,
+      "reason": "Response provides detailed evidence lists including training certificates, complaints register, SRO documentation, undertakings register, audit logs, and many other specific evidence types"
+    },
+    {
+      "expectation": "Response references the Senior Responsible Officer (SRO) requirement",
+      "pass": true,
+      "reason": "Response explicitly mentions the SRO role and need for documentation naming the SRO and their specific responsibilities"
+    },
+    {
+      "expectation": "Response mentions protocol compliance monitoring as a CQS requirement",
+      "pass": true,
+      "reason": "Response specifically states need for 'written procedures showing how the firm adopts and monitors the Law Society Protocol' and mentions regular compliance reviews"
+    },
+    {
+      "expectation": "Response covers cyber security / IT security requirements",
+      "pass": true,
+      "reason": "Response has dedicated section on Information Security and Cyber Awareness, covering cyber security policy, fraud training, secure communications, and bank detail verification procedures"
+    },
+    {
+      "expectation": "Response mentions file management and supervision requirements",
+      "pass": true,
+      "reason": "Response includes dedicated File and Case Management section covering file reviews, undertakings register, internal file audits, and standardized checklists"
+    }
+  ],
+  "total_pass": 6,
+  "total_expectations": 6,
+  "score_pct": 100
+}

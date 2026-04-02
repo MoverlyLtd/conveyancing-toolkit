@@ -1,0 +1,37 @@
+{
+  "grades": [
+    {
+      "expectation": "Response covers multiple CQS practice areas (governance, client care, training, file management, cyber security)",
+      "pass": true,
+      "reason": "Comprehensively covers all key areas including governance, client care, training, file management, cyber security, AML, conflicts, and more"
+    },
+    {
+      "expectation": "Response mentions specific evidence types needed (e.g. training records, complaints log, SRO details)",
+      "pass": true,
+      "reason": "Extensively details specific evidence needed including training records, complaints register, SRO appointment details, file review checklists, and many other specific documents"
+    },
+    {
+      "expectation": "Response references the Senior Responsible Officer (SRO) requirement",
+      "pass": true,
+      "reason": "Explicitly mentions CQS Senior Responsible Officer (SRO) requirement with specific evidence needed including appointment and role description"
+    },
+    {
+      "expectation": "Response mentions protocol compliance monitoring as a CQS requirement",
+      "pass": true,
+      "reason": "Covers protocol compliance monitoring through periodic CQS compliance reviews, action logs, internal audits, and conveyancing process alignment to Protocol stages"
+    },
+    {
+      "expectation": "Response covers cyber security / IT security requirements",
+      "pass": true,
+      "reason": "Dedicated section on information security covering cyber controls, staff training, secure transmission methods, and specific evidence requirements"
+    },
+    {
+      "expectation": "Response mentions file management and supervision requirements",
+      "pass": true,
+      "reason": "Comprehensive coverage of supervision policy, file review processes, case management systems, and file retention requirements with specific evidence types"
+    }
+  ],
+  "total_pass": 6,
+  "total_expectations": 6,
+  "score_pct": 100
+}

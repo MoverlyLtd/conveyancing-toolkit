@@ -1,0 +1,37 @@
+{
+  "grades": [
+    {
+      "expectation": "Response identifies 68 years as a critical lease length issue",
+      "pass": true,
+      "reason": "Clearly identifies 68-year lease as 'RED' risk band and 'significant challenge' that will limit buyer pool"
+    },
+    {
+      "expectation": "Response mentions specific lender names and their minimum requirements (not just 'most lenders want 70+ years')",
+      "pass": true,
+      "reason": "Lists specific lenders (Nationwide, NatWest, HSBC, Barclays, Halifax, Lloyds) with their exact minimum requirements"
+    },
+    {
+      "expectation": "Response mentions marriage value applies below 80 years",
+      "pass": true,
+      "reason": "Explicitly mentions 'landlord's marriage value claim' in lease extension cost estimate"
+    },
+    {
+      "expectation": "Response discusses lease extension options (statutory Section 42, informal, assign benefit)",
+      "pass": false,
+      "reason": "Only mentions 'statutory lease extension' without discussing Section 42, informal options, or assign benefit alternatives"
+    },
+    {
+      "expectation": "Response quantifies the price impact (discount percentage or range)",
+      "pass": true,
+      "reason": "Provides specific discount range of '5-15% compared to a freehold or longer-lease property'"
+    },
+    {
+      "expectation": "Response mentions reduced buyer pool due to mortgage restrictions",
+      "pass": true,
+      "reason": "States 'restricted buyer pool' and that buyers 'may need to use specialist lenders or pay cash, which will limit potential purchasers'"
+    }
+  ],
+  "total_pass": 5,
+  "total_expectations": 6,
+  "score_pct": 83
+}

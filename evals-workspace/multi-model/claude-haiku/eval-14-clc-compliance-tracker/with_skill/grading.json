@@ -1,0 +1,37 @@
+{
+  "grades": [
+    {
+      "expectation": "Response references CLC Code of Conduct ethical principles or outcomes",
+      "pass": true,
+      "reason": "Specifically references Principle 3 and section 3.6 of the CLC Code of Conduct"
+    },
+    {
+      "expectation": "Response mentions the CLC's outcomes-focused approach",
+      "pass": false,
+      "reason": "No mention of the CLC's outcomes-focused regulatory approach"
+    },
+    {
+      "expectation": "Response covers complaint recording and reporting requirements",
+      "pass": true,
+      "reason": "Mentions keeping a complaints register to record details and how complaints were handled"
+    },
+    {
+      "expectation": "Response mentions the Legal Ombudsman escalation pathway",
+      "pass": true,
+      "reason": "Clearly states clients should be informed of their right to escalate to the Legal Ombudsman"
+    },
+    {
+      "expectation": "Response distinguishes CLC requirements from SRA/Law Society complaints procedures",
+      "pass": false,
+      "reason": "No distinction made between CLC and other regulatory body requirements"
+    },
+    {
+      "expectation": "Response mentions transparency obligations to the client",
+      "pass": true,
+      "reason": "Mentions providing clear explanation to client and addressing all issues raised"
+    }
+  ],
+  "total_pass": 4,
+  "total_expectations": 6,
+  "score_pct": 67
+}

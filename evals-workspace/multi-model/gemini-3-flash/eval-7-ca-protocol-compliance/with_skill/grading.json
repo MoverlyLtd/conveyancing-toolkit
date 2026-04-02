@@ -1,0 +1,32 @@
+{
+  "grades": [
+    {
+      "expectation": "Response references CA Protocol section 4.0 or 4.1 specifically",
+      "pass": true,
+      "reason": "Response explicitly references 'CA Protocol 4.0' multiple times"
+    },
+    {
+      "expectation": "Response mentions the 4-year enforcement period for operational development",
+      "pass": true,
+      "reason": "Response clearly states 4-year enforcement period and explains extension falls within this timeframe"
+    },
+    {
+      "expectation": "Response discusses whether indemnity insurance is appropriate vs obtaining retrospective consent",
+      "pass": false,
+      "reason": "Response only mentions indemnity insurance as the solution but doesn't discuss the alternative of obtaining retrospective consent"
+    },
+    {
+      "expectation": "Response mentions building regulations as a separate concern from planning",
+      "pass": false,
+      "reason": "Response focuses solely on planning permission issues and doesn't mention building regulations at all"
+    },
+    {
+      "expectation": "Response references specific enforcement timeline rules (4yr/10yr/12mo)",
+      "pass": true,
+      "reason": "Response mentions all three timelines: 12 months, 4 years for operational development, and 10 years for change of use"
+    }
+  ],
+  "total_pass": 3,
+  "total_expectations": 5,
+  "score_pct": 60
+}

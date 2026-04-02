@@ -1,0 +1,32 @@
+{
+  "grades": [
+    {
+      "expectation": "Response identifies 95 years as relatively safe for most lenders",
+      "pass": true,
+      "reason": "Clearly states 'Green Light (No Concern)' and 'virtually all UK lenders will accept a 95-year lease without issue'"
+    },
+    {
+      "expectation": "Response notes no marriage value applies (above 80 years)",
+      "pass": true,
+      "reason": "Explicitly mentions marriage value kicks in 'once a lease drops below 80 years' and notes 95 years is above this threshold"
+    },
+    {
+      "expectation": "Response mentions specific lender thresholds showing 95 years is acceptable",
+      "pass": true,
+      "reason": "Provides detailed table of specific lender requirements (Barclays 70 years, Santander 55-82 years, etc.) showing 95 years exceeds all thresholds"
+    },
+    {
+      "expectation": "Response suggests extension is still worthwhile for future value protection",
+      "pass": true,
+      "reason": "Recommends considering extension for long-term ownership and notes 'it is often cheaper and easier to extend while the lease is still in the 90s'"
+    },
+    {
+      "expectation": "Response does NOT treat this as an urgent/critical issue",
+      "pass": true,
+      "reason": "Consistently frames as 'no concern', 'green light', and 'no impact on saleability' rather than urgent problem"
+    }
+  ],
+  "total_pass": 5,
+  "total_expectations": 5,
+  "score_pct": 100
+}

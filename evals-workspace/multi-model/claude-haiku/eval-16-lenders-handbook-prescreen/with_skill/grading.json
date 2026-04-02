@@ -1,0 +1,32 @@
+{
+  "grades": [
+    {
+      "expectation": "Response gives specific minimum lease length for Halifax (70 years)",
+      "pass": true,
+      "reason": "Correctly states Halifax minimum unexpired lease term is 70 years"
+    },
+    {
+      "expectation": "Response gives specific minimum lease length for Nationwide (55 years)",
+      "pass": false,
+      "reason": "Incorrectly states Nationwide minimum is 70 years when it should be 55 years"
+    },
+    {
+      "expectation": "Response gives specific minimum lease length for Barclays (70 years)",
+      "pass": true,
+      "reason": "Correctly states Barclays minimum unexpired lease term is 70 years"
+    },
+    {
+      "expectation": "Response provides a clear yes/no eligibility answer for each lender at 72 years",
+      "pass": true,
+      "reason": "Clearly states all three lenders will accept/lend on property with 72 years remaining"
+    },
+    {
+      "expectation": "Response cites Part 2 as the source (not general knowledge)",
+      "pass": true,
+      "reason": "Explicitly references 'Part 2 requirements' multiple times as the source"
+    }
+  ],
+  "total_pass": 4,
+  "total_expectations": 5,
+  "score_pct": 80
+}

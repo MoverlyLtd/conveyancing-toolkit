@@ -1,0 +1,37 @@
+{
+  "grades": [
+    {
+      "expectation": "Response references CLC Code of Conduct ethical principles or outcomes",
+      "pass": true,
+      "reason": "Clearly references Principle 3 (Act in the Best Interests of Clients), Outcome 3.6, Principle 2 (High Standards of Work), Outcomes 2.1 and 3.3"
+    },
+    {
+      "expectation": "Response mentions the CLC's outcomes-focused approach",
+      "pass": true,
+      "reason": "Explicitly states 'The CLC focuses on \"outcomes,\" meaning you have the flexibility to resolve the issue as you see fit, provided it is fair'"
+    },
+    {
+      "expectation": "Response covers complaint recording and reporting requirements",
+      "pass": true,
+      "reason": "Details Complaints Register requirements including nature of complaint, investigation steps, outcome, redress offered, and time taken"
+    },
+    {
+      "expectation": "Response mentions the Legal Ombudsman escalation pathway",
+      "pass": true,
+      "reason": "Specifically mentions Legal Ombudsman (LeO) for service quality issues like delays and provides context for escalation"
+    },
+    {
+      "expectation": "Response distinguishes CLC requirements from SRA/Law Society complaints procedures",
+      "pass": true,
+      "reason": "Explicitly states 'Unlike SRA-regulated firms who might look to the Law Society Protocol, your benchmark is the CLC Transaction Files Code'"
+    },
+    {
+      "expectation": "Response mentions transparency obligations to the client",
+      "pass": true,
+      "reason": "Covers duty to keep clients informed under Outcome 3.3, providing complaints procedure copy, and written acknowledgment requirements"
+    }
+  ],
+  "total_pass": 6,
+  "total_expectations": 6,
+  "score_pct": 100
+}

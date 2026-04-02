@@ -1,0 +1,32 @@
+{
+  "grades": [
+    {
+      "expectation": "Response mentions CQS training requirements for all conveyancing staff",
+      "pass": true,
+      "reason": "Clearly states mandatory CQS training requirement under Standard 6.1 for all relevant staff"
+    },
+    {
+      "expectation": "Response covers protocol awareness and compliance training",
+      "pass": true,
+      "reason": "Dedicated section on Conveyancing Protocol awareness with specific actions and evidence requirements"
+    },
+    {
+      "expectation": "Response mentions supervision requirements for new staff",
+      "pass": true,
+      "reason": "Detailed coverage of supervision requirements including formal supervisor assignment and file review frequency"
+    },
+    {
+      "expectation": "Response references the need to maintain training records as CQS evidence",
+      "pass": true,
+      "reason": "Multiple references to maintaining training records, certificates, and documentation as evidence"
+    },
+    {
+      "expectation": "Response distinguishes CQS firm-level requirements from individual SRA competence",
+      "pass": false,
+      "reason": "No clear distinction made between CQS firm accreditation requirements and individual SRA competence standards"
+    }
+  ],
+  "total_pass": 4,
+  "total_expectations": 5,
+  "score_pct": 80
+}

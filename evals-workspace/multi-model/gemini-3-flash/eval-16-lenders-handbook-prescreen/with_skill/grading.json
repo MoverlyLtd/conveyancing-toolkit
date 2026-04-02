@@ -1,0 +1,32 @@
+{
+  "grades": [
+    {
+      "expectation": "Response gives specific minimum lease length for Halifax (70 years)",
+      "pass": true,
+      "reason": "Correctly states Halifax requires minimum 70 years at start"
+    },
+    {
+      "expectation": "Response gives specific minimum lease length for Nationwide (55 years)",
+      "pass": false,
+      "reason": "States Nationwide requires 30 years at end of term, not the expected 55 years minimum"
+    },
+    {
+      "expectation": "Response gives specific minimum lease length for Barclays (70 years)",
+      "pass": true,
+      "reason": "Correctly states Barclays requires minimum 70 years at start"
+    },
+    {
+      "expectation": "Response provides a clear yes/no eligibility answer for each lender at 72 years",
+      "pass": true,
+      "reason": "Provides clear 'Acceptable' verdict for all three lenders with specific reasoning"
+    },
+    {
+      "expectation": "Response cites Part 2 as the source (not general knowledge)",
+      "pass": true,
+      "reason": "Explicitly references 'UK Finance Lender's Handbook (Part 1, Section 5.14.1)' and 'specific Part 2 requirements'"
+    }
+  ],
+  "total_pass": 4,
+  "total_expectations": 5,
+  "score_pct": 80
+}

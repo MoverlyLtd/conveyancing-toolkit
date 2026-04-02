@@ -1,0 +1,27 @@
+{
+  "grades": [
+    {
+      "expectation": "Response provides a structured checklist of pre-exchange items",
+      "pass": true,
+      "reason": "Clear structured format with General obligations and Stage C sections, presented as actionable checklist items"
+    },
+    {
+      "expectation": "Response mentions specific protocol stages or sections",
+      "pass": true,
+      "reason": "Explicitly references General paragraphs (a)-(l) and Stage C paragraphs 1-8 with specific citations"
+    },
+    {
+      "expectation": "Response covers key items: searches currency, mortgage offer, deposit, insurance, signed contracts",
+      "pass": false,
+      "reason": "Covers deposit, insurance, and contracts but missing searches currency and mortgage offer verification"
+    },
+    {
+      "expectation": "Response references the protocol as source (not just general best practice)",
+      "pass": true,
+      "reason": "Clearly titled as Law Society Conveyancing Protocol with specific paragraph references throughout"
+    }
+  ],
+  "total_pass": 3,
+  "total_expectations": 4,
+  "score_pct": 75
+}

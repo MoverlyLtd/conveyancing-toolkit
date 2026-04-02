@@ -1,0 +1,32 @@
+{
+  "grades": [
+    {
+      "expectation": "Response references the CLC Accounts Code or subsidiary code",
+      "pass": true,
+      "reason": "Explicitly mentions 'CLC Accounts Code' and references compliance requirements"
+    },
+    {
+      "expectation": "Response mentions specific obligations: designated client account, reconciliation, interest",
+      "pass": true,
+      "reason": "Covers all three: designated client accounts, monthly reconciliation requirement, and interest handling obligations"
+    },
+    {
+      "expectation": "Response covers the requirement for accountant's reports",
+      "pass": true,
+      "reason": "Clearly states requirement for annual accountant's report to CLC confirming compliance"
+    },
+    {
+      "expectation": "Response mentions that CLC Code of Conduct prevails where subsidiary codes conflict",
+      "pass": false,
+      "reason": "No mention of Code of Conduct hierarchy or conflict resolution between codes"
+    },
+    {
+      "expectation": "Response distinguishes CLC client money rules from SRA Accounts Rules",
+      "pass": false,
+      "reason": "No comparison or distinction made between CLC and SRA requirements"
+    }
+  ],
+  "total_pass": 3,
+  "total_expectations": 5,
+  "score_pct": 60
+}
