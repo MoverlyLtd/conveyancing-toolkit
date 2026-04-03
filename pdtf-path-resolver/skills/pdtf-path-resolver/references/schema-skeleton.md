@@ -38,6 +38,8 @@ Leasehold branch lives at `/propertyPack/ownership/ownershipsToBeTransferred/[]/
 - `.../enfranchisement/sellerAwareOfResponse/attachments` — enfranchisement response
 - `.../requiredDocuments/noticeOfSale/attachments` — notice of sale to landlord
 - `.../requiredDocuments/noticeOfBuildingCondition/attachments` — building condition notice
+- `.../transferAndRegistration/deedOfCovenantRequired` — is a deed of covenant required?
+- `.../requiredDocuments/deedOfCovenant` — deed of covenant (document details)
 - `.../additionalInformation/attachments` — additional leasehold info
 
 ## Alterations & Building Works
@@ -93,6 +95,7 @@ Other alteration paths:
 
 ## Energy & Services
 - `/propertyPack/energyEfficiency` — EPC rating, green deal
+  - `.../certificate` — EPC certificate (data + attachments)
   - `.../greenDealLoan/hasGreenDealLoan/attachments` — Green Deal documentation
 - `/propertyPack/electricity`
   - `.../mainsElectricity/electricityMeter/attachments` — meter photo
@@ -163,6 +166,7 @@ Base: `/propertyPack/notices/`
 ## Occupiers
 - `/propertyPack/occupiers/othersAged17OrOver/vacantPossession/attachments` — tenancy agreement / notice to quit
 - `.../vacantPossession/aged17OrOverWillSignToConfirmWillVacate/attachments` — evidence property will be vacant
+- `/propertyPack/occupiers/sellerLivesAtProperty` — does the seller live at the property?
 
 ## Other Issues
 - `/propertyPack/otherIssues/excessiveNoise/attachments`
@@ -178,16 +182,29 @@ Base: `/propertyPack/notices/`
 
 ## Other Top-Level Paths
 - `/propertyPack/buildInformation/roomDimensions/attachments` — room dimension plans
+- `/propertyPack/buildInformation/isNewBuild` — is the property a new build?
+- `/propertyPack/buildInformation/isHMO` — is the property a House in Multiple Occupation?
 - `/propertyPack/delayFactors/hasDelayFactors/attachments` — delay evidence
+- `/propertyPack/councilTax/councilTaxBand` — council tax band
 - `/propertyPack/councilTax/councilTaxAffectingAlterations/attachments` — council tax alteration evidence
 - `/propertyPack/connectivity` — broadband, mobile, TV
+- `/propertyPack/connectivity/broadband` — broadband availability/speed
 - `/propertyPack/parking` — parking arrangements, ULEZ, EV charging
+- `/propertyPack/parking/controlledParking` — controlled parking zone
+- `/propertyPack/parking/electricVehicleChargingPoint` — EV charging point
 - `/propertyPack/fixturesAndFittings` — included/excluded items
+- `/propertyPack/fixturesAndFittings/itemsToRemove` — items seller intends to remove
 - `/propertyPack/priceInformation` — price, disposal type
 - `/propertyPack/completionAndMoving` — chain status, move dates, mortgage sufficiency
+- `/propertyPack/completionAndMoving/moveRestrictionDates` — dates seller cannot move
+- `/propertyPack/completionAndMoving/sufficientToRepayAllMortgages` — will sale proceeds clear mortgages?
 - `/propertyPack/disputesAndComplaints` — past and potential disputes
+- `/propertyPack/disputesAndComplaints/hasDisputesAndComplaints` — disputes/complaints
+- `/propertyPack/disputesAndComplaints/leadingToDisputesAndComplaints` — potential future disputes
 - `/propertyPack/smartHomeSystems` — smart home systems
+- `/propertyPack/smartHomeSystems/hasSmartHomeSystems` — does the property have smart home systems?
 - `/propertyPack/insurance` — insurance difficulties
+- `/propertyPack/insurance/difficultiesObtainingInsurance` — difficulties obtaining buildings insurance
 - `/propertyPack/consumerProtectionRegulationsDeclaration` — CPR compliance
 - `/propertyPack/address` — full address
 - `/propertyPack/uprn` — UPRN
@@ -241,3 +258,21 @@ Base: `/propertyPack/notices/`
 | Prescriptive / customary rights | `/propertyPack/rightsAndInformalArrangements/rightsOrArrangements/rightsCreatedThroughCustom` |
 | Mines and minerals | `/propertyPack/rightsAndInformalArrangements/rightsOrArrangements/minesAndMinerals` |
 | Access restriction attempts | `/propertyPack/rightsAndInformalArrangements/accessRestrictionAttempts` |
+| Broadband availability/speed | `/propertyPack/connectivity/broadband` |
+| Controlled parking zone | `/propertyPack/parking/controlledParking` |
+| EV charging point | `/propertyPack/parking/electricVehicleChargingPoint` |
+| Council tax band | `/propertyPack/councilTax/councilTaxBand` |
+| Smart home systems present? | `/propertyPack/smartHomeSystems/hasSmartHomeSystems` |
+| Seller lives at property? | `/propertyPack/occupiers/sellerLivesAtProperty` |
+| Dates seller cannot move | `/propertyPack/completionAndMoving/moveRestrictionDates` |
+| Sale proceeds clear mortgages? | `/propertyPack/completionAndMoving/sufficientToRepayAllMortgages` |
+| Disputes/complaints | `/propertyPack/disputesAndComplaints/hasDisputesAndComplaints` |
+| Potential future disputes | `/propertyPack/disputesAndComplaints/leadingToDisputesAndComplaints` |
+| Difficulty obtaining buildings insurance | `/propertyPack/insurance/difficultiesObtainingInsurance` |
+| EPC certificate | `/propertyPack/energyEfficiency/certificate` |
+| New build? | `/propertyPack/buildInformation/isNewBuild` |
+| HMO? | `/propertyPack/buildInformation/isHMO` |
+| Septic tank: public sewer within 100ft | `/propertyPack/waterAndDrainage/drainage/publicSewerWithin100ft` |
+| Services crossing (burdening): neighbour services on this property | `/propertyPack/servicesCrossing/pipesWiresCablesDrainsFromProperty` |
+| Services crossing (benefitting): services to this property on neighbour land | `/propertyPack/servicesCrossing/pipesWiresCablesDrainsToProperty` |
+| Deed of covenant required? (leasehold) | `/propertyPack/ownership/ownershipsToBeTransferred/[]/leaseholdInformation/transferAndRegistration/deedOfCovenantRequired` |

@@ -1,0 +1,1 @@
+/propertyPack/financial/mortgageRedemption/adequacyOfSaleProceeds

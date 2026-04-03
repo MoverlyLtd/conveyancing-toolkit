@@ -13,6 +13,7 @@ Map natural language property subjects to their correct PDTF schema paths.
 - Consult the schema skeleton at `{{SKILL_DIR}}/references/schema-skeleton.md` for path resolution
 - Return the **most specific path** that matches the subject — e.g. for "loft conversion building regs" return `/propertyPack/alterationsAndChanges/loftConversion`, not just `/propertyPack/alterationsAndChanges`
 - If the subject could map to multiple paths, return all of them ranked by relevance
+- If the user asks a *yes/no requirement question* (e.g. "is a deed of covenant required?") return the specific yes/no field path — do *not* ask for more context
 - Include the path's description/context so the user can confirm it's correct
 - If connected to MCP, validate the path using `describe_form_path` for the exact schema at that location
 

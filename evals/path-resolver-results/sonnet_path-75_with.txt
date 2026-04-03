@@ -1,0 +1,3 @@
+`/propertyPack/smartHomeSystems/hasSmartHomeSystems`
+
+This path captures whether the property has smart home systems (Boolean: Yes/No/Not known).

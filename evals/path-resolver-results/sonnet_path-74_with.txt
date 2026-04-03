@@ -1,0 +1,3 @@
+`/propertyPack/councilTax/councilTaxBand`
+
+This path contains the council tax band information for the property (typically A-H in England and Wales, A-I in Scotland).

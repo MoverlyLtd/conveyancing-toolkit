@@ -238,5 +238,245 @@
     "skill": "pdtf-path-resolver",
     "input": "Where does a building regulations certificate for insulation work go?",
     "expected": "/propertyPack/alterationsAndChanges/insulation/buildingRegApproval/attachments"
+  },
+  {
+    "id": "path-41",
+    "skill": "pdtf-path-resolver",
+    "input": "The seller did a change of use from commercial to residential. Where does this go?",
+    "expected": "/propertyPack/alterationsAndChanges/changeOfUse"
+  },
+  {
+    "id": "path-42",
+    "skill": "pdtf-path-resolver",
+    "input": "Part of the property is used as a home office. Where is this recorded?",
+    "expected": "/propertyPack/alterationsAndChanges/nonResidentialPurposes"
+  },
+  {
+    "id": "path-43",
+    "skill": "pdtf-path-resolver",
+    "input": "There are unfinished building works at the property. Which path?",
+    "expected": "/propertyPack/alterationsAndChanges/worksUnfinished"
+  },
+  {
+    "id": "path-44",
+    "skill": "pdtf-path-resolver",
+    "input": "The seller is aware of planning permission breaches. Where?",
+    "expected": "/propertyPack/alterationsAndChanges/planningPermissionBreaches"
+  },
+  {
+    "id": "path-45",
+    "skill": "pdtf-path-resolver",
+    "input": "There's been a boundary dispute with the neighbour. Where does this go?",
+    "expected": "/propertyPack/disputesAndComplaints/hasDisputesAndComplaints"
+  },
+  {
+    "id": "path-46",
+    "skill": "pdtf-path-resolver",
+    "input": "Something might lead to a future dispute about the property. Where?",
+    "expected": "/propertyPack/disputesAndComplaints/leadingToDisputesAndComplaints"
+  },
+  {
+    "id": "path-47",
+    "skill": "pdtf-path-resolver",
+    "input": "The neighbour has submitted a planning application that could affect the property. Where?",
+    "expected": "/propertyPack/notices/planningApplication"
+  },
+  {
+    "id": "path-48",
+    "skill": "pdtf-path-resolver",
+    "input": "There's an infrastructure project nearby (HS2/wind farm). Where?",
+    "expected": "/propertyPack/notices/infrastructureProject"
+  },
+  {
+    "id": "path-49",
+    "skill": "pdtf-path-resolver",
+    "input": "The seller received a notice requiring maintenance/repairs. Where?",
+    "expected": "/propertyPack/notices/requiredMaintenance"
+  },
+  {
+    "id": "path-50",
+    "skill": "pdtf-path-resolver",
+    "input": "The property may be on contaminated land. Where is this in the schema?",
+    "expected": "/propertyPack/environmentalIssues/contaminatedLand"
+  },
+  {
+    "id": "path-51",
+    "skill": "pdtf-path-resolver",
+    "input": "There's a coal mining risk. Where does this go?",
+    "expected": "/propertyPack/environmentalIssues/coalMining"
+  },
+  {
+    "id": "path-52",
+    "skill": "pdtf-path-resolver",
+    "input": "Ground stability concerns \u2014 where in PDTF?",
+    "expected": "/propertyPack/environmentalIssues/groundStability"
+  },
+  {
+    "id": "path-53",
+    "skill": "pdtf-path-resolver",
+    "input": "The seller has had difficulty getting building insurance. Where?",
+    "expected": "/propertyPack/insurance/difficultiesObtainingInsurance"
+  },
+  {
+    "id": "path-54",
+    "skill": "pdtf-path-resolver",
+    "input": "Where does a timber treatment guarantee go?",
+    "expected": "/propertyPack/guaranteesWarrantiesAndIndemnityInsurances/timberRotOrInfestationTreatment/attachments"
+  },
+  {
+    "id": "path-55",
+    "skill": "pdtf-path-resolver",
+    "input": "Where does a central heating warranty go?",
+    "expected": "/propertyPack/guaranteesWarrantiesAndIndemnityInsurances/centralHeatingAndorPlumbing/attachments"
+  },
+  {
+    "id": "path-56",
+    "skill": "pdtf-path-resolver",
+    "input": "The property is a Grade II listed building. Where?",
+    "expected": "/propertyPack/listingAndConservation/isListed"
+  },
+  {
+    "id": "path-57",
+    "skill": "pdtf-path-resolver",
+    "input": "Is the property in a conservation area?",
+    "expected": "/propertyPack/listingAndConservation/isConservationArea"
+  },
+  {
+    "id": "path-58",
+    "skill": "pdtf-path-resolver",
+    "input": "There's a tree preservation order on the oak in the front garden. Where?",
+    "expected": "/propertyPack/listingAndConservation/hasTreePreservationOrder"
+  },
+  {
+    "id": "path-59",
+    "skill": "pdtf-path-resolver",
+    "input": "Where do I record whether the property has mains water?",
+    "expected": "/propertyPack/waterAndDrainage/water/mainsWater"
+  },
+  {
+    "id": "path-60",
+    "skill": "pdtf-path-resolver",
+    "input": "Is there a public sewer within 100 feet of the buildings?",
+    "expected": "/propertyPack/waterAndDrainage/drainage/publicSewerWithin100ft"
+  },
+  {
+    "id": "path-61",
+    "skill": "pdtf-path-resolver",
+    "input": "There are pipes from the neighbour crossing our property. Where?",
+    "expected": "/propertyPack/servicesCrossing/pipesWiresCablesDrainsFromProperty"
+  },
+  {
+    "id": "path-62",
+    "skill": "pdtf-path-resolver",
+    "input": "Where do I record the broadband speed and availability?",
+    "expected": "/propertyPack/connectivity/broadband"
+  },
+  {
+    "id": "path-63",
+    "skill": "pdtf-path-resolver",
+    "input": "Does the seller actually live at the property?",
+    "expected": "/propertyPack/occupiers/sellerLivesAtProperty"
+  },
+  {
+    "id": "path-64",
+    "skill": "pdtf-path-resolver",
+    "input": "Are there any dates on which the seller cannot move?",
+    "expected": "/propertyPack/completionAndMoving/moveRestrictionDates"
+  },
+  {
+    "id": "path-65",
+    "skill": "pdtf-path-resolver",
+    "input": "Will the sale price be enough to repay all mortgages?",
+    "expected": "/propertyPack/completionAndMoving/sufficientToRepayAllMortgages"
+  },
+  {
+    "id": "path-66",
+    "skill": "pdtf-path-resolver",
+    "input": "Has the property been subject to a crime or burglary?",
+    "expected": "/propertyPack/otherIssues/crime"
+  },
+  {
+    "id": "path-67",
+    "skill": "pdtf-path-resolver",
+    "input": "Is there excessive noise that affects the property?",
+    "expected": "/propertyPack/otherIssues/excessiveNoise"
+  },
+  {
+    "id": "path-68",
+    "skill": "pdtf-path-resolver",
+    "input": "Have any purchase transactions fallen through in the last 12 months?",
+    "expected": "/propertyPack/otherIssues/failedTransactionsInLast12Months"
+  },
+  {
+    "id": "path-69",
+    "skill": "pdtf-path-resolver",
+    "input": "Is the property a new build?",
+    "expected": "/propertyPack/buildInformation/isNewBuild"
+  },
+  {
+    "id": "path-70",
+    "skill": "pdtf-path-resolver",
+    "input": "Is the property an HMO?",
+    "expected": "/propertyPack/buildInformation/isHMO"
+  },
+  {
+    "id": "path-71",
+    "skill": "pdtf-path-resolver",
+    "input": "Is a deed of covenant required for this leasehold purchase?",
+    "expected": "/propertyPack/ownership/ownershipsToBeTransferred/[]/leaseholdInformation/transferAndRegistration/deedOfCovenantRequired"
+  },
+  {
+    "id": "path-72",
+    "skill": "pdtf-path-resolver",
+    "input": "Where does the Leaseholder Deed of Certificate under the Building Safety Act go?",
+    "expected": "/propertyPack/ownership/ownershipsToBeTransferred/[]/leaseholdInformation/buildingSafetyAct/deedOfCertificateServed/attachments"
+  },
+  {
+    "id": "path-73",
+    "skill": "pdtf-path-resolver",
+    "input": "Are there items the seller intends to take that would normally be considered fixtures?",
+    "expected": "/propertyPack/fixturesAndFittings/itemsToRemove"
+  },
+  {
+    "id": "path-74",
+    "skill": "pdtf-path-resolver",
+    "input": "What council tax band is the property in?",
+    "expected": "/propertyPack/councilTax/councilTaxBand"
+  },
+  {
+    "id": "path-75",
+    "skill": "pdtf-path-resolver",
+    "input": "Are there smart home systems at the property?",
+    "expected": "/propertyPack/smartHomeSystems/hasSmartHomeSystems"
+  },
+  {
+    "id": "path-76",
+    "skill": "pdtf-path-resolver",
+    "input": "Is the property in a controlled parking zone?",
+    "expected": "/propertyPack/parking/controlledParking"
+  },
+  {
+    "id": "path-77",
+    "skill": "pdtf-path-resolver",
+    "input": "Is there an EV charging point at the property?",
+    "expected": "/propertyPack/parking/electricVehicleChargingPoint"
+  },
+  {
+    "id": "path-78",
+    "skill": "pdtf-path-resolver",
+    "input": "Are there any factors that might delay the sale?",
+    "expected": "/propertyPack/delayFactors/hasDelayFactors"
+  },
+  {
+    "id": "path-79",
+    "skill": "pdtf-path-resolver",
+    "input": "Where does the EPC certificate go?",
+    "expected": "/propertyPack/energyEfficiency/certificate"
+  },
+  {
+    "id": "path-80",
+    "skill": "pdtf-path-resolver",
+    "input": "Has damp or dry rot treatment been carried out? Where's the report?",
+    "expected": "/propertyPack/specialistIssues/dryRotEtcTreatment"
   }
 ]

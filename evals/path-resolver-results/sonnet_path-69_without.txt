@@ -1,0 +1,1 @@
+/property/buildDetails/isNewBuild
