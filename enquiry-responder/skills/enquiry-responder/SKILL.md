@@ -12,7 +12,7 @@ Parse enquiry reply text and push responses to the correct enquiries in Moverly.
 **DO:**
 - Match each response in the reply text to the **original enquiry** it answers — use numbering, quoting, or subject matching
 - Present matches for user confirmation before pushing
-- Use `respond_to_enquiry` MCP call with the matched enquiry key and response text
+- Use `respond_to_enquiry` MCP call with the matched enquiry key and response text. If the enquiry has `externalIds`, you can look it up using `externalSystem` + `externalId` instead of the PDTF key — useful when the CMS knows its own reference but not the PDTF key.
 - If the reply text answers an enquiry AND provides new information (e.g. "planning permission was obtained, certificate attached"), flag this for potential vouching at the relevant PDTF path
 - Identify any enquiries that were NOT answered in the reply and highlight them as still open
 - If the reply raises NEW enquiries (counter-enquiries), extract those separately

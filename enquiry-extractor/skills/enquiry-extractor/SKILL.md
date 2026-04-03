@@ -14,7 +14,8 @@ Parse inbound enquiry emails and route each enquiry to the correct PDTF path in 
 - For each enquiry, determine the **PDTF path** it relates to using the schema skeleton (see pdtf-path-resolver skill or `{{SKILL_DIR}}/references/schema-skeleton.md`)
 - Present the extracted enquiries in a numbered table: number, enquiry text, proposed PDTF path, confidence
 - **Ask the user to confirm** the path mappings before pushing to MCP — path resolution is a best-effort match
-- When pushing via MCP, use `raise_enquiry` with the enquiry text and resolved `pdtfPath`
+- When pushing via MCP, use `raise_enquiry` with the enquiry text, resolved `pdtfPath`, and `externalIds`
+- Always set `externalIds` to link back to the source — e.g. `{"email": "<message-id>", "reference": "SJ/2024/1234"}` for email, `{"leap": "ENQ-12345"}` for CMS. This prevents duplicate enquiries when continuations arrive.
 - If the email contains a participant name/firm, extract that for the `from` field
 - Preserve the original enquiry wording — don't paraphrase
 
@@ -72,7 +73,7 @@ Shall I push these to the transaction? (I'll use raise_enquiry for each)
 
 On confirmation:
 ```
-Call: raise_enquiry(transactionId, message, pdtfPath, from) × N
+Call: raise_enquiry(transactionId, message, pdtfPath, from, externalIds) × N
 ```
 
 Report: "8 enquiries logged. The seller's conveyancer will see these in their transaction."
