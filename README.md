@@ -23,12 +23,10 @@ We believe the conveyancing profession deserves better tools. We're building the
 | **SDLT Calculator** | Stamp Duty Land Tax — standard, first-time buyer, additional property, non-UK resident. Deterministic script with live rate updates. [3 out of 5 models get SDLT wrong without this tool.](#why-skills-not-model-knowledge) |
 | **Lender Pre-Screen** | Full UK Finance Lender's Handbook Part 1 (90+ checks, 24 categories) plus Part 2 requirements for 60+ individual lenders. |
 | **Lender Comparison** | Compare requirements across multiple lenders simultaneously — spawns parallel agents, returns a suitability matrix in seconds. |
-| **Lease Impact Advisor** | Saleability assessment for leasehold properties — risk banding, lender eligibility matrix (13 lenders), extension cost estimates, marriage value analysis. The estate agent's "should we list this?" tool. |
-| **Law Society Protocol** | Conveyancing Protocol compliance checklists by stage. |
-| **CA Protocol** | Conveyancing Association Protocol (5th Edition) — the most transaction-specific compliance tool. |
-| **CQS Standards** | CQS Core Practice Management Standards for SRA-regulated firms. |
-| **CLC Compliance** | Council of Licensed Conveyancers regulatory framework tracker. |
-| **Property Law Reference** | Curated directory of 100+ authoritative sources — GOV.UK, HMLR Practice Guides, LEASE Advisory Service, Law Commission reports. Fetch-and-cite, not hallucinate. |
+| **Lease Impact Advisor** | Saleability assessment for leasehold properties — risk banding, lender eligibility matrix (13 lenders), extension cost estimates, marriage value analysis. |
+| **AML Source of Funds** | Per-element evidence requirements, SAR obligations, record-keeping periods. |
+| **Building Regulations** | Approval routes, enforcement timelines, competent person schemes, the "before any approach" rule. |
+| **Restrictive Covenant Advisor** | s84 LPA 1925 grounds, indemnity insurance, modification applications, visibility risk assessment. |
 
 ### PDTF Connector — standard property data
 

@@ -2,19 +2,35 @@
 
 ## Published ✅
 
-| Skill | Type | Status |
-|-------|------|--------|
-| `sdlt-calculator` | Standalone | ✅ Live — 20/20 tests, rates from 1 Apr 2025 |
-| `moverly-connect` | Moverly | ✅ Live — 16 MCP tools (claims, provenance, forms, enquiries, vouch) |
-| `moverly-diligence` | Moverly | ✅ Live — risk intelligence + enquiry management |
-| `moverly-upload` | Moverly | ✅ Live — document upload, queue monitoring, flag resolution |
-| `report-on-title` | Moverly | ✅ Live — Report on Title from PDTF state + DE flags (17 sections) |
-| `conveyancing-protocol-checklist` | Standalone | ✅ Live — Law Society Protocol compliance |
-| `ca-protocol-compliance` | Standalone | ✅ Live — CA Protocol 5th Edition compliance |
-| `cqs-practice-standards` | Standalone | ✅ Live — CQS practice management standards |
-| `clc-compliance-tracker` | Standalone | ✅ Live — CLC regulatory compliance |
-| `lenders-handbook-prescreen` | Standalone | ✅ Live — Part 1 (90+ checks) + Part 2 (60+ lenders) |
-| `lender-comparison` | Standalone | ✅ Live — Parallel subagent lender checking |
+| Skill | Tier | Type | Status |
+|-------|------|------|--------|
+| `agentic-diligence` | 1 — Transformational | Moverly | ✅ Live — the agentic diligence loop |
+| `sdlt-calculator` | 2 — Reach-for | Standalone | ✅ Live — rates from 1 Apr 2025, daily GOV.UK check |
+| `lease-impact-advisor` | 2 — Reach-for | Standalone | ✅ Live — risk bands, lender eligibility, marriage value |
+| `lenders-handbook-prescreen` | 2 — Reach-for | Standalone | ✅ Live — Part 1 (90+ checks) + Part 2 (60+ lenders) |
+| `aml-source-of-funds` | 2 — Reach-for | Standalone | ✅ Live — per-element evidence requirements |
+| `building-regulations` | 2 — Reach-for | Standalone | ✅ Live — approval routes, enforcement, competent person |
+| `restrictive-covenant-advisor` | 2 — Reach-for | Standalone | ✅ Live — s84 grounds, indemnity, modification |
+| `lender-comparison` | 2 — Utility | Standalone | ✅ Live — parallel subagent lender checking |
+| `pdtf-connector` | 2 — Moverly | Moverly | ✅ Live — 19 MCP tools (PDTF Level 1-3) |
+| `moverly-diligence` | 2 — Moverly | Moverly | ✅ Live — risk intelligence + enquiry management |
+| `report-on-title` | 2 — Moverly | Moverly | ✅ Live — Report on Title from PDTF state + DE flags |
+| `enquiry-extractor` | 2 — Workflow | PDTF Standard | ✅ Live — extract enquiries from email text |
+| `enquiry-renderer` | 2 — Workflow | PDTF Standard | ✅ Live — render open enquiries for counterparty |
+| `enquiry-responder` | 2 — Workflow | PDTF Standard | ✅ Live — match responses to enquiries |
+| `pdtf-path-resolver` | 2 — Utility | PDTF Standard | ✅ Live — map data subjects to PDTF schema paths |
+
+## Retired ⏹️
+
+Moved to `retired/`. Rationale: DE flags ARE the checklist; firm-level practice management is out of scope.
+
+| Skill | Reason |
+|-------|--------|
+| `conveyancing-protocol-checklist` | Protocol compliance audited after the fact, not followed step-by-step |
+| `ca-protocol-compliance` | Same — DE flags cover substantive property-level checks |
+| `cqs-practice-standards` | Firm-level, not transaction-level |
+| `clc-compliance-tracker` | Firm-level, not transaction-level |
+| `property-law-reference` | Curated URL list — models can search the web |
 
 ## Next Up 🔨
 
