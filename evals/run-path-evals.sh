@@ -69,26 +69,24 @@ check_path() {
     local response="$1"
     local expected="$2"
     
-    # Strip array notation for matching
+    # Strip array notation and normalise
     local norm_expected="${expected//\[\]/}"
+    norm_expected="${norm_expected//\/\//\/}"  # collapse double slashes
     
-    # Direct match
-    if echo "$response" | grep -qF "$norm_expected"; then
+    # Strip backticks from response for matching
+    local clean_response
+    clean_response=$(echo "$response" | tr -d '\`' | tr '\n' ' ')
+    
+    # Try exact expected (with [] if present)
+    if echo "$clean_response" | grep -qF "$expected"; then
         echo "1"
         return
     fi
     
-    # Truncation match - response is a prefix of expected (at least 80%)
-    local resp_clean
-    resp_clean=$(echo "$response" | grep -oE '/propertyPack[^\`\s]*' | head -1)
-    if [ -n "$resp_clean" ] && [[ "$norm_expected" == "$resp_clean"* ]]; then
-        # Check it's at least 80% of the expected path
-        local resp_len=${#resp_clean}
-        local exp_len=${#norm_expected}
-        if [ $resp_len -gt $(( exp_len * 80 / 100 )) ]; then
-            echo "1"
-            return
-        fi
+    # Try normalised (without [])
+    if echo "$clean_response" | grep -qF "$norm_expected"; then
+        echo "1"
+        return
     fi
     
     echo "0"
