@@ -20,7 +20,9 @@ You have the Moverly MCP server connected. We're going to walk through a complet
 
 **Step 1: Find the demo transaction**
 
-Call `moverly_list_transactions` to find the transaction for 14 Oakwood Terrace, Bristol. Show me the transaction ID and current status.
+Call `moverly_list_transactions` to find the transaction for 10 Downend Park, Bristol BS7 9PU. Show me the transaction ID and current status.
+
+The expected transaction ID is `D2YHMFAZ4n8oJ3puvxUjqA`.
 
 **Step 2: Snapshot the timestamp**
 
@@ -33,7 +35,7 @@ The buyer's conveyancer has sent the following email. Extract each enquiry, reso
 ```
 Dear Sirs,
 
-Re: 14 Oakwood Terrace, Bristol BS6 7QP — Our client: Mr James Harrison
+Re: 10 Downend Park, Bristol BS7 9PU — Our client: Mr James Harrison
 Our ref: SJ/2024/1234
 
 We write further to receipt of the contract pack and raise the following additional enquiries:
@@ -62,9 +64,11 @@ For each enquiry:
 - Ask me to confirm before pushing to MCP
 
 When I confirm, use `moverly_raise_enquiry` for each, with:
-- `destinationRole`: "Seller's Conveyancer"
+- `subject`: a short title for the enquiry
+- `messageText`: the full enquiry text
+- `destinationRole`: "Seller Conveyancer" (exact string, no apostrophe)
 - `externalIds`: `{"email": "SJ/2024/1234", "enquiryNumber": "1"}` (incrementing)
-- `pdtfPath`: the resolved path
+- `pdtfPath`: the resolved PDTF path for the subject
 
 **Step 4: Check what was logged**
 
@@ -81,7 +85,7 @@ The seller's conveyancer has replied:
 ```
 Dear Ms Chen,
 
-Re: 14 Oakwood Terrace — Our client: Mrs Patricia Webb
+Re: 10 Downend Park — Our client: Mrs Patricia Webb
 Your ref: SJ/2024/1234
 
 In response to your additional enquiries:
@@ -146,7 +150,8 @@ Use `moverly_delete_claims_after` with the "demo start" timestamp from Step 2, i
 
 ## Notes
 
-- Transaction must exist on staging with the demo address
-- The `delete_claims_after` tool requires the MR !3282 to be merged
-- If the demo transaction doesn't have the right data, adjust the email content to match what's actually there
+- Demo transaction: `D2YHMFAZ4n8oJ3puvxUjqA` (10 Downend Park, Bristol BS7 9PU) on staging
+- All 4 MCP tools live on staging as of 2026-04-08 (MR !3282 merged)
+- If the demo transaction doesn't have matching lease/leasehold data, adjust the email content to match what's actually there
+- Known cosmetic bug: `list_enquiries` may show `totalCount: 0` while `enquiries: [...]` populated — the list is correct, count is wrong
 - The demo works best when the conveyancer reads the agent's proposals carefully and edits/confirms — this is the approval gate in action
