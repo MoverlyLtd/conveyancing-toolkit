@@ -1,0 +1,334 @@
+{
+  "1.11a": [
+    "Address for standard documents: Customer Support Department, Sentinel House, Morton Road, Darlington, DL1 4PT."
+  ],
+  "1.11b": [
+    "Contact point for inappropriate standard documents: Customer Support Department, Principal Office."
+  ],
+  "1.7": [
+    "Lending is not permitted where the borrower and mortgagor are different entities."
+  ],
+  "1.14": [
+    "Solicitor may not act if they or an immediate family member is the seller."
+  ],
+  "1.15": [
+    "Solicitor may not act if they or an immediate family member is the borrower."
+  ],
+  "3.1.3": [
+    "Notification of seller's conveyancer details is not required.",
+    "Notification in writing is required if a conflict of interest exists or the same firm acts for both parties."
+  ],
+  "3.1.4": [
+    "Contact for unrepresented sellers: Customer Support Department, Principal Office."
+  ],
+  "3.1.5": [
+    "No alternative identity verification documents are accepted."
+  ],
+  "3.2.3": [
+    "Seller's solicitor details not required unless a conflict of interest exists or the same firm acts for both parties."
+  ],
+  "3.2.4": [
+    "Contact for unrepresented sellers: Customer Support Department, Principal Office."
+  ],
+  "4.1": [
+    "A copy of the valuation report is provided with the mortgage offer."
+  ],
+  "4.3": [
+    "Contact for incorrect valuation assumptions: Mortgage Processing Team, Principal Office."
+  ],
+  "4.5a": [
+    "Contact for re-inspections: Mortgage Processing Team, Principal Office."
+  ],
+  "4.5b": [
+    "Certificate of Title destination: Customer Support Department, Principal Office."
+  ],
+  "5.1.1": [
+    "Properties sold within the last 6 months are generally unacceptable, excluding part-exchange from house builders.",
+    "Remortgages within 6 months of purchase are generally unacceptable unless due to inheritance or replacing bridging finance.",
+    "Capital raising is prohibited for remortgages replacing bridging finance or cash purchases, except for refurbishment costs.",
+    "Sub-sales, back-to-back transactions, and assignable contracts are prohibited.",
+    "Granting a lease immediately after acquiring freehold for the purpose of a sale is considered a prohibited sub-sale."
+  ],
+  "5.2.1": [
+    "Contact if seller is not the registered owner: Customer Support Department, Principal Office."
+  ],
+  "5.4.4": [
+    "Environmental or contaminated land reports are not required."
+  ],
+  "5.4.5": [
+    "Personal searches are accepted for remortgages only.",
+    "Search firms must subscribe to the Search Code and be monitored by the PCCB."
+  ],
+  "5.4.6": [
+    "Search insurance is accepted for remortgages only.",
+    "Minimum insurance cover must equal the open market value of the property."
+  ],
+  "5.5.3a": [
+    "Contact for breach of planning/building conditions: Customer Support Department, Principal Office."
+  ],
+  "5.5.3b": [
+    "Original planning permissions are not required; borrowers should retain them."
+  ],
+  "5.5.3c": [
+    "Building regulation consents are not required; borrowers should retain them."
+  ],
+  "5.5.3d": [
+    "Certificates of lawful use are not required; borrowers should retain them."
+  ],
+  "5.5.4": [
+    "Contact for restrictions affecting marketability: Customer Support Department, Principal Office."
+  ],
+  "5.7.1a": [
+    "Flying freeholds are generally not accepted; refer cases to Customer Support Department, Principal Office."
+  ],
+  "5.7.1b": [
+    "Freehold flats are not accepted."
+  ],
+  "5.7.1c": [
+    "Contact for freehold flats/flying freeholds: Customer Support Department, Principal Office."
+  ],
+  "5.8.1": [
+    "Converted buildings of 4 or fewer flats where the borrower owns the freehold and occupies a flat are not accepted."
+  ],
+  "5.8.5": [
+    "Cross-over freehold/leasehold arrangements for two-flat buildings are not accepted."
+  ],
+  "5.9.1": [
+    "Commonhold title is accepted."
+  ],
+  "5.10.1": [
+    "Contact for usage restrictions: Customer Support Department, Principal Office."
+  ],
+  "5.13.1": [
+    "Contact for secondary charges or non-funded purchase balances: Customer Support Department, Principal Office."
+  ],
+  "5.14.1": [
+    "Minimum unexpired lease term: 85 years."
+  ],
+  "5.14.9": [
+    "Regulated leases under the Leasehold Reform (Ground Rent) Act 2022 must be peppercorn rent.",
+    "Unregulated leases: Ground rent must be reasonable and not exceed 0.1% of market value.",
+    "Ground rent increases linked to indices other than RPI are unacceptable.",
+    "Ground rent multipliers (e.g., doubling) are unacceptable.",
+    "Leases potentially treated as ASTs under Housing Act 1988 (ground rent >£250 or >£1000 in London) require a lease variation or indemnity insurance."
+  ],
+  "5.14.10": [
+    "Contact for service charge matters: Customer Support Department, Principal Office."
+  ],
+  "5.14.11": [
+    "Indemnity insurance is accepted for unsatisfactory lease terms."
+  ],
+  "5.14.12": [
+    "Lender does not require ground rent/service charge receipts; borrower to retain."
+  ],
+  "5.14.13": [
+    "Lender does not require receipted notice of service; borrower to retain."
+  ],
+  "5.14.15a": [
+    "Contact for absentee/insolvent landlords: Customer Support Department, Principal Office."
+  ],
+  "5.14.15b": [
+    "Indemnity insurance for absent/insolvent landlords is accepted subject to case-by-referral before Certificate of Title."
+  ],
+  "5.15.2a": [
+    "Contact for management company issues: Customer Support Department, Principal Office."
+  ],
+  "5.15.2b": [
+    "Lender does not require management company share certificates; borrower to retain."
+  ],
+  "5.15.2c": [
+    "Lender does not require signed blank stock transfer forms; borrower to retain."
+  ],
+  "5.15.2d": [
+    "Lender does not require memorandum and articles of association; borrower to retain."
+  ],
+  "5.16.2": [
+    "Contact if unable to certify search entries: Customer Support Department, Principal Office."
+  ],
+  "5.17.5a": [
+    "Copy of Power of Attorney must be sent with the Certificate of Title."
+  ],
+  "5.17.5b": [
+    "Statutory declaration of non-revocation must be sent after completion."
+  ],
+  "5.19.1": [
+    "Contact for affordable housing/shared ownership: Commercial Lending Department, Principal Office."
+  ],
+  "5.20.1": [
+    "Report if solar PV panel roof space leases do not meet UK Finance minimum requirements."
+  ],
+  "5.20.3": [
+    "Solar PV installers must be MCS certified.",
+    "Lender requires planning permissions and structural surveys for solar installations."
+  ],
+  "5.20.4": [
+    "Green Deal plans must be disclosed; provide EPC with 22-digit reference or provider contact details."
+  ],
+  "6.1.3": [
+    "Contact if mortgage offer not taken up: Customer Support Department, Principal Office."
+  ],
+  "6.2.1": [
+    "Contact for property description discrepancies: Customer Support Department, Principal Office."
+  ],
+  "6.3.1": [
+    "Contact for purchase price issues: Customer Support Department, Principal Office."
+  ],
+  "6.4.4": [
+    "All incentives, allowances, or discounts must be reported to the Customer Support Department, Principal Office."
+  ],
+  "6.4.5": [
+    "Contact if conveyancer lacks control over purchase funds: Customer Support Department, Principal Office."
+  ],
+  "6.5.1": [
+    "Contact if vacant possession is not provided: Customer Support Department, Principal Office."
+  ],
+  "6.6.1": [
+    "Contact for let properties: Customer Support Department, Principal Office."
+  ],
+  "6.6.2": [
+    "Contact for missing letting details: Customer Support Department, Principal Office."
+  ],
+  "6.6.3": [
+    "Certified copy of tenancy agreement required after completion."
+  ],
+  "6.6.4": [
+    "Lending on Houses in Multiple Occupation (HMO) is prohibited."
+  ],
+  "6.7.1": [
+    "Accepted warranty schemes: NHBC, LABC New Home Warranty Premier Guarantee, Castle 10, Build-Zone, Protek, Q Assure, AEDIS, Premier, ICW, One Guarantee, Advantage Home Construction Insurance, ARK Insurance Group, BLP (excluding self-build), ABC+, Checkmate, CADIS."
+  ],
+  "6.7.2": [
+    "Lender requires a copy of the new home warranty documentation; original is retained by borrower."
+  ],
+  "6.7.3": [
+    "Building standards indemnity scheme assignments are not required; borrower to retain."
+  ],
+  "6.7.4": [
+    "Properties without a warranty scheme are unacceptable unless monitored by a qualified Professional Consultant with PI insurance; refer to Customer Support."
+  ],
+  "6.7.6": [
+    "Professional consultant's certificate must be sent prior to exchange of contracts."
+  ],
+  "6.8.1": [
+    "Contact for unadopted road/sewer issues: Customer Support Department, Principal Office."
+  ],
+  "6.9.1": [
+    "Contact for missing easements: Customer Support Department, Principal Office."
+  ],
+  "6.10.2": [
+    "Retentions or instalments released to solicitor or borrower."
+  ],
+  "6.11.1": [
+    "Contact for redevelopment or road proposals: Customer Support Department, Principal Office."
+  ],
+  "6.12.1": [
+    "Contact for pre-emption rights or resale restrictions: Customer Support Department, Principal Office."
+  ],
+  "6.13.1": [
+    "Contact for improvement/repair grants: Customer Support Department, Principal Office."
+  ],
+  "7.3": [
+    "Consent to mortgage required from all occupants aged 17 or over prior to completion."
+  ],
+  "7.4": [
+    "Contact for accuracy of disclosed information: Customer Support Department, Principal Office."
+  ],
+  "8.1": [
+    "Solicitor may not advise specified third parties."
+  ],
+  "9.1": [
+    "Indemnity insurance policy document not required; insurer and policy number must be noted on Certificate of Title."
+  ],
+  "9.2": [
+    "Indemnity limit must be the higher of the property value or purchase price."
+  ],
+  "10.2a": [
+    "Mortgage advance paid via electronic transfer."
+  ],
+  "10.2b": [
+    "Standard notice for funds: 5 days.",
+    "Minimum notice for funds: 48 hours (if all conditions satisfied)."
+  ],
+  "10.3": [
+    "No standard deductions are made from the advance unless specified in the Offer."
+  ],
+  "10.7": [
+    "On delayed completion, funds may be retained for up to 7 days.",
+    "If delay exceeds 7 days, funds must be returned by EFT immediately; confirm via telephone and follow up with fax/email."
+  ],
+  "10.9": [
+    "Contact for delayed completion: Customer Support Department, Principal Office."
+  ],
+  "10.10": [
+    "Funds may be held for a maximum of 7 days."
+  ],
+  "10.11": [
+    "Lender reserves the right to charge the mortgage interest rate if return of advance is delayed."
+  ],
+  "12.3.1": [
+    "Contact for release of retentions/instalments: Customer Support Department, Principal Office."
+  ],
+  "14.1.4": [
+    "Form CH2 application is not required."
+  ],
+  "14.1.5": [
+    "Lender does not require original mortgage deeds or title documents."
+  ],
+  "14.2.1": [
+    "Title deeds and documents are to be retained by the borrower, except for the TID."
+  ],
+  "14.2.2": [
+    "Title Information Document (TID) must be sent to the lender after completion."
+  ],
+  "16.1.1": [
+    "Contact for title documents: Customer Support Department, Principal Office."
+  ],
+  "16.3.1": [
+    "Lender does not have a standard form of transfer or deed of covenant."
+  ],
+  "16.3.2": [
+    "Contact for debt amount: Customer Support Department, Principal Office."
+  ],
+  "16.3.4": [
+    "TR1 must be sent for execution prior to registration at the Land Registry.",
+    "Updated TID required on completion."
+  ],
+  "16.3.7a": [
+    "Contact for transfer of equity execution: Customer Support Department, Principal Office."
+  ],
+  "16.3.7b": [
+    "Attestation clause: 'This document was executed by authority of the Board of Directors of Darlington Building Society'."
+  ],
+  "16.4.1": [
+    "Contact for consent to let applications: Customer Support Department, Principal Office."
+  ],
+  "16.4.2": [
+    "A copy of the proposed tenancy agreement must be sent to the lender."
+  ],
+  "16.5.2": [
+    "Contact for confirming deeds/agreements do not affect security: Customer Support Department, Principal Office."
+  ],
+  "16.5.3a": [
+    "Deed of variation destination: Customer Support Department, Principal Office."
+  ],
+  "16.5.3b": [
+    "Deed of rectification destination: Customer Support Department, Principal Office."
+  ],
+  "16.5.3c": [
+    "Deed of easement destination: Customer Support Department, Principal Office."
+  ],
+  "16.5.3d": [
+    "Option agreements destination: Customer Support Department, Principal Office."
+  ],
+  "17.1.1": [
+    "Contact for redemption statements: Customer Support Department, Principal Office.",
+    "Reason for redemption (sale, remortgage, etc.) must be disclosed."
+  ],
+  "17.2.1a": [
+    "Discharge/repayment preferred by EFT.",
+    "Cheque repayments: 8 Tubwell Row Branch, Darlington, DL1 1NX."
+  ],
+  "17.2.1b": [
+    "Discharge is processed electronically via DS1 through Land Registry Direct."
+  ]
+}

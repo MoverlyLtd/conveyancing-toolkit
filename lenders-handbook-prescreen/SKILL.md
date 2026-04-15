@@ -75,16 +75,16 @@ Can you certify title as good and marketable?
 ## Part 2: Lender-Specific Requirements
 
 When a "check Part 2" item is triggered, read the specific lender's
-reference file from `references/lenders/{lender-slug}.md`.
+reference file from `references/lenders_json/{lender-slug}.json`.
 
-Each file contains the lender's answers to every Part 2 question
-(~108 items) scraped from the UK Finance website.
+Each file contains the lender's factual answers to every Part 2 question
+(~108 items) structured as JSON.
 
 **To look up a lender's Part 2 requirement:**
 1. Identify the section number from the Part 1 checklist (e.g. 5.14.1)
-2. Read `references/lenders/{lender-slug}.md`
-3. Find the matching section number
-4. Apply the lender's specific requirement
+2. Read `references/lenders_json/{lender-slug}.json`
+3. Find the matching section number in the JSON object
+4. Apply the lender's specific factual requirements
 
 **Tier 1 lenders** (~80% of UK mortgages):
 nationwide-building-society, santander-uk-plc, barclays-bank-uk-plc,

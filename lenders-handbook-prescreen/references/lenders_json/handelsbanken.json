@@ -1,0 +1,347 @@
+{
+  "1.11a": [
+    "Contact the branch office that issued the instructions."
+  ],
+  "1.11b": [
+    "Contact the branch office that issued the instructions."
+  ],
+  "1.7": [
+    "Lending is permitted when the borrower and mortgagor are different entities.",
+    "Contact the instructing branch for specific instructions in these cases."
+  ],
+  "1.14": [
+    "The firm may act if the fee earner or their family is the seller, provided a separate fee earner of equal or higher standing within the firm handles the transaction for the lender.",
+    "The fee earner representing the lender must not be the seller or related to the seller."
+  ],
+  "1.15": [
+    "The firm may act if the fee earner or their family is the borrower, provided a separate fee earner of equal or higher standing within the firm handles the transaction for the lender.",
+    "The fee earner representing the lender must not be the borrower or related to the borrower."
+  ],
+  "3.1.3": [
+    "Notification of the seller's conveyancer details is not required.",
+    "The acting conveyancer must verify the identity of the seller's conveyancer."
+  ],
+  "3.1.4": [
+    "Contact the instructing branch if the seller is not legally represented."
+  ],
+  "3.1.5": [
+    "Acceptable identity documents include a national or employer identity card with signature and photograph, or a full UK driving licence."
+  ],
+  "3.2.3": [
+    "Details of the seller's conveyancer are only required upon specific request."
+  ],
+  "3.2.4": [
+    "Contact the instructing branch if the seller is not legally represented."
+  ],
+  "4.5a": [
+    "Contact the instructing branch for re-inspection requests."
+  ],
+  "4.5b": [
+    "Send the certificate of title to the instructing branch office."
+  ],
+  "4.1": [
+    "A valuation report is usually provided by the lender."
+  ],
+  "4.3": [
+    "Contact the instructing branch if the valuer's assumptions are found to be incorrect."
+  ],
+  "5.1.1": [
+    "Contact the instructing branch if the seller has owned the property for less than 6 months."
+  ],
+  "5.2.1": [
+    "Contact the instructing branch if the seller is not the registered proprietor."
+  ],
+  "5.4.4": [
+    "Environmental or contaminated land reports must be submitted only if they indicate a need for further investigation or affect the security."
+  ],
+  "5.4.5": [
+    "Personal searches are accepted if the search agent has adequate professional indemnity insurance.",
+    "The conveyancer must be able to provide a clear Certificate of Title."
+  ],
+  "5.4.6": [
+    "Search insurance may be accepted in lieu of searches with branch approval.",
+    "Conveyancer must confirm in writing that the insurance adequately protects the lender.",
+    "The policy must be assignable and cover successors in title.",
+    "Title must be certified as good and marketable with an unqualified Certificate of Title.",
+    "Search insurance is not accepted for Land Registry searches.",
+    "Borrowers must be informed of the risks of using insurance over searches."
+  ],
+  "5.5.3a": [
+    "Report to the branch if breaches or conditions will not be satisfied by completion."
+  ],
+  "5.5.3b": [
+    "Lender requires an original or copy of the planning permission."
+  ],
+  "5.5.3c": [
+    "Lender requires an original or copy of building regulation consents."
+  ],
+  "5.5.3d": [
+    "Lender requires certificates of lawful use or development/established use certificates."
+  ],
+  "5.5.4": [
+    "Contact the instructing branch regarding property restrictions affecting value or marketability."
+  ],
+  "5.7.1a": [
+    "Flying freeholds are accepted subject to branch approval and compliance with paragraph 5.7.2."
+  ],
+  "5.7.1b": [
+    "Lending on freehold flats is not permitted."
+  ],
+  "5.7.1c": [
+    "Report freehold flats or flying freeholds to the instructing branch."
+  ],
+  "5.8.1": [
+    "Lending allowed for buildings with up to four flats if the borrower occupies one and owns the freehold.",
+    "A charge is required on the freehold title.",
+    "Arrangements must be reported to the branch if not covered in the valuation report."
+  ],
+  "5.8.5": [
+    "Reciprocal leasehold/freehold arrangements for two-flat buildings are accepted.",
+    "Lender requires a first charge over both the freehold and leasehold titles."
+  ],
+  "5.9.1": [
+    "Commonhold is accepted; notify the branch as early as possible."
+  ],
+  "5.10.1": [
+    "Contact the instructing branch regarding restrictions on use."
+  ],
+  "5.13.1": [
+    "Clear bankruptcy searches must be obtained for all parties contributing to the purchase price balance.",
+    "Notify the lender if clear searches cannot be obtained."
+  ],
+  "5.14.15a": [
+    "Contact the instructing branch if the landlord is absentee or insolvent."
+  ],
+  "5.14.15b": [
+    "Comprehensive indemnity insurance is accepted for absentee or insolvent landlords."
+  ],
+  "5.14.1": [
+    "Minimum lease term must be the mortgage term plus 50 years.",
+    "Notify the lender if the lease is shorter than 85 years and not noted in the valuation report."
+  ],
+  "5.14.9": [
+    "Ground rent and fees must be reasonable throughout the lease term.",
+    "Onerous ground rent provisions must be reported.",
+    "RPI-linked increases are generally acceptable if not compounded.",
+    "Increases linked to indexes greater than RPI or unreasonable multipliers are not acceptable.",
+    "Provisions likely to create an Assured Shorthold Tenancy (AST) under the Housing Act 1988 are not acceptable.",
+    "Contact the branch to confirm if an indemnity policy or lease variation is acceptable for AST risks."
+  ],
+  "5.14.10": [
+    "Contact the instructing branch for service charge matters."
+  ],
+  "5.14.11": [
+    "Indemnity insurance is accepted for unsatisfactory lease terms if it meets Part 1 paragraph 9 requirements."
+  ],
+  "5.14.12": [
+    "Send clear ground rent and service charge receipts to the lender."
+  ],
+  "5.14.13": [
+    "Send receipted copies of notices or evidence of service to the lender."
+  ],
+  "5.15.2a": [
+    "Contact the branch for management company issues.",
+    "Estate rent charges are acceptable if section 121 Law of Property Act 1925 is excluded, OR there is a 28-day notice mortgagee protection clause, OR the management company is resident-owned.",
+    "A deed of variation is required if these criteria are not met; indemnity insurance is not accepted."
+  ],
+  "5.15.2b": [
+    "Send management company share certificates after completion."
+  ],
+  "5.15.2c": [
+    "Send signed blank stock transfer forms after completion."
+  ],
+  "5.15.2d": [
+    "Send management company memorandum and articles of association after completion."
+  ],
+  "5.16.2": [
+    "Contact the branch if unable to certify a search entry does not relate to the borrower."
+  ],
+  "5.17.5a": [
+    "Send a certified copy of the power of attorney after completion."
+  ],
+  "5.17.5b": [
+    "Send a statutory declaration of non-revocation for power of attorney after completion."
+  ],
+  "5.19.1": [
+    "Contact the branch for affordable housing, shared equity, or shared ownership schemes."
+  ],
+  "5.20.1": [
+    "Report if solar PV roof space leases fail to meet UK Finance minimum requirements."
+  ],
+  "5.20.3": [
+    "Solar PV lease break clauses must state the provider is responsible for removal costs and damage repair upon lender termination."
+  ],
+  "5.20.4": [
+    "Disclose details of existing Green Deal Plans."
+  ],
+  "6.1.3": [
+    "Contact the branch if the borrower does not take up the mortgage offer."
+  ],
+  "6.2.1": [
+    "Contact the branch for property description discrepancies."
+  ],
+  "6.3.1": [
+    "Contact the branch for issues relating to the purchase price."
+  ],
+  "6.4.4": [
+    "Report all incentives to the lender."
+  ],
+  "6.4.5": [
+    "Contact the branch if the conveyancer will not control the payment of all purchase money."
+  ],
+  "6.5.1": [
+    "Contact the branch if vacant possession will not be provided."
+  ],
+  "6.6.1": [
+    "Contact the branch for letting/buy-to-let inquiries."
+  ],
+  "6.6.2": [
+    "Contact the branch if letting details are unknown at completion."
+  ],
+  "6.6.3": [
+    "Send counterpart or certified copies of tenancy agreements after completion."
+  ],
+  "6.6.4": [
+    "HMOs are accepted on a buy-to-let basis for up to 6 bedrooms.",
+    "Requires planning permission or established use certificate.",
+    "Requires valid HMO license or council confirmation if not required; license must be in place by completion.",
+    "Tenants must be jointly and severally liable under a single agreement.",
+    "Property must meet legal bedroom size requirements."
+  ],
+  "6.7.1": [
+    "Acceptable 10-year warranties: NHBC (including Solo), Zurich Municipal (including Self Build), Premier Guarantee (no reservations), Building Life Plans (subject to sum insured confirmation), Buildzone.",
+    "Warranties must cover common parts for flats.",
+    "Other schemes considered on merit via the branch."
+  ],
+  "6.7.2": [
+    "Send copies of warranty certificates and guarantees to the lender after completion.",
+    "Originals must be sent to the borrower."
+  ],
+  "6.7.3": [
+    "Send assignments of building standards indemnity schemes to the lender."
+  ],
+  "6.7.4": [
+    "If no warranty exists, work must be monitored by a professional (excluding FASI, MASI, or AssocRICS).",
+    "Requires CML Professional Consultant’s Certificate issued before exchange.",
+    "Requires Architects certificate for borrower benefit, building regulation sign-off, and PI insurance.",
+    "For flats, the certificate must cover common parts."
+  ],
+  "6.7.6": [
+    "Send the professional consultant's certificate to the lender after completion."
+  ],
+  "6.8.1": [
+    "Contact the branch if there is no agreement and bond for unadopted roads or sewers."
+  ],
+  "6.9.1": [
+    "Contact the branch if necessary easements are missing."
+  ],
+  "6.10.2": [
+    "Retentions or instalments are released to the borrower or solicitor."
+  ],
+  "6.11.1": [
+    "Contact the branch if the property is affected by redevelopment or road proposals."
+  ],
+  "6.12.1": [
+    "Contact the branch regarding pre-emption rights, resale restrictions, or options."
+  ],
+  "6.13.1": [
+    "Contact the branch if the property is affected by an undischarged improvement or repair grant."
+  ],
+  "7.3": [
+    "Consent to mortgage required from all occupants aged 17 or over, excluding children in full-time education living away from home."
+  ],
+  "7.4": [
+    "Contact the branch if accuracy of disclosed information is doubted."
+  ],
+  "8.1": [
+    "Conveyancers may not advise specified third parties."
+  ],
+  "9.1": [
+    "Send indemnity insurance policies to the lender after completion."
+  ],
+  "9.2": [
+    "Indemnity limit must be the higher of the purchase price or 110% of the mortgage advance."
+  ],
+  "10.2a": [
+    "Mortgage advance is paid electronically."
+  ],
+  "10.2b": [
+    "Minimum notice for advance is 5 working days."
+  ],
+  "10.3": [
+    "Standard deductions are detailed in the offer documentation."
+  ],
+  "10.7": [
+    "Contact the branch for return instructions on delayed completions.",
+    "Advances must be returned via CHAPS quoting borrower name and account number."
+  ],
+  "10.9": [
+    "Contact the instructing branch if completion is delayed."
+  ],
+  "10.10": [
+    "Contact the branch for case-by-case instructions on holding the advance."
+  ],
+  "10.11": [
+    "Interest on delayed returns is charged at the agreed mortgage rate."
+  ],
+  "12.3.1": [
+    "Contact the branch for release of retentions or instalments."
+  ],
+  "14.1.4": [
+    "Form CH2 application is required for retentions, instalments, current account mortgages, or secured overdrafts."
+  ],
+  "14.1.5": [
+    "Send the original mortgage deed and all original title documents to the lender."
+  ],
+  "14.2.1": [
+    "Send title deeds and documents to the instructing branch office."
+  ],
+  "14.2.2": [
+    "Send all documents after completion."
+  ],
+  "16.1.1": [
+    "Contact the instructing branch for title documents."
+  ],
+  "16.3.7b": [
+    "The attestation clause must be signed for and on behalf of the Bank by two Authorised Signatories and dated."
+  ],
+  "16.3.1": [
+    "Lender has no standard form of transfer or deed of covenant."
+  ],
+  "16.3.2": [
+    "Contact the branch for debt amount information."
+  ],
+  "16.3.4": [
+    "A reconstitution of security is required for transfers of equity; the transfer deed is not sent to the lender."
+  ],
+  "16.4.1": [
+    "Contact the branch for consent to let applications."
+  ],
+  "16.4.2": [
+    "BTL lettings must be ASTs; copies are not required if they are valid ASTs. Refer to the offer for other letting permissions."
+  ],
+  "16.5.3a": [
+    "Send deeds of variation to the instructing branch."
+  ],
+  "16.5.3b": [
+    "Send deeds of rectification to the instructing branch."
+  ],
+  "16.5.3c": [
+    "Send deeds of easement to the instructing branch."
+  ],
+  "16.5.3d": [
+    "Send option agreements to the instructing branch."
+  ],
+  "16.5.2": [
+    "Contact the branch to confirm that deeds or agreements will not affect the security."
+  ],
+  "17.1.1": [
+    "Contact the instructing branch for redemption statements."
+  ],
+  "17.2.1a": [
+    "Send discharge and repayment remittance to the instructing branch."
+  ],
+  "17.2.1b": [
+    "Lender issues discharge via form DS1."
+  ]
+}

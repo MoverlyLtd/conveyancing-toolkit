@@ -1,0 +1,244 @@
+{
+  "1.11a": [
+    "Contact details (address, fax, email, phone) are provided on the letter of instruction.",
+    "Standard documents available at www.natwest.com/conveyancers",
+    "Contact via LMS portal for pending property purchases.",
+    "Contact by email for all other queries.",
+    "Offset Flexible Mortgage: Contact the firm specified in the letter of instruction."
+  ],
+  "1.11b": [
+    "Contact procedures are identical to section 1.11a."
+  ],
+  "1.7": [
+    "The lender will not lend if the borrower and mortgagor are not the same entity."
+  ],
+  "1.14": [
+    "Firm may not act if the conveyancer or an immediate family member is the seller.",
+    "Firm may act if a separate fee earner or partner within the firm acts for the lender."
+  ],
+  "1.15": [
+    "Firm may not act if the conveyancer or an immediate family member is the borrower.",
+    "Firm may act if a separate fee earner or partner within the firm acts for the lender."
+  ],
+  "3.1.3": [
+    "Do not provide name/address of the seller's firm unless explicitly requested."
+  ],
+  "3.1.4": [
+    "Notify the lender via contact points in 1.11a if the seller lacks legal representation for a decision on proceeding."
+  ],
+  "3.1.5": [
+    "Acceptable identity documents: Old style UK driving licence, HMRC Tax notification, Construction Industry tax exemption certificate."
+  ],
+  "3.2.3": [
+    "Do not advise of the firm acting for the seller unless specifically requested."
+  ],
+  "3.2.4": [
+    "Notify the lender as per section 1.11a if the seller is unrepresented."
+  ],
+  "4.5a": [
+    "Standard cases: Contact Mortgage Centre via 1.11a.",
+    "Offset Flexible Mortgage: NatWest Offset Completions Team, Norwich (0345 300 4012, Fax 0845 366 0498)."
+  ],
+  "4.5b": [
+    "LMS instructions: Submit Certificate of Title through the LMS portal.",
+    "Other cases: Send to Mortgage Centre as per 1.11.",
+    "Offset Flexible Mortgage: Send to NatWest Offset Completions Team, Norwich."
+  ],
+  "4.1": [
+    "Valuation report provided with mortgage offer if internal inspection was performed.",
+    "No valuation report provided for non-physical inspections; borrower must provide property info.",
+    "Shared Ownership: Conveyancer must request the valuation report and verify for discrepancies."
+  ],
+  "4.3": [
+    "Report incorrect valuer assumptions via contact point 1.11a."
+  ],
+  "5.1.1": [
+    "If seller owned property < 6 months, report: seller's name/address, prior purchase price, connections between parties, and details of any work performed."
+  ],
+  "5.2.1": [
+    "Report cases where seller is not the registered owner via 1.11a."
+  ],
+  "5.4.4": [
+    "Environmental/contaminated land reports should not be sent to the lender; provide to borrower only.",
+    "Notify lender if property is within 300 meters of HS2.",
+    "Notify lender of mining reports only if entry is less than 20 meters.",
+    "Insurance must be available on normal terms."
+  ],
+  "5.4.5": [
+    "Personal searches accepted if the agent has adequate professional indemnity insurance."
+  ],
+  "5.4.6": [
+    "Search insurance accepted if it protects the lender and title is good and marketable."
+  ],
+  "5.5.3b": [
+    "Original or copy of planning permission is not required."
+  ],
+  "5.5.3c": [
+    "Original or copy of building regulation consents is not required."
+  ],
+  "5.5.3d": [
+    "Certificates of lawful use or development are not required."
+  ],
+  "5.5.4": [
+    "Report use restrictions affecting value/marketability via 1.11a."
+  ],
+  "5.7.1a": [
+    "Flying freeholds accepted if positive covenants are enforceable.",
+    "Maximum Loan to Value (LTV) restricted to 90%."
+  ],
+  "5.7.1b": [
+    "Freehold flats accepted if positive covenants are enforceable.",
+    "Maximum Loan to Value (LTV) restricted to 90%."
+  ],
+  "5.7.1c": [
+    "Report accepted flying freeholds or freehold flats via 1.11a."
+  ],
+  "5.8.1": [
+    "Security on converted buildings with up to four flats is accepted if the borrower occupies one and owns the freehold."
+  ],
+  "5.8.5": [
+    "Accepted if security includes both the leasehold flat to be occupied and the freehold reversion of the other flat."
+  ],
+  "5.9.1": [
+    "The lender does not lend on commonhold property."
+  ],
+  "5.10.1": [
+    "Report use restrictions via 1.11a."
+  ],
+  "5.13.1": [
+    "Deposits/gifts from parents/guardians are accepted; second charges in their favor are permitted.",
+    "Foreign nationals without permanent UK residency must provide deposit from own resources.",
+    "Non-seller third-party gifts accepted only if non-repayable and no second charge is registered.",
+    "Seller gifts are treated as incentives affecting purchase price/loan amount."
+  ],
+  "5.14.15a": [
+    "Report absentee or insolvent landlords via 1.11a."
+  ],
+  "5.14.15b": [
+    "Indemnity insurance is accepted for absent or insolvent landlords."
+  ],
+  "5.14.17b": [
+    "Disregard building safety instructions if building < 11m, < 5 storeys, or has satisfactory EWS1.",
+    "Notify lender if remediation work assumptions are incorrect or if owner is a non-qualifying leaseholder."
+  ],
+  "5.14.1": [
+    "Minimum lease term: Mortgage term plus 30 years.",
+    "Shared Ownership: Minimum 75 years plus mortgage term at outset."
+  ],
+  "5.14.9": [
+    "Ground rent provisions potentially creating an AST (Housing Act 1988) are acceptable if lease is varied or indemnity insurance is used.",
+    "Ground rents exceeding RPI or doubling more frequently than every 25 years are unacceptable.",
+    "Leasehold Reform Act 2022 compliance required for new leases: ground rent must be a peppercorn."
+  ],
+  "5.14.11": [
+    "Indemnity insurance accepted for unsatisfactory lease terms."
+  ],
+  "5.14.12": [
+    "Receipts not required for standard mortgages.",
+    "Offset Flexible Mortgage: Service charge/ground rent receipts required after completion."
+  ],
+  "5.14.13": [
+    "Receipted copy of notice or evidence of service not required."
+  ],
+  "5.15.2b": [
+    "Management company share certificate not required."
+  ],
+  "5.15.2c": [
+    "Signed blank stock transfer form not required."
+  ],
+  "5.15.2d": [
+    "Management company memorandum and articles of association not required."
+  ],
+  "5.17.5a": [
+    "Certified copy of Power of Attorney must be sent after completion."
+  ],
+  "5.17.5b": [
+    "Certified copy of statutory declaration of non-revocation of Power of Attorney must be sent after completion."
+  ],
+  "5.19.1": [
+    "Lends on Shared Ownership if lease contains fundamental clauses for Alienation, Mortgagee Protection, Rent Review, and Staircasing.",
+    "Compliant with AHP 2021-2026 or SOAHP 2016-2021 model leases."
+  ],
+  "5.20.1": [
+    "Report solar PV panel leases that fail UK Finance minimum requirements via 1.11a."
+  ],
+  "5.20.4": [
+    "Existing Green Deal Plans must be disclosed via 1.11a."
+  ],
+  "6.4.4": [
+    "Report builder incentives on new builds if they total more than 5% of purchase price.",
+    "Do not send the UK Finance Disclosure Form."
+  ],
+  "6.6.3": [
+    "Tenancy agreements not required for standard ASTs.",
+    "Non-assured tenancies require: max 3-year term, break clause for lender, no business use, and recognition of mortgagee's rights."
+  ],
+  "6.6.4": [
+    "The lender does not lend on Houses in Multiple Occupation (HMO)."
+  ],
+  "6.7.1": [
+    "Acceptable warranties: NHBC, Zurich, BLP, Build Zone, LABC, Premier (houses only), Global Home, The Q Policy, BOPAS, ABC+, etc.",
+    "Refer Premier Guarantee for flats to the lender."
+  ],
+  "6.7.4": [
+    "Professional Consultant’s Certificate accepted in lieu of warranty if monitoring occurred during construction and issued prior to exchange."
+  ],
+  "6.8.1": [
+    "Report unadopted roads/sewers via 1.11a; include adoption proposals, maintenance costs, and access rights."
+  ],
+  "6.12.1": [
+    "Lender does not lend on properties subject to overage agreements."
+  ],
+  "6.13.1": [
+    "Report improvement/repair grants: specify repayment terms, amount, and priority relative to mortgage."
+  ],
+  "7.3": [
+    "Consent required from all occupants 17+ years old, excluding borrower's children under 26.",
+    "Lifetime Mortgage: Spouses/civil partners must be joint owners and mortgagors."
+  ],
+  "8.1": [
+    "Conveyancer may not advise third parties.",
+    "Must recommend independent legal advice for guarantors and occupiers providing consent."
+  ],
+  "9.1": [
+    "Do not send indemnity policy documents; details must be provided in the Certificate of Title."
+  ],
+  "9.2": [
+    "Indemnity insurance limit must equal the property value."
+  ],
+  "10.2b": [
+    "Minimum notice for mortgage advance: 7 working days."
+  ],
+  "10.3": [
+    "Standard deduction: CHAPS fee."
+  ],
+  "10.7": [
+    "Delayed completion: Return funds via CHAPS within one working day.",
+    "Sort Code: 60-06-57, Account: 98090135.",
+    "Offset: Return to NatWest Offset Completions Team, Norwich."
+  ],
+  "14.1.4": [
+    "CH2 application required if Offer refers to a Reserve Facility."
+  ],
+  "14.1.5": [
+    "Do not send original mortgage deed; retain on file or send to Land Registry.",
+    "Update LMS every 30 days if registration is not completed within 30 days of completion."
+  ],
+  "14.2.2": [
+    "LMS cases: Upload Priority Notice, AP1, Official Copy, and (if applicable) Power of Attorney, Guarantee, and Occupier Consent.",
+    "Non-LMS cases: Only send Deed of Consent/Postponement or Power of Attorney docs to 1.11a."
+  ],
+  "16.3.1": [
+    "Standard transfer/deed of covenant not used; reconstitution of security required for Transfer of Equity."
+  ],
+  "16.4.2": [
+    "Copy of proposed tenancy required unless it is a standard AST."
+  ],
+  "17.1.1": [
+    "Personal Mortgages: Redemption requests via LMS Secure Link only.",
+    "Offset Mortgages: CMSRedemptionsTeam@natwest.com or written request to Norwich office."
+  ],
+  "17.2.1a": [
+    "Lender arranges discharge via Land Registry after redemption; no written confirmation provided to conveyancer."
+  ]
+}

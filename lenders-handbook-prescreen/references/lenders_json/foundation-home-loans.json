@@ -1,0 +1,315 @@
+{
+  "1.11a": [
+    "Address: New Business Department, Foundation, 3 Arlington Square, Downshire Way, Bracknell, RG12 1WA",
+    "Email: foundation@foundationlending.co.uk",
+    "Telephone: 01344 770 8033"
+  ],
+  "1.11b": [
+    "Witnessing of documents requires a physical third party present",
+    "Video conferencing is not acceptable for witnessing documents",
+    "Video conferencing for Independent Legal Advice requires a Distance Independent Legal Advice Certificate",
+    "Contact: 01344 770 8033 or foundation@foundationlending.co.uk"
+  ],
+  "1.7": [
+    "Contact: New Business Department, 01344 770 8033",
+    "Email: foundation@foundationlending.co.uk"
+  ],
+  "1.14": [
+    "Firms may act if a separate partner or fee earner of equal standing acts for the lender",
+    "Must be no conflict of interest",
+    "Must comply with professional rules and guidelines"
+  ],
+  "1.15": [
+    "Firms may act if a separate partner or fee earner of equal standing acts for the lender",
+    "Must be no conflict of interest",
+    "Must comply with professional rules and guidelines"
+  ],
+  "3.1.3": [
+    "Notification of seller's conveyancer details is not required",
+    "Conveyancer must satisfy themselves of the seller's conveyancer identity",
+    "Must advise if acting for both seller and purchaser"
+  ],
+  "3.1.4": [
+    "Transactions where the seller does not have legal representation are unacceptable"
+  ],
+  "3.1.5": [
+    "Accepted identity docs (List A): EU Member State National ID, Foreign National ID with indefinite leave to remain, Northern Ireland Electoral Office ID card",
+    "Accepted identity docs (List B): Old style full UK driving licence, state benefit entitlement evidence, tax credit or pension evidence",
+    "Bank or Credit Card statements from regulated UK firms are accepted, but internet copies are prohibited"
+  ],
+  "3.2.3": [
+    "Notification of seller's conveyancer details is not required",
+    "Must advise if acting for both seller and purchaser"
+  ],
+  "3.2.4": [
+    "Transactions where the seller does not have legal representation are unacceptable"
+  ],
+  "4.5a": [
+    "Contact New Business Department via 1.11a for re-inspections"
+  ],
+  "4.5b": [
+    "Submit Certificate of Title electronically via the solicitor panel management portal"
+  ],
+  "4.1": [
+    "Valuation report provided only if a physical interior inspection was performed",
+    "Valuation reports are for lender use only and cannot be relied upon by the borrower"
+  ],
+  "4.3": [
+    "Report incorrect valuation assumptions to the New Business Department (1.11a)"
+  ],
+  "5.1.1": [
+    "Borrowers must have owned the property for 6 months for remortgages",
+    "6-month rule exceptions: bridging loan replacement, cash purchase with evidenced funds, or inherited properties (requires written confirmation)",
+    "Sub-sales and back-to-back transactions are not acceptable",
+    "Freehold/superior title grants of lease to a buyer by a seller who just acquired it are treated as sub-sales and are prohibited",
+    "Transactions involving assignable, transferable, or novation contracts are prohibited",
+    "Irrevocable powers of attorney for intervening sellers are prohibited"
+  ],
+  "5.2.1": [
+    "Sub-sales and back-to-back transactions are prohibited",
+    "Assignable contracts and irrevocable powers of attorney for intervening sellers are prohibited",
+    "Refer cases where the seller is not the owner/registered proprietor to the lender (1.11a)"
+  ],
+  "5.4.4": [
+    "Do not send environmental reports unless they identify matters affecting security"
+  ],
+  "5.4.5": [
+    "Personal searches accepted if an unqualified Certificate of Title is provided",
+    "Search agents must follow the Search Code (COPSO) and be monitored by PCCB"
+  ],
+  "5.4.6": [
+    "No Search indemnity insurance accepted for remortgages if sum insured equals open market value and title is clear",
+    "No Search insurance prohibited for remortgages of: HMOs, MUBs, MPOTs, and Mixed-use properties",
+    "No Search indemnity insurance accepted for purchases if sum insured equals market value and title is clear",
+    "No Search insurance prohibited for purchases of: HMOs, MUBs, MPOTs, and Mixed-use properties"
+  ],
+  "5.5.3a": [
+    "HMOs and Multi Units must have all required consents and licences",
+    "Indemnity insurance for alterations over 10 years old may be considered case-by-case"
+  ],
+  "5.5.3b": [
+    "Do not send planning permission documents unless requested; retain on file"
+  ],
+  "5.5.3c": [
+    "Do not send building regulation consents unless requested; retain on file"
+  ],
+  "5.5.3d": [
+    "Do not send certificates of lawful use unless requested; retain on file"
+  ],
+  "5.5.4": [
+    "Report restrictions affecting value or marketability to 1.11a; indemnity may be considered"
+  ],
+  "5.7.1a": [
+    "Flying freeholds accepted if arrangements ensure good/marketable title",
+    "Refer flying freeholds to the lender if they exceed 20% of the total floor area",
+    "Indemnity insurance considered case-by-case"
+  ],
+  "5.7.1b": [
+    "Freehold flats are not accepted, except for Tyneside flats with mutual covenants"
+  ],
+  "5.7.1c": [
+    "Report freehold flats or flying freeholds to 1.11a"
+  ],
+  "5.8.1": [
+    "Security for buildings with up to 4 flats accepted if first legal charge is held over leasehold and freehold/superior titles",
+    "A trust deed must ensure freehold and leasehold titles transfer simultaneously upon sale",
+    "Report if the borrower owns any other flat in the building"
+  ],
+  "5.8.5": [
+    "Tyneside/criss-cross leases are acceptable",
+    "Requires first legal charge over both the leasehold interest and the freehold reversion of the other flat",
+    "Lease must require simultaneous transfer of freehold share with lease sale"
+  ],
+  "5.9.1": [
+    "Commonhold is not accepted"
+  ],
+  "5.10.1": [
+    "Report use restrictions to 1.11a"
+  ],
+  "5.13.1": [
+    "Gifted deposits from immediate family do not need reporting if not repayable",
+    "Accepted family: parents, grandparents, siblings, children, spouse, civil partner, aunts, uncles",
+    "Second charges or Deeds of Trust to protect gifts are prohibited",
+    "Bankruptcy searches required against gift donors",
+    "Gifts from outside the UK must be referred to 1.11a"
+  ],
+  "5.14.15a": [
+    "Contact 1.11a regarding absentee/insolvent landlords"
+  ],
+  "5.14.15b": [
+    "Indemnity insurance for absent landlords accepted on a case-by-case basis; must be bespoke policies"
+  ],
+  "5.14.17a": [
+    "Do not send documentation unless specified in 14.2.2; retain on file"
+  ],
+  "5.14.17b": [
+    "Report non-qualifying leaseholders and remediation costs under Building Safety Act 2022 immediately",
+    "Report remediation work requirements before exchange of contracts",
+    "Completion prohibited until written instructions received following Building Safety reports"
+  ],
+  "5.14.17c": [
+    "Building Safety Act instructions in 5.14.17b apply to remortgages"
+  ],
+  "5.14.1": [
+    "New Build houses: minimum 250 years unexpired at start",
+    "New Build flats: minimum 125 years unexpired at start",
+    "Non-new build: minimum 50 years remaining at end of mortgage term"
+  ],
+  "5.14.9": [
+    "Ground rent increases linked to RPI/CPI are acceptable",
+    "Ground rent doubling or monetary increases every 20+ years are acceptable if reasonable",
+    "Ground rent doubling in under 20 years is unacceptable",
+    "Ground rent increases linked to property value are unacceptable",
+    "Starting ground rent cap: 0.1% of market value (refer to lender if 0.1% to 0.2%)",
+    "If ground rent creates an AST risk, lease must be varied to <£250 (£1000 in London) or indemnity insurance must be used"
+  ],
+  "5.14.10": [
+    "Report service charge increases exceeding £1000 per annum",
+    "Report planned works including list, timescale, total cost, and borrower contribution"
+  ],
+  "5.14.11": [
+    "Indemnity for unsatisfactory lease terms accepted case-by-case; must be bespoke if necessary"
+  ],
+  "5.14.12": [
+    "Do not send ground rent/service charge receipts; ensure no arrears at completion"
+  ],
+  "5.14.13": [
+    "Send receipted copy of notice or evidence of service with title documents after completion"
+  ],
+  "5.15.2a": [
+    "Report management company issues to 1.11a"
+  ],
+  "5.15.2b": [
+    "Do not send share certificates; borrower to retain, conveyancer to keep copy on file"
+  ],
+  "5.15.2c": [
+    "Send a copy of the signed blank stock transfer form to the lender; retain original on file"
+  ],
+  "5.15.2d": [
+    "Do not send Memorandum and Articles of Association"
+  ],
+  "5.17.5a": [
+    "Do not send Power of Attorney; retain on file"
+  ],
+  "5.17.5b": [
+    "Do not send statutory declaration of non-revocation; retain on file"
+  ],
+  "5.19.1": [
+    "Affordable housing, shared equity, and shared ownership schemes are not accepted"
+  ],
+  "5.20.1": [
+    "Report solar PV panel leases that do not meet UK Finance minimum requirements to 1.11a"
+  ],
+  "5.20.3": [
+    "Lender requires unconditional right to break solar PV lease upon possession",
+    "Removal costs and damage repair must be the responsibility of the solar PV provider"
+  ],
+  "5.20.4": [
+    "Existing Green Deal Plans must be disclosed to 1.11a"
+  ],
+  "6.1.3": [
+    "Report if borrower is not taking up offer to 1.11a"
+  ],
+  "6.2.1": [
+    "Report property description discrepancies to 1.11a"
+  ],
+  "6.3.1": [
+    "Report purchase price issues to 1.11a"
+  ],
+  "6.4.4": [
+    "Report all incentives using the UK Finance Disclosure form",
+    "Notify lender if any part of the deposit for a non-new build is paid by the seller",
+    "Finders fees are not acceptable and must be reported",
+    "Chancel repair premiums and defective title insurance are not considered reportable incentives"
+  ],
+  "6.5.1": [
+    "Vacant possession required for residential properties at completion"
+  ],
+  "6.6.2": [
+    "Properties must be let under approved AST within 3 months of completion"
+  ],
+  "6.6.3": [
+    "Do not send tenancy agreements; retain on file"
+  ],
+  "6.7.1": [
+    "Accepted warranties: ABC+, Advantage (ADHCI), Aedis, RIBA Architects Certificate, Ark, Build Assure, BLP (no reservations), Build Zone, CADIS, Castle 10, CGICE schemes, RICS/RIBA Certificate, Checkmate, Global, ICW, LABC, NHBC, One Guarantee, Premier (no reservations), Protek, Q Build Assure, Elite Insurance (specific admin), Zurich Municipal",
+    "All other schemes require referral to 1.11a"
+  ],
+  "6.7.4": [
+    "If no warranty, work must be monitored by a qualified professional",
+    "Professional Consultant’s Certificate (PCC) must follow UK Finance format",
+    "Retrospective PCCs are not acceptable",
+    "PCC for flats must cover common parts and structure"
+  ],
+  "6.7.6": [
+    "Send copy of Professional Consultant's Certificate to lender; borrower retains original"
+  ],
+  "6.8.1": [
+    "Report absence of road/sewer agreements and bonds to 1.11a"
+  ],
+  "6.9.1": [
+    "Report absent easements to 1.11a",
+    "Verify that servient and dominant tenements have not merged in common ownership"
+  ],
+  "6.10.2": [
+    "Retentions are released to the borrower after completion"
+  ],
+  "7.3": [
+    "Consent forms required for all occupants aged 17 and over",
+    "BTL properties require AST/Standard Occupation Contract ensuring lender priority"
+  ],
+  "9.1": [
+    "Do not send indemnity policy; retain copy on file, borrower retains original"
+  ],
+  "9.2": [
+    "Minimum indemnity limit: 110% of valuation or purchase price (whichever is higher)"
+  ],
+  "10.2a": [
+    "Advance paid electronically via CHAPS",
+    "£35.00 fee deducted from advance"
+  ],
+  "10.2b": [
+    "Minimum notice for funds: 5 working days"
+  ],
+  "10.7": [
+    "Return delayed funds immediately to the originating account"
+  ],
+  "10.9": [
+    "Completion contact: completions@foundationlending.co.uk or 01344 770 8033"
+  ],
+  "10.10": [
+    "Funds can be held for the day of completion only; return immediately if completion fails"
+  ],
+  "10.11": [
+    "Interest charged at the offer rate from date of advance until funds re-credited"
+  ],
+  "12.3.1": [
+    "No retentions or phased funds release offered"
+  ],
+  "14.1.5": [
+    "Register charge via certified copy at Land Registry",
+    "Limited liability companies/partnerships must register at Companies House (Form MR01) within 21 days",
+    "Retain original deeds (Legal Charge, TID, Guarantees, Consents, ILA confirmation, Incentives, MR01 certificate, Stat Decs) on file"
+  ],
+  "14.2.1": [
+    "Send title deeds and documents via email to customerservices@foundationlending.co.uk"
+  ],
+  "14.2.2": [
+    "Post-completion requirements: Complete ‘eDeed Packet’ Checklist, email pdf copies certified as true by Solicitor/FCILEX/Licensed Conveyancer"
+  ],
+  "16.1.1": [
+    "Title document contact: Customer Services Department, 3 Arlington Square, RG12 1WA or DX 122530 Bracknell (2)"
+  ],
+  "16.3.7b": [
+    "Standard attestation: Signed as a Deed by Paratus AMC Limited by its Attorneys... in the presence of..."
+  ],
+  "16.3.2": [
+    "Debt amount contact: 01344 770 8030 or customerservices@foundationlending.co.uk"
+  ],
+  "17.1.1": [
+    "Redemption statement contact: 01344 770 8030 or customerservices@foundationlending.co.uk"
+  ],
+  "17.2.1b": [
+    "Discharge is sent directly to the Land Registry"
+  ]
+}

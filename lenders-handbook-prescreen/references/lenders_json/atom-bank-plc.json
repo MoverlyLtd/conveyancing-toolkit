@@ -1,0 +1,293 @@
+{
+  "1.11a": [
+    "Contact methods: Secure Link via LMS Conveyancer Zone dashboard, telephone 03333 990055, or email conveyancing@atombank.co.uk."
+  ],
+  "1.11b": [
+    "Contact methods: Secure Link via LMS Conveyancer Zone dashboard, telephone 03333 990055, or email conveyancing@atombank.co.uk."
+  ],
+  "1.7": [
+    "Borrower and mortgagor must be the same entity.",
+    "Lending is not permitted where borrower and mortgagor are different."
+  ],
+  "1.14": [
+    "Firm may act if person dealing or family is seller provided: firm is a partnership, a separate unrelated partner acts, no conflict of interest exists, and professional guidelines are followed."
+  ],
+  "1.15": [
+    "Firm may act if person dealing or family is borrower provided: firm is a partnership, a separate unrelated partner acts, no conflict of interest exists, and professional guidelines are followed."
+  ],
+  "3.1.3": [
+    "Notification of seller's legal representative details is not required."
+  ],
+  "3.1.4": [
+    "Notify the lender only if the seller is unrepresented or if identity checks on the seller's representative are unsatisfactory."
+  ],
+  "3.1.5": [
+    "Accepted Identity (List A): Electronic AML printout from Credit Reference Agency, National Identity Card, Northern Ireland Electoral Office Identity Card.",
+    "Accepted Identity (List B): Old style full UK driving licence, state/local benefit entitlement evidence (housing, council tax, pension, grant), court appointment instrument."
+  ],
+  "3.2.3": [
+    "Notification of seller's legal representative details is not required."
+  ],
+  "3.2.4": [
+    "Contact methods as per 1.11a."
+  ],
+  "4.5a": [
+    "Contact methods as per 1.11a."
+  ],
+  "4.5b": [
+    "Certificates of Title must be submitted electronically via LMS Conveyancer Zone Portal.",
+    "Confirm borrower has accepted most recent mortgage offer in Atom App before submission.",
+    "Minimum notice for Certificate of Title is 3 working days."
+  ],
+  "4.1": [
+    "Physical valuation reports are automatically provided to the STARS system record.",
+    "Online valuations (AVM) do not generate a report for the conveyancer."
+  ],
+  "4.3": [
+    "Telephone: 03333990055",
+    "Email: mortgageprocessing@atombank.co.uk"
+  ],
+  "5.1.1": [
+    "Contact methods as per 1.11a."
+  ],
+  "5.2.1": [
+    "Assignable contracts and irrevocable powers of attorney for intervening sellers are prohibited.",
+    "Sub-sales and back-to-back transactions are generally not acceptable.",
+    "Report all other instances where seller is not the owner to the Mortgage Team."
+  ],
+  "5.4.4": [
+    "Environmental or contaminated land reports are only required if specified in the mortgage offer, requested by the valuer, or if they indicate a risk to security."
+  ],
+  "5.4.5": [
+    "Personal searches accepted if agent: subscribes to the search code, is PCCB monitored, is COPSO registered, and has adequate PI insurance."
+  ],
+  "5.4.6": [
+    "Search insurance is accepted for purchases and remortgages at the conveyancer's risk.",
+    "Conveyancer must be able to provide an unqualified Certificate of Title using the insurance."
+  ],
+  "5.5.3b": [
+    "Originals not required; keep copy on file.",
+    "Notification required if property was converted in the last 10 years."
+  ],
+  "5.5.3c": [
+    "Originals not required; keep copy on file.",
+    "Notification required if property was converted in the last 10 years."
+  ],
+  "5.5.3d": [
+    "Certificate of lawful use is only required for commercial-to-residential conversions."
+  ],
+  "5.5.4": [
+    "Contact methods as per 1.11a."
+  ],
+  "5.7.1a": [
+    "Flying freeholds accepted if element does not exceed 15% and adequate rights of support and enforceable repairing covenants exist."
+  ],
+  "5.7.1b": [
+    "Freehold flats are generally not accepted.",
+    "Acceptable exceptions: Leasehold interest with share of freehold, Tyneside flats, or where all other flats in block are leasehold."
+  ],
+  "5.7.1c": [
+    "Reporting is not required if conditions in 5.7 are met."
+  ],
+  "5.8.1": [
+    "Buildings converted into 4 or fewer flats where borrower owns the freehold and occupies a flat while others are on long leases are not acceptable."
+  ],
+  "5.8.5": [
+    "Lender accepts arrangements where borrower owns the freehold reversion of the other flat in a 2-flat building and vice versa.",
+    "A charge is required over both the leasehold and freehold reversion titles."
+  ],
+  "5.9.1": [
+    "Commonhold title is not accepted."
+  ],
+  "5.10.1": [
+    "Contact methods as per 1.11a."
+  ],
+  "5.13.1": [
+    "Gifted deposits from third parties require a standard gift declaration confirming the gift is unconditional, non-refundable, and carries no interest in the property.",
+    "Conveyancer must confirm source of funds.",
+    "Gifted deposits from non-family members must be reported.",
+    "Existing charges for gifted deposits must be redeemed on remortgage completion."
+  ],
+  "5.14.15a": [
+    "Contact methods as per 1.11a."
+  ],
+  "5.14.15b": [
+    "Indemnity insurance for absent or insolvent landlords is accepted if comprehensive and enables an unqualified Certificate of Title."
+  ],
+  "5.14.1": [
+    "Minimum unexpired lease term: 80 years at commencement and 50 years at the end of the mortgage term."
+  ],
+  "5.14.9": [
+    "Ground rent cap: 0.2% of property value.",
+    "Ground rent review frequency: 10 years or greater.",
+    "RPI-linked ground rent escalation is acceptable.",
+    "Leases with potential AST status under Housing Act 1988 must be varied or covered by suitable indemnity insurance."
+  ],
+  "5.14.11": [
+    "Indemnity insurance for unsatisfactory lease terms is accepted if it allows for an unqualified Certificate of Title."
+  ],
+  "5.14.12": [
+    "Ground rent and service charge receipts should be retained on file, not sent to the lender."
+  ],
+  "5.14.13": [
+    "Evidence of notice service should be sent to the borrower and kept with title deeds, not sent to the lender."
+  ],
+  "5.15.2b": [
+    "Management company share certificates should not be sent."
+  ],
+  "5.15.2c": [
+    "Signed blank stock transfer forms should be retained on file, not sent."
+  ],
+  "5.15.2d": [
+    "Memorandum and Articles of Association should not be sent."
+  ],
+  "5.16.2": [
+    "Contact methods as per 1.11a."
+  ],
+  "5.17.5a": [
+    "Original Power of Attorney and specimen signature must be sent for inspection before completion if the account is operated under POA."
+  ],
+  "5.17.5b": [
+    "Statutory declaration of non-revocation of POA is to be held on file, not sent."
+  ],
+  "5.19.1": [
+    "Contact methods as per 1.11a."
+  ],
+  "5.20.1": [
+    "Lender will not lend if solar panels are subject to a lease arrangement for the roof/roof space.",
+    "Solar panels are acceptable if funded by borrower or additional borrowing without a lease; must have planning permission."
+  ],
+  "5.20.4": [
+    "Existing Green Deal Plans must be disclosed via 1.11a contact details."
+  ],
+  "6.1.3": [
+    "Contact methods as per 1.11a."
+  ],
+  "6.2.1": [
+    "All discrepancies in property description must be reported via 1.11a contact details."
+  ],
+  "6.3.1": [
+    "Contact methods as per 1.11a."
+  ],
+  "6.4.4": [
+    "Report incentives if cash exceeds: the valuer's stated amount, the offer amount, or 5% of the purchase price.",
+    "Exempt incentives: white goods, carpets, curtains, kitchen/bathroom/electrical upgrades, turf, and landscaping.",
+    "CML Disclosure of Incentives Form must be completed."
+  ],
+  "6.4.5": [
+    "Contact methods as per 1.11a."
+  ],
+  "6.5.1": [
+    "Contact methods as per 1.11a."
+  ],
+  "6.6.1": [
+    "Notify the lender only if the mortgage offer does not already reflect that the property is let or to be let."
+  ],
+  "6.6.3": [
+    "Tenancy agreements are to be held on file unless the offer states otherwise."
+  ],
+  "6.6.4": [
+    "Lender does not lend on properties subject to multiple occupancy (HMOs)."
+  ],
+  "6.7.1": [
+    "Acceptable Warranty Schemes: NHBC, Zurich Municipal, Premier Guarantee, Building Life Plans, Building Zone, LABC, Checkmate, Construction Register, HAPM, Advantage, Aedis, ICW, Q Assure, One Guarantee, Global Homes, ARK Residential, ABC+, CADIS.",
+    "Professional Consultant's Certificate (PCC) is accepted from RIBA or RICS corporate members with PI insurance."
+  ],
+  "6.7.3": [
+    "Assignments of building standards indemnity schemes must be sent."
+  ],
+  "6.7.4": [
+    "New builds or properties built in last 10 years without a warranty are unacceptable.",
+    "Converted properties without a warranty are accepted if they have full building regulations, planning, and a completion certificate.",
+    "Full structural conversions require a warranty as per 6.7.1."
+  ],
+  "6.7.6": [
+    "Professional Consultant’s Certificate must be sent to the lender."
+  ],
+  "6.8.1": [
+    "Contact methods as per 1.11a."
+  ],
+  "6.10.2": [
+    "Retention policy: No retentions permitted; offers based on current value with full funds released on completion."
+  ],
+  "7.3": [
+    "Consent to mortgage required for all occupants aged 17 or over and anyone with a financial interest.",
+    "Exemption: Full-time students living away from home do not require a letter of consent."
+  ],
+  "8.1": [
+    "Advice to third parties is permitted if no conflict of interest exists and documents are not open to challenge."
+  ],
+  "9.1": [
+    "Indemnity insurance policies must be sent with the title documents package."
+  ],
+  "9.2": [
+    "Indemnity limit must be at least the open market value as stated in the valuation report."
+  ],
+  "10.2a": [
+    "Funds paid electronically only; cheques not accepted.",
+    "Completion funds and cashback are sent as a single payment.",
+    "Cashback must not be released to the customer until after completion."
+  ],
+  "10.2b": [
+    "Minimum 3 working days notice required for the Certificate of Title."
+  ],
+  "10.3": [
+    "Deductions include CHAPS fee and fees specified in the mortgage offer."
+  ],
+  "10.7": [
+    "Return funds electronically via Faster Payments or CHAPS within 1 day.",
+    "Return Account: Sort 60-00-01, Account 48540870 (Atom Bank PLC – Phoebus Cash).",
+    "Reference must include borrower name and account number."
+  ],
+  "10.10": [
+    "Funds can be held for 1 day.",
+    "Can be held up to 3 working days if the lender is notified and a revised CoT is provided."
+  ],
+  "10.11": [
+    "Interest is charged from the date of completion at the rate specified in the mortgage offer."
+  ],
+  "14.2.1": [
+    "Do not send physical title deeds.",
+    "Upload required documents to the LMS STARS system."
+  ],
+  "14.2.2": [
+    "Required post-completion documents: Priority Notice, Confirmation of Application to Register, Official Copy Register, Original Mortgage Deed."
+  ],
+  "16.1.1": [
+    "Title document requests: customeradministrationteam@atombank.co.uk.",
+    "Lender requires direct authority from the customer before releasing account information."
+  ],
+  "16.3.7b": [
+    "Standard attestation: Executed as a deed by ….. as attorney for and on behalf of Atom Bank plc in the presence of ..."
+  ],
+  "16.3.2": [
+    "Debt amount requests: customersupport@atombank.co.uk."
+  ],
+  "16.3.4": [
+    "Transfer of Equity documents do not need to be sent as the lender will always take a new charge."
+  ],
+  "16.5.3a": [
+    "Send Deed of Variation to: Atom Bank for Intermediaries, PO Box 105, Blyth, NE24 9DU."
+  ],
+  "16.5.3b": [
+    "Send Deed of Rectification to: Atom Bank for Intermediaries, PO Box 105, Blyth, NE24 9DU."
+  ],
+  "16.5.3c": [
+    "Send Deed of Easement to: Atom Bank for Intermediaries, PO Box 105, Blyth, NE24 9DU."
+  ],
+  "16.5.3d": [
+    "Send Option Agreements to: Atom Bank for Intermediaries, PO Box 105, Blyth, NE24 9DU."
+  ],
+  "17.1.1": [
+    "Redemption statements must be requested via the Atom Bank website.",
+    "Statements are delivered to the customer App document vault for sharing with the solicitor."
+  ],
+  "17.2.1a": [
+    "Repayment via electronic transfer only.",
+    "Repayment Account: Sort 60-00-01, Account 48540870 (Atom Bank).",
+    "Reference: Customer mortgage account number."
+  ],
+  "17.2.1b": [
+    "Discharge is processed directly with the Land Registry by the lender."
+  ]
+}

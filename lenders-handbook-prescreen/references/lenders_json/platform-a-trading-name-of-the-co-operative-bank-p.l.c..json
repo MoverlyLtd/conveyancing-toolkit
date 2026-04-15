@@ -1,0 +1,324 @@
+{
+  "1.11a": [
+    "Contact the office issuing Mortgage Instructions."
+  ],
+  "1.11b": [
+    "Contact the office issuing Mortgage Instructions."
+  ],
+  "1.7": [
+    "Lending is not permitted where the borrower and mortgagor are different entities."
+  ],
+  "1.14": [
+    "Legal firm may not act if the person handling the transaction or their immediate family is the seller."
+  ],
+  "1.15": [
+    "Legal firm may not act if the person handling the transaction or their immediate family is the borrower."
+  ],
+  "3.1.3": [
+    "Notify the lender of the seller's legal representative's details only if specifically requested."
+  ],
+  "3.1.4": [
+    "If the seller is unrepresented, contact the office issuing Mortgage Instructions."
+  ],
+  "3.1.5": [
+    "Acceptable identity documents List A: Valid passport with English translation, UK full or provisional photocard driving license, old style UK paper driving license, Benefit book or letter (under 6 months old), Firearms or shotgun certificate, HMRC tax notification (under 6 months old, excluding SA302/P60/P45), NI Electoral ID card, EU/EEA photocard ID, non-EEA National ID card.",
+    "Acceptable identity documents List B: Electoral register search confirmation, utility bill (under 6 months old, excluding mobile), Bank/Building Society/Credit Union statement or passbook (under 6 months old, excluding internet statements), Mortgage statement (under 6 months old), Local Authority tax bill, Council tenancy agreement, HMRC tax notification (under 6 months old)."
+  ],
+  "3.2.3": [
+    "Notify the lender of the seller's legal representative's details only if specifically requested."
+  ],
+  "3.2.4": [
+    "If the seller is unrepresented, contact the office issuing Mortgage Instructions."
+  ],
+  "4.5a": [
+    "Contact the office issuing Mortgage Instructions for re-inspections."
+  ],
+  "4.5b": [
+    "Send the certificate of title to the office issuing Mortgage Instructions."
+  ],
+  "4.1": [
+    "Valuation report is included in the Mortgage Instructions unless specified otherwise."
+  ],
+  "4.3": [
+    "If valuation assumptions are incorrect, contact the office issuing Mortgage Instructions."
+  ],
+  "5.1.1": [
+    "Contact the office issuing Mortgage Instructions if the seller has owned the property for less than 6 months.",
+    "Lending is prohibited on back-to-back sales, sub-sales, or assigned contracts."
+  ],
+  "5.4.4": [
+    "Environmental reports only required if requested by the valuer.",
+    "Report environmental concerns to the office issuing Mortgage Instructions."
+  ],
+  "5.4.5": [
+    "Personal searches are only accepted if performed by firms regulated under The Search Code and monitored by the Property Codes Compliance Board."
+  ],
+  "5.4.6": [
+    "Search insurance is accepted for remortgages only.",
+    "Search insurance is not accepted for property purchases."
+  ],
+  "5.5.3a": [
+    "Report planning/building regulation breaches to the office issuing Mortgage Instructions."
+  ],
+  "5.5.3b": [
+    "Original or copy of planning permission must be placed with the deeds."
+  ],
+  "5.5.3c": [
+    "Original or copy of building regulation consents must be placed with the deeds."
+  ],
+  "5.5.3d": [
+    "Certificates of lawful use or development must be placed with the deeds."
+  ],
+  "5.5.4": [
+    "Report property restrictions affecting value to the office issuing Mortgage Instructions."
+  ],
+  "5.7.1a": [
+    "Flying freeholds are acceptable if the affected area is 15% or less of the property."
+  ],
+  "5.7.1b": [
+    "Freehold flats are not accepted."
+  ],
+  "5.7.1c": [
+    "Report flying freeholds to the office issuing Mortgage Instructions."
+  ],
+  "5.8.1": [
+    "Security comprising a building converted into max 4 flats is acceptable if the borrower occupies one and owns or shares the freehold."
+  ],
+  "5.8.5": [
+    "Tyneside Leases are acceptable."
+  ],
+  "5.9.1": [
+    "Commonhold is not accepted."
+  ],
+  "5.10.1": [
+    "Report restrictions on use to the office issuing Mortgage Instructions."
+  ],
+  "5.13.1": [
+    "Contact the office issuing Mortgage Instructions if funds are not from the borrower or a second charge is proposed."
+  ],
+  "5.14.15a": [
+    "Report absentee or insolvent landlords to the office issuing Mortgage Instructions."
+  ],
+  "5.14.15b": [
+    "Indemnity insurance is accepted for absent or insolvent landlords."
+  ],
+  "5.14.1": [
+    "Minimum unexpired lease term: 85 years from completion.",
+    "Help to Buy Shared Equity lease requirements: 250 years for houses, 125 years for flats.",
+    "Help to Buy ground rent must be reasonable and linked to RPI or similar index."
+  ],
+  "5.14.9": [
+    "Ground rent must not exceed 0.1% of market value (up to 0.2% may be accepted subject to review).",
+    "Doubling ground rent clauses (e.g., every 5-20 years) are prohibited.",
+    "Report ground rent provisions that may create an Assured Shorthold Tenancy (rent >£250 or >£1,000 in London) unless the lease is varied or indemnity insurance is in place."
+  ],
+  "5.14.10": [
+    "Contact the office issuing Mortgage Instructions for service charge matters."
+  ],
+  "5.14.11": [
+    "Indemnity insurance is not accepted for unsatisfactory lease terms."
+  ],
+  "5.14.12": [
+    "Place clear ground rent and service charge receipts with the deeds."
+  ],
+  "5.14.13": [
+    "Place receipted notice or evidence of service with the deeds."
+  ],
+  "5.15.2a": [
+    "Report management company issues to the office issuing Mortgage Instructions."
+  ],
+  "5.15.2b": [
+    "Send management company share certificate to the lender."
+  ],
+  "5.15.2c": [
+    "Send signed blank stock transfer form to the lender."
+  ],
+  "5.15.2d": [
+    "Send management company memorandum and articles of association to the lender."
+  ],
+  "5.16.2": [
+    "Contact the office issuing Mortgage Instructions regarding search entry issues."
+  ],
+  "5.17.5a": [
+    "Send the power of attorney to the lender."
+  ],
+  "5.17.5b": [
+    "Send the statutory declaration of non-revocation for power of attorney to the lender."
+  ],
+  "5.19.1": [
+    "Lending on affordable housing, shared equity, or shared ownership is not permitted."
+  ],
+  "5.20.1": [
+    "Report solar panel leases that do not meet UK Finance minimum requirements.",
+    "The lender must have an unconditional right to break the solar lease upon possession."
+  ],
+  "5.20.3": [
+    "Lender requires an unconditional right to break solar PV leases in the event of possession."
+  ],
+  "5.20.4": [
+    "Existing Green Deal Plans must be disclosed."
+  ],
+  "6.1.3": [
+    "Notify the office issuing Mortgage Instructions if the borrower does not proceed."
+  ],
+  "6.2.1": [
+    "Report property description discrepancies to the office issuing Mortgage Instructions."
+  ],
+  "6.3.1": [
+    "Report purchase price issues to the office issuing Mortgage Instructions."
+  ],
+  "6.4.4": [
+    "Report incentives at the earliest opportunity; reporting via Certificate of Title may delay completion."
+  ],
+  "6.4.5": [
+    "Contact the office issuing Mortgage Instructions if purchase funds are not controlled by the legal firm."
+  ],
+  "6.5.1": [
+    "Contact the office issuing Mortgage Instructions if vacant possession is not provided."
+  ],
+  "6.6.1": [
+    "Contact the office issuing Mortgage Instructions regarding Buy-to-Let or existing tenancies."
+  ],
+  "6.6.2": [
+    "Contact the office issuing Mortgage Instructions if letting details are missing at completion."
+  ],
+  "6.6.3": [
+    "Send counterpart or certified copy of the tenancy agreement to the lender."
+  ],
+  "6.6.4": [
+    "HMOs are not accepted as security."
+  ],
+  "6.7.1": [
+    "Acceptable warranty schemes: NHBC, Zurich Municipal, Premier Guarantee, Building Life Plans, LABC Hallmark, Castle 10 (Checkmate), FMB Latent Defects, Build Zone, Q Assure Build, ICW, HomeProof New Build 10, One Guarantee, Advantage Home Construction Insurance (ACHI Limited), Ark Residential."
+  ],
+  "6.7.2": [
+    "Place warranty certificates with the deeds."
+  ],
+  "6.7.3": [
+    "Place assignments of building standards indemnity schemes with the deeds."
+  ],
+  "6.7.4": [
+    "Contact the office issuing Mortgage Instructions if a new home lacks a warranty."
+  ],
+  "6.7.6": [
+    "Place accepted professional consultant's certificates with the deeds."
+  ],
+  "6.8.1": [
+    "Contact the office issuing Mortgage Instructions if no agreement or bond exists for unadopted roads/sewers."
+  ],
+  "6.9.1": [
+    "Report missing easements to the office issuing Mortgage Instructions."
+  ],
+  "6.10.2": [
+    "Retentions or instalments are released to the borrower unless the offer states otherwise."
+  ],
+  "6.11.1": [
+    "Report redevelopment or road proposals to the office issuing Mortgage Instructions."
+  ],
+  "6.12.1": [
+    "Report pre-emption rights or resale restrictions to the office issuing Mortgage Instructions."
+  ],
+  "6.13.1": [
+    "Report undischarged improvement/repair grants to the office issuing Mortgage Instructions."
+  ],
+  "7.3": [
+    "Obtain written consent to mortgage from all property occupants aged 17 or over."
+  ],
+  "7.4": [
+    "Report concerns about information accuracy to the office issuing Mortgage Instructions."
+  ],
+  "8.1": [
+    "Legal firms may advise third parties unless a conflict of interest exists."
+  ],
+  "9.1": [
+    "Place indemnity insurance policies with the deeds."
+  ],
+  "9.2": [
+    "Indemnity insurance limit: 110% of the principal sum."
+  ],
+  "10.2a": [
+    "Mortgage advance is paid electronically."
+  ],
+  "10.2b": [
+    "Minimum notice for advance: 5 working days."
+  ],
+  "10.3": [
+    "Standard deductions are specified in the Mortgage Offer."
+  ],
+  "10.7": [
+    "Return delayed advances via CHAPS within 3 working days."
+  ],
+  "10.9": [
+    "Contact the Completions Department at the office issuing Mortgage Instructions for delayed completions."
+  ],
+  "10.10": [
+    "Mortgage advances may be held for a maximum of 3 working days."
+  ],
+  "10.11": [
+    "Interest on delayed return of funds is charged at the rate quoted in the Mortgage Offer."
+  ],
+  "12.3.1": [
+    "Contact Customer Services Dept, PO Box 237, Plymouth, PL1 1WG (DX 133791 Plymouth 13) for retention releases."
+  ],
+  "14.1.4": [
+    "CH2 application is not applicable."
+  ],
+  "14.1.5": [
+    "Original mortgage deed must be sent with title deeds."
+  ],
+  "14.2.1": [
+    "Send title deeds to: Deeds Dept, PO Box 237, Plymouth, PL1 1WG or DX 133791 Plymouth 13."
+  ],
+  "14.2.2": [
+    "Post-completion documents include those in Part 1 and the standard deeds schedule."
+  ],
+  "16.1.1": [
+    "Contact Customer Services Dept, Plymouth, for title documents."
+  ],
+  "16.3.7a": [
+    "Contact Customer Services Dept, Plymouth, for execution of transfer of equity."
+  ],
+  "16.3.7b": [
+    "The lender uses a standard form attestation clause."
+  ],
+  "16.3.1": [
+    "Lender does not provide a standard form of transfer or deed of covenant."
+  ],
+  "16.3.2": [
+    "Contact Customer Services Dept, Plymouth, for debt amounts."
+  ],
+  "16.3.4": [
+    "Send the transfer of equity to the lender."
+  ],
+  "16.4.1": [
+    "Contact Customer Services Dept, Plymouth, for consent to let applications."
+  ],
+  "16.4.2": [
+    "Send a copy of the proposed tenancy agreement to the lender."
+  ],
+  "16.5.3a": [
+    "Send deed of variation to Customer Services Dept, Plymouth."
+  ],
+  "16.5.3b": [
+    "Send deed of rectification to Customer Services Dept, Plymouth."
+  ],
+  "16.5.3c": [
+    "Send deed of easement to Customer Services Dept, Plymouth."
+  ],
+  "16.5.3d": [
+    "Send option agreements to Customer Services Dept, Plymouth."
+  ],
+  "16.5.2": [
+    "Draft deeds or agreements must be submitted to Customer Services Dept for consent."
+  ],
+  "17.1.1": [
+    "Contact Customer Services Dept, Plymouth, for redemption statements."
+  ],
+  "17.2.1a": [
+    "Send discharge and repayment remittance to Customer Services Dept, Plymouth."
+  ],
+  "17.2.1b": [
+    "Discharges are processed via Land Registry EDS1.",
+    "Legal firm must provide title number and charge date when confirming redemption payment."
+  ]
+}

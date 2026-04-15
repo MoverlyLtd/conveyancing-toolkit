@@ -1,0 +1,343 @@
+{
+  "1.11a": [
+    "Contact details are provided in the Letter of Instruction.",
+    "Quote the lender's reference.",
+    "Keep paper copies of communications sent via PC, fax, or email."
+  ],
+  "1.11b": [
+    "Contact details are provided in the Letter of Instruction.",
+    "Quote the lender's reference.",
+    "Keep paper copies of communications sent via PC, fax, or email."
+  ],
+  "1.7": [
+    "Contact details are provided in the Letter of Instruction.",
+    "Quote the lender's reference.",
+    "Keep paper copies of communications sent via PC, fax, or email."
+  ],
+  "1.14": [
+    "Firm may act if a separate partner acts for the lender per Part 1 circumstances."
+  ],
+  "1.15": [
+    "Firm may act if a separate partner acts for the lender per Part 1 circumstances."
+  ],
+  "3.1.3": [
+    "Notify name and address of seller's legal representative only upon specific request."
+  ],
+  "3.1.4": [
+    "Notify the lender if the seller is unrepresented to determine if the transaction can proceed."
+  ],
+  "3.1.5": [
+    "No documents accepted for List A.",
+    "No documents accepted for List B."
+  ],
+  "3.2.3": [
+    "Notify name and address of seller's legal representative only upon specific request."
+  ],
+  "3.2.4": [
+    "Notify the lender if the seller is unrepresented to determine if the transaction can proceed."
+  ],
+  "4.1": [
+    "Lender provides the valuation report."
+  ],
+  "4.3": [
+    "Report incorrect valuation assumptions to the contact specified in the Letter of Instruction."
+  ],
+  "4.5a": [
+    "Contact point for re-inspection is specified in the Letter of Instruction."
+  ],
+  "4.5b": [
+    "Certificate of title must be sent to the contact specified in the Letter of Instruction."
+  ],
+  "5.1.1": [
+    "Contact point for properties owned less than 6 months is specified in the Letter of Instruction."
+  ],
+  "5.4.4": [
+    "Environmental or contaminated land reports are not required.",
+    "Borrower must disclose risks to insurer and obtain insurance on standard terms.",
+    "Notify lender if property is less than 300 meters from HS2.",
+    "Mining interpretive reports are not required.",
+    "Notify lender if mining entry is less than 20 meters.",
+    "Insurance must be available on a normal basis for mining risks."
+  ],
+  "5.4.5": [
+    "Personal searches are accepted if performed by a reputable agent with adequate professional indemnity insurance."
+  ],
+  "5.4.6": [
+    "Search insurance is not accepted."
+  ],
+  "5.5.3b": [
+    "Planning permission documentation must be sent after completion."
+  ],
+  "5.5.3c": [
+    "Building regulation consents must be sent after completion."
+  ],
+  "5.5.3d": [
+    "Certificates of lawful use or development must be sent after completion."
+  ],
+  "5.5.4": [
+    "Report restrictions affecting value or marketability to the contact in the Letter of Instruction."
+  ],
+  "5.7.1a": [
+    "Flying freeholds accepted subject to prior written approval.",
+    "Indemnity insurance may be required."
+  ],
+  "5.7.1b": [
+    "Freehold flats generally not accepted without prior written approval."
+  ],
+  "5.7.1c": [
+    "Report freehold flats or flying freeholds to the contact in the Letter of Instruction."
+  ],
+  "5.8.1": [
+    "Security involving a building converted to max 4 flats where borrower occupies one and owns/shares the freehold is accepted."
+  ],
+  "5.8.5": [
+    "Cross-ownership of freehold reversions between two leasehold flat owners is accepted."
+  ],
+  "5.9.1": [
+    "Commonhold accepted only in specific circumstances with prior referral."
+  ],
+  "5.10.1": [
+    "Contact point for usage restrictions is in the Letter of Instruction.",
+    "Refer to lender's Separate Instructions."
+  ],
+  "5.13.1": [
+    "Notify lender if borrower is not providing balance of funds or is giving a second charge."
+  ],
+  "5.14.1": [
+    "Minimum unexpired lease term of 30 years from the date of loan repayment is required."
+  ],
+  "5.14.9": [
+    "Lease matters should be reported to the contact in the Letter of Instruction."
+  ],
+  "5.14.10": [
+    "Service charge matters should be reported to the contact in the Letter of Instruction."
+  ],
+  "5.14.11": [
+    "Report unsatisfactory lease terms in writing to the contact in the Letter of Instruction."
+  ],
+  "5.14.12": [
+    "Clear ground rent and service charge receipts must be sent after completion."
+  ],
+  "5.14.13": [
+    "Receipted notice of service must be sent after completion.",
+    "Refer to lender's Separate Instructions."
+  ],
+  "5.14.15a": [
+    "Report absentee or insolvent landlords to the contact in the Letter of Instruction."
+  ],
+  "5.14.15b": [
+    "Indemnity insurance for absent or insolvent landlords requires prior written approval."
+  ],
+  "5.14.17a": [
+    "Building safety documentation not required unless criteria in 5.14.17b are met."
+  ],
+  "5.14.17b": [
+    "Instructions apply to buildings >= 11m height, >= 5 storeys, or with cladding/fire issues.",
+    "Notify lender if remediation assumptions are incorrect or security requires remediation.",
+    "Notify lender before completion if owner is a non-qualifying leaseholder.",
+    "Report anticipated remediation costs payable by leaseholders."
+  ],
+  "5.14.17c": [
+    "No specific remortgage instructions."
+  ],
+  "5.15.2a": [
+    "Report management company issues to the contact in the Letter of Instruction."
+  ],
+  "5.15.2b": [
+    "Management company share certificate must be sent after completion."
+  ],
+  "5.15.2c": [
+    "Undated, signed blank stock transfer form must be sent after completion."
+  ],
+  "5.15.2d": [
+    "Management company Memorandum and Articles of Association must be sent after completion."
+  ],
+  "5.16.2": [
+    "Contact point for search entry issues is in the Letter of Instruction."
+  ],
+  "5.17.5a": [
+    "Certified copy of Power of Attorney must be sent after completion."
+  ],
+  "5.17.5b": [
+    "Statutory declaration of non-revocation for Power of Attorney must be sent after completion."
+  ],
+  "5.19.1": [
+    "Contact for affordable housing, shared equity, or shared ownership is in the Letter of Instruction."
+  ],
+  "5.20.4": [
+    "Details of existing Green Deal Plans must be disclosed.",
+    "Material information must be advised to the Credit Approver."
+  ],
+  "6.1.3": [
+    "Notify the contact in the Letter of Instruction if borrower does not proceed."
+  ],
+  "6.2.1": [
+    "Report property description discrepancies to the contact in the Letter of Instruction."
+  ],
+  "6.3.1": [
+    "Report purchase price issues to the contact in the Letter of Instruction."
+  ],
+  "6.4.4": [
+    "Incentives must be reported."
+  ],
+  "6.4.5": [
+    "Notify the contact in the Letter of Instruction if the firm lacks control over purchase money."
+  ],
+  "6.5.1": [
+    "Report lack of vacant possession to the contact in the Letter of Instruction.",
+    "Refer to lender's Separate Instructions."
+  ],
+  "6.6.1": [
+    "Report letting status to the contact in the Letter of Instruction.",
+    "Refer to lender's Separate Instructions."
+  ],
+  "6.6.2": [
+    "Contact the point in the Letter of Instruction if letting details are missing at completion."
+  ],
+  "6.6.3": [
+    "Tenancy agreement copy not required for standard ASTs.",
+    "Non-AST agreements require certified copy confirming: no business use, no security of tenure, mortgage recognition, max 3-year term, break clause for repossession, and no adverse provisions."
+  ],
+  "6.6.4": [
+    "Houses in Multiple Occupation (HMOs) are not accepted."
+  ],
+  "6.7.1": [
+    "Accepted warranties include: ABC+, Aedis, Advantage, Ark, Build Assure, Buildcare, BLP, Build Zone, Checkmate, Global, ICW, LABC, NHBC, One Guarantee, Premier, Protek, The Q Policy, Trenwick, Ward Cole, Zurich, CADIS, CIR, and Self-Build Zone.",
+    "Retrospective warranties are not accepted.",
+    "Cover must meet full repair costs."
+  ],
+  "6.7.2": [
+    "Send original or certified copy of the warranty policy or guarantee document."
+  ],
+  "6.7.3": [
+    "Assignments of building standards indemnity schemes must be sent after completion."
+  ],
+  "6.7.4": [
+    "Refer properties lacking a new home warranty scheme in writing."
+  ],
+  "6.7.6": [
+    "Professional consultant's certificate must be sent after completion."
+  ],
+  "6.8.1": [
+    "Unadopted roads or sewers may be accepted with prior written consent."
+  ],
+  "6.9.1": [
+    "Report absent easements in writing to the contact in the Letter of Instruction."
+  ],
+  "6.10.2": [
+    "Refer to the contact in the Letter of Instruction for release of retentions."
+  ],
+  "6.11.1": [
+    "Report redevelopment or road proposals to the contact in the Letter of Instruction."
+  ],
+  "6.12.1": [
+    "Report pre-emption rights or resale restrictions to the contact in the Letter of Instruction."
+  ],
+  "6.13.1": [
+    "Report undischarged improvement or repair grants to the contact in the Letter of Instruction."
+  ],
+  "7.3": [
+    "Consent to mortgage required from all occupants aged 17 or over.",
+    "Provide details of other property rights prior to completion."
+  ],
+  "7.4": [
+    "Report doubts about information accuracy to the contact in the Letter of Instruction."
+  ],
+  "8.1": [
+    "Third-party advice requires prior written approval from the lender."
+  ],
+  "9.1": [
+    "Indemnity insurance policy must be sent after completion."
+  ],
+  "9.2": [
+    "Indemnity limit must equal the property's open market value per the valuation report."
+  ],
+  "10.2a": [
+    "Advance is paid electronically."
+  ],
+  "10.2b": [
+    "Minimum notice of 7 working days is required for the advance."
+  ],
+  "10.3": [
+    "No standard deductions are made from the advance."
+  ],
+  "10.7": [
+    "On delayed completion, return funds within 1 working day via CHAPS."
+  ],
+  "10.9": [
+    "Report delayed completion to the contact in the Letter of Instruction."
+  ],
+  "10.10": [
+    "Funds can be held for a maximum of 1 working day before being returned via CHAPS."
+  ],
+  "10.11": [
+    "Interest is charged daily at the mortgage rate from fund release until re-credited to the bank."
+  ],
+  "12.3.1": [
+    "Contact for retention releases is in the Letter of Instruction."
+  ],
+  "14.1.4": [
+    "Form CH2 application not required unless specifically instructed."
+  ],
+  "14.1.5": [
+    "Original legal mortgage must be returned to the bank after registration.",
+    "Registration must occur during priority period or within 2 months of completion.",
+    "Notify lender in writing if registration delay exceeds 2 months."
+  ],
+  "14.2.1": [
+    "Title deeds must be sent to the contact in the Letter of Instruction."
+  ],
+  "14.2.2": [
+    "Required after completion: Official copy of Register, original mortgage deed, relevant title deeds, and guarantees from reports."
+  ],
+  "16.1.1": [
+    "Contact for title documents is in the Letter of Instruction."
+  ],
+  "16.3.7a": [
+    "Contact for transfer of equity execution is in the Letter of Instruction."
+  ],
+  "16.3.7b": [
+    "Attestation clause: 'Executed as a Deed by its lawful attorney for and on behalf of Coutts & Co'."
+  ],
+  "16.3.1": [
+    "Standard transfer or deed of covenant not provided.",
+    "Conveyancer must draft deed and submit for lender approval."
+  ],
+  "16.3.2": [
+    "Contact for debt amounts is in the Letter of Instruction."
+  ],
+  "16.3.4": [
+    "Transfer of equity must be sent after completion."
+  ],
+  "16.4.1": [
+    "Contact for letting consent applications is in the Letter of Instruction."
+  ],
+  "16.4.2": [
+    "A copy of the proposed tenancy agreement must be sent."
+  ],
+  "16.5.2": [
+    "Contact point for confirming deeds will not adversely affect security is in the Letter of Instruction."
+  ],
+  "16.5.3a": [
+    "Send Deed of Variation to the contact in the Letter of Instruction."
+  ],
+  "16.5.3b": [
+    "Send Deed of Rectification to the contact in the Letter of Instruction."
+  ],
+  "16.5.3c": [
+    "Send Deed of Easement to the contact in the Letter of Instruction."
+  ],
+  "16.5.3d": [
+    "Send option agreements to the contact in the Letter of Instruction."
+  ],
+  "17.1.1": [
+    "Contact for redemption statements is in the Letter of Instruction."
+  ],
+  "17.2.1a": [
+    "Discharge and remittance instructions provided in the redemption letter."
+  ],
+  "17.2.1b": [
+    "Discharges are submitted via Electronic DS1 to Land Registry.",
+    "No written confirmation of release provided; verify via Land Registry."
+  ]
+}

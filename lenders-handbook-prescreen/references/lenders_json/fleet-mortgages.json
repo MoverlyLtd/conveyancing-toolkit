@@ -1,0 +1,347 @@
+{
+  "1.11a": [
+    "Address: Fleet Mortgages Limited, 2ND Floor, Flagship House, Reading Road North, Fleet, Hampshire, GU51 4WP",
+    "Website: www.fleetmortgages.co.uk",
+    "Telephone: 01252 931399",
+    "Email: completions@fleetmortgages.co.uk"
+  ],
+  "1.11b": [
+    "Telephone: 01252 931399",
+    "Email: completions@fleetmortgages.co.uk"
+  ],
+  "1.7": [
+    "Lending is not permitted where the borrower and mortgagor are not the same entity."
+  ],
+  "1.14": [
+    "Firms may act if a member is the seller provided a separate partner (not related to the seller) acts for the lender.",
+    "There must be no conflict of interest.",
+    "Actions must align with professional guidelines."
+  ],
+  "1.15": [
+    "Firms may act if a member is the borrower provided a separate partner (not related to the borrower) acts for the lender.",
+    "There must be no conflict of interest.",
+    "Actions must align with professional guidelines."
+  ],
+  "3.1.3": [
+    "Notification of the seller's solicitor firm name and address is not required."
+  ],
+  "3.1.4": [
+    "Lending is prohibited if the seller does not have legal representation."
+  ],
+  "3.1.5": [
+    "No alternative identity verification documents are accepted.",
+    "Obtained documents must be retained and provided with the certificate of title upon request."
+  ],
+  "3.2.3": [
+    "Notification of the seller's solicitor firm name and address is required."
+  ],
+  "3.2.4": [
+    "Contact point: Refer to section 1.11a."
+  ],
+  "4.5a": [
+    "Contact point for re-inspection: Refer to section 1.11a."
+  ],
+  "4.5b": [
+    "Certificate of title destination: Refer to section 1.11a.",
+    "Only unqualified certificates of title are accepted.",
+    "Certificates must be submitted in final form with copies of deeds of guarantee and ILA certificates."
+  ],
+  "4.1": [
+    "Valuation reports are provided by the lender for the lender's benefit only.",
+    "Borrowers must be informed of report limitations and the necessity of obtaining their own survey."
+  ],
+  "4.3": [
+    "Incorrect valuer assumptions: Refer to section 1.11a.",
+    "Consult the Acceptable and Unacceptable Security list on the lender's website."
+  ],
+  "5.1.1": [
+    "Sub-sales and back-to-back transactions where the seller has owned the property for less than 6 months are prohibited.",
+    "Prohibition includes transactions where the seller is an entity controlled by the borrower or a related company director/shareholder.",
+    "Remortgages within 6 months of purchase are prohibited unless the borrower is already the registered proprietor."
+  ],
+  "5.2.1": [
+    "Contact point: Refer to section 1.11a."
+  ],
+  "5.4.4": [
+    "Environmental or contaminated land reports should not be sent unless they identify impacts on security."
+  ],
+  "5.4.5": [
+    "Personal local authority searches are accepted if the firm is Search Code subscribed and CoPSO registered.",
+    "An unqualified Certificate of Title must be provided."
+  ],
+  "5.4.6": [
+    "Search insurance is accepted for remortgages or SPV transfers where the individuals involved remain unchanged.",
+    "Insurance is only for local authority searches.",
+    "Insurance is prohibited for transactions of £1 million or more.",
+    "Insurance is prohibited for Houses in Multiple Occupation (HMOs).",
+    "Insurance is prohibited for Multi-Unit Freehold Blocks (MUBs)."
+  ],
+  "5.5.3a": [
+    "Contact point for reporting breaches: Refer to section 1.11a."
+  ],
+  "5.5.3b": [
+    "Original/copy of planning permission is not required unless requested."
+  ],
+  "5.5.3c": [
+    "Original/copy of building regulation consents is not required unless requested."
+  ],
+  "5.5.3d": [
+    "Original/copy of certificates of lawful use/development is not required unless requested."
+  ],
+  "5.5.4": [
+    "Properties with restrictions affecting value/marketability: Refer to section 1.11a.",
+    "Only unqualified certificates of title are accepted."
+  ],
+  "5.7.1a": [
+    "Flying freeholds are accepted if they do not exceed 10% of the total floor area (excluding coach houses).",
+    "Indemnity insurance is mandatory for flying freeholds."
+  ],
+  "5.7.1b": [
+    "Freehold flats are not accepted."
+  ],
+  "5.7.1c": [
+    "Report flying freehold or freehold flat titles to section 1.11a."
+  ],
+  "5.8.1": [
+    "Occupancy by the borrower or their relative is prohibited for buy-to-let mortgages.",
+    "A charge over the freehold is required if the borrower or a related entity controls the freehold."
+  ],
+  "5.8.5": [
+    "Two-flat leasehold building security accepted if repairing obligations are split at the first floor joist level.",
+    "Lease must have 85+ years remaining with nominal ground rent.",
+    "The freehold must be charged to the lender.",
+    "Freehold and lease must be transferred together to the same owner.",
+    "Access and maintenance legal arrangements must be established."
+  ],
+  "5.9.1": [
+    "Commonhold titles are not accepted."
+  ],
+  "5.10.1": [
+    "Contact point for use restrictions: Refer to section 1.11a."
+  ],
+  "5.13.1": [
+    "Second charges are not permitted.",
+    "Contact point: Refer to section 1.11a."
+  ],
+  "5.14.15a": [
+    "Absentee/insolvent landlord: Refer to section 1.11a."
+  ],
+  "5.14.15b": [
+    "Indemnity insurance is accepted for absent or insolvent landlords."
+  ],
+  "5.14.17a": [
+    "Building safety documentation should not be sent unless specifically requested via section 5.14.17b."
+  ],
+  "5.14.17b": [
+    "Flats require confirmation of a current Fire Risk Assessment (FRA).",
+    "Lending is prohibited if an FRA is required but unavailable/expired.",
+    "Report FRA results identifying 'substantial', 'intolerable', or 'extreme harm' risks, including cost and timescale details.",
+    "EWS1 forms are not required for buildings completed on or after 1 January 2020.",
+    "EWS1 forms are required for older buildings if specified in the valuation report.",
+    "Remediation liabilities under Building Safety Act 2022 must be reported immediately; lending will not proceed."
+  ],
+  "5.14.17c": [
+    "Building safety instructions apply to remortgages."
+  ],
+  "5.14.1": [
+    "Minimum unexpired lease term: 85 years at mortgage commencement.",
+    "Minimum unexpired lease term: 50 years at the scheduled end of the mortgage term."
+  ],
+  "5.14.9": [
+    "Ground rent reporting regarding Assured Tenancy status is not required for leases over 21 years due to Renters’ Rights Act 2025.",
+    "Onerous ground rents must be reported, including doubling < 25 years or those linked to capital value.",
+    "Leases/extensions granted after 22 June 2022 must comply with the Leasehold Reform (Ground Rent) Act 2022."
+  ],
+  "5.14.10": [
+    "Report service charges exceeding £5,000 or 1% of property value (whichever is lower).",
+    "Report significant planned increases or works, including list of works, cost, timescale, and borrower contribution."
+  ],
+  "5.14.11": [
+    "Indemnity insurance is accepted for unsatisfactory lease terms."
+  ],
+  "5.14.12": [
+    "Ground rent/service charge receipts do not need to be sent but must be verified as clear by the conveyancer."
+  ],
+  "5.14.13": [
+    "Receipted notice of service is not required to be sent."
+  ],
+  "5.15.2a": [
+    "Indemnity insurance accepted for historic/uncollected rent charges (12+ years).",
+    "Estate rent charges accepted if Section 121 of the Law of Property Act 1925 is excluded.",
+    "Estate rent charges accepted if 28 days' notice to the mortgagee is required before enforcement.",
+    "Estate rent charges accepted if the owner is a resident-owned management company."
+  ],
+  "5.15.2b": [
+    "Management company share certificates do not need to be sent."
+  ],
+  "5.15.2c": [
+    "Signed blank stock transfer forms should be retained on file, not sent."
+  ],
+  "5.15.2d": [
+    "Memorandum and articles of association of the management company do not need to be sent."
+  ],
+  "5.16.2": [
+    "Search entry issues: Refer to section 1.11a."
+  ],
+  "5.17.5a": [
+    "Documents signed by attorneys are not accepted.",
+    "All documents must be signed by the borrower."
+  ],
+  "5.17.5b": [
+    "Statutory declarations for power of attorney are not applicable."
+  ],
+  "5.19.1": [
+    "Lending is prohibited for affordable housing, shared equity, or shared ownership properties."
+  ],
+  "5.20.1": [
+    "Solar panel leases must meet UK Finance minimum requirements.",
+    "Report non-compliant leases where no deed of variation is available."
+  ],
+  "5.20.4": [
+    "Existing Green Deal Plans must be disclosed, including work details, balance, payments, term, guarantees, and EPC."
+  ],
+  "6.1.3": [
+    "Canceled mortgage offers: Refer to section 1.11a."
+  ],
+  "6.2.1": [
+    "Property description discrepancies: Refer to section 1.11a.",
+    "Provide details before submitting an unqualified certificate of title."
+  ],
+  "6.3.1": [
+    "Purchase price issues: Refer to section 1.11a."
+  ],
+  "6.4.4": [
+    "The UK Finance Disclosure of Incentives form is mandatory."
+  ],
+  "6.4.5": [
+    "Control of purchase money issues: Refer to section 1.11a."
+  ],
+  "6.5.1": [
+    "Vacant possession issues: Refer to section 1.11a."
+  ],
+  "6.6.1": [
+    "Buy-to-let status: Refer to section 1.11a.",
+    "No report required if letting is already permitted by the mortgage offer."
+  ],
+  "6.6.2": [
+    "Letting detail issues: Refer to section 1.11a."
+  ],
+  "6.6.3": [
+    "Tenancy agreements should not be sent.",
+    "Accepted tenancies: AST (England) or SOC (Wales) max 36 months, rent <£100k per annum.",
+    "Corporate tenancies: Max 5 years, wholly residential, no care services.",
+    "Shared households/Student lets: Max 5 years, residential only, no assignment.",
+    "Leases > 12 months require an unconditional right to terminate or termination upon receiver appointment.",
+    "Holiday lets (Airbnb), protected tenancies, and agricultural tenancies are prohibited."
+  ],
+  "6.6.4": [
+    "Lending on HMOs is permitted per the terms of the mortgage offer."
+  ],
+  "6.7.1": [
+    "Accepted warranties: NHBC, Zurich Municipal, Premier Guarantee, Building Life Plans, Buildzone, LABC, ICW, Q Policy, Checkmate, GHW, Advantage HCI, Protek, Aedis/Homeproof, ABC+, Ark Group, Build Assure.",
+    "Warranties must involve periodic construction checks; retrospective warranties are prohibited."
+  ],
+  "6.7.2": [
+    "New home warranty documentation should not be sent; forward to the borrower."
+  ],
+  "6.7.3": [
+    "Assignments of building standards indemnity schemes should not be sent unless requested."
+  ],
+  "6.7.4": [
+    "Properties without warranties must have construction monitored by a qualified professional consultant.",
+    "Professional Consultant’s Certificates (PCC) must be in UK Finance format.",
+    "Retrospective PCCs are prohibited.",
+    "For flats, the PCC must cover common parts and structure."
+  ],
+  "6.7.6": [
+    "Professional consultant's certificates should not be sent."
+  ],
+  "6.8.1": [
+    "Unadopted road/sewer issues: Refer to section 1.11a."
+  ],
+  "6.9.1": [
+    "Absent easement issues: Refer to section 1.11a."
+  ],
+  "6.10.2": [
+    "Contact the lender for case-by-case confirmation regarding release of retentions."
+  ],
+  "6.11.1": [
+    "Redevelopment/road proposals: Refer to section 1.11a."
+  ],
+  "6.12.1": [
+    "Pre-emption rights/resale restrictions: Refer to section 1.11a."
+  ],
+  "6.13.1": [
+    "Improvement/repair grants: Refer to section 1.11a."
+  ],
+  "7.3": [
+    "Occupancy is restricted to those specified in the mortgage offer and conditions."
+  ],
+  "8.1": [
+    "Firms may advise third parties per supplemental instructions and mortgage offer requirements."
+  ],
+  "9.1": [
+    "Indemnity insurance policies should not be sent.",
+    "Policies must cover the lender and successors in title without limitation.",
+    "A copy must be retained on the conveyancer's file."
+  ],
+  "9.2": [
+    "Minimum indemnity insurance limit: The valuation of the property."
+  ],
+  "10.2a": [
+    "Advances are paid electronically."
+  ],
+  "10.2b": [
+    "Minimum notice for advance: 5 working days."
+  ],
+  "10.7": [
+    "Delayed completion: Return advance electronically within 24 hours including borrower name and account number."
+  ],
+  "10.10": [
+    "Advance must be used on the specified completion date; otherwise, return per section 10.7."
+  ],
+  "10.11": [
+    "Interest is charged at the mortgage rate from the date funds are released."
+  ],
+  "14.1.4": [
+    "Form CH2 applications are not required; further advances are prohibited."
+  ],
+  "14.1.5": [
+    "Original mortgage deeds are not required.",
+    "Email a completed copy of the Mortgage Deed immediately after completion.",
+    "Provide Confirmation of Registration and Title Information Document post-registration."
+  ],
+  "14.2.1": [
+    "Deeds should not be sent to the lender."
+  ],
+  "14.2.2": [
+    "Register charges for limited companies at Companies House within 7 days of completion.",
+    "Email the registration application acknowledgement to the Mortgage Services Team."
+  ],
+  "16.1.1": [
+    "Contact point: Mortgage Services",
+    "Telephone: 01252 916776",
+    "Email: mortgageservices@fleetmortgages.co.uk"
+  ],
+  "16.3.1": [
+    "Standard form queries: Mortgage Services on 01252 916776 or mortgageservices@fleetmortgages.co.uk"
+  ],
+  "16.5.3a": [
+    "Deed of variation destination: mortgageservices@fleetmortgages.co.uk"
+  ],
+  "16.5.3b": [
+    "Deed of rectification destination: mortgageservices@fleetmortgages.co.uk"
+  ],
+  "16.5.3c": [
+    "Deed of easement destination: mortgageservices@fleetmortgages.co.uk"
+  ],
+  "16.5.3d": [
+    "Option agreements destination: mortgageservices@fleetmortgages.co.uk"
+  ],
+  "17.1.1": [
+    "Redemption statements: Mortgage Services on 01252 916776 or mortgageservices@fleetmortgages.co.uk"
+  ],
+  "17.2.1b": [
+    "Discharges are sent via e-DS1 form."
+  ]
+}

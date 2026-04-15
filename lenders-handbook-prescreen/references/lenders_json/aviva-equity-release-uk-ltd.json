@@ -1,0 +1,329 @@
+{
+  "1.11a": [
+    "Aviva Equity Release UK Limited, PO Box 520, Surrey Street, Norwich, NR1 3WG",
+    "Telephone: 0800 206 2014"
+  ],
+  "1.11b": [
+    "Aviva Equity Release UK Limited, PO Box 520, Surrey Street, Norwich, NR1 3WG",
+    "Telephone: 0800 206 2014"
+  ],
+  "1.7": [
+    "Lending is not permitted when the borrower and mortgagor are not the same person."
+  ],
+  "1.14": [
+    "The firm may act if the person dealing with the transaction or an immediate family member is the seller."
+  ],
+  "1.15": [
+    "The firm may act if the person dealing with the transaction or an immediate family member is the borrower."
+  ],
+  "3.1.3": [
+    "Notification of the seller's legal representative's name and address is not required."
+  ],
+  "3.1.4": [
+    "Notification is not required if the seller does not have legal representation."
+  ],
+  "3.1.5": [
+    "Contact the lender for acceptable identity verification documents."
+  ],
+  "3.2.3": [
+    "Notification of the seller's legal representative's details is not required."
+  ],
+  "3.2.4": [
+    "Notification is not required if the seller does not have legal representation."
+  ],
+  "4.5a": [
+    "Contact details are the same as 1.11a."
+  ],
+  "4.5b": [
+    "Certificates of title should be sent to the address in 1.11a."
+  ],
+  "4.1": [
+    "The lender provides the valuation report."
+  ],
+  "4.3": [
+    "Incorrect valuation assumptions should be reported to the contact in 1.11a."
+  ],
+  "5.1.1": [
+    "Contact the address in 1.11a if the seller has owned the property for less than 6 months."
+  ],
+  "5.2.1": [
+    "Contact the address in 1.11a if the seller is not the registered owner."
+  ],
+  "5.4.4": [
+    "Environmental or contaminated land reports must be submitted to the lender."
+  ],
+  "5.4.5": [
+    "Personal searches are accepted if performed by firms registered under CoPSO."
+  ],
+  "5.4.6": [
+    "Contact the lender regarding requirements for search insurance."
+  ],
+  "5.5.3a": [
+    "Breaches and unsatisfied conditions must be reported to the contact in 1.11a."
+  ],
+  "5.5.3b": [
+    "Original or copy planning permission is not required."
+  ],
+  "5.5.3c": [
+    "Building regulation consents are required in specific cases; contact the lender."
+  ],
+  "5.5.3d": [
+    "Certificates of lawful use or development are not required."
+  ],
+  "5.5.4": [
+    "Restrictions affecting value or marketability must be reported to the contact in 1.11a."
+  ],
+  "5.7.1a": [
+    "Lending is permitted on flying/creeping freeholds up to 15% of the total habitable floor area of the building, subject to valuer comments."
+  ],
+  "5.7.1b": [
+    "Lending is not permitted on freehold flats."
+  ],
+  "5.7.1c": [
+    "Report flying freehold titles to the contact in 1.11a."
+  ],
+  "5.8.1": [
+    "Security is accepted for buildings converted into maximum four flats where the borrower occupies one, owns the freehold, and other flats are under long leases."
+  ],
+  "5.8.5": [
+    "Security is accepted for one of two leasehold flats where owners cross-own the freehold reversions."
+  ],
+  "5.9.1": [
+    "Lending on commonhold is not permitted."
+  ],
+  "5.10.1": [
+    "Report restrictions on use to the contact in 1.11a."
+  ],
+  "5.13.1": [
+    "Contact 1.11a if the borrower is not providing the full balance or proposes a second charge."
+  ],
+  "5.14.15a": [
+    "Report absentee or insolvent landlords to the contact in 1.11a."
+  ],
+  "5.14.15b": [
+    "Indemnity insurance is accepted for absent or insolvent landlords."
+  ],
+  "5.14.1": [
+    "Minimum unexpired lease term: 160 years minus the age of the youngest borrower."
+  ],
+  "5.14.9": [
+    "Lease matters should be referred to the contact in 1.11a."
+  ],
+  "5.14.10": [
+    "Service charge matters should be referred to the contact in 1.11a."
+  ],
+  "5.14.11": [
+    "Indemnity insurance is not accepted for unsatisfactory lease terms."
+  ],
+  "5.14.12": [
+    "Submission of ground rent or service charge receipts is not required."
+  ],
+  "5.14.13": [
+    "A receipted copy of notice or evidence of service must be provided."
+  ],
+  "5.15.2a": [
+    "Management company issues should be reported to the contact in 1.11a."
+  ],
+  "5.15.2b": [
+    "Management company share certificates are not required."
+  ],
+  "5.15.2c": [
+    "Signed blank stock transfer forms are not required."
+  ],
+  "5.15.2d": [
+    "Management company memorandum and articles of association are not required."
+  ],
+  "5.16.2": [
+    "Contact 1.11a if unable to certify search entries."
+  ],
+  "5.17.5a": [
+    "A certified copy of the Power of Attorney must be sent."
+  ],
+  "5.17.5b": [
+    "General Powers of Attorney are not accepted."
+  ],
+  "5.19.1": [
+    "Lending is not permitted on affordable housing, shared equity, or shared ownership."
+  ],
+  "5.20.1": [
+    "Leases of roof space for solar PV panels not meeting UK Finance minimum requirements must be reported to 1.11a."
+  ],
+  "5.20.3": [
+    "Leases for solar PV panels must comply with UK Finance guidelines and Aviva requirements; refer to 1.11a for guidance."
+  ],
+  "5.20.4": [
+    "Existing Green Deal Plans must be disclosed.",
+    "Provide the EPC 22-digit reference number or the name and address of the Green Deal provider."
+  ],
+  "6.1.3": [
+    "Contact 1.11a if the borrower does not take up the mortgage offer."
+  ],
+  "6.2.1": [
+    "Report discrepancies in property description to 1.11a."
+  ],
+  "6.3.1": [
+    "Purchase price issues must be reported to 1.11a."
+  ],
+  "6.4.4": [
+    "Incentives must be reported to the lender."
+  ],
+  "6.4.5": [
+    "Contact 1.11a if the firm lacks control over purchase money payment."
+  ],
+  "6.5.1": [
+    "Contact 1.11a if vacant possession will not be given."
+  ],
+  "6.6.1": [
+    "Buy-to-let for the whole property is not permitted.",
+    "Partial letting of a self-contained unit is allowed if it is under 50% of the total area.",
+    "Tenancy must be an Assured Shorthold Tenancy (AST) with a maximum 6-month renewable term and 2-month notice period.",
+    "A Tenant’s Deed of Consent and independent legal advice for all occupants is required."
+  ],
+  "6.6.2": [
+    "Refer to conditions in 6.6.1 for partial letting; contact 1.11a for details."
+  ],
+  "6.6.3": [
+    "Submission of certified copy tenancy agreements is not required."
+  ],
+  "6.6.4": [
+    "Lending on Houses in Multiple Occupation (HMO) is not permitted."
+  ],
+  "6.7.1": [
+    "Acceptable warranty providers: NHBC, Zurich, Premier, Building Life Plan, Build Zone, LABC, Checkmate/Castle 10, ABC+, Advantage, Ark, Build Assure, Global Home Warranties, Home Proof, ICW, One Guarantee, Protek, The Q Policy.",
+    "Retrospective building warranty insurance is not acceptable."
+  ],
+  "6.7.2": [
+    "A copy of the warranty document must be sent to the lender."
+  ],
+  "6.7.3": [
+    "Assignments of building standards indemnity schemes do not need to be sent."
+  ],
+  "6.7.4": [
+    "Properties without a warranty require monitoring by a professional consultant with minimum £1 million PI insurance.",
+    "A CML-format Professional Consultant’s Certificate is required; retrospective certificates are not accepted."
+  ],
+  "6.7.6": [
+    "The Professional Consultant's Certificate must be sent to the lender."
+  ],
+  "6.8.1": [
+    "Report lack of agreement or bond for unadopted roads/sewers to 1.11a."
+  ],
+  "6.9.1": [
+    "Report absent necessary easements to 1.11a."
+  ],
+  "6.10.2": [
+    "The lender does not apply retentions."
+  ],
+  "6.11.1": [
+    "Report redevelopment or road proposals to 1.11a."
+  ],
+  "6.12.1": [
+    "Remortgages: Notification required only if solicitor is advised of pre-emption/options.",
+    "Purchases: Pre-emption rights, resale restrictions, and options are generally not accepted; refer deed wording to 1.11a for assessment."
+  ],
+  "6.13.1": [
+    "Report undischarged improvement or repair grants to 1.11a."
+  ],
+  "7.3": [
+    "Occupier’s Deed of Consent is required only if specified in mortgage offer special conditions.",
+    "Occupants must receive independent legal advice.",
+    "Married couples and civil partners must be joint owners and borrowers."
+  ],
+  "7.4": [
+    "Report doubts regarding information accuracy to 1.11a."
+  ],
+  "8.1": [
+    "Solicitors are not permitted to advise specified third parties."
+  ],
+  "9.1": [
+    "Indemnity insurance policies must be sent to the lender."
+  ],
+  "9.2": [
+    "Indemnity insurance must cover the full value of the property."
+  ],
+  "10.2a": [
+    "Mortgage advance is paid electronically."
+  ],
+  "10.2b": [
+    "Minimum notice for advance: 4 working days."
+  ],
+  "10.3": [
+    "Application fees are deducted from the mortgage advance."
+  ],
+  "10.7": [
+    "Advances must be returned electronically if completion is delayed by more than 2 days."
+  ],
+  "10.9": [
+    "Report completion delays to the contact in 1.11a."
+  ],
+  "10.10": [
+    "Advance funds may be held for a maximum of 2 days."
+  ],
+  "10.11": [
+    "Interest is charged from the date funds are released."
+  ],
+  "12.3.1": [
+    "The lender does not use retentions."
+  ],
+  "14.1.4": [
+    "Form CH2 application is not required."
+  ],
+  "14.1.5": [
+    "The original mortgage deed must be sent to the lender.",
+    "A certified copy must be submitted to HMLR."
+  ],
+  "14.2.1": [
+    "Title deeds and documents should be sent to the address in 1.11a."
+  ],
+  "14.2.2": [
+    "Required post-completion documents (image format): Title information document, Legal charge, Solicitors’ Certificate, Buildings Insurance Declaration, Occupant’s Deed, Indemnity policy, Receipted Notice of Charge (leasehold), standard declarations/undertakings, Power of Attorney, and Essential repairs undertaking."
+  ],
+  "16.1.1": [
+    "Contact 1.11a for title documents."
+  ],
+  "16.3.7a": [
+    "Transfer of equity execution: Executed as a Deed by Aviva Equity Release UK Limited by its attorney in the presence of 1 attorney and 1 witness."
+  ],
+  "16.3.7b": [
+    "Attestation clause: Executed as a Deed by Aviva Equity Release UK Limited acting by its attorney [Name] in the presence of: 1 attorney, 1 witness."
+  ],
+  "16.3.1": [
+    "There is no standard form for transfer or deed of covenant."
+  ],
+  "16.3.2": [
+    "Contact 1.11a for debt amount information."
+  ],
+  "16.3.4": [
+    "Transfer of equity documents do not need to be sent to the lender."
+  ],
+  "16.4.1": [
+    "Partial letting requests for Edition 5+ terms require a compliant tenancy agreement; contact 1.11a."
+  ],
+  "16.4.2": [
+    "Proposed tenancy agreements do not need to be sent."
+  ],
+  "16.5.3a": [
+    "Send deeds of variation to 1.11a."
+  ],
+  "16.5.3b": [
+    "Send deeds of rectification to 1.11a."
+  ],
+  "16.5.3c": [
+    "Report missing or unenforceable easements to 1.11a."
+  ],
+  "16.5.3d": [
+    "Refer option agreement details and deed wording to 1.11a."
+  ],
+  "16.5.2": [
+    "Contact 1.11a to confirm if agreements adversely affect security."
+  ],
+  "17.1.1": [
+    "Contact 1.11a for redemption statements."
+  ],
+  "17.2.1a": [
+    "Send discharge and repayment remittance to 1.11a."
+  ],
+  "17.2.1b": [
+    "Mortgages are discharged directly with the Land Registry via e-DS1."
+  ]
+}

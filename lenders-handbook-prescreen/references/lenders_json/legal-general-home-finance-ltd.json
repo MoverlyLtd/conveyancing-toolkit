@@ -1,0 +1,343 @@
+{
+  "1.11a": [
+    "Underwriting Department: PO Box 17225, Solihull, B91 9US",
+    "Telephone: 03330 048444"
+  ],
+  "1.11b": [
+    "Contact Underwriting Department as per section 1.11a"
+  ],
+  "1.7": [
+    "The lender will not provide loans where the borrower and mortgagor are not the same entity."
+  ],
+  "1.14": [
+    "Conveyancers may not act if the transaction handler or their immediate family is the seller."
+  ],
+  "1.15": [
+    "Conveyancers may act if the handler or family is the borrower only if the firm is a partnership.",
+    "A non-related partner must handle the transaction.",
+    "No conflict of interest must exist.",
+    "Details must be submitted in writing and express authority received from the lender before starting work."
+  ],
+  "3.1.3": [
+    "Seller's solicitor details are only required upon specific request."
+  ],
+  "3.1.4": [
+    "Lender notification is not required if the seller is unrepresented.",
+    "Conveyancers must ensure security is protected and follow professional body guidance.",
+    "Undertakings from unqualified conveyancers are prohibited."
+  ],
+  "3.1.5": [
+    "Latest pension statement is an acceptable identity document from List B.",
+    "At least one identity document must contain the borrower's authenticated signature."
+  ],
+  "3.2.3": [
+    "Seller's solicitor details are only required upon specific request."
+  ],
+  "3.2.4": [
+    "Use contact details provided in section 1.11a."
+  ],
+  "4.5a": [
+    "Use contact details provided in section 1.11a for re-inspections."
+  ],
+  "4.5b": [
+    "Send Certificate of Title to the Completions Department."
+  ],
+  "4.1": [
+    "Lender provides a valuation report for every transaction."
+  ],
+  "4.3": [
+    "Use contact details provided in section 1.11a to report incorrect valuation assumptions."
+  ],
+  "5.1.1": [
+    "Purchases: Seller must have owned the property for at least 6 months, unless it is a developer part-exchange.",
+    "Remortgages: Borrower must have owned the property for at least 6 months, unless acquired via inheritance."
+  ],
+  "5.2.1": [
+    "Use contact details provided in section 1.11a if the seller is not the registered proprietor."
+  ],
+  "5.4.4": [
+    "Environmental and contaminated land reports must be submitted."
+  ],
+  "5.4.5": [
+    "Personal searches are accepted if the agency has adequate professional indemnity insurance.",
+    "The conveyancer must be able to provide an unqualified certificate of title."
+  ],
+  "5.4.6": [
+    "Search insurance is accepted at the conveyancer's risk.",
+    "Title must remain good and marketable."
+  ],
+  "5.5.3a": [
+    "Use contact details provided in section 1.11a to report breaches or conditions that will not be met by completion."
+  ],
+  "5.5.3b": [
+    "Original or copy of planning permission required after completion.",
+    "Lending is prohibited on Grade 1 (England/Wales) and Grade A (Scotland) listed properties."
+  ],
+  "5.5.3c": [
+    "Building regulation consents required after completion."
+  ],
+  "5.5.3d": [
+    "Certificates of lawful use or development required after completion for new builds, extensions/alterations within last 4 years, or material change of use within last 10 years."
+  ],
+  "5.5.4": [
+    "Report restrictions affecting marketability to the contact in section 1.11a."
+  ],
+  "5.7.1a": [
+    "Flying freeholds accepted if they comprise less than 15% of the total floor space.",
+    "Conveyancer must verify rights of support, access, and maintenance.",
+    "Report flying freeholds to lender if they are not mentioned in the valuation report."
+  ],
+  "5.7.1b": [
+    "Lending on freehold flats is prohibited."
+  ],
+  "5.7.1c": [
+    "Report accepted flying freeholds to the contact in section 1.11a."
+  ],
+  "5.8.1": [
+    "Security involving building conversions of max 4 flats is accepted if borrower occupies one flat and owns/shares the freehold, with other flats on long leases."
+  ],
+  "5.8.5": [
+    "Two-flat leasehold arrangements accepted if lender takes security over both the borrower's leasehold flat and the freehold interest in the other flat."
+  ],
+  "5.9.1": [
+    "Lending on commonhold is prohibited."
+  ],
+  "5.10.1": [
+    "Report use restrictions to the contact in section 1.11a."
+  ],
+  "5.13.1": [
+    "Subsequent charges are prohibited.",
+    "Report balance of purchase price issues to the contact in section 1.11a."
+  ],
+  "5.14.15a": [
+    "Report absentee or insolvent landlords to the contact in section 1.11a."
+  ],
+  "5.14.15b": [
+    "Indemnity insurance for absent/insolvent landlords requires Underwriting Department referral.",
+    "Insurance must comply with Section 9 and ensure good/marketable title."
+  ],
+  "5.14.1": [
+    "Leasehold remaining term plus age of the youngest borrower at completion must be 175 years or greater.",
+    "Transfer fees must be fixed, capped, or calculable.",
+    "Transfer fees must not exceed 3% of the property's market value or sale price."
+  ],
+  "5.14.9": [
+    "Lease matters contact: Legal Services Department."
+  ],
+  "5.14.10": [
+    "Maximum total annual service charge (including ground rent and sinking fund) is 2.5% of the property value.",
+    "Service charge contact: Underwriting Department (1.11a)."
+  ],
+  "5.14.11": [
+    "Indemnity insurance for unsatisfactory lease terms requires Underwriting Department referral."
+  ],
+  "5.14.12": [
+    "Send ground rent and service charge receipts after completion."
+  ],
+  "5.14.13": [
+    "Send receipted notice or evidence of service after completion."
+  ],
+  "5.15.2a": [
+    "Management company issues contact: Underwriting Department (1.11a)."
+  ],
+  "5.15.2b": [
+    "Send management company share certificate after completion."
+  ],
+  "5.15.2c": [
+    "Send signed blank stock transfer form after completion."
+  ],
+  "5.15.2d": [
+    "Management company memorandum and articles of association are not required."
+  ],
+  "5.16.2": [
+    "Report search entry certification issues to the contact in 1.11a."
+  ],
+  "5.17.5a": [
+    "Solicitor-certified copy of Power of Attorney required.",
+    "Lifetime mortgages: Attorney can only sign if borrower is incapacitated and the power is an EPA or LPA.",
+    "Must confirm mortgage is for the donor's welfare and benefit.",
+    "Clear bankruptcy search required for all attorneys."
+  ],
+  "5.17.5b": [
+    "Statutory declaration of non-revocation of power of attorney required."
+  ],
+  "5.19.1": [
+    "Lending on shared ownership, shared equity, or affordable housing is prohibited."
+  ],
+  "5.20.1": [
+    "Report solar PV panel leases that do not meet UK Finance minimum requirements."
+  ],
+  "5.20.3": [
+    "Solar PV roof space leases must comply with the lender's specific requirements."
+  ],
+  "5.20.4": [
+    "Disclose existing Green Deal Plans to the Underwriting Department."
+  ],
+  "6.1.3": [
+    "Report non-uptake of mortgage offer to the contact in 1.11a."
+  ],
+  "6.2.1": [
+    "Report property description discrepancies to the contact in 1.11a."
+  ],
+  "6.3.1": [
+    "Report purchase price issues to the contact in 1.11a."
+  ],
+  "6.4.4": [
+    "All incentives must be reported unless explicitly detailed in the valuation report."
+  ],
+  "6.4.5": [
+    "Report lack of control over purchase money to the contact in 1.11a."
+  ],
+  "6.5.1": [
+    "Report vacant possession issues to the contact in 1.11a."
+  ],
+  "6.6.1": [
+    "Report letting/buy-to-let status to the contact in 1.11a."
+  ],
+  "6.6.2": [
+    "Report missing letting details to the contact in 1.11a."
+  ],
+  "6.6.3": [
+    "Tenancy agreements are not required."
+  ],
+  "6.6.4": [
+    "Lending on Houses in Multiple Occupation (HMOs) is prohibited."
+  ],
+  "6.7.1": [
+    "Accepted warranty schemes: NHBC, Premier Guarantee (LABC), Building Life Plans, Checkmate, ICW, Homeproof, Q Assure Build, Advantage HCI, Buildzone, Protek, Ark, One Guarantee, Global Home Warranties, ABC+ Warranty, Build Assure (FMB), Cadis.",
+    "Other schemes require referral to Underwriting Department."
+  ],
+  "6.7.2": [
+    "Send warranty policy and certificate."
+  ],
+  "6.7.3": [
+    "Send building standards indemnity scheme assignments after completion."
+  ],
+  "6.7.4": [
+    "A new home warranty scheme is mandatory for new properties."
+  ],
+  "6.7.6": [
+    "Professional consultant's certificate required only if specifically approved."
+  ],
+  "6.8.1": [
+    "Report missing road/sewer agreements or bonds to the contact in 1.11a."
+  ],
+  "6.9.1": [
+    "Report missing easements to the contact in 1.11a."
+  ],
+  "6.10.2": [
+    "Conditional retentions are not permitted."
+  ],
+  "6.11.1": [
+    "Report redevelopment or road proposals to the contact in 1.11a."
+  ],
+  "6.12.1": [
+    "Report pre-emption rights or resale restrictions to the contact in 1.11a."
+  ],
+  "6.13.1": [
+    "Report undischarged improvement/repair grants to the contact in 1.11a."
+  ],
+  "7.3": [
+    "Consent to mortgage required from all occupants aged 17 and over."
+  ],
+  "7.4": [
+    "Report doubts regarding information accuracy to the contact in 1.11a."
+  ],
+  "8.1": [
+    "Conveyancers may not advise the specified third parties."
+  ],
+  "9.1": [
+    "Send indemnity insurance policy after completion."
+  ],
+  "9.2": [
+    "Indemnity limit must equal full market value and be index-linked.",
+    "Policy must benefit the lender, the borrower (where available), and all successors/assigns."
+  ],
+  "10.2a": [
+    "Advances paid electronically via CHAPS.",
+    "A fee of £30 is applicable for CHAPS payments."
+  ],
+  "10.2b": [
+    "Minimum 5 working days' notice required for funds."
+  ],
+  "10.3": [
+    "Standard deductions are listed in the Offer of Loan."
+  ],
+  "10.7": [
+    "Return delayed advances to the contact in 1.11a."
+  ],
+  "10.9": [
+    "Report delayed completion to the contact in 1.11a."
+  ],
+  "10.10": [
+    "Lender must be notified immediately if completion is delayed.",
+    "Full advance must be returned via CHAPS without deduction within one business day.",
+    "Return remittance must quote borrower name and account number."
+  ],
+  "10.11": [
+    "Interest for late return of funds is charged at the lender's funding cost rate."
+  ],
+  "12.3.1": [
+    "Retention and instalment release contact: Underwriting Department (1.11a)."
+  ],
+  "14.1.4": [
+    "Form CH2 application is not applicable."
+  ],
+  "14.1.5": [
+    "Send original mortgage deed and original title documents after completion."
+  ],
+  "14.2.1": [
+    "Send all deeds and documents to the Administration Department."
+  ],
+  "14.2.2": [
+    "Post-completion document list: Certificate of Title, Title information document, original legal charge, original/certified lease, Land Registry/Charges searches, original certificates, original indemnity policies, receipted notices."
+  ],
+  "16.1.1": [
+    "Title documents contact: Administration Department."
+  ],
+  "16.3.7a": [
+    "Transfer of equity execution contact: Administration Department."
+  ],
+  "16.3.7b": [
+    "Standard attestation: 'Executed as a Deed by [Name] as Director of [Company] in presence of Witness [Name]'"
+  ],
+  "16.3.1": [
+    "No standard form for transfer or deed of covenant."
+  ],
+  "16.3.2": [
+    "Debt amount enquiries: Administration Department."
+  ],
+  "16.3.4": [
+    "Send certified copy of transfer of equity after completion."
+  ],
+  "16.4.1": [
+    "Consent to letting contact: Administration Department."
+  ],
+  "16.4.2": [
+    "Copy of proposed tenancy agreement must be submitted."
+  ],
+  "16.5.3a": [
+    "Deed of variation destination: Administration Department."
+  ],
+  "16.5.3b": [
+    "Deed of rectification destination: Administration Department."
+  ],
+  "16.5.3c": [
+    "Deed of easement destination: Administration Department."
+  ],
+  "16.5.3d": [
+    "Option agreements destination: Administration Department."
+  ],
+  "16.5.2": [
+    "Confirm impact of deeds/agreements with the Administration Department."
+  ],
+  "17.1.1": [
+    "Redemption statement contact: Administration Department."
+  ],
+  "17.2.1a": [
+    "Discharge and repayment remittance destination: Administration Department."
+  ],
+  "17.2.1b": [
+    "Mortgage discharge is processed electronically via e-DS1."
+  ]
+}

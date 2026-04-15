@@ -1,0 +1,363 @@
+{
+  "1.11a": [
+    "Telephone: 0330 246246",
+    "Email: completions@vidahomeloans.co.uk"
+  ],
+  "1.11b": [
+    "Telephone: 0330 246246",
+    "Email: completions@vidahomeloans.co.uk"
+  ],
+  "1.7": [
+    "Lender does not lend where the borrower and mortgagor are different entities."
+  ],
+  "1.14": [
+    "Conveyancer may not act if the transaction handler or their immediate family is the seller."
+  ],
+  "1.15": [
+    "Conveyancer may not act if the transaction handler or their immediate family is the borrower."
+  ],
+  "3.1.3": [
+    "Notification of the seller's legal representative's details is not required."
+  ],
+  "3.1.4": [
+    "Contact point as per 1.11a.",
+    "Notification required if the seller is unrepresented or if checks on the seller's representative are unsatisfactory."
+  ],
+  "3.1.5": [
+    "Accepted ID: Valid UK Passport",
+    "Accepted ID: Valid UK Driving Licence (Full or Provisional photo card)",
+    "Accepted ID: Valid non-UK passport or National ID Card",
+    "Accepted ID: HM Forces ID Card",
+    "Accepted ID: Police Warrant Card",
+    "Accepted ID: Current UK Firearms Certificate or Shotgun Licence"
+  ],
+  "3.2.3": [
+    "Notification of seller's solicitors firm is not required."
+  ],
+  "3.2.4": [
+    "Contact point as per 1.11a.",
+    "Lender must be notified if seller is unrepresented or representative checks are unsatisfactory."
+  ],
+  "4.5a": [
+    "Re-inspection contact: 0330 246246 or completions@vidahomeloans.co.uk"
+  ],
+  "4.5b": [
+    "Certificate of title destination: 0330 246246 or completions@vidahomeloans.co.uk"
+  ],
+  "4.1": [
+    "Valuation reports are provided to the conveyancer with the offer documents."
+  ],
+  "4.3": [
+    "Report incorrect valuation assumptions to contact 1.11a."
+  ],
+  "5.1.1": [
+    "Contact point as per 1.11a.",
+    "Properties owned for less than 6 months are generally unacceptable.",
+    "Exceptions: Pound-for-pound bridging finance (including fees/interest), inherited properties with documentation, or new-builds from developers via part-exchange.",
+    "Sub-sales, back-to-back transactions, and assignable contracts are prohibited.",
+    "Irrevocable powers of attorney for intervening sellers are prohibited."
+  ],
+  "5.2.1": [
+    "Contact point as per 1.11a if seller is not the registered owner."
+  ],
+  "5.4.4": [
+    "Environmental reports not required unless specified in the Mortgage Offer."
+  ],
+  "5.4.5": [
+    "Personal searches are not accepted."
+  ],
+  "5.4.6": [
+    "Search insurance is accepted for re-mortgages only (excluding unencumbered properties) where the gross advance is ≤ £900,000.",
+    "Lender will arrange a Stewart Title no-search indemnity policy via Smoove (01844 262392).",
+    "Fee is deducted from the net advance.",
+    "Only Stewart Title policy via the lender's process is accepted.",
+    "Conveyancer must confirm in the Certificate of Title if this policy is required."
+  ],
+  "5.5.3a": [
+    "Report planning/building regulation breaches to 1.11a."
+  ],
+  "5.5.3b": [
+    "Send copy of planning permission after completion to Mortgage Services, Vida Homeloans, Skipton, BD23 1FJ."
+  ],
+  "5.5.3c": [
+    "Send copy of building regulation consents after completion to Mortgage Services, Vida Homeloans, Skipton, BD23 1FJ."
+  ],
+  "5.5.3d": [
+    "Send certificates of lawful use after completion to Mortgage Services, Vida Homeloans, Skipton, BD23 1FJ."
+  ],
+  "5.5.4": [
+    "Report property restrictions to contact 1.11a."
+  ],
+  "5.7.1a": [
+    "Flying freeholds accepted if the affected area is ≤ 25% of the total property."
+  ],
+  "5.7.1b": [
+    "Freehold flats are generally unacceptable.",
+    "Exception: Single coach house flat above ≤ 4 garages where the owner uses ≥ 1 garage and the others are leased to neighbours.",
+    "Buildings insurance must cover the main walls of the garages."
+  ],
+  "5.7.1c": [
+    "Report flying freeholds or accepted freehold flats to contact 1.11a."
+  ],
+  "5.8.1": [
+    "Converted buildings with ≤ 4 flats are accepted if the borrower occupies one and owns the freehold.",
+    "Conveyancer must report arrangements to 1.11a and disclose any interest the borrower has in other units."
+  ],
+  "5.8.5": [
+    "Crossover leasehold/freehold arrangements for two flats accepted.",
+    "Security must include the leasehold flat and the freehold reversion of the second flat."
+  ],
+  "5.9.1": [
+    "Commonhold title is not acceptable."
+  ],
+  "5.10.1": [
+    "Report restrictions on use to contact 1.11a."
+  ],
+  "5.13.1": [
+    "Report non-borrower funding or proposed second charges to contact 1.11a."
+  ],
+  "5.14.15a": [
+    "Contact point for absentee/insolvent landlords as per 1.11a."
+  ],
+  "5.14.15b": [
+    "Indemnity insurance for absentee/insolvent landlords accepted if building has ≤ 6 flats.",
+    "Insurance must make title good and marketable to allow unqualified COT."
+  ],
+  "5.14.17a": [
+    "Building safety documentation does not need to be sent."
+  ],
+  "5.14.17b": [
+    "Report incorrect Building Safety Act 2022 remediation assumptions immediately to 1.11a.",
+    "Notification should occur before exchange of contracts."
+  ],
+  "5.14.17c": [
+    "Remortgages: Report remediation issues under Building Safety Act 2022 to 1.11a before submitting Certificate of Title."
+  ],
+  "5.14.1": [
+    "Capital and Interest mortgages: 40 years remaining at end of term.",
+    "Interest-only mortgages: 70 years remaining at end of term."
+  ],
+  "5.14.9": [
+    "Contact for lease matters as per 1.11a."
+  ],
+  "5.14.10": [
+    "Contact for service charge matters as per 1.11a."
+  ],
+  "5.14.11": [
+    "Indemnity insurance for unsatisfactory lease terms considered on a case-by-case basis via contact 1.11."
+  ],
+  "5.14.12": [
+    "Send ground rent/service charge receipts after completion to Mortgage Services in Skipton."
+  ],
+  "5.14.13": [
+    "Send evidence of service of notice after completion to Mortgage Services in Skipton."
+  ],
+  "5.15.2a": [
+    "Historic Rent Charges (Unpaid): Acceptable if amount is fixed and no unusual terms.",
+    "Historic Rent Charges: Indemnity insurance required for 110% of value, covering 121 Law of Property Act 1925 remedies.",
+    "Estate Rent Charges: Max £500 per annum, cannot double more than every 20 years.",
+    "Estate Rent Charges: Owner must contract out of Section 121 Law of Property Act 1925.",
+    "Estate Rent Charges: Requires 28 days’ notice to lender before enforcement.",
+    "Estate Rent Charges: Owner must be developer or residents' management company."
+  ],
+  "5.15.2b": [
+    "Send management company share certificate after completion to Skipton address."
+  ],
+  "5.15.2c": [
+    "Send signed blank stock transfer form after completion to Skipton address."
+  ],
+  "5.15.2d": [
+    "Send management company Memorandum and Articles of Association after completion to Skipton address."
+  ],
+  "5.16.2": [
+    "Contact for search entry issues as per 1.11a."
+  ],
+  "5.17.5a": [
+    "Send copy of Power of Attorney after completion to Skipton address."
+  ],
+  "5.17.5b": [
+    "Send statutory declaration of non-revocation after completion to Skipton address."
+  ],
+  "5.19.1": [
+    "Lender does not lend on affordable housing, shared equity, or shared ownership."
+  ],
+  "5.20.1": [
+    "Notify 1.11a of roof space leases for solar PV and provide the tenant's name.",
+    "Consent must be obtained before proceeding; copy of lease not required."
+  ],
+  "5.20.3": [
+    "Requirements for solar PV roof leases: notify 1.11a of existence and tenant name; wait for confirmation."
+  ],
+  "5.20.4": [
+    "Disclose existing Green Deal Plans to contact 1.11a."
+  ],
+  "6.1.3": [
+    "Notify 1.11a if borrower is not taking up the offer."
+  ],
+  "6.2.1": [
+    "Report property description discrepancies to 1.11a."
+  ],
+  "6.3.1": [
+    "Report purchase price issues to 1.11a."
+  ],
+  "6.4.4": [
+    "Disclose all incentives using the CML Disclosure of Incentives Form to 1.11a."
+  ],
+  "6.4.5": [
+    "Notify 1.11a if conveyancer lacks control over payment of all purchase money."
+  ],
+  "6.5.1": [
+    "Report lack of vacant possession to 1.11a."
+  ],
+  "6.6.1": [
+    "Report letting details or buy-to-let status to 1.11a."
+  ],
+  "6.6.2": [
+    "Contact 1.11a if letting details are unknown at completion."
+  ],
+  "6.6.3": [
+    "Counterpart tenancy agreements do not need to be sent."
+  ],
+  "6.6.4": [
+    "Houses in Multiple Occupation (HMO) are accepted subject to special conditions in the offer."
+  ],
+  "6.7.1": [
+    "Accepted New Build Warranties: ABC+, Aedis/HomeProof, Advantage/HCI, Build Assure, BLP, Build Zone, Checkmate (Castle 10), Global Home, ICW, LABC, NHBC, Premier Guarantee (no reservations), Protek, Q Assure/The Q Policy, Zurich Municipal.",
+    "Retrospective warranties are not acceptable."
+  ],
+  "6.7.2": [
+    "Warranty certificates go to 1.11a before completion and the Skipton address after completion."
+  ],
+  "6.7.3": [
+    "Building standards indemnity assignments go to 1.11a before completion and the Skipton address after completion."
+  ],
+  "6.7.4": [
+    "If no warranty, Professional Consultant's Certificate (PCC) required in standard UK Finance format.",
+    "Consultant must have monitored construction and hold adequate professional indemnity insurance.",
+    "Retrospective PCCs are not accepted."
+  ],
+  "6.7.6": [
+    "PCC must be filed with property deeds after completion."
+  ],
+  "6.8.1": [
+    "Report lack of road/sewer bond or agreement to 1.11a."
+  ],
+  "6.9.1": [
+    "Report missing easements to 1.11a."
+  ],
+  "6.10.2": [
+    "Part retentions are not accepted; all funds are released to the solicitor."
+  ],
+  "6.11.1": [
+    "Report redevelopment or road proposals to 1.11a."
+  ],
+  "6.12.1": [
+    "Report pre-emption rights or resale restrictions to 1.11a."
+  ],
+  "6.13.1": [
+    "Report undischarged improvement/repair grants to 1.11a."
+  ],
+  "7.3": [
+    "Consent to mortgage required from all occupants aged 17+ on lender's standard form."
+  ],
+  "7.4": [
+    "Report doubts regarding disclosure accuracy to 1.11a."
+  ],
+  "8.1": [
+    "Conveyancer may not advise specified third parties; they must obtain independent legal advice."
+  ],
+  "9.1": [
+    "Notify 1.11a of issues requiring indemnity insurance.",
+    "Send copy of policy to 1.11a before completion and to the Skipton address after completion.",
+    "Policy must cover borrower, successors, and mortgagee/assignees."
+  ],
+  "9.2": [
+    "Limit of indemnity must be at least 110% of the purchase price or valuation, whichever is higher."
+  ],
+  "10.2a": [
+    "Advance paid via electronic transfer."
+  ],
+  "10.2b": [
+    "Notice period: 5 business days from Certificate of Title receipt.",
+    "Notice period: 8 business days if re-inspection is required."
+  ],
+  "10.3": [
+    "Standard deductions are listed in the Mortgage Offer and Summary."
+  ],
+  "10.7": [
+    "If completion delayed > 3 business days, funds must be returned electronically to source account.",
+    "Bank fees must not be deducted from the return; borrower is liable for all return charges."
+  ],
+  "10.9": [
+    "Contact for delayed completion as per 1.11a."
+  ],
+  "10.10": [
+    "Funds can be held for a maximum of 3 working days."
+  ],
+  "10.11": [
+    "Interest on delayed returns is charged as per the Mortgage Offer/Summary."
+  ],
+  "12.3.1": [
+    "Instalment/retention release contact: Lender does not offer retentions."
+  ],
+  "14.1.4": [
+    "Form CH2 only required if specifically instructed."
+  ],
+  "14.1.5": [
+    "Send original mortgage deed to the Skipton address; send certified copy to Land Registry."
+  ],
+  "14.2.1": [
+    "Deeds and documents destination: Mortgage Services, Vida Homeloans, Second Floor, 1 Belle Vue Square, Broughton Road, Skipton, BD23 1FJ."
+  ],
+  "14.2.2": [
+    "Post-completion documents: TID, Deed of Consent, Legal Advice Form, Notice to Landlord, Architects Certificate, Original Mortgage Deed, Guarantee Forms, Indemnity Policy."
+  ],
+  "16.1.1": [
+    "Title documents contact as per 14.2.1."
+  ],
+  "16.3.7a": [
+    "Execution of transfer of equity contact as per 14.2.1."
+  ],
+  "16.3.7b": [
+    "Attestation clause: Contact 1.11a for details."
+  ],
+  "16.3.1": [
+    "Lender does not have a standard form of transfer or deed of covenant."
+  ],
+  "16.3.2": [
+    "Debt amount queries as per 14.2.1."
+  ],
+  "16.3.4": [
+    "Transfer of equity must be sent to the Skipton address."
+  ],
+  "16.4.1": [
+    "Consent to letting application as per 14.2.1."
+  ],
+  "16.4.2": [
+    "Lender does not require a copy of the proposed tenancy agreement."
+  ],
+  "16.5.3a": [
+    "Deed of variation destination as per 14.2.1."
+  ],
+  "16.5.3b": [
+    "Deed of rectification destination as per 14.2.1."
+  ],
+  "16.5.3c": [
+    "Deed of easement destination as per 14.2.1."
+  ],
+  "16.5.3d": [
+    "Option agreements destination as per 14.2.1."
+  ],
+  "16.5.2": [
+    "Contact for deed/agreement approval as per 14.2.1."
+  ],
+  "17.1.1": [
+    "Redemption statements contact as per 14.2.1."
+  ],
+  "17.2.1a": [
+    "Repayment remittance and discharge destination as per 14.2.1."
+  ],
+  "17.2.1b": [
+    "Lender uses e-DS1 forms for discharge."
+  ]
+}

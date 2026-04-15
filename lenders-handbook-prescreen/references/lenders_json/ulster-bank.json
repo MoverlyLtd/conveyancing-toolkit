@@ -1,0 +1,234 @@
+{
+  "1.11a": [
+    "Contact details are provided on the letter of instruction including address, fax, email, and phone number.",
+    "Standard documents are available at www.natwest.com/conveyancers.",
+    "For uncompleted property purchases, use the LMS portal for contact.",
+    "General queries should be sent via email.",
+    "For Offset Flexible Mortgages, contact the firm specified on the letter of instruction."
+  ],
+  "1.11b": [
+    "Contact procedures are identical to section 1.11a."
+  ],
+  "1.7": [
+    "The lender does not allow the borrower and mortgagor to be different entities."
+  ],
+  "1.14": [
+    "A firm may act if the person or an immediate family member is the seller, provided the lender is notified via the contact details in 1.11a."
+  ],
+  "1.15": [
+    "A firm may not act if the person dealing with the transaction or an immediate family member is the borrower, unless a separate partner or fee earner of equal standing acts for the lender."
+  ],
+  "3.1.3": [
+    "Do not provide the seller's solicitor details unless specifically requested by the lender."
+  ],
+  "3.1.4": [
+    "Notify the lender via 1.11a if the seller is unrepresented to receive a decision on whether to proceed."
+  ],
+  "3.1.5": [
+    "Acceptable identity documents include old-style UK driving licences, Construction Industry tax exemption certificates (Inland Revenue), and Inland Revenue Tax Notifications."
+  ],
+  "3.2.3": [
+    "Notification of the seller's solicitor firm is not required unless requested."
+  ],
+  "3.2.4": [
+    "Notify the lender via 1.11a if the seller lacks legal representation."
+  ],
+  "4.1": [
+    "A copy of the valuation report is provided if a physical interior inspection was conducted.",
+    "If no physical inspection was conducted, the report is not shared and the borrower must answer property-related questions."
+  ],
+  "4.5a": [
+    "Contact the point specified in 1.11a for re-inspection requests."
+  ],
+  "4.5b": [
+    "The certificate of title should be sent as detailed in 1.11."
+  ],
+  "5.1.1": [
+    "Report properties owned by the seller for less than 6 months via 1.11a."
+  ],
+  "5.2.1": [
+    "Report instances where the seller is not the registered owner via 1.11a."
+  ],
+  "5.4.4": [
+    "Environmental and contaminated land reports should not be sent to the lender.",
+    "Borrowers must disclose environmental risks to their insurer.",
+    "Report HS2 proximity only if the property is within 300 meters.",
+    "Mining interpretive reports are not required; however, if a mining entry is within 20 meters, the property must be insurable on normal terms."
+  ],
+  "5.4.5": [
+    "Personal searches are accepted if the agent has adequate professional indemnity insurance and a clear Certificate of Title can be issued."
+  ],
+  "5.4.6": [
+    "Search insurance is accepted if it provides adequate protection and the title is certified as good and marketable."
+  ],
+  "5.5.3a": [
+    "Report breaches or unsatisfied conditions via 1.11a."
+  ],
+  "5.5.3b": [
+    "Submit original or copy of planning permission after completion."
+  ],
+  "5.5.3c": [
+    "Submit original or copy of building regulation consents after completion."
+  ],
+  "5.5.3d": [
+    "Submit certificates of lawful use or development after completion."
+  ],
+  "5.5.4": [
+    "Report restrictions affecting value or marketability via 1.11a."
+  ],
+  "5.7.1a": [
+    "Flying freeholds are accepted if positive covenants for maintenance, repair, and insurance are shared and enforceable.",
+    "Maximum Loan to Value (LTV) for flying freeholds is 90%."
+  ],
+  "5.7.1b": [
+    "Freehold flats are accepted if positive covenants for maintenance, repair, and insurance are shared and enforceable.",
+    "Maximum Loan to Value (LTV) for freehold flats is 90%."
+  ],
+  "5.7.1c": [
+    "Report accepted freehold flats or flying freeholds via 1.11a."
+  ],
+  "5.8.1": [
+    "Buildings converted into up to four flats are accepted if the borrower occupies one flat, owns the freehold (individually or with another owner), and other flats are on long leases."
+  ],
+  "5.8.5": [
+    "Leasehold flats where the borrower and other leaseholder own each other's freehold reversions are accepted if security includes both the leasehold flat and the freehold reversion of the other flat."
+  ],
+  "5.9.1": [
+    "Commonhold cases must be referred to the Bank individually."
+  ],
+  "5.13.1": [
+    "Unconditional, non-repayable gifts from third parties (excluding vendors) are permitted without additional request.",
+    "Second charges to protect giftor interests are permitted provided they are non-repayable and a deed of postponement is in place for the lender's first charge.",
+    "Report any repayments related to a second charge."
+  ],
+  "5.14.1": [
+    "Minimum unexpired lease term must be the mortgage term plus 30 years."
+  ],
+  "5.14.9": [
+    "Ground rents making a lease an Assured Shorthold Tenancy do not need reporting if the lease is varied or indemnity insurance is obtained.",
+    "Onerous ground rents must be reported, including increases exceeding RPI, doubling in less than 25 years, or fixed increases above inflation.",
+    "New residential leases under the Leasehold Reform Act 2022 must be restricted to a peppercorn rent."
+  ],
+  "5.14.11": [
+    "Indemnity insurance is accepted for unsatisfactory lease terms, preferably after attempting to vary the lease with the landlord."
+  ],
+  "5.14.12": [
+    "Ground rent and service charge receipts must be sent after completion."
+  ],
+  "5.14.13": [
+    "A receipted copy of notice or evidence of service must be sent after completion."
+  ],
+  "5.14.15a": [
+    "Report absentee or insolvent landlords via 1.11a."
+  ],
+  "5.14.15b": [
+    "Indemnity insurance for an absent or insolvent landlord is accepted."
+  ],
+  "5.15.2b": [
+    "Management company share certificates must be sent after completion."
+  ],
+  "5.15.2c": [
+    "A signed blank stock transfer form must be sent after completion."
+  ],
+  "5.15.2d": [
+    "Management company memorandum and articles of association must be sent after completion."
+  ],
+  "5.17.5a": [
+    "Certified copies of Power of Attorney must be sent after completion."
+  ],
+  "5.17.5b": [
+    "Certified copies of the statutory declaration of non-revocation for Power of Attorney must be sent after completion."
+  ],
+  "5.19.1": [
+    "Proposals for affordable housing, shared equity, or shared ownership must be reported via 1.11a."
+  ],
+  "5.20.1": [
+    "Leases of roof space for solar panels not meeting UK Finance minimum requirements must be reported via 1.11a."
+  ],
+  "5.20.3": [
+    "Confirmation of the existing lender's consent is required for solar panel roof space leases."
+  ],
+  "5.20.4": [
+    "Disclose any existing Green Deal Plans via 1.11a."
+  ],
+  "6.4.4": [
+    "Incentives totaling more than 5% of the purchase price must be reported.",
+    "The UK Finance Disclosure Form should not be sent to the lender."
+  ],
+  "6.6.1": [
+    "Notify the lender via 1.11a only if the mortgage offer does not already reflect that the property is let or to be let."
+  ],
+  "6.6.3": [
+    "Counterpart or certified copies of tenancy agreements are not required."
+  ],
+  "6.6.4": [
+    "The lender does not lend on Houses in Multiple Occupation (HMO)."
+  ],
+  "6.7.1": [
+    "Accepted warranty schemes: NHBC, Zurich Municipal, Building Life Plans, Global Home Warranties, Checkmate/Castle 10, Build Assure New Homes Structural Defects Insurance, Premier Guarantee, The Q Policy, ABC+, One Guarantee, Ark Residential New Build Latent Defects Insurance."
+  ],
+  "6.7.4": [
+    "Properties without a warranty scheme require monitoring by a professional consultant and a Professional Consultant’s Certificate in the CML form."
+  ],
+  "6.7.6": [
+    "The Professional Consultant's Certificate must be sent after completion."
+  ],
+  "6.10.2": [
+    "Retentions are released to the Borrower unless written instructions specify a third party."
+  ],
+  "7.3": [
+    "Consent is required for all occupants aged 17 and over, excluding the borrower's children under 26.",
+    "For Lifetime Mortgages, spouses and civil partners must be joint owners and mortgagors.",
+    "Post-March 2, 2011 instructions use a combined Mortgage Deed/Consent; pre-March 2, 2011 instructions require a separate Deed of Consent and Postponement returned at completion."
+  ],
+  "8.1": [
+    "Occupants executing a consent to mortgage must be recommended to obtain independent legal advice and be provided with the Standard Mortgage Conditions."
+  ],
+  "9.1": [
+    "The indemnity insurance policy must be sent after completion."
+  ],
+  "9.2": [
+    "Indemnity insurance must equal the property value."
+  ],
+  "10.2a": [
+    "Advances are paid electronically.",
+    "Conveyancer fees can be added to the loan and transferred separately on completion day if requested by the borrower."
+  ],
+  "10.2b": [
+    "A minimum of 7 working days' notice is required for the mortgage advance."
+  ],
+  "10.3": [
+    "A CHAPS fee is deducted from the mortgage advance."
+  ],
+  "10.7": [
+    "Delayed completion funds must be returned by CHAPS to Sort Code 60-06-58, Account 98090097 by the following working day.",
+    "The return must include any conveyancer fee funds released with the advance."
+  ],
+  "10.11": [
+    "Interest on returned advances is charged daily at the mortgage rate from the date of release until re-credited."
+  ],
+  "14.1.4": [
+    "A CH2 application is required only for Flexible Choice mortgages with a Reserve facility."
+  ],
+  "14.1.5": [
+    "The original mortgage deed must be returned to the lender after Land Registry registration; a certified copy is sent to the registry."
+  ],
+  "14.2.2": [
+    "Post-completion documents include official copies of the Register, title deeds, and any guarantees referenced in valuation reports."
+  ],
+  "16.1.1": [
+    "Title documents contact: Deeds Dispatch, PO Box 123, Greenock, PA15 1EF. Tel: 01475 551256. DX 599600 Greenock 3."
+  ],
+  "16.3.7b": [
+    "The attestation clause must state: Signed and delivered as a Deed for and on behalf of the Lender by a duly authorised signatory."
+  ],
+  "16.4.2": [
+    "Proposed tenancy copies must be sent unless they are Assured Shorthold Tenancies."
+  ],
+  "17.1.1": [
+    "Redemption statement contact: UBS Statement Team, PO Box 123, Greenock, PA15 1EF. Tel: 08457 212600. DX 599600 Greenock 3."
+  ],
+  "17.2.1b": [
+    "Discharge is sent via a DS1 form or directly to the Land Registry."
+  ]
+}

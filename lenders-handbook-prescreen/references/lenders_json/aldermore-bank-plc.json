@@ -1,0 +1,227 @@
+{
+  "1.11a": [
+    "Address: Aldermore, 4th Floor, 40 Spring Gardens, Manchester, M2 1EN",
+    "Telephone: 0333 321 1000",
+    "Email for Individuals (Residential and BTL): Mortgage.Completions@aldermore.co.uk",
+    "Email for Companies, HMOs, and MUFs: BTLcompletions@aldermore.co.uk",
+    "Certificate of Title subject field requirement: Must contain 'COT' and the reference number"
+  ],
+  "1.11b": [
+    "Contact details are identical to section 1.11a"
+  ],
+  "1.7": [
+    "Lending is not permitted where the borrower and mortgagor are not the same entity"
+  ],
+  "1.14": [
+    "The firm may not act if the transaction handler or their immediate family is the seller"
+  ],
+  "1.15": [
+    "The firm may not act if the transaction handler or their immediate family is the borrower"
+  ],
+  "3.1.3": [
+    "Lender does not require notification of seller's solicitor details",
+    "Conveyancer must verify seller's solicitor is registered and has valid practising certificates"
+  ],
+  "3.1.4": [
+    "Notify lender if the seller is unrepresented or if checks on the seller's representative are unsatisfactory",
+    "Contact details are the same as section 1.11a"
+  ],
+  "3.1.5": [
+    "No other identity verification documents are accepted"
+  ],
+  "3.2.3": [
+    "Lender does not require notification of seller's solicitor details",
+    "Conveyancer must verify seller's solicitor is registered and has valid practising certificates"
+  ],
+  "3.2.4": [
+    "Notify lender if the seller is unrepresented or if checks on the seller's representative are unsatisfactory",
+    "Contact details are the same as section 1.11a"
+  ],
+  "4.5a": [
+    "Contact details for re-inspection are the same as section 1.11a"
+  ],
+  "4.5b": [
+    "Certificate of Title must be submitted with at least 3 working days' notice via email",
+    "Subject line for COT must include the reference number and 'COT'",
+    "Undervalue purchases require a completed Gifted Equity and Solvency Declaration Form",
+    "Insolvency Act Indemnity Insurance is mandatory for equity gifts",
+    "Customers must confirm understanding of tax obligations and provide copies of any independent tax advice",
+    "Separate legal representation is required for purchases from family members; the firm cannot act for both parties"
+  ],
+  "4.1": [
+    "Lender does not arrange inspections in every case",
+    "Conveyancer should use the valuation report for checks if provided, otherwise use the mortgage offer",
+    "Do not request a valuation report if one was not provided"
+  ],
+  "4.3": [
+    "Contact point for incorrect valuation assumptions is the same as section 1.11a"
+  ],
+  "5.1.1": [
+    "Property ownership of less than 6 months is generally not acceptable",
+    "Exceptions include purchases from housebuilders/developers via part-exchange",
+    "Remortgages within 6 months are acceptable if property was inherited, replaces bridging finance (>1 month old), or was an arm's length cash purchase (>1 month old) of a single unit",
+    "Sub-sales, back-to-back transactions, and assignable contracts are not acceptable",
+    "Lease grants immediately following freehold acquisition are considered sub-sales",
+    "Maximum loan may be based on market value"
+  ],
+  "5.2.1": [
+    "Contact point for issues where the seller is not the registered proprietor is the same as 1.11a"
+  ],
+  "5.4.4": [
+    "Environmental reports are only required if they indicate risks to the security or require further investigation"
+  ],
+  "5.4.5": [
+    "Personal searches are accepted if the firm is registered under The Search Code monitored by the PCCB"
+  ],
+  "5.4.6": [
+    "Search insurance is accepted only for remortgages or personal-to-company transfers with party continuity",
+    "Search insurance is limited to local authority searches",
+    "Insurance must cover successors in title",
+    "Title insurance is accepted"
+  ],
+  "5.5.3a": [
+    "Title splits must be registered before completion",
+    "Contact point for reporting breaches is the same as section 1.11a"
+  ],
+  "5.5.3b": [
+    "Borrowers are to retain original or copies of planning permission"
+  ],
+  "5.5.3c": [
+    "Borrowers are to retain original or copies of building regulation consents"
+  ],
+  "5.5.3d": [
+    "Borrowers are to retain certificates of lawful use or development"
+  ],
+  "5.7.1a": [
+    "Flying freeholds are acceptable; if not in valuation, refer to lender for check"
+  ],
+  "5.7.1b": [
+    "Freehold flats are not accepted except for coach house flats (one flat over garages/access)"
+  ],
+  "5.8.1": [
+    "Buildings converted into up to four flats are accepted if the borrower occupies one and owns the freehold",
+    "Report arrangements to lender if not in valuation report"
+  ],
+  "5.8.5": [
+    "Mutual leasehold/freehold reversion arrangements (two flats) are accepted if security includes both the leasehold and the freehold reversion of the other flat"
+  ],
+  "5.9.1": [
+    "Commonhold is not accepted"
+  ],
+  "5.13.1": [
+    "Second charges are not permitted",
+    "Gifted equity from close relatives is capped at 50% of market value",
+    "Gifted equity from landlord to sitting tenant is capped at 25% of market value",
+    "Limits include additional gifted deposits",
+    "Undervalue transfers require a Solvency Declaration and Insolvency Act Indemnity Insurance",
+    "Clear bankruptcy searches required for the borrower and all deposit contributors"
+  ],
+  "5.14.1": [
+    "Second-hand property minimum lease: 85 years at start, 45 years remaining at term end",
+    "New build houses minimum lease: 250 years",
+    "New build flats minimum lease: 125 years"
+  ],
+  "5.14.9": [
+    "Maximum starting ground rent: greater of £500 or 0.1% of property value",
+    "Ground rent must be indexed (e.g., RPI) or double no more frequently than every 20 years"
+  ],
+  "5.14.11": [
+    "Indemnity insurance for unsatisfactory lease terms is accepted if section 9 requirements are met"
+  ],
+  "5.14.12": [
+    "Borrowers are to retain ground rent and service charge receipts"
+  ],
+  "5.14.13": [
+    "Copy of receipted notice or evidence of service must be provided to lender after completion"
+  ],
+  "5.14.15b": [
+    "Indemnity insurance for absent or insolvent landlords is accepted"
+  ],
+  "5.14.17b": [
+    "Lender must be notified if the owner is a non-qualifying leaseholder under Building Safety Act 2022",
+    "Lender must be notified of any anticipated remediation costs or incorrect works identified",
+    "Completion must not occur until written instructions are received following a Building Safety Act report"
+  ],
+  "5.15.2a": [
+    "Estate rent charges are acceptable if: Section 121 LPA is excluded; OR a 28-day mortgagee protection clause is included; OR the owner is a resident-owned management company",
+    "Indemnity insurance only accepted for historic rent charges not collected for 12+ years"
+  ],
+  "5.15.2c": [
+    "Supply a copy of the signed blank stock transfer form to the lender after completion"
+  ],
+  "5.17.5a": [
+    "Power of Attorney is not normally accepted"
+  ],
+  "5.19.1": [
+    "The only acceptable affordable housing scheme is Help to Buy: equity loan"
+  ],
+  "5.20.3": [
+    "Notify lender of solar PV roof space leases and provide the tenant name",
+    "Copies of the lease are not required"
+  ],
+  "5.20.4": [
+    "Details of existing Green Deal Plans must be disclosed"
+  ],
+  "6.3.1": [
+    "Purchase price may only be lower than market value for close relatives (max 50% discount) or sitting tenants (max 25% discount)",
+    "Transfer deed must reflect the actual price paid at completion"
+  ],
+  "6.4.4": [
+    "Incentives must be disclosed via the UK Finance Disclosure of Incentives Form",
+    "Finders fees or commissions to third parties (investment clubs) are not acceptable",
+    "Seller-paid deposits on non-new build properties must be reported"
+  ],
+  "6.6.3": [
+    "AST or SAT agreements up to 3 years are accepted",
+    "Scottish Private Residential Tenancies and Welsh Standard Occupation Contracts are accepted",
+    "Corporate lets to PLCs or social housing providers are accepted for up to 5 years"
+  ],
+  "6.7.1": [
+    "Acceptable warranties: ABC+, Advantage HCI, Aedis, Ark, Build Assure, Build Life Plans, Build Zone, Castle 10/Checkmate, CRL (if underwritten by ARK/IGI/CGICE), Global Home, ICW, LABC, NHBC, One Guarantee, Premier Guarantee, Protek, Q Assure, CADIS, Build warranty group",
+    "Retrospective warranties are not accepted"
+  ],
+  "6.7.4": [
+    "Properties without warranty accepted if <= 15 units in development and monitored by a professional consultant"
+  ],
+  "6.7.6": [
+    "Professional consultant's certificate must be sent to lender after completion"
+  ],
+  "6.8.1": [
+    "Bond/agreement for unadopted roads/sewers not required for new properties on completion if customer accepts",
+    "Refer to lender if there are no plans to ever obtain a bond/agreement"
+  ],
+  "6.13.1": [
+    "Improvement grants require a Local Authority waiver of repayment priority",
+    "Local Authority must undertake to remove land charge entries once repaid or sold by lender"
+  ],
+  "7.3": [
+    "Occupants aged 17 or over must sign a standard consent form unless it is a BTL loan",
+    "Homes for Ukraine occupants do not require consent or postponement forms"
+  ],
+  "8.1": [
+    "Advice to third parties must be provided by a different solicitor within the practice",
+    "Non-benefiting borrowers must execute a Certificate of Independent Advice"
+  ],
+  "9.2": [
+    "Indemnity insurance limit: 110% of purchase price or valuation (whichever is higher)"
+  ],
+  "10.2b": [
+    "Minimum 3 working days' notice required for the advance",
+    "Certificate of Title must be emailed to the completions team"
+  ],
+  "10.7": [
+    "Delayed completion funds must be returned electronically within 3 working days",
+    "Account for 'Y' reference: Sort Code 20-19-90, Account 90570702",
+    "Account for 'X' reference: Sort Code 20-19-90, Account 00103578"
+  ],
+  "14.2.1": [
+    "Address for deeds: Mortgage Services, Aldermore, 4th Floor, 40 Spring Gardens, Manchester, M2 1EN",
+    "Email: mortgage.deeds@aldermore.co.uk"
+  ],
+  "14.2.2": [
+    "Post-completion documents: TID, Amended Articles (if applicable), Occupier's Consent, Notice to Landlord, Certificate of Independent Advice, Architect's Certificate, Indemnity policies, Fixed & Floating Charge + registration certificate, Guarantees, Board Minutes, Share Certificate/Stock Transfer Form, Deed of Subordination, Assignment of Rental Income, Gifted Equity and Solvency Declaration"
+  ],
+  "16.3.7b": [
+    "Attestation clause: Executed as a Deed and delivered on the date of this Deed by Aldermore Bank PLC acting by its authorised attorney in the presence of the witness named below"
+  ]
+}

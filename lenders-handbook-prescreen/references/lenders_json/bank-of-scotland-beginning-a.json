@@ -1,0 +1,359 @@
+{
+  "1.11a": [
+    "Refer to the address and telephone number provided on the Mortgage Offer."
+  ],
+  "1.11b": [
+    "Refer to the address and telephone number provided on the Mortgage Offer."
+  ],
+  "1.7": [
+    "Refer to the address and telephone number provided on the Mortgage Offer."
+  ],
+  "1.14": [
+    "The firm cannot act if the person dealing with the transaction or their immediate family is the seller.",
+    "A separate fee earner of equal standing or a separate partner must act for the lender."
+  ],
+  "1.15": [
+    "The firm cannot act if the person dealing with the transaction or their immediate family is the borrower.",
+    "A separate fee earner of equal standing or a partner must act for the lender."
+  ],
+  "3.1.3": [
+    "Notification of seller's solicitor details is only required upon specific request."
+  ],
+  "3.1.4": [
+    "Refer to the address and telephone number provided on the Mortgage Offer."
+  ],
+  "3.1.5": [
+    "Acceptable List A: Inland Revenue Tax Code Notification, Building Industry Sub-Contractor's Certificate, Home Office Residence Permit (EU), Benefits Agency book or notification letter.",
+    "Acceptable List B: Employers Identity Card, Signed EU National Identity Card, Birth Certificate."
+  ],
+  "3.2.3": [
+    "Notification of seller's solicitor details is only required upon specific request."
+  ],
+  "3.2.4": [
+    "Refer to the address and telephone number provided on the Mortgage Offer."
+  ],
+  "4.5a": [
+    "Contact: mortgageservicing@lloydsbanking.com"
+  ],
+  "4.5b": [
+    "Send to the address and telephone number provided on the Mortgage Offer."
+  ],
+  "4.1": [
+    "Physical property inspection is not guaranteed.",
+    "Valuation reports are electronic and cannot be forwarded.",
+    "Conveyancer must obtain a copy of the valuation from the customer."
+  ],
+  "4.3": [
+    "Contact: mortgageservicing@lloydsbanking.com"
+  ],
+  "5.1.1": [
+    "Contact: mortgageservicing@lloydsbanking.com",
+    "Borrower must have owned property for at least 6 months for remortgages, unless inherited (written confirmation required).",
+    "Sub-sales, back-to-back transactions, and assignable/novation contracts are not acceptable.",
+    "Seller acquiring freehold/superior leasehold and immediately granting a lease to borrower is treated as a sub-sale.",
+    "Report any Unilateral Notice registered against the freehold title."
+  ],
+  "5.2.1": [
+    "Assignable contracts and irrevocable powers of attorney for intervening sellers are prohibited.",
+    "Contact: 1.11a details."
+  ],
+  "5.4.4": [
+    "No environmental or contaminated land reports required."
+  ],
+  "5.4.5": [
+    "Personal searches accepted.",
+    "Firms should be members of an industry trade body abiding by the Property Ombudsman scheme with adequate insurance."
+  ],
+  "5.4.6": [
+    "Search insurance is accepted."
+  ],
+  "5.5.3a": [
+    "Contact: mortgageservicing@lloydsbanking.com"
+  ],
+  "5.5.3b": [
+    "Forward original or copy planning permission to the borrower."
+  ],
+  "5.5.3c": [
+    "Forward original or copy building regulation consents to the borrower."
+  ],
+  "5.5.3d": [
+    "Forward certificates of lawful use or development to the borrower."
+  ],
+  "5.5.4": [
+    "Contact: mortgageservicing@lloydsbanking.com",
+    "Contact lender if Mortgage Offer does not refer to First Homes Scheme.",
+    "Ensure resale price covenants meet Affordable Housing Guidance notes.",
+    "Lender consents to the registration of the First Homes restriction without separate application."
+  ],
+  "5.7.1a": [
+    "Flying freeholds are accepted subject to compliance with paragraph 5.6.2."
+  ],
+  "5.7.1b": [
+    "Freehold flats are not accepted."
+  ],
+  "5.7.1c": [
+    "Contact: mortgageservicing@lloydsbanking.com"
+  ],
+  "5.8.1": [
+    "Buildings converted into max 4 flats are accepted.",
+    "If valuer did not mention title arrangements, report to the lender.",
+    "BTL properties do not require borrower occupation."
+  ],
+  "5.8.5": [
+    "For two leasehold flats where cross-reversion exists: Mortgage of borrower's leasehold interest required.",
+    "Lender requires mortgage of borrower's freehold interest in the other flat, subject to its lease."
+  ],
+  "5.9.1": [
+    "Commonhold is not acceptable for new mortgages.",
+    "Existing mortgages considered case-by-case."
+  ],
+  "5.10.1": [
+    "Contact: mortgageservicing@lloydsbanking.com"
+  ],
+  "5.13.1": [
+    "Contact: mortgageservicing@lloydsbanking.com",
+    "Gifted deposits from immediate family (blood, spouse, child, in-law, co-habitee) allowed if not repayable.",
+    "Property must be owner-occupied, not let.",
+    "Deed of Trust or Second Charge to protect the gift is not acceptable.",
+    "Gift letter required, dated within 3 months of completion, specifying source and no interest in property.",
+    "Clear bankruptcy searches required for all contributors."
+  ],
+  "5.14.15a": [
+    "Contact: mortgageservicing@lloydsbanking.com"
+  ],
+  "5.14.15b": [
+    "Indemnity insurance for absent/insolvent landlords is accepted subject to section 9."
+  ],
+  "5.14.17a": [
+    "Post-completion: Send executed Leaseholder Certificate, proof of submission to landlord, and Landlord Certificate."
+  ],
+  "5.14.17b": [
+    "Report before completion if owner is a non-qualifying leaseholder.",
+    "Send Landlord Certificate or confirmation of remediation costs.",
+    "Do not complete without written instructions."
+  ],
+  "5.14.17c": [
+    "Section 5.14.17 a and b do not apply to remortgages."
+  ],
+  "5.14.1": [
+    "Minimum unexpired lease term: 70 years at date of mortgage."
+  ],
+  "5.14.9": [
+    "Contact: mortgageservicing@lloydsbanking.com"
+  ],
+  "5.14.10": [
+    "Contact: mortgageservicing@lloydsbanking.com"
+  ],
+  "5.14.11": [
+    "Indemnity insurance for unsatisfactory lease terms is accepted subject to section 9."
+  ],
+  "5.14.12": [
+    "Forward ground rent/service charge receipts to the borrower."
+  ],
+  "5.14.13": [
+    "Minimum lease term: 70 years from date of mortgage."
+  ],
+  "5.15.2a": [
+    "Contact: mortgageservicing@lloydsbanking.com"
+  ],
+  "5.15.2b": [
+    "Forward management company share certificate to the borrower."
+  ],
+  "5.15.2c": [
+    "Lender does not require the signed blank stock transfer form."
+  ],
+  "5.15.2d": [
+    "Supply copies of memorandum and articles of association on completion; originals to borrower."
+  ],
+  "5.16.2": [
+    "Contact: mortgageservicing@lloydsbanking.com"
+  ],
+  "5.17.5a": [
+    "Send certified copy of Power of Attorney to Bank of Scotland, Nexus, PO Box 548, Leeds, LS1 1WU only if account will be operated under it post-completion."
+  ],
+  "5.17.5b": [
+    "Send certified copy of statutory declaration of non-revocation to PO Box 548, Leeds, LS1 1WU only if account will be operated under POA post-completion."
+  ],
+  "5.19.1": [
+    "Shared ownership and shared equity lending are not supported."
+  ],
+  "5.20.1": [
+    "Report if solar PV panel lease fails UK Finance minimum requirements via 1.11a contact."
+  ],
+  "5.20.4": [
+    "No disclosure of Green Deal Plans required."
+  ],
+  "6.1.3": [
+    "Contact: mortgageservicing@lloydsbanking.com"
+  ],
+  "6.2.1": [
+    "Contact: mortgageservicing@lloydsbanking.com"
+  ],
+  "6.3.1": [
+    "Contact: mortgageservicing@lloydsbanking.com"
+  ],
+  "6.4.5": [
+    "Contact: mortgageservicing@lloydsbanking.com"
+  ],
+  "6.5.1": [
+    "Contact: mortgageservicing@lloydsbanking.com"
+  ],
+  "6.6.1": [
+    "Contact: mortgageservicing@lloydsbanking.com",
+    "Distressed sales and sale/leaseback arrangements are not acceptable."
+  ],
+  "6.6.2": [
+    "Contact: mortgageservicing@lloydsbanking.com"
+  ],
+  "6.6.3": [
+    "Forward counterpart or certified copy tenancy agreements to the borrower."
+  ],
+  "6.6.4": [
+    "HMOs accepted with maximum 5 unrelated occupiers on a single AST.",
+    "Mandatory HMO licence must be in place."
+  ],
+  "6.7.1": [
+    "Accepted warranties: NHBC, Premier Guarantee, LABC, Buildzone, Checkmate, ABC+, Advantage HCI, Aedis, Ark, BLP, Cadis, CIR, Compariqo, FMB, Global, ICW, One Guarantee, Protek, Q Assure, Thomas Miller.",
+    "Only required for new properties occupied for the first time."
+  ],
+  "6.7.2": [
+    "Forward warranty documentation to the borrower."
+  ],
+  "6.7.3": [
+    "Forward assignments of building standards indemnity schemes to the borrower."
+  ],
+  "6.7.4": [
+    "Properties without warranty accepted if site has max 15 properties and construction was monitored by a qualified consultant."
+  ],
+  "6.7.6": [
+    "Professional consultant's certificate is not required to be sent."
+  ],
+  "6.8.1": [
+    "No retention required for unadopted roads if managed by residents or management company.",
+    "Inform applicants of potential liability."
+  ],
+  "6.9.1": [
+    "Contact: mortgageservicing@lloydsbanking.com"
+  ],
+  "6.10.2": [
+    "Funds released to Nominated Solicitor or Borrower."
+  ],
+  "6.11.1": [
+    "Contact: mortgageservicing@lloydsbanking.com"
+  ],
+  "6.12.1": [
+    "Contact: mortgageservicing@lloydsbanking.com"
+  ],
+  "6.13.1": [
+    "Contact: mortgageservicing@lloydsbanking.com"
+  ],
+  "7.3": [
+    "Consent required for occupants 17+ except borrower's children or BTL tenants on AST."
+  ],
+  "7.4": [
+    "Contact: mortgageservicing@lloydsbanking.com",
+    "Report if mortgage is sole name but borrower is married/co-habiting; obtain consent."
+  ],
+  "8.1": [
+    "Conveyancer may not advise specified third parties."
+  ],
+  "9.1": [
+    "Forward indemnity insurance policy to the borrower."
+  ],
+  "9.2": [
+    "Minimum indemnity limit: Mortgage advance plus 10%."
+  ],
+  "10.2a": [
+    "Mortgage advance paid via CHAPS."
+  ],
+  "10.2b": [
+    "Standard notice: 3 full working days.",
+    "Urgent requests incur a £20 CHAPS fee deducted from advance."
+  ],
+  "10.3": [
+    "Deductions include retentions and sums specified in the Mortgage Offer."
+  ],
+  "10.7": [
+    "Return delayed funds electronically without deductions.",
+    "Accounts starting 70/: Sort 30-15-99, Account 00579601.",
+    "Use codes: RAD (Returned Advance), FADV (Returned further advance), DUP (Duplicate)."
+  ],
+  "10.9": [
+    "Contact: mortgageservicing@lloydsbanking.com"
+  ],
+  "10.10": [
+    "Advance can be held for 5 working days.",
+    "Interest charged if not returned by close of business on 4th working day after scheduled completion."
+  ],
+  "10.11": [
+    "Interest charged daily at mortgage offer rate from original completion date."
+  ],
+  "12.3.1": [
+    "Retention release contact: 0345 8500842 option 1."
+  ],
+  "14.1.4": [
+    "Form CH2 application is not required."
+  ],
+  "14.1.5": [
+    "Lender does not require original mortgage deed; conveyancer must retain a copy."
+  ],
+  "14.2.1": [
+    "Address: Registrations, Secured Assets, Barnett Way, Gloucester, GL4 3RL (DX55251 Gloucester 2)."
+  ],
+  "14.2.2": [
+    "Required documents: Originals of Consent to mortgage (L26); Copies of Licence to assign, Leaseholder Certificate, Landlord Certificate, Receipted Notice of Mortgage, Memo/Articles of Management Co, Section 442 Agreement, First Homes compliance docs.",
+    "Do not send the Lease if title is leasehold and copy is at Land Registry."
+  ],
+  "16.1.1": [
+    "Contact: mortgageservicing@lloydsbanking.com"
+  ],
+  "16.3.7a": [
+    "Contact: PO Box 1HA, Newcastle Upon Tyne, NE99 1HA (0345 8500842 option 1)."
+  ],
+  "16.3.7b": [
+    "Attestation: Executed as a deed by An authorised signatory for and on behalf of Bank of Scotland plc.",
+    "Confirm effective date of transfer to the lender."
+  ],
+  "16.3.1": [
+    "Standard Deed of Covenant: Form L1 available from PO Box 1HA, Newcastle Upon Tyne.",
+    "No standard Transfer of Equity form."
+  ],
+  "16.3.2": [
+    "Debt amount contact: 0345 8500842 option 1."
+  ],
+  "16.3.4": [
+    "Transfer of equity only sent if lender execution is required."
+  ],
+  "16.4.1": [
+    "Consent to letting contact: 0345 8500842 option 1."
+  ],
+  "16.4.2": [
+    "Lender does not require copy of proposed tenancy."
+  ],
+  "16.5.3a": [
+    "Deed of variation: Trinity Road, Halifax, HX1 2RG."
+  ],
+  "16.5.3b": [
+    "Deed of rectification: Trinity Road, Halifax, HX1 2RG."
+  ],
+  "16.5.3c": [
+    "Deed of easement: Trinity Road, Halifax, HX1 2RG."
+  ],
+  "16.5.3d": [
+    "Option agreements: Trinity Road, Halifax, HX1 2RG."
+  ],
+  "16.5.2": [
+    "Contact: 0345 8500842 option 1."
+  ],
+  "17.1.1": [
+    "Redemption statements: www.halifax.co.uk/conveyancers"
+  ],
+  "17.2.1a": [
+    "Email: mortgageservicing@lloydsbanking.com",
+    "Funds must match one of 11 specified bank accounts (e.g., 30-15-99 00580006).",
+    "Verify account changes on 03457 273747."
+  ],
+  "17.2.1b": [
+    "Discharge via electronic discharge or EDS1."
+  ]
+}

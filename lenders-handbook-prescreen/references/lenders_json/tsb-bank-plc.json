@@ -1,0 +1,330 @@
+{
+  "1.11a": [
+    "Address: TSB Bank PLC, Mortgages, PO Box 453, Mitcheldean, GL14 9LR",
+    "Telephone: 0345 307 3355"
+  ],
+  "1.11b": [
+    "Contact Mortgage Processing at the details provided in 1.11a"
+  ],
+  "1.7": [
+    "The lender will not lend where the borrower and mortgagor are different entities."
+  ],
+  "1.14": [
+    "The firm may not act if the person dealing with the transaction or their immediate family is the seller."
+  ],
+  "1.15": [
+    "The firm may act if the person dealing with the transaction or their immediate family is the borrower, subject to section 1.13."
+  ],
+  "3.1.3": [
+    "Seller's solicitor details are only required upon specific request."
+  ],
+  "3.1.4": [
+    "Transactions where the seller does not have legal representation are not accepted."
+  ],
+  "3.1.5": [
+    "Acceptable List A documents: Current UK driving licence, Benefit payment book/Agency letter, Employer identity card with photo/signature (known employer).",
+    "Acceptable List B documents: Employer identity card with photo/signature (unknown employer), Old paper UK driving licence, HMRC Tax Code Notification, Home Office Residence Permit, Local council rent card or tenancy agreement."
+  ],
+  "3.2.3": [
+    "Seller's solicitor details are only required upon specific request."
+  ],
+  "3.2.4": [
+    "Transactions where the seller does not have legal representation are not accepted."
+  ],
+  "4.5a": [
+    "Re-inspection contact: 0345 835 3379"
+  ],
+  "4.5b": [
+    "Submit Certificate of Title via ECoT as per section 10.2b."
+  ],
+  "4.1": [
+    "The valuation report is not supplied to the solicitor."
+  ],
+  "4.3": [
+    "Refer to valuation report conditions in section 4.1."
+  ],
+  "5.1.1": [
+    "Minimum ownership period for sellers is 6 months.",
+    "Remortgage applicants must have owned the property for at least 6 months, unless inherited (requires written confirmation).",
+    "Sub-sales, back-to-back transactions, and immediate lease grants after freehold acquisition are not acceptable.",
+    "Assignable contracts and irrevocable powers of attorney for intervening sellers are not acceptable."
+  ],
+  "5.2.1": [
+    "Assignable contracts and irrevocable powers of attorney for intervening sellers are not acceptable."
+  ],
+  "5.4.4": [
+    "Environmental or contaminated land reports are not required."
+  ],
+  "5.4.5": [
+    "Personal searches are accepted if conducted by qualified agents with indemnity insurance."
+  ],
+  "5.4.6": [
+    "Search insurance is accepted subject to solicitor approval."
+  ],
+  "5.5.3a": [
+    "Contact Mortgage Processing at 1.11a regarding planning breach or unsatisfied conditions."
+  ],
+  "5.5.3b": [
+    "Original or copy of planning permission is not required."
+  ],
+  "5.5.3c": [
+    "Original or copy of building regulation consents is not required."
+  ],
+  "5.5.3d": [
+    "Certificates of lawful use or development are not required."
+  ],
+  "5.5.4": [
+    "Report marketability or value restrictions to Mortgage Processing at 1.11a."
+  ],
+  "5.7.1a": [
+    "Flying or creeping freeholds are accepted if they comprise only part of the title."
+  ],
+  "5.7.1b": [
+    "Freehold flats are not accepted."
+  ],
+  "5.7.1c": [
+    "Report flying freeholds to Mortgage Processing at 1.11a."
+  ],
+  "5.8.1": [
+    "Buildings converted into max 4 flats where borrower is an occupier are acceptable.",
+    "If the borrower owns the freehold, a charge over the freehold title is required."
+  ],
+  "5.8.5": [
+    "Mutual freehold arrangements for two leasehold flats are acceptable.",
+    "A mortgage is required over the borrower’s leasehold interest and the borrower's freehold interest in the other flat."
+  ],
+  "5.9.1": [
+    "Commonhold titles are not accepted."
+  ],
+  "5.10.1": [
+    "Report restrictions on use to Mortgage Processing at 1.11a."
+  ],
+  "5.13.1": [
+    "Report second charges or non-funded purchase price balances to Mortgage Processing at 1.11a."
+  ],
+  "5.14.15a": [
+    "Refer absentee or insolvent landlord cases to Mortgage Processing at 1.11a."
+  ],
+  "5.14.15b": [
+    "Indemnity insurance is mandatory if the lender agrees to proceed with an absent or insolvent landlord."
+  ],
+  "5.14.17a": [
+    "No documentation is required before completion, except as specified in 5.14.17b."
+  ],
+  "5.14.17b": [
+    "Solicitors must report non-qualifying leaseholders and known/anticipated remediation costs under the Building Safety Act 2022.",
+    "Incorrect remediation or properties needing remediation must be reported immediately.",
+    "Completion must not occur without written instructions following such reports."
+  ],
+  "5.14.17c": [
+    "Building Safety Act 2022 instructions apply to remortgages."
+  ],
+  "5.14.1": [
+    "Minimum unexpired lease term: 70 years at mortgage commencement and 30 years at mortgage redemption."
+  ],
+  "5.14.9": [
+    "Pre-2005 builds: RPI/index-linked ground rents are acceptable; doubling ground rent is acceptable if the review period is 20 years or more; unacceptable if 19 years or less.",
+    "Post-Jan 2005 new build houses: Ground rent capped at 0.1% of Market Value per annum.",
+    "Post-Jan 2005 new build flats/maisonettes: Ground rent capped at the higher of 0.1% of Market Value or £250 per annum.",
+    "Second hand/resale properties: Ground rent capped at the higher of 0.1% of Market Value or £250 per annum."
+  ],
+  "5.14.10": [
+    "Contact Mortgage Processing at 1.11a for service charge matters."
+  ],
+  "5.14.11": [
+    "Refer unsatisfactory lease terms to Mortgage Processing at 1.11a."
+  ],
+  "5.14.12": [
+    "Ground rent or service charge receipts are not required."
+  ],
+  "5.14.13": [
+    "Receipted copy of notice or evidence of service is not required."
+  ],
+  "5.15.2a": [
+    "Contact Mortgage Processing at 1.11a regarding management company issues."
+  ],
+  "5.15.2b": [
+    "Management company share certificates are not required."
+  ],
+  "5.15.2c": [
+    "Signed blank stock transfer forms are not required."
+  ],
+  "5.15.2d": [
+    "Management company memorandum and articles of association are not required."
+  ],
+  "5.16.2": [
+    "Contact Mortgage Processing at 1.11a if unable to certify search entries."
+  ],
+  "5.17.5a": [
+    "Send a certified copy of the Power of Attorney after completion if used to execute the Mortgage Deed or Loan Agreement."
+  ],
+  "5.17.5b": [
+    "Statutory declarations of non-revocation of power of attorney are not required."
+  ],
+  "5.19.1": [
+    "Contact Mortgage Processing at 1.11a for affordable housing, shared equity, or shared ownership."
+  ],
+  "5.20.1": [
+    "Report solar PV panel roof space leases not meeting UK Finance minimum requirements to 1.11a."
+  ],
+  "5.20.3": [
+    "Lender must be notified of solar PV roof space leases and the tenant's name.",
+    "A copy of the solar lease is not required."
+  ],
+  "5.20.4": [
+    "Disclosure of Green Deal Plans is not required."
+  ],
+  "6.1.3": [
+    "Report cases where the borrower is not taking up the offer via the SecureLink portal."
+  ],
+  "6.2.1": [
+    "Report property description discrepancies to Mortgage Processing at 1.11a."
+  ],
+  "6.3.1": [
+    "Report purchase price issues to Mortgage Processing at 1.11a."
+  ],
+  "6.4.4": [
+    "Report cash/financial incentives if they are 5% or more higher than stated in the Mortgage Offer.",
+    "Report all cash/financial incentives if none are listed in the Mortgage Offer.",
+    "Report all non-financial/in-kind incentives excluding fixtures and fittings.",
+    "Finders fees are not acceptable and must be reported.",
+    "Report if the deposit is paid by the seller on non-new build properties."
+  ],
+  "6.4.5": [
+    "Contact Mortgage Processing at 1.11a if control over purchase money is absent."
+  ],
+  "6.5.1": [
+    "Contact Mortgage Processing at 1.11a if vacant possession is not provided."
+  ],
+  "6.6.1": [
+    "Contact Mortgage Processing at 1.11a regarding let properties or Buy-to-Let eligibility."
+  ],
+  "6.6.2": [
+    "Contact Mortgage Processing at 1.11a if current or completion-day letting details are unknown."
+  ],
+  "6.6.3": [
+    "Tenancy agreements are not required."
+  ],
+  "6.6.4": [
+    "Refer Houses in Multiple Occupation (HMO) to Mortgage Processing at 1.11a."
+  ],
+  "6.7.1": [
+    "Acceptable schemes: NHBC, Premier Guarantee, Building Life Plans, LABC, Castle 10 (Checkmate), Buildzone, Global Home Warranties, International Construction Warranties, Protek, The Q Policy, Advantage HCI, Build Assure, One Guarantee, Aedis/HomeProof, ABC+, ARK, TMSC, CADIS."
+  ],
+  "6.7.2": [
+    "New home warranty documentation is not required."
+  ],
+  "6.7.3": [
+    "Assignments of building standards indemnity schemes are not required."
+  ],
+  "6.7.4": [
+    "A Professional Consultant’s Certificate is required if no acceptable warranty scheme is in place."
+  ],
+  "6.7.6": [
+    "Professional consultant's certificates are not required to be sent."
+  ],
+  "6.8.1": [
+    "Retention up to £1,000 for unadopted roads/sewers is pre-authorized.",
+    "Amounts exceeding £1,000 must be reported to Mortgage Processing at 1.11a."
+  ],
+  "6.9.1": [
+    "Report absent easements to Mortgage Processing at 1.11a."
+  ],
+  "6.10.2": [
+    "Not applicable."
+  ],
+  "6.11.1": [
+    "Report redevelopment or road proposals to Mortgage Processing at 1.11a."
+  ],
+  "6.12.1": [
+    "Report pre-emption rights, resale restrictions, or options to Mortgage Processing at 1.11a."
+  ],
+  "6.13.1": [
+    "Report undischarged improvement or repair grants to Mortgage Processing at 1.11a."
+  ],
+  "7.3": [
+    "Consent to mortgage is required from all occupants aged 17 or over."
+  ],
+  "7.4": [
+    "Report doubts regarding disclosed information to Mortgage Processing at 1.11a."
+  ],
+  "8.1": [
+    "Solicitors may not advise specified third parties."
+  ],
+  "9.1": [
+    "Only the indemnity insurance schedule is required after completion."
+  ],
+  "9.2": [
+    "Indemnity insurance must cover the full value of the property."
+  ],
+  "10.2a": [
+    "Advance paid via CHAPS.",
+    "Remortgage advances are released in batches at 09:00, 11:00, 14:00, and 16:00.",
+    "Funds breakdown contact: tsbcompletions@tsb.co.uk"
+  ],
+  "10.2b": [
+    "Minimum notice for funds: 5 working days.",
+    "Funds release occurs on the ECoT completion date; for release the day prior, that date must be specified as the completion date.",
+    "Interest accrues from the date funds are released."
+  ],
+  "10.3": [
+    "Product fees added to the loan are not deducted from the advance amount released."
+  ],
+  "10.7": [
+    "Delayed funds (M+9 digit refs) must be returned within 1 working day via CHAPS to Sort Code: 30-28-86, Account: 90000099.",
+    "Payment reference must be /RFB/ followed by the Mortgage Reference number.",
+    "2 working days' notice required for new completion date."
+  ],
+  "10.9": [
+    "Notify Mortgage Processing at 1.11a immediately by telephone if completion is delayed."
+  ],
+  "10.10": [
+    "Advance may be held for a maximum of 1 working day."
+  ],
+  "10.11": [
+    "Interest is charged at the contractual rate from the date funds were sent if the return is delayed."
+  ],
+  "14.1.5": [
+    "Original mortgage deeds are not required; solicitors must retain copies.",
+    "Electronic registration must include the Land Registry MD reference."
+  ],
+  "14.2.1": [
+    "Required uploads via LMS: OS1/OS2/K17 (post-release), AP1 (within 30 days of completion), Mandatory Official Copy Register (post-registration).",
+    "Registration delays must be reported every 30 days."
+  ],
+  "14.2.2": [
+    "Post-completion originals required: Deed of Guarantee, Title Indemnity, Certified Power of Attorney, Occupiers Waiver, Shared Ownership Undertaking/Deed of Assignment/Consent Clause, Title Information Document.",
+    "Copies required: Section 442 Agreement.",
+    "Leases are not required.",
+    "Title Information Document must be uploaded to STARS."
+  ],
+  "16.1.1": [
+    "Title documents contact: 0345 835 3379 (requires 5 working days' notice).",
+    "Lender does not hold title documents for mortgages completed after February 2001."
+  ],
+  "16.3.2": [
+    "Debt amount contact: Customer Service Centre (address in mortgage offer)."
+  ],
+  "16.3.4": [
+    "Transfer of equity only required if lender execution is necessary."
+  ],
+  "16.4.1": [
+    "Consent to letting contact: 0345 835 3380."
+  ],
+  "16.4.2": [
+    "Proposed tenancy agreements are not required."
+  ],
+  "16.5.2": [
+    "Deeds of variation, rectification, easement, or option agreements should be sent to the Mitcheldean address in 1.11a."
+  ],
+  "17.1.1": [
+    "Redemption statements: tsb.co.uk/request-a-redemption-statement (2 working day turnaround)."
+  ],
+  "17.2.1a": [
+    "Repayment via CHAPS to Sort Code: 30-28-86, Account: 00000000.",
+    "Must quote mortgage account number and borrower name."
+  ],
+  "17.2.1b": [
+    "Lender issues discharge via Land Registry EDS1."
+  ]
+}

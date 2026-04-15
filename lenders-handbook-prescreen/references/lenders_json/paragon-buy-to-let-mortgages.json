@@ -1,0 +1,205 @@
+{
+  "1.11a": [
+    "Address: Mortgage Completions Department, Paragon Buy to Let mortgages, 51, Homer Road, Solihull, B91 3QJ",
+    "Telephone: 0345 849 4040 (option 2)",
+    "Fax: 0345 849 4041",
+    "MDX: 14031 Solihull 2"
+  ],
+  "1.11b": [
+    "Contact details are the same as 1.11a."
+  ],
+  "1.7": [
+    "Lending is not permitted where the borrower and mortgagor are different entities."
+  ],
+  "1.14": [
+    "The firm may not act if the person handling the transaction or their immediate family is the seller."
+  ],
+  "1.15": [
+    "The firm may not act if the handler or immediate family is the borrower, guarantor, director, shareholder, or officer without express written authority.",
+    "If authorized, the person acting for the lender must be a partner and more senior than the person acting for the borrower/guarantor."
+  ],
+  "3.1.3": [
+    "The lender must be notified of the name and address of the solicitor or licensed conveyancer acting for the seller."
+  ],
+  "3.1.4": [
+    "Notification contact for unrepresented sellers is the same as 1.11a."
+  ],
+  "3.1.5": [
+    "No prescriptive list of identity documents is provided.",
+    "The firm must satisfy regulatory identity verification obligations and retain certified copies of documents used."
+  ],
+  "3.2.3": [
+    "Notification of the seller's legal representative details is required."
+  ],
+  "3.2.4": [
+    "Notification contact for unrepresented sellers is the same as 1.11a."
+  ],
+  "4.1": [
+    "The lender provides a valuation report for its own purposes only.",
+    "Solicitors must advise borrowers not to rely on the lender's valuation and to instruct their own qualified surveyor."
+  ],
+  "4.3": [
+    "Contact for reporting incorrect valuer assumptions is the same as 1.11a."
+  ],
+  "4.5a": [
+    "Contact for re-inspection requests is the same as 1.11a."
+  ],
+  "4.5b": [
+    "The Certificate of Title should be sent to the contact in 1.11a."
+  ],
+  "5.1.1": [
+    "Contact for reporting a seller who has owned the property for less than 6 months is 1.11a."
+  ],
+  "5.4.4": [
+    "Contaminated land and environmental searches appropriate to property location and usage are mandatory.",
+    "Japanese Knotweed identified within the property boundary or within 7 metres of it must be reported.",
+    "Lending will only be considered after eradication, issuance of a completion certificate, and a minimum 10-year guarantee.",
+    "Documentation for Japanese Knotweed must be submitted for valuer assessment under RICS guidelines."
+  ],
+  "5.4.5": [
+    "Personal searches are not accepted."
+  ],
+  "5.4.6": [
+    "Search insurance is accepted only for local authority searches on remortgages of single self-contained units.",
+    "Search insurance is strictly prohibited for HMOs, multi-unit buildings, and all property purchases."
+  ],
+  "5.5.3b": [
+    "Original planning permissions must be placed with the deeds.",
+    "For HMOs, copies must be provided before the release of funds."
+  ],
+  "5.5.3c": [
+    "Original building regulation consents must be placed with the deeds.",
+    "For HMOs, copies must be provided before the release of funds."
+  ],
+  "5.5.3d": [
+    "Original certificates of lawful use or development must be placed with the deeds.",
+    "For HMOs, copies must be provided before the release of funds."
+  ],
+  "5.5.4": [
+    "Contact for reporting restrictions affecting marketability is the same as 1.11a."
+  ],
+  "5.7.1a": [
+    "Lending on flying freeholds is generally prohibited.",
+    "Immaterial parts, such as an alleyway between terraced properties, may be considered."
+  ],
+  "5.7.1b": [
+    "Lending on freehold flats is not permitted."
+  ],
+  "5.8.5": [
+    "Criss-cross Tyneside leasehold arrangements are acceptable if both leasehold and freehold interests are charged to the lender."
+  ],
+  "5.9.1": [
+    "Commonhold properties are not accepted."
+  ],
+  "5.10.1": [
+    "Contact for reporting restrictions on use is the same as 1.11a."
+  ],
+  "5.13.1": [
+    "Second charges are not permitted.",
+    "The balance of the purchase price must pass through the firm's client account.",
+    "Reporting contact for funding issues is 1.11a."
+  ],
+  "5.14.1": [
+    "Minimum unexpired lease term must be 85 years at the start of the mortgage.",
+    "Minimum unexpired lease term must be 65 years at the end of the mortgage term."
+  ],
+  "5.14.9": [
+    "Ground rent provisions that may create an Assured Tenancy (Housing Act 1988) do not need reporting if the lease is varied below statutory levels or an indemnity policy is in place.",
+    "Onerous ground rent provisions must be reported.",
+    "Provisions where rent increases exceed RPI, or double in periods less than 25 years, are generally unacceptable."
+  ],
+  "5.14.12": [
+    "Clear ground rent and service charge receipts must be placed with the deeds."
+  ],
+  "5.14.13": [
+    "Receipted copies of notices or evidence of service must be placed with the deeds."
+  ],
+  "5.14.15b": [
+    "Indemnity insurance for absent or insolvent landlords is accepted for houses with long leases (e.g., 999 years).",
+    "Absent landlord issues for flats must be referred to 1.11a."
+  ],
+  "5.14.17b": [
+    "Buildings must have assessment by qualified fire risk assessors or FRAEW.",
+    "Evidence of remediation works, completion certificates, and statutory approvals must be submitted before funds are requested.",
+    "No remediation costs should be outstanding from the seller or borrower.",
+    "Exchange of contracts should not occur until remediation issues are resolved by the lender."
+  ],
+  "5.15.2b": [
+    "Management company share certificates must be placed with the deeds."
+  ],
+  "5.15.2c": [
+    "Signed blank stock transfer forms must be placed with the deeds."
+  ],
+  "5.15.2d": [
+    "Management company memorandum and articles of association must be placed with the deeds."
+  ],
+  "5.17.5a": [
+    "Power of Attorney cannot be used to execute the Legal Charge or Deed of Guarantee.",
+    "If PoA is used for other documents with prior written consent, a certified copy must be included in the deeds."
+  ],
+  "5.17.5b": [
+    "A statutory declaration of non-revocation is required if documents were executed under an approved Power of Attorney."
+  ],
+  "5.19.1": [
+    "Affordable housing, shared equity, and shared ownership properties are not accepted.",
+    "Properties previously under shared ownership are not accepted, even after 100% staircasing."
+  ],
+  "5.20.3": [
+    "Solar panel leases must grant rights to successors and future lenders.",
+    "Leases must include a mortgagee break clause.",
+    "Tenants must be responsible for removal costs and damage repairs.",
+    "Lenders must not be liable for landlord covenant breaches or income loss during repossession.",
+    "Deed of variation is required if standard requirements are not met."
+  ],
+  "5.20.4": [
+    "Details of existing Green Deal Plans must be disclosed, including balance, monthly payment, remaining term, list of works, and EPC.",
+    "The transaction must not proceed until the lender confirms acceptance."
+  ],
+  "6.4.4": [
+    "The UK Finance Disclosure of Incentives form must be provided before submitting the Report on Title."
+  ],
+  "6.6.3": [
+    "Counterpart or certified copies of tenancy agreements must be placed with the deeds."
+  ],
+  "6.7.1": [
+    "Accepted warranties include NHBC, Premier Guarantee, LABC, ICW, Build-Zone, and others.",
+    "Warranties for flats must also cover all common parts."
+  ],
+  "6.7.4": [
+    "Properties without a new home warranty require a Professional Consultant's Certificate.",
+    "For flats, the certificate must cover common parts and structure."
+  ],
+  "6.9.1": [
+    "Property must have full pedestrian and vehicular access rights.",
+    "Maintenance liabilities exceeding £250 per annum (outside of service charges) must be reported."
+  ],
+  "9.2": [
+    "Indemnity insurance limit must at least equal the property value."
+  ],
+  "10.2a": [
+    "Mortgage advance is paid electronically."
+  ],
+  "10.2b": [
+    "Standard notice for funds is seven working days.",
+    "Notice of ten working days is required if a re-inspection or revaluation is needed."
+  ],
+  "10.7": [
+    "Returned funds must be sent via CHAPS within one working day.",
+    "Bank: Natwest Bank, Solihull; Account Name: Paragon Bank PLC Completions Account; Sort Code: 55-50-15; Account Number: 59506946."
+  ],
+  "10.11": [
+    "Interest on delayed returns of advances is charged at the mortgage rate from the date of the advance."
+  ],
+  "14.1.5": [
+    "Required documents for submission include: original legal charge, official copies of registers, lease, deeds of guarantee, advice certificates, Companies House registration certificates, and Disclosure of Incentives form."
+  ],
+  "14.2.1": [
+    "Send deeds to: Securities Department, Paragon Buy to Let Mortgages, 51 Homer Road, Solihull, West Midlands B91 3QJ."
+  ],
+  "16.3.2": [
+    "Debt information contact: First Mortgage Customer Services, 0345 849 4060."
+  ],
+  "17.2.1b": [
+    "Discharges are processed via e-DS1."
+  ]
+}

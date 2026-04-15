@@ -1,0 +1,244 @@
+{
+  "1.11a": [
+    "Contact point for standard documents: Issuing office"
+  ],
+  "1.11b": [
+    "Contact point if standard documents are inappropriate: Issuing office"
+  ],
+  "1.7": [
+    "Lending is not permitted where the borrower and mortgagor are not the same party."
+  ],
+  "1.14": [
+    "The firm may not act if the person dealing with the transaction or their immediate family is the seller."
+  ],
+  "1.15": [
+    "The firm may not act if the person dealing with the transaction or their immediate family is the borrower."
+  ],
+  "3.1.3": [
+    "Notification of the seller's solicitor details is not required.",
+    "The firm must ensure the seller's solicitor is registered with a regulatory body and holds a current practicing certificate."
+  ],
+  "3.1.4": [
+    "Lender must be notified if the seller is unrepresented or if identity checks on the seller's representative are unsatisfactory."
+  ],
+  "3.2.3": [
+    "Notification of the seller's solicitor details is not required.",
+    "The firm must verify the seller's legal representative is registered and maintains current practicing certificates."
+  ],
+  "4.1": [
+    "The lender provides a valuation report but does not supply it to the solicitor."
+  ],
+  "4.5b": [
+    "Certificate of title must be sent to the issuing office as per 1.11a."
+  ],
+  "5.1.1": [
+    "Contact issuing office if the seller has owned the property for less than 6 months.",
+    "Sub-sales and back-to-back transactions are not acceptable.",
+    "Assignable contracts and irrevocable powers of attorney in favor of intervening sellers are not acceptable.",
+    "Transactions where the seller acquires title and immediately grants a lease to the borrower are considered sub-sales and are prohibited."
+  ],
+  "5.2.1": [
+    "Contact issuing office if the seller is not the registered owner.",
+    "Sub-sales, back-to-back transactions, and assigned contracts for sale are prohibited.",
+    "Parties must comply with the Economic Crime (Transparency and Enforcement) Act 2022."
+  ],
+  "5.4.4": [
+    "Lender does not require environmental reports but must be advised of contamination entries in local authority searches.",
+    "Japanese Knotweed Category C (RICS) is acceptable if a management/treatment plan by a Qualified Person (PCA/INNSA) is in place prior to completion.",
+    "Japanese Knotweed Category C requires a 10-year insurance-backed guarantee.",
+    "Japanese Knotweed Category D (outside boundary) is acceptable without a treatment plan.",
+    "Mundic property is acceptable only if RICS Classes A, A/B, A1, A2, or A3.",
+    "Mundic reports must be dated after 1 January 1997 or be assigned to the borrower/mortgagee.",
+    "Mundic Categories B and C are not acceptable."
+  ],
+  "5.4.5": [
+    "Personal searches are acceptable if the firm subscribes to the Search Code (PCCB regulated) and an unqualified Certificate of Title is provided."
+  ],
+  "5.4.6": [
+    "Search insurance is accepted for re-mortgages only.",
+    "For Limited Companies purchasing from a director, search insurance is acceptable if the solicitor confirms no material risk."
+  ],
+  "5.5.3b": [
+    "Original planning permissions are not required by the lender but must be retained on the solicitor's file."
+  ],
+  "5.5.3c": [
+    "Building regulation consents must be retained on the solicitor's file, not sent to the lender."
+  ],
+  "5.5.3d": [
+    "Certificates of lawful use or development must be retained on the solicitor's file, not sent to the lender."
+  ],
+  "5.7.1a": [
+    "Flying freeholds are acceptable up to 10% of the total property area.",
+    "Valuer must confirm the exact percentage."
+  ],
+  "5.7.1b": [
+    "Freehold flats are not acceptable security."
+  ],
+  "5.7.1c": [
+    "Flying freeholds do not need to be reported if they are under 10% and meet Part 1 requirements."
+  ],
+  "5.8.1": [
+    "Security comprising up to four flats where the borrower owns the freehold is acceptable if the freehold is charged to the Bank.",
+    "If the freeholder is an entity connected to the borrower, an additional Charge of the freehold is required.",
+    "Stock transfer forms for company-owned freeholds must be held in escrow."
+  ],
+  "5.8.5": [
+    "Arrangements involving two leasehold flats where owners cross-own freeholds are accepted.",
+    "The borrower's leasehold interest and their freehold interest in the other flat must both be charged."
+  ],
+  "5.9.1": [
+    "Commonhold title is not accepted."
+  ],
+  "5.13.1": [
+    "The deposit must be from the borrower's own resources.",
+    "Director loans are acceptable for Limited Company BTL if non-interest bearing, the price is at market value, and it is documented in company accounts.",
+    "Completions team email: completions@krbs.com.",
+    "Gifted family deposits < £20,000 require a deed of gift or letter dated within 3 months of completion.",
+    "Gifted family deposits >= £20,000 are typically handled before the mortgage offer.",
+    "Deposit givers must be resident in the UK or EEA and funds must originate from the UK or EEA.",
+    "Clear bankruptcy searches are required for all parties contributing to the purchase price.",
+    "Deed of gift indemnity insurance must be implemented if applicable."
+  ],
+  "5.14.1": [
+    "Minimum unexpired lease term must be at least 50 years at the end of the mortgage term."
+  ],
+  "5.14.9": [
+    "Report if ground rent exceeds 0.1% of the purchase price or valuation.",
+    "Report if ground rent increases by more than 25% upon review.",
+    "Report if ground rent is reviewed more frequently than every 25 years."
+  ],
+  "5.14.11": [
+    "Indemnity insurance for unsatisfactory lease terms is acceptable if it covers the specific defect and meets Part 1 requirements."
+  ],
+  "5.14.12": [
+    "Solicitor must ensure ground rent and service charges are paid to date at completion; receipts are not required by lender."
+  ],
+  "5.14.13": [
+    "Notice of assignment must be served regardless of lease provisions, but evidence is not sent to lender."
+  ],
+  "5.14.15a": [
+    "Absentee/insolvent landlords are acceptable only if there are 6 or fewer flats and indemnity insurance is in place."
+  ],
+  "5.14.15b": [
+    "Indemnity insurance for absent/insolvent landlords is accepted subject to a maximum of 6 flats in the building."
+  ],
+  "5.14.17b": [
+    "Safety instructions apply to buildings ≥ 11m height or ≥ 5 storeys.",
+    "Report if the security property requires remediation or if the owner is a non-qualifying leaseholder.",
+    "Do not complete until written instructions are received regarding remediation costs."
+  ],
+  "5.15.2a": [
+    "Estate Rent Charges are acceptable if Section 121 Law of Property Act is excluded.",
+    "Estate Rent Charges are acceptable if there is a 28-day notice period for the mortgagee prior to enforcement.",
+    "Estate Rent Charges are acceptable if the owner is a management company comprising resident shareholders."
+  ],
+  "5.15.2b": [
+    "Management company share certificates should not be sent to the lender."
+  ],
+  "5.15.2c": [
+    "Signed blank stock transfer forms must be sent to the lender."
+  ],
+  "5.15.2d": [
+    "Management company articles must not restrict the transfer of ownership."
+  ],
+  "5.17.5a": [
+    "A certified copy of the Power of Attorney must be sent after completion."
+  ],
+  "5.17.5b": [
+    "A certified copy of the statutory declaration of non-revocation must be sent after completion."
+  ],
+  "5.20.1": [
+    "Solar PV leases not meeting UK Finance minimum requirements must be reported."
+  ],
+  "6.3.1": [
+    "Distressed sales and sale-and-rent-back arrangements are not acceptable."
+  ],
+  "6.4.4": [
+    "All incentives must be reported including nature and amount.",
+    "Report if an equity share deposit source is not a family gift or own resources."
+  ],
+  "6.5.1": [
+    "Vacant possession is required unless the mortgage offer explicitly permits letting."
+  ],
+  "6.6.3": [
+    "Only Assured Shorthold Tenancy (AST) agreements are acceptable."
+  ],
+  "6.6.4": [
+    "HMO properties must have valid planning permission, certificate of lawful use, or permitted development rights (PDR).",
+    "If Article 4 direction applies, solicitor must obtain historical ASTs or HMO licenses and a statutory declaration to prove continuous use.",
+    "Title must contain no restrictions on HMO use unless indemnity insurance is obtained."
+  ],
+  "6.7.1": [
+    "Acceptable warranties: NHBC, Advantage, HomeProof, Ark Residential, BOPAS, Build Assure, Build Zone, Building Life Plan, CADIS, Checkmate, Global Home, ICW, LABC, One Guarantee, Premier, Protek, Q Policy, Zurich Municipal, ABC+ (if appointed at commencement).",
+    "Retrospective new build warranties and Professional Consultants Certificates (PCC) are not acceptable.",
+    "Disclosure of Incentives Form (DIF) required for all new builds."
+  ],
+  "6.7.4": [
+    "Professional Consultant's Certificate (PCC) is accepted with proof of PI insurance; must not be retrospective.",
+    "Contact for PCC queries: completions@krbs.com."
+  ],
+  "6.7.6": [
+    "Professional consultant's certificate should be retained on file, not sent."
+  ],
+  "6.9.1": [
+    "Absent easements do not need reporting if indemnity insurance is in place."
+  ],
+  "6.10.2": [
+    "Retentions are released directly to the borrowers."
+  ],
+  "7.3": [
+    "Consent to mortgage required from all occupants aged 17 or over, except for BTL arrangements."
+  ],
+  "8.1": [
+    "Firms may act for third parties if there is no conflict of interest and independent legal advice is provided."
+  ],
+  "9.1": [
+    "Indemnity insurance policies must be sent to the lender upon or after completion."
+  ],
+  "9.2": [
+    "Indemnity limit must be at least 110% of the mortgage valuation."
+  ],
+  "10.2a": [
+    "Advance is paid electronically via CHAPS."
+  ],
+  "10.2b": [
+    "Minimum of 5 working days notice is required for the release of funds."
+  ],
+  "10.3": [
+    "Deductions from advance: CHAPS fee, unpaid admin fees, unpaid product fees."
+  ],
+  "10.7": [
+    "Delayed completion funds must be returned within 5 working days using the same method they were received."
+  ],
+  "10.10": [
+    "Advance may be held for a maximum of 5 working days."
+  ],
+  "10.11": [
+    "Interest is charged from the date of release; interest is waived if funds are returned within 5 working days."
+  ],
+  "14.2.1": [
+    "Pre-completion: Send guarantees/personal guarantees to completions@krbs.com.",
+    "Post-completion (within 28 days): Send copy of legal charge, registration evidence (Companies House/Land Registry), NHBC docs, notices of assignment, landlord undertakings, indemnity insurance, and occupier consents to generaldespatcher@krbs.com."
+  ],
+  "14.2.2": [
+    "Only the executed stock transfer form for section 5.8.1 must be sent post-completion."
+  ],
+  "16.3.7b": [
+    "Attestation clause: 'Signed on behalf of OneSavings Bank plc Acting by its *Director / *Attorney in the presence of: [Witness Details]'."
+  ],
+  "16.3.4": [
+    "Transfer of equity documents must be sent to the lender."
+  ],
+  "16.5.3a": [
+    "Deeds of variation to: PO BOX 600, Chatham, ME4 9DW."
+  ],
+  "17.1.1": [
+    "Redemption statements: Lending Department, PO BOX 600, Chatham, ME4 9DW."
+  ],
+  "17.2.1a": [
+    "Discharge and repayment remittance: Lending Department, PO BOX 600, Chatham, ME4 9DW."
+  ],
+  "17.2.1b": [
+    "Discharge is handled directly with the Land Registry."
+  ]
+}

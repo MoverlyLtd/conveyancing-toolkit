@@ -1,0 +1,250 @@
+{
+  "1.11a": [
+    "Mortgage Centre details are on the letter of instruction.",
+    "Standard documents are available at www.natwest.com/conveyancers.",
+    "Use LMS portal for contact regarding pending completions.",
+    "Email is the preferred contact method for all other non-portal queries.",
+    "For Offset Flexible Mortgages, contact the firm listed on the instruction letter."
+  ],
+  "1.11b": [
+    "Contact methods are the same as specified in 1.11a."
+  ],
+  "1.7": [
+    "Lending is not permitted when the borrower and mortgagor are different entities."
+  ],
+  "1.14": [
+    "The firm may not act if the person handling the transaction or their immediate family is the seller, unless a separate fee earner or partner within the firm acts for the lender."
+  ],
+  "1.15": [
+    "The firm may not act if the person handling the transaction or their immediate family is the borrower, unless a separate fee earner or partner within the firm acts for the lender."
+  ],
+  "3.1.3": [
+    "Do not provide the seller's solicitor details unless specifically requested."
+  ],
+  "3.1.4": [
+    "Notify the lender via the contact details in 1.11a if the seller lacks legal representation for a decision on whether to proceed."
+  ],
+  "3.1.5": [
+    "Acceptable ID documents include: old-style UK driving licence, Inland Revenue notification, and Construction Industry tax exemption certificate."
+  ],
+  "3.2.3": [
+    "Do not provide the seller's solicitor details unless specifically requested."
+  ],
+  "3.2.4": [
+    "Notify the lender via the contact details in 1.11a if the seller lacks legal representation."
+  ],
+  "4.5a": [
+    "Re-inspection requests go to the Mortgage Centre (1.11a).",
+    "Offset Flexible Mortgage: RBS Offset Completions Team, Ground Floor, Lakeside 300, Old Chapel Way, Broadland Business Park, Norwich NR7 0WG. Telephone: 0345 300 4013. Fax: 0845 366 0498."
+  ],
+  "4.5b": [
+    "Submit Certificate of Title via LMS portal if instructed through LMS.",
+    "Non-LMS cases: send to Mortgage Centre (1.11a).",
+    "Offset Flexible Mortgage: RBS Offset Completions Team, Norwich (address in 4.5a)."
+  ],
+  "4.1": [
+    "A valuation report is provided only if a physical internal inspection was performed.",
+    "If no physical inspection occurred, the lender will not share the report; queries should be directed to the customer."
+  ],
+  "4.3": [
+    "Contact point for incorrect valuer assumptions is the same as 1.11a."
+  ],
+  "5.1.1": [
+    "If the seller has owned the property for less than 6 months, report: seller's name/address, purchase price, connections between parties, and details of any work carried out since purchase."
+  ],
+  "5.2.1": [
+    "Contact point for sellers who are not the registered owner is 1.11a."
+  ],
+  "5.4.4": [
+    "Environmental or contaminated land reports are not required.",
+    "Report proximity to HS2 only if less than 300 metres.",
+    "Report mining entries only if less than 20 metres and insurance cannot be obtained on a normal basis."
+  ],
+  "5.4.5": [
+    "Personal searches are acceptable if the agent has professional indemnity insurance and a clear Certificate of Title can be provided."
+  ],
+  "5.4.6": [
+    "Search insurance is acceptable if it protects the lender and title is good and marketable."
+  ],
+  "5.5.3a": [
+    "Contact point for reporting breaches or unsatisfied conditions is 1.11a."
+  ],
+  "5.5.3b": [
+    "Original or copies of planning permission are not required."
+  ],
+  "5.5.3c": [
+    "Original or copies of building regulation consents are not required."
+  ],
+  "5.5.3d": [
+    "Certificates of lawful use or development are not required."
+  ],
+  "5.5.4": [
+    "Contact point for reporting restrictions affecting value or marketability is 1.11a."
+  ],
+  "5.7.1a": [
+    "Flying freeholds are acceptable if positive covenants for maintenance/insurance are enforceable. Max LTV is 90%."
+  ],
+  "5.7.1b": [
+    "Freehold flats are acceptable if positive covenants for maintenance/insurance are enforceable. Max LTV is 90%."
+  ],
+  "5.7.1c": [
+    "Report freehold flats or flying freeholds to contact 1.11a."
+  ],
+  "5.8.1": [
+    "Acceptable if building has max 4 flats, borrower occupies one, and owns/shares the freehold."
+  ],
+  "5.8.5": [
+    "Security must include both the leasehold flat and the freehold reversion to the other flat."
+  ],
+  "5.9.1": [
+    "The lender does not lend on commonhold property."
+  ],
+  "5.10.1": [
+    "Contact point for restrictions on use is 1.11a."
+  ],
+  "5.13.1": [
+    "Parental/Guardian gifts or deposits are acceptable; second charges in their favour are permitted.",
+    "Foreign nationals without permanent right to reside must use their own resources.",
+    "Non-parental third-party gifts are acceptable only if non-repayable and no second charge is allowed.",
+    "Seller gifts/incentives may affect the purchase price or maximum loan amount."
+  ],
+  "5.14.15a": [
+    "Contact point for absentee/insolvent landlords is 1.11a."
+  ],
+  "5.14.15b": [
+    "Indemnity insurance is accepted for absent or insolvent landlords."
+  ],
+  "5.14.17a": [
+    "Building safety documentation is not required unless specified in 5.14.17b."
+  ],
+  "5.14.17b": [
+    "Notify the lender if remediation works under the Building Safety Act 2022 are required.",
+    "Notify the lender if the owner is a non-qualifying leaseholder or if remediation costs are anticipated.",
+    "Requirements can be disregarded if building is under 11m, has fewer than 5 storeys, or has no cladding/fire safety issues."
+  ],
+  "5.14.1": [
+    "Minimum unexpired lease term is the mortgage term plus 30 years."
+  ],
+  "5.14.9": [
+    "Ground rents treated as ASTs under the Housing Act 1988 do not require reporting if the lease is varied or indemnity insurance is in place.",
+    "Onerous ground rents (above RPI, doubling in less than 25 years) must be reported.",
+    "New qualifying long leases must have ground rent no more than a peppercorn per year.",
+    "Lender does not review indemnity policy terms but requires a clean COT."
+  ],
+  "5.14.10": [
+    "Contact point for service charge matters is 1.11a."
+  ],
+  "5.14.11": [
+    "Indemnity insurance is accepted for unsatisfactory lease terms, but varying the lease is preferred."
+  ],
+  "5.14.12": [
+    "Ground rent/service charge receipts are not required for standard mortgages.",
+    "Offset Flexible Mortgages require receipts after completion."
+  ],
+  "5.14.13": [
+    "Receipted copy of notice or evidence of service is not required."
+  ],
+  "5.15.2a": [
+    "Contact point for management company problems is 1.11a."
+  ],
+  "5.15.2b": [
+    "Management company share certificates are not required."
+  ],
+  "5.15.2c": [
+    "Signed blank stock transfer forms are not required."
+  ],
+  "5.15.2d": [
+    "Management company memorandum and articles of association are not required."
+  ],
+  "5.16.2": [
+    "Contact point for search entry issues is 1.11a."
+  ],
+  "5.17.5a": [
+    "Certified copy of Power of Attorney must be sent after completion."
+  ],
+  "5.17.5b": [
+    "Certified copy of statutory declaration of non-revocation must be sent after completion."
+  ],
+  "5.19.1": [
+    "Lending on shared ownership is only permitted if the borrower will own 100% at completion.",
+    "Affordable housing or shared equity proposals must be reported to 1.11a."
+  ],
+  "5.20.1": [
+    "Report if solar PV panel roof space leases do not meet UK Finance minimum requirements."
+  ],
+  "5.20.4": [
+    "Details of existing Green Deal Plans must be disclosed to 1.11a."
+  ],
+  "6.4.4": [
+    "Builder incentives for new builds are the only accepted incentives.",
+    "Report incentives totaling more than 5% of the purchase price.",
+    "Do not send the UK Finance Disclosure Form."
+  ],
+  "6.6.3": [
+    "Tenancy agreements for standard ASTs are not required.",
+    "Non-AST agreements must be sent and must include a break clause, no security of tenure, mortgage recognition, and a max 3-year term."
+  ],
+  "6.6.4": [
+    "The lender does not lend on Houses in Multiple Occupation (HMO)."
+  ],
+  "6.7.1": [
+    "Acceptable 10-year warranties: NHBC, Zurich, BLP, Build Zone, BuildCare, Ward Cole (12yr), LABC, Premier Guarantee (refer flats), Global Home, The Q Policy, BOPAS, Protek, Advantage, ICW, One Guarantee, CADIS, CIR, Self-Build Zone.",
+    "Protek Self Build Warranty is accepted but Customer Build Warranty is excluded."
+  ],
+  "6.7.4": [
+    "Lender will proceed without a warranty if a Professional Consultant's Certificate in the UK Finance form is issued prior to exchange."
+  ],
+  "6.8.1": [
+    "Report unadopted roads with: adoption proposals, condition, maintenance costs, access rights, and confirmation borrower understands liabilities."
+  ],
+  "6.12.1": [
+    "Lending is not permitted on properties subject to overage agreements."
+  ],
+  "7.3": [
+    "Consents required for all occupants 17+ except borrower's children under 26.",
+    "Lifetime Mortgages require spouses/civil partners to be joint owners/mortgagors."
+  ],
+  "8.1": [
+    "Conveyancers may not advise third-party guarantors or occupiers; independent legal advice must be recommended."
+  ],
+  "9.1": [
+    "Do not send indemnity policies; provide full details on the Certificate of Title."
+  ],
+  "9.2": [
+    "Indemnity insurance limit must equal the property value."
+  ],
+  "10.2b": [
+    "Minimum of 7 working days notice is required for mortgage advance."
+  ],
+  "10.3": [
+    "CHAPS Fee is a standard deduction."
+  ],
+  "10.7": [
+    "Delayed completion: Return funds via CHAPS to Sort Code 83-05-00, Account 98090165 by the next working day."
+  ],
+  "10.11": [
+    "Interest is charged at the mortgage rate from the date of fund release until recredited to the lender."
+  ],
+  "14.1.5": [
+    "Do not send original mortgage deeds to the lender.",
+    "If registration is not complete within 30 days, update LMS every 30 days with the reason for delay."
+  ],
+  "14.2.2": [
+    "LMS instructed cases must upload: Priority Notice, Confirmation of Application to Register, Official Copy, and (if applicable) Power of Attorney, Guarantee, and Occupier Consent.",
+    "Non-LMS cases: send Deed of Consent, PoA, and Statutory Declaration only."
+  ],
+  "16.3.7b": [
+    "Attestation clause: 'Signed and delivered as a Deed for and on behalf of the Bank by a duly authorised signatory.'"
+  ],
+  "16.3.1": [
+    "Reconstitution of security is required in Transfer of Equity cases."
+  ],
+  "17.1.1": [
+    "Redemption statements for RBS Personal Mortgages must be requested via LMS Secure Link.",
+    "Offset Mortgages: submit written request to Norwich address or email CMSRedemptionsTeam@natwest.com."
+  ],
+  "17.2.1a": [
+    "Repayment remittance: Mortgage Centre (PO Box 123, Greenock) or Offset Team (Norwich).",
+    "Lender arranges discharge for registered land; no written confirmation of release is provided."
+  ]
+}

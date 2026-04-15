@@ -1,0 +1,346 @@
+{
+  "1.11a": [
+    "Contact the specific Mortgage Operations office that issued the instructions."
+  ],
+  "1.11b": [
+    "Contact the specific Mortgage Operations office that issued the instructions."
+  ],
+  "1.7": [
+    "Lending is prohibited if the borrower and mortgagor are different entities."
+  ],
+  "1.14": [
+    "Legal firms may act if the seller is the transaction handler or family, provided a separate partner or fee earner acts under supervision."
+  ],
+  "1.15": [
+    "Legal firms may act if the borrower is the transaction handler or family, provided a separate fee earner acts under supervision, professional guidelines are met, and no conflict exists."
+  ],
+  "3.1.3": [
+    "Notification of seller's legal representative details is only required if specifically requested."
+  ],
+  "3.1.4": [
+    "Seller must have legal representation if an existing first charge is registered, unless the seller is a Housing Association or Local Authority.",
+    "In all other cases, refer to the instructing Mortgage Operations Office."
+  ],
+  "3.1.5": [
+    "No alternative documents are accepted for identity verification."
+  ],
+  "3.2.3": [
+    "Notification of seller's legal representative details is only required if specifically requested."
+  ],
+  "3.2.4": [
+    "Seller must have legal representation if an existing first charge is registered, unless the seller is a Housing Association or Local Authority.",
+    "In all other cases, refer to the instructing Mortgage Operations Office."
+  ],
+  "4.5a": [
+    "Contact the instructing Mortgage Operations office."
+  ],
+  "4.5b": [
+    "Certificates of title must be submitted via the Lender Exchange portal."
+  ],
+  "4.1": [
+    "A valuation report is usually provided by the lender as part of the instructions."
+  ],
+  "4.3": [
+    "Contact the instructing Mortgage Operations office regarding incorrect valuation assumptions."
+  ],
+  "5.1.1": [
+    "Contact the instructing Mortgage Operations office if the seller has owned the property for less than 6 months."
+  ],
+  "5.2.1": [
+    "Contact the instructing Mortgage Operations office if the seller is not the registered proprietor."
+  ],
+  "5.4.4": [
+    "Do not send environmental or contaminated land reports unless specifically requested in the valuation report."
+  ],
+  "5.4.5": [
+    "Personal searches are accepted if the firm subscribes to the Search Code monitored by the Property Codes Compliance Board."
+  ],
+  "5.4.6": [
+    "Search insurance is not accepted for Land Registry searches.",
+    "Search insurance is accepted for other required searches at the conveyancer's risk."
+  ],
+  "5.5.3a": [
+    "Report breaches of planning conditions or unsatisfied completion conditions to the instructing Mortgage Operations office."
+  ],
+  "5.5.3b": [
+    "Planning permission copies are not required unless explicitly specified in individual instructions."
+  ],
+  "5.5.3c": [
+    "Building regulation consent copies are not required unless explicitly specified in individual instructions."
+  ],
+  "5.5.3d": [
+    "Certificates of lawful use or development are not required unless explicitly specified in individual instructions."
+  ],
+  "5.5.4": [
+    "Report property restrictions affecting value or marketability to the instructing Mortgage Operations office."
+  ],
+  "5.7.1a": [
+    "Flying freeholds are accepted subject to Section 5.7.2 requirements."
+  ],
+  "5.7.1b": [
+    "Freehold flats are not accepted unless they meet specific Handbook criteria (5.8.1 to 5.8.5)."
+  ],
+  "5.7.1c": [
+    "Report accepted flying freeholds or freehold flats to the instructing Mortgage Operations office."
+  ],
+  "5.8.1": [
+    "Security for buildings converted into maximum four flats is accepted if the borrower occupies one unit and the borrower (or another flat owner) owns the freehold."
+  ],
+  "5.8.5": [
+    "Accepted if the borrower owns the freehold reversion of the other flat in a two-flat building and vice versa, provided letting is agreed from completion.",
+    "Not accepted if the borrower owns both flats."
+  ],
+  "5.9.1": [
+    "Commonhold title is not accepted."
+  ],
+  "5.10.1": [
+    "Use restrictions are acceptable only if the mortgage offer or instructions confirm lender awareness.",
+    "Otherwise, report to the instructing Mortgage Operations office."
+  ],
+  "5.13.1": [
+    "Refer to the instructing Mortgage Operations office if the borrower is not providing the full balance from own funds or is proposing a second charge."
+  ],
+  "5.14.15a": [
+    "Report absentee or insolvent landlords to the instructing Mortgage Operations office."
+  ],
+  "5.14.15b": [
+    "Indemnity insurance for absentee or insolvent landlords requires prior approval from the instructing Mortgage Operations office."
+  ],
+  "5.14.17a": [
+    "Building safety documentation does not need to be sent."
+  ],
+  "5.14.17b": [
+    "Notify the lender if remediation cost assumptions in the valuation report are incorrect."
+  ],
+  "5.14.17c": [
+    "Notify the lender if remediation cost assumptions in the valuation report are incorrect for remortgages."
+  ],
+  "5.14.1": [
+    "Report lease terms if: valuer assumed 55-82 years but actual term differs by >1 year; valuer assumed >82 years but actual is <82 years; or no valuation was provided.",
+    "Minimum remaining term at mortgage expiry: 50 years for interest-only, 30 years for capital and interest.",
+    "Leasehold Reform Act 1993 extensions are accepted if statutory compensation is available."
+  ],
+  "5.14.9": [
+    "Ground rent is acceptable if: <= 0.1% of property value, review period >= 10 years, and increases <= RPI.",
+    "If ground rent > 0.1% of value, refer to the instructing Mortgage Operations office.",
+    "Review periods < 10 years or increases > RPI require a deed of variation."
+  ],
+  "5.14.10": [
+    "Contact the instructing Mortgage Operations office regarding service charge matters."
+  ],
+  "5.14.11": [
+    "Contact the instructing Mortgage Operations office regarding indemnity insurance for unsatisfactory lease terms."
+  ],
+  "5.14.12": [
+    "Ground rent and service charge receipts do not need to be sent."
+  ],
+  "5.14.13": [
+    "Receipted notice of assignment or evidence of service does not need to be sent."
+  ],
+  "5.15.2a": [
+    "Report management company issues to the instructing Mortgage Operations office."
+  ],
+  "5.15.2b": [
+    "Management company share certificates do not need to be sent."
+  ],
+  "5.15.2c": [
+    "Signed blank stock transfer forms do not need to be sent."
+  ],
+  "5.15.2d": [
+    "Management company memorandum and articles of association do not need to be sent."
+  ],
+  "5.16.2": [
+    "Contact the instructing Mortgage Operations office if unable to certify that search entries do not relate to the property."
+  ],
+  "5.17.5a": [
+    "Send a certified copy of the Power of Attorney and a covering letter within 7 days of completion.",
+    "Verify delegated powers and confirm the attorney's address and relationship to donor."
+  ],
+  "5.17.5b": [
+    "Send certified copies of the Statutory Declaration of Non-Revocation and Power of Attorney within 7 days of completion.",
+    "Verify delegated powers and confirm the attorney's address and relationship to donor."
+  ],
+  "5.19.1": [
+    "Contact the instructing Mortgage Operations office for affordable housing, shared equity, or shared ownership requirements."
+  ],
+  "5.20.1": [
+    "Report solar PV roof space leases that do not meet UK Finance minimum requirements to the instructing Mortgage Operations office."
+  ],
+  "5.20.3": [
+    "Notify the instructing Mortgage Operations office of any solar PV roof space lease and provide the tenant's name."
+  ],
+  "5.20.4": [
+    "Disclose Green Deal Plans only if there are unusual situations or concerns."
+  ],
+  "6.1.3": [
+    "Notify the instructing Mortgage Operations office if the borrower is not proceeding with the offer."
+  ],
+  "6.2.1": [
+    "Report property description discrepancies to the instructing Mortgage Operations office."
+  ],
+  "6.3.1": [
+    "Report purchase price issues to the instructing Mortgage Operations office."
+  ],
+  "6.4.4": [
+    "Incentives do not need reporting if: seller is a developer and cash incentive is <= 5% of price, or covers legal fees/SDLT.",
+    "Standard specs (carpets, white goods), chancel repair, and defective title insurance premiums do not need reporting.",
+    "All other incentives must be reported.",
+    "Report Property Investment Club involvement or finder's fees and await instructions."
+  ],
+  "6.4.5": [
+    "Contact the instructing Mortgage Operations office if the conveyancer will not control the payment of all purchase money."
+  ],
+  "6.5.1": [
+    "Report lack of vacant possession to the instructing Mortgage Operations office."
+  ],
+  "6.6.1": [
+    "Contact the instructing Mortgage Operations office regarding let properties and buy-to-let eligibility."
+  ],
+  "6.6.2": [
+    "Contact the instructing Mortgage Operations office if current or completion letting details are missing."
+  ],
+  "6.6.3": [
+    "Certified copy tenancy agreements are not required unless specified in instructions."
+  ],
+  "6.6.4": [
+    "Lending is prohibited on properties subject to mandatory HMO licensing."
+  ],
+  "6.7.1": [
+    "Acceptable schemes: NHBC, Premier Guarantee, BLP, BOPAS, LABC, Build Zone, Build Assure, Global Home Warranties, Q Assure Build, Aedis/Homeproof, ICW, Protek, Ark Residential, ABC+, One Guarantee, Advantage (ACHI), Cadis, CIR, Checkmate, Compariqo."
+  ],
+  "6.7.2": [
+    "New home warranty documents should be retained by the borrower."
+  ],
+  "6.7.3": [
+    "Building standards indemnity assignments are not required unless specified in instructions."
+  ],
+  "6.7.4": [
+    "PCC is accepted for single properties or developments up to 10 units if supervised from the start by a qualified professional (excluding FASI/MASI).",
+    "PCC must use the exact UKF template wording.",
+    "Converted flats (max 4 units) without warranty are accepted if planning/building regs/completion certificates are present."
+  ],
+  "6.7.6": [
+    "Professional Consultant’s Certificates do not need to be sent unless specified."
+  ],
+  "6.8.1": [
+    "Refer to Mortgage Operations only if: developer refuses to covenant for road/sewer completion, it is a private sale, or LTV > 85% and developer is not LSE-listed or a subsidiary of an LSE-listed company."
+  ],
+  "6.9.1": [
+    "Report missing easements to the instructing Mortgage Operations office."
+  ],
+  "6.10.2": [
+    "Retentions or mortgage instalments are released to the borrower."
+  ],
+  "6.11.1": [
+    "Report redevelopment or road proposals to the instructing Mortgage Operations office."
+  ],
+  "6.12.1": [
+    "Report pre-emption rights, resale restrictions, or options to the instructing Mortgage Operations office."
+  ],
+  "6.13.1": [
+    "Report undischarged improvement or repair grants to the instructing Mortgage Operations office."
+  ],
+  "7.3": [
+    "Signed consent to mortgage is required from all occupants aged 17 or over."
+  ],
+  "7.4": [
+    "Report doubts about disclosure accuracy to the instructing Mortgage Operations office."
+  ],
+  "8.1": [
+    "Conveyancers may not advise specified third parties."
+  ],
+  "9.1": [
+    "Indemnity policies do not need to be sent; provide insurer name, policy number, and type only."
+  ],
+  "9.2": [
+    "Indemnity limit must be the purchase price or 110% of the mortgage advance (whichever is lower)."
+  ],
+  "10.2a": [
+    "Mortgage advance is paid via electronic transfer."
+  ],
+  "10.2b": [
+    "A minimum of 5 days notice is required for the release of funds."
+  ],
+  "10.3": [
+    "Standard deductions for fees are detailed in the individual mortgage offer."
+  ],
+  "10.7": [
+    "Funds for delayed/cancelled completions must be returned immediately via CHAPS.",
+    "Sort Code: 09-00-82, Account: XXXXXXXX.",
+    "Reference must include borrower name and full mortgage account number."
+  ],
+  "10.9": [
+    "Report delayed completion to the instructing Mortgage Operations office."
+  ],
+  "10.10": [
+    "Advance funds can be held for a maximum of 4 days.",
+    "Unreturned funds may incur interest at Santander's full reversion rate."
+  ],
+  "10.11": [
+    "If holding funds with lender consent, interest is payable at the greater of 50% of the reversion rate or the actual interest received.",
+    "Unauthorized retention of funds incurs interest at the full reversion rate."
+  ],
+  "12.3.1": [
+    "Contact the instructing Mortgage Operations office for release of retentions or instalments."
+  ],
+  "14.1.4": [
+    "Form CH2 application is required."
+  ],
+  "14.1.5": [
+    "Original mortgage deeds do not need to be sent; retain the original if using e-DRS."
+  ],
+  "14.2.1": [
+    "Title deeds address: Santander UK plc, Mortgage & Loans Operations, Sunderland, SR43 4FH."
+  ],
+  "14.2.2": [
+    "Post-completion documents required: Land Registry Title Information Document, certified PoA/Statutory Declarations, and Deeds of Consent or Guarantee (if separate from standard deed)."
+  ],
+  "16.1.1": [
+    "Contact the Mortgage Operations office managing the borrower's account."
+  ],
+  "16.3.7a": [
+    "Contact the instructing Mortgage Operations office to obtain execution of transfer of equity."
+  ],
+  "16.3.7b": [
+    "The lender uses a specific common seal attestation clause for Santander UK plc."
+  ],
+  "16.3.1": [
+    "No standard transfer/deed form; contact Mortgage Operations for required wording."
+  ],
+  "16.3.2": [
+    "Contact the instructing Mortgage Operations office for debt amount confirmation."
+  ],
+  "16.3.4": [
+    "A certified copy of the transfer of equity must be sent to the instructing Mortgage Operations office."
+  ],
+  "16.4.1": [
+    "Submit applications for consent to letting to the instructing Mortgage Operations office."
+  ],
+  "16.4.2": [
+    "Proposed tenancy agreements do not need to be sent."
+  ],
+  "16.5.3a": [
+    "Send deeds of variation to the instructing Mortgage Operations office."
+  ],
+  "16.5.3b": [
+    "Send deeds of rectification to the instructing Mortgage Operations office."
+  ],
+  "16.5.3c": [
+    "Send deeds of easement to the instructing Mortgage Operations office."
+  ],
+  "16.5.3d": [
+    "Send option agreements to the instructing Mortgage Operations office."
+  ],
+  "16.5.2": [
+    "Consult the instructing Mortgage Operations office to confirm if a deed will adversely affect security."
+  ],
+  "17.1.1": [
+    "Redemption statements must be requested from the instructing Mortgage Operations office."
+  ],
+  "17.2.1a": [
+    "Send the discharge and repayment remittance to the instructing Mortgage Operations office."
+  ],
+  "17.2.1b": [
+    "Discharge method (DS1 or direct Land Registry) is specified in individual instructions."
+  ]
+}

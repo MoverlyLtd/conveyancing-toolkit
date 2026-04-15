@@ -1,0 +1,228 @@
+{
+  "1.11a": [
+    "Address: first direct, 40 Wakefield Road, Leeds, LS98 1FD",
+    "Telephone: 0113 236 7032",
+    "Fax: 0345 5870395",
+    "Offer extensions must be requested within the last 30 days of the original offer period.",
+    "Offer extensions are granted only once per transaction.",
+    "Mortgage offers include a 7-day reflection period which the borrower may waive.",
+    "Standard documents available at: www.firstdirect.com/legal-instructions"
+  ],
+  "1.11b": [
+    "Address: first direct, 40 Wakefield Road, Leeds, LS98 1FD",
+    "Telephone: 0113 236 7032",
+    "Fax: 0345 5870395"
+  ],
+  "1.7": [
+    "Borrowers and property owners must be identical.",
+    "Only direct security (A1 mortgage deed) is offered."
+  ],
+  "1.14": [
+    "Firms may act if the seller is an immediate family member provided a separate partner not related to the seller acts for the lender.",
+    "Must be no conflict of interest and compliance with professional guidelines."
+  ],
+  "1.15": [
+    "Firms may act if the borrower is an immediate family member provided a separate partner not related to the borrower acts for the lender.",
+    "Must be no conflict of interest and compliance with professional guidelines."
+  ],
+  "3.1.3": [
+    "Notification of the seller's legal representative's name and address is not required."
+  ],
+  "3.1.4": [
+    "Lender must be notified if the seller is unrepresented or if identity checks on the representative are unsatisfactory."
+  ],
+  "3.1.5": [
+    "No alternative documents for identity verification are specified."
+  ],
+  "3.2.3": [
+    "Notification of the seller's solicitor name and address is not required."
+  ],
+  "3.2.4": [
+    "Notify the lender only if the seller is unrepresented or the representative's identity cannot be verified."
+  ],
+  "4.1": [
+    "Valuation reports are for mortgage purposes only and must not be shared with the borrower.",
+    "If the valuer is specified as SDLAVM or SDLMDV, disregard sections 2 to 7 and 10; refer only to sections 1 and 9."
+  ],
+  "4.3": [
+    "Lender aims to respond to valuation queries within 3 working days.",
+    "Do not request the mortgage advance until any valuation queries are resolved."
+  ],
+  "5.2.1": [
+    "Assignable contracts and irrevocable powers of attorney in favor of intervening sellers are not acceptable.",
+    "Sub-sales, back-to-back transactions, and contract assignments to third parties are prohibited."
+  ],
+  "5.4.4": [
+    "Notify the bank if Japanese Knotweed is within 3 meters of the property boundary.",
+    "If present within the property boundary, damage to outbuildings/fences must be minor.",
+    "Required documentation for knotweed: treatment plan from an accredited member (PCA/INNSA), completion certificate, and a 10-year insurance-backed guarantee."
+  ],
+  "5.4.5": [
+    "Personal searches are accepted if the firm is CoPSO registered, has adequate PI insurance, and complies with the Code of Practice."
+  ],
+  "5.4.6": [
+    "Local authority search indemnity insurance is accepted if the property value does not exceed £1 million.",
+    "The policy must cover at least the open market value of the property.",
+    "No other search indemnity insurance is acceptable."
+  ],
+  "5.5.3a": [
+    "Private drainage systems must be compliant with current legislation.",
+    "Shared systems require legal arrangements for management, maintenance, and access.",
+    "Systems must be registered with the relevant regional agency where required."
+  ],
+  "5.5.3b": [
+    "Lender does not require copies of planning permissions.",
+    "Breaches within enforcement periods require professional judgment and potentially indemnity insurance per Section 9."
+  ],
+  "5.5.3c": [
+    "Lender does not require copies of building regulation consents.",
+    "Breaches within enforcement periods require professional judgment and potentially indemnity insurance."
+  ],
+  "5.5.3d": [
+    "Certificates of lawful use are only required if the property was converted from commercial to residential and planning permission cannot be confirmed."
+  ],
+  "5.7.1a": [
+    "Flying freeholds are accepted if they have mutual rights of support, protection, repair, and entry, plus enforceable covenants.",
+    "Indemnity insurance is required if mutual rights/covenants are absent."
+  ],
+  "5.7.1b": [
+    "Freehold flats are generally not acceptable.",
+    "Exceptions: coach houses with suitable insurance/garage lease, or leasehold interest with a share of the freehold."
+  ],
+  "5.8.1": [
+    "Accepted for buildings converted into no more than four flats where the borrower occupies one and the freehold is owned by the borrower or another flat owner."
+  ],
+  "5.8.5": [
+    "Lender accepts security where the borrower owns the freehold reversion of the other flat and vice versa.",
+    "A charge is required over both the freehold reversion and leasehold titles."
+  ],
+  "5.9.1": [
+    "Commonhold security is accepted."
+  ],
+  "5.13.1": [
+    "Deposits from unsecured credit or personal borrowing are not accepted.",
+    "Gifted deposits from close family members (spouse, partner, parent, grandparent, sibling, aunt, uncle, cousin, in-laws) are accepted if unconditional and not repayable.",
+    "Gifts from friends or employers are prohibited.",
+    "A donor confirmation letter must be obtained and dated within 3 months of completion.",
+    "Draft Declarations of Trust must be submitted 10 working days prior to completion for approval.",
+    "Clear bankruptcy searches required for all parties contributing to the purchase price."
+  ],
+  "5.14.1": [
+    "Minimum unexpired lease term must be 50 years beyond the mortgage term.",
+    "Leases with less than 85 years remaining at the outset require specific valuer approval."
+  ],
+  "5.14.9": [
+    "Ground rent is acceptable if <= 0.2% of property value.",
+    "Leases granted after 30 June 2022 must be limited to peppercorn ground rent.",
+    "Review periods must be >= 10 years.",
+    "Rent escalation must be <= RPI.",
+    "Doubling ground rent is only acceptable if it occurs every 20 years or more and ceases after 125 years."
+  ],
+  "5.14.11": [
+    "Indemnity insurance for unsatisfactory lease terms may be acceptable upon referral."
+  ],
+  "5.14.12": [
+    "Ground rent or service charge receipts are not required to be sent to the lender.",
+    "Retentions for service charges are permitted but must be limited to 30 days after final accounts are issued."
+  ],
+  "5.14.13": [
+    "Receipted notice of assignment is not required by the lender but must be sent to the borrower."
+  ],
+  "5.14.15b": [
+    "Indemnity insurance is accepted for absentee or insolvent landlords."
+  ],
+  "5.14.17b": [
+    "Lender must be notified if the property owner is a non-qualifying leaseholder under the Building Safety Act 2022.",
+    "Conveyancers must check Landlord’s Certificates and Leaseholder Deeds of Certificate.",
+    "Developer remediation requires evidence like a letter or a certified copy of a remediation contract.",
+    "EWS1 reports older than 5 years are acceptable provided no newer Fire Risk Appraisal External Wall (FRAEW) exists."
+  ],
+  "5.15.2a": [
+    "Rent charges dated before 1977 require no action.",
+    "Estate Rent Charges must exclude Law of Property Act Section 121 provisions, include a 28-day mortgagee notice, or be owned by a resident-led management company.",
+    "If conditions are not met, a deed of variation is required; indemnity insurance is not accepted."
+  ],
+  "5.17.5a": [
+    "The original or a certified copy of the Power of Attorney and a specimen signature must be provided before completion."
+  ],
+  "5.19.1": [
+    "Lender does not provide mortgages for affordable housing, shared equity, or shared ownership schemes."
+  ],
+  "5.20.1": [
+    "Roof space leases for solar panels must meet UK Finance minimum standards; otherwise, the case cannot proceed."
+  ],
+  "6.4.4": [
+    "Financial incentives up to 5% of the purchase price do not need to be reported.",
+    "Fixed non-financial incentives (e.g., carpets, white goods) do not need to be reported.",
+    "Report: cash incentives > 5%, non-fixed incentives (e.g., a car), and part-exchange transactions.",
+    "A UK Finance Disclosure Form must be completed."
+  ],
+  "6.5.1": [
+    "Vacant possession is required on completion.",
+    "Lending on let or to-be-let properties is not permitted."
+  ],
+  "6.6.4": [
+    "Properties defined as Houses in Multiple Occupation (HMO) are not accepted."
+  ],
+  "6.7.1": [
+    "Acceptable warranties: NHBC, Premier Guarantee, LABC, ABC+, Advantage HCI, Ark, BLP, Build-Zone, Checkmate, Global, Homeproof, ICW, One Guarantee, Protek, The Q Policy, Build Assure."
+  ],
+  "6.7.4": [
+    "Professional Consultant's Certificates (PCC) are accepted for developments of 10 properties or fewer.",
+    "The consultant must have supervised the build from the start; retrospective certificates are not accepted."
+  ],
+  "6.8.1": [
+    "Unadopted roads/sewers are acceptable if there are plans for future adoption or management company responsibility.",
+    "Lender does not require a bond or retention for unadopted infrastructure."
+  ],
+  "6.10.2": [
+    "Retentions are released to the borrower. Instalment mortgages are not offered."
+  ],
+  "6.12.1": [
+    "Properties with overage agreements or pre-emption rights affecting security are not accepted."
+  ],
+  "7.3": [
+    "Occupant consent is required for anyone aged 17 or over (except students away from home).",
+    "Maximum of 2 lodgers occupying a single room is permitted.",
+    "Homes for Ukraine occupants do not require consent or postponement deeds."
+  ],
+  "8.1": [
+    "Independent Legal Advice is mandatory for any owner not benefiting (or not benefiting equally) from the loan if that portion exceeds £50,000."
+  ],
+  "9.1": [
+    "Indemnity insurance policies must be sent to the lender on completion."
+  ],
+  "9.2": [
+    "Indemnity insurance must cover the full value of the property."
+  ],
+  "10.2b": [
+    "Minimum 6 working days' notice required for funds.",
+    "Certificate of Title (CoT) must be submitted electronically.",
+    "Advance amounts must be in full pounds sterling only."
+  ],
+  "10.7": [
+    "Delayed completion funds must be returned by CHAPS within three working days.",
+    "Deductions from the return amount are prohibited."
+  ],
+  "10.11": [
+    "Interest is charged at the mortgage offer rate from the date of receipt until the advance is returned."
+  ],
+  "14.1.5": [
+    "Original mortgage deeds or title documents are not required by the lender.",
+    "Include the MD reference on the registration application."
+  ],
+  "14.2.2": [
+    "Post-completion documents (Register Completion Sheet, A2 Mortgage Deed if applicable, Indemnity Policy) must be sent to: Customer Service Centre, BX8 5HB."
+  ],
+  "16.3.1": [
+    "Transfer of equity requires a new mortgage deed and registration of a new first charge.",
+    "Lender will not sign the transfer deed."
+  ],
+  "17.1.1": [
+    "Redemption statement requests should be emailed to fd.mtg.support@firstdirect.com.",
+    "Redemption figures are only valid for the day of issue."
+  ],
+  "17.2.1b": [
+    "Lender files the discharge directly with the Land Registry."
+  ]
+}

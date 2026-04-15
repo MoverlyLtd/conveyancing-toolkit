@@ -1,0 +1,351 @@
+{
+  "1.11a": [
+    "Domestic Applicants (UK Nationals/Permanent Residents) General Enquiries: support@molofinance.com",
+    "Domestic Applicants Completion/Documentation: cots@molofinance.com",
+    "Domestic Applicants Post-Completion: service@molofinance.com",
+    "International Applicants (Borrower/Guarantor outside UK) Completion/Documentation: completions@colcap.co.uk",
+    "International Applicants COT Submissions: colcapuk-intl-COT-completions@colcap.co.uk",
+    "International Applicants Post-Completion: completions@colcap.co.uk"
+  ],
+  "1.11b": [
+    "Contact details match section 1.11a."
+  ],
+  "1.7": [
+    "Lending is prohibited if the borrower and mortgagor are different entities."
+  ],
+  "1.14": [
+    "Firm may not act if the person handling the transaction or their immediate family is the seller."
+  ],
+  "1.15": [
+    "Firm may act if the person handling the transaction or their immediate family is the borrower, subject to express written authority from the lender."
+  ],
+  "3.1.3": [
+    "Seller's legal representative details only required if specifically requested."
+  ],
+  "3.1.4": [
+    "Contact point for unrepresented sellers is section 1.11a."
+  ],
+  "3.1.5": [
+    "No alternative identity verification documents are accepted."
+  ],
+  "3.2.3": [
+    "Seller's legal representative details only required if specifically requested."
+  ],
+  "3.2.4": [
+    "Contact point for unrepresented sellers is section 1.11a."
+  ],
+  "4.5a": [
+    "Contact point for re-inspections is section 1.11a."
+  ],
+  "4.5b": [
+    "Domestic Applicants Certificate of Title: cots@molofinance.com",
+    "International Applicants Certificate of Title: colcapuk-intl-COT-completions@colcap.co.uk",
+    "Lender must be notified as soon as property is ready for final inspection.",
+    "Completion cannot occur until re-inspection is finished."
+  ],
+  "4.1": [
+    "Lender may use Automated Valuation Models (AVM) or physical valuations.",
+    "Physical valuation copies will be provided to the conveyancer.",
+    "Conveyancer must advise borrower that the report is for lender purposes only and not to be relied upon."
+  ],
+  "4.3": [
+    "Contact for incorrect valuation assumptions is section 1.11a."
+  ],
+  "5.1.1": [
+    "Contact for properties owned by the seller for less than 6 months is section 1.11a."
+  ],
+  "5.2.1": [
+    "Contact if the seller is not the registered proprietor is section 1.11a."
+  ],
+  "5.4.4": [
+    "Contact for restrictions affecting marketability is section 1.11a."
+  ],
+  "5.4.5": [
+    "Personal searches accepted for Buy to Let if firm is CoPSO registered, has adequate PI insurance, and complies with the Search Code."
+  ],
+  "5.4.6": [
+    "Search insurance accepted for Buy to Let remortgages or company transfers where original owners remain.",
+    "Search insurance prohibited for HMOs, Multi-unit buildings, mortgage-free remortgages, and semi-commercial properties.",
+    "Lender's Title Insurance must be via Lime Risk Agency Limited.",
+    "Title Insurance eligibility: Loan amount <= £750,000 (including fees), property in England/Wales, no searches previously undertaken.",
+    "Title insurance referral contact: referrals@limeriskagency.com."
+  ],
+  "5.5.3a": [
+    "Contact for reporting unmet planning/building conditions is section 1.11a."
+  ],
+  "5.5.3b": [
+    "Original planning permission not required; conveyancer must retain copy on file."
+  ],
+  "5.5.3c": [
+    "Original building regulation consents not required; conveyancer must retain copy on file."
+  ],
+  "5.5.3d": [
+    "Lawful use/development certificates not required; conveyancer must retain copy on file."
+  ],
+  "5.7.1a": [
+    "Flying freeholds accepted if the affected area is 15% or less of the property."
+  ],
+  "5.7.1b": [
+    "Freehold flats are not accepted."
+  ],
+  "5.7.1c": [
+    "Contact point for reporting freehold flats or flying freeholds is section 1.11a."
+  ],
+  "5.8.1": [
+    "Buy to Let: Buildings converted into max 4 flats accepted if borrower occupies one.",
+    "Requires a charge on any superior title owned by the borrower."
+  ],
+  "5.8.5": [
+    "Cross-leasehold arrangements (e.g., Tyneside flats) are not acceptable."
+  ],
+  "5.9.1": [
+    "Commonhold properties are not accepted."
+  ],
+  "5.10.1": [
+    "Contact for restrictions on use is section 1.11a."
+  ],
+  "5.13.1": [
+    "Second charges are not permitted; lender will not consent."
+  ],
+  "5.14.15a": [
+    "Contact for absentee/insolvent landlords is section 1.11a."
+  ],
+  "5.14.15b": [
+    "Indemnity insurance for absent/insolvent landlords accepted if an unqualified COT can be issued."
+  ],
+  "5.14.17a": [
+    "No building safety documentation needs to be sent to the lender."
+  ],
+  "5.14.17b": [
+    "EWS1 ratings A1, A2, or B1 are acceptable.",
+    "PAS 9980 remediation needs must be reported; block must be on Government approved list.",
+    "Fire Risk Assessment (FRA) must be obtained for flats and be in-date; do not send copy to lender.",
+    "Report if the owner is a non-qualifying leaseholder.",
+    "Completion prohibited until written instructions received following building safety reports."
+  ],
+  "5.14.17c": [
+    "Remortgage building safety requirements match section 5.14.17b."
+  ],
+  "5.14.1": [
+    "Minimum lease term: 70 years remaining at completion.",
+    "Minimum lease term at mortgage expiry: 55 years.",
+    "Lease must be amended if mortgage protection clause is absent."
+  ],
+  "5.14.9": [
+    "Contact for lease-related matters is section 1.11a."
+  ],
+  "5.14.10": [
+    "Contact for service charge matters is section 1.11a."
+  ],
+  "5.14.11": [
+    "Indemnity insurance for unsatisfactory lease terms accepted if no Deed of Variation is possible."
+  ],
+  "5.14.12": [
+    "Ground rent/service charge receipts not required; retain on file."
+  ],
+  "5.14.13": [
+    "Notice of service evidence not required; retain on file."
+  ],
+  "5.15.2a": [
+    "Contact for management company issues is section 1.11a."
+  ],
+  "5.15.2b": [
+    "Share certificate not required; retain on file."
+  ],
+  "5.15.2c": [
+    "Blank stock transfer form not required; retain on file."
+  ],
+  "5.15.2d": [
+    "Memorandum and articles of association not required; retain on file."
+  ],
+  "5.16.2": [
+    "Contact for search entry certification issues is section 1.11a."
+  ],
+  "5.17.5a": [
+    "Power of Attorney accepted on a case-by-case basis; requires prior approval.",
+    "Do not send document to lender; retain on file."
+  ],
+  "5.17.5b": [
+    "Statutory declaration of non-revocation not required; retain on file."
+  ],
+  "5.19.1": [
+    "Lending prohibited on affordable housing, shared equity, and shared ownership (even if 100% staircased)."
+  ],
+  "5.20.1": [
+    "Properties with a lease of roof space for solar panels are not accepted.",
+    "Solar panels must be owned outright by the borrower."
+  ],
+  "5.20.4": [
+    "Green Deal plans prohibited on BTL purchases.",
+    "BTL remortgages: Report balance, monthly payment, term, works list, guarantees, and EPC for approval."
+  ],
+  "6.1.3": [
+    "Contact for cancelled mortgage offers is section 1.11a."
+  ],
+  "6.2.1": [
+    "Contact for property description discrepancies is section 1.11a."
+  ],
+  "6.3.1": [
+    "Contact for purchase price issues is section 1.11a."
+  ],
+  "6.4.4": [
+    "All incentives (allowances, cashbacks, rental guarantees, discounts) must be reported."
+  ],
+  "6.4.5": [
+    "Contact if purchase money control is restricted is section 1.11a."
+  ],
+  "6.5.1": [
+    "Contact if vacant possession is not provided is section 1.11a."
+  ],
+  "6.6.1": [
+    "Contact for Buy to Let letting queries is section 1.11a."
+  ],
+  "6.6.2": [
+    "Contact for missing letting details is section 1.11a."
+  ],
+  "6.6.3": [
+    "Tenancy agreement not required; retain on file."
+  ],
+  "6.6.4": [
+    "HMOs accepted with no maximum bedroom limit.",
+    "HMO licence must be in place on or before completion."
+  ],
+  "6.7.1": [
+    "Acceptable warranties: ABC+, Advantage, Aedis, Ark, Build Assure, Build Life Plans, Build Zone, Cadis, Checkmate, Global Home, ICW, LABC, NHBC, One Guarantee, Premier, Protek, Q Assure, Zurich, PCC.",
+    "Warranty criteria: 10-year min term, coverage for communal areas (flats), UK based, min insurer rating S&P A- / Moody's A3 / Fitch A- / A.M. Best B."
+  ],
+  "6.7.2": [
+    "New home warranty documentation not required; retain on file."
+  ],
+  "6.7.3": [
+    "Building standards indemnity assignments not required; retain on file."
+  ],
+  "6.7.4": [
+    "Properties without warranty accepted if professional consultant's certificate (PCC) is provided."
+  ],
+  "6.7.6": [
+    "PCC documentation not required; retain on file."
+  ],
+  "6.8.1": [
+    "Contact for unadopted road/sewer issues is section 1.11a."
+  ],
+  "6.9.1": [
+    "Contact for missing easements is section 1.11a."
+  ],
+  "6.10.2": [
+    "Lender does not hold retentions."
+  ],
+  "6.11.1": [
+    "Contact for redevelopment or road proposals is section 1.11a."
+  ],
+  "6.12.1": [
+    "Contact for resale restrictions/options is section 1.11a."
+  ],
+  "6.13.1": [
+    "Contact for undischarged improvement/repair grants is section 1.11a."
+  ],
+  "7.3": [
+    "Consent to mortgage for occupants 17+ not required for BTL.",
+    "Lettings to borrower's family members are strictly prohibited."
+  ],
+  "7.4": [
+    "Accuracy doubts must be reported to section 1.11a; borrower waives confidentiality upon application."
+  ],
+  "8.1": [
+    "Firm may advise third parties if no conflict of interest exists and documents remain valid."
+  ],
+  "9.1": [
+    "Indemnity insurance policy not required; retain on file."
+  ],
+  "9.2": [
+    "Indemnity limit must equal the mortgage advance amount."
+  ],
+  "10.2a": [
+    "Mortgage advance is paid electronically."
+  ],
+  "10.2b": [
+    "Minimum 5 working days' notice required for funds.",
+    "Funds usually transmitted one working day before completion."
+  ],
+  "10.3": [
+    "Standard deductions are specified in the offer."
+  ],
+  "10.7": [
+    "Delayed completion: Return funds to lender's provided bank details within 5 working days.",
+    "Reference must include borrower name and account number."
+  ],
+  "10.9": [
+    "Contact for delayed completion is section 1.11a."
+  ],
+  "10.10": [
+    "Advance may be held for maximum 5 working days after the COT completion date."
+  ],
+  "10.11": [
+    "Interest on delayed return of funds charged at the mortgage rate."
+  ],
+  "12.3.1": [
+    "Contact for release of instalments is section 1.11a."
+  ],
+  "14.1.4": [
+    "Form CH2 application is required."
+  ],
+  "14.1.5": [
+    "Electronic copies only: Mortgage deed and Office copy of Land Registry entries.",
+    "Limited Companies: Companies House office copies of charges and registration certificate required."
+  ],
+  "14.2.1": [
+    "Send documents to the post-completion contact in section 1.11a."
+  ],
+  "14.2.2": [
+    "Documents required: Electronic mortgage deed, Land Registry office copies, and (for Ltd Co) Companies House registration documents."
+  ],
+  "16.1.1": [
+    "Contact for title documents is section 1.11a."
+  ],
+  "16.3.7a": [
+    "Contact for transfer of equity execution is section 1.11a."
+  ],
+  "16.3.7b": [
+    "Enquire for attestation clause via section 1.11a."
+  ],
+  "16.3.1": [
+    "Lender has no standard form of transfer/deed of covenant."
+  ],
+  "16.3.2": [
+    "Debt amount contact (Domestic): service@colcap.co.uk",
+    "Debt amount contact (International): Completions@colcap.co.uk"
+  ],
+  "16.3.4": [
+    "Retain certified copy of transfer of equity on file."
+  ],
+  "16.4.1": [
+    "Contact for residential consent to let is section 1.11a."
+  ],
+  "16.4.2": [
+    "Proposed tenancy copies for residential should be sent to the post-completion contact in 1.11a."
+  ],
+  "16.5.3a": [
+    "Send Deed of Variation to: Molo Tech Limited, 70 St. Mary Axe, London, EC3A 8BE or service@colcap.co.uk."
+  ],
+  "16.5.3b": [
+    "Send Deed of Rectification to address/email in 16.5.3a."
+  ],
+  "16.5.3c": [
+    "Send Deed of Easement to address/email in 16.5.3a."
+  ],
+  "16.5.3d": [
+    "Send Option Agreements to address/email in 16.5.3a."
+  ],
+  "16.5.2": [
+    "Contact for deed/agreement approval: service@colcap.co.uk or 020 8175 9642."
+  ],
+  "17.1.1": [
+    "Contact for redemption statements: service@colcap.co.uk or 020 8175 9642."
+  ],
+  "17.2.1a": [
+    "Send discharge remittance per the instructions on the redemption statement."
+  ],
+  "17.2.1b": [
+    "Lender uses DS1 Form for discharge."
+  ]
+}

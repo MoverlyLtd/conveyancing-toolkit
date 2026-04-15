@@ -1,0 +1,351 @@
+{
+  "1.11a": [
+    "Contact details are provided in the letter of instruction.",
+    "The bank's reference must be quoted in all correspondence."
+  ],
+  "1.11b": [
+    "Contact details are provided in the letter of instruction.",
+    "The bank's reference must be quoted in all correspondence."
+  ],
+  "1.7": [
+    "The lender will not provide a mortgage where the borrower and mortgagor are different entities."
+  ],
+  "1.14": [
+    "Legal firms may not act if the person handling the transaction or their immediate family is the seller."
+  ],
+  "1.15": [
+    "Legal firms may not act if the person handling the transaction or their immediate family is the borrower."
+  ],
+  "3.1.3": [
+    "Notification of the seller's solicitor's name and address is only required if specifically requested."
+  ],
+  "3.1.4": [
+    "Refer to contact details in the letter of instruction (section 1.11a)."
+  ],
+  "3.1.5": [
+    "Acceptable identity documents are listed at intermediary.co-operativebank.co.uk/help-and-calculators/literature."
+  ],
+  "3.2.3": [
+    "Notification of the seller's solicitor's details is only required upon specific request."
+  ],
+  "3.2.4": [
+    "Refer to contact details in the letter of instruction (section 1.11a)."
+  ],
+  "4.1": [
+    "The lender does not provide the full valuation report to the legal firm.",
+    "Relevant valuer comments are included in the Mortgage Offer."
+  ],
+  "4.3": [
+    "Refer to contact details in the letter of instruction (section 1.11a)."
+  ],
+  "4.5a": [
+    "Refer to contact details in the letter of instruction (section 1.11a)."
+  ],
+  "4.5b": [
+    "Refer to contact details in the letter of instruction (section 1.11a)."
+  ],
+  "5.1.1": [
+    "Lending is prohibited on back-to-back sales and sub-sales where the seller has owned the property for less than 6 months.",
+    "Assignable contracts and irrevocable powers of attorney in favor of intervening sellers are not accepted.",
+    "Sub-sales include cases where a seller acquires freehold/superior leasehold and immediately grants a lease to the borrower."
+  ],
+  "5.2.1": [
+    "Refer to contact details in the letter of instruction (section 1.11a)."
+  ],
+  "5.4.4": [
+    "Environmental or contaminated land reports are only required if requested by the valuer and included as a special condition in the Mortgage Offer.",
+    "Report concerns using contact details in section 1.11a."
+  ],
+  "5.4.5": [
+    "Personal searches are only accepted from firms registered under The Search Code and monitored by the Property Codes Compliance Board."
+  ],
+  "5.4.6": [
+    "Search insurance is accepted if it protects the lender and allows an unqualified Certificate of Title.",
+    "The policy must cover successors in title and be readily assignable.",
+    "Insurance provider and policy number must be confirmed in the Certificate of Title.",
+    "Search insurance is not accepted in lieu of Land Registry searches.",
+    "Borrowers must be advised of the risks of using search insurance in lieu of local authority searches for purchases."
+  ],
+  "5.5.3a": [
+    "Refer to contact details in the letter of instruction (section 1.11a)."
+  ],
+  "5.5.3b": [
+    "Planning permission documents should be forwarded to the borrower, not the lender."
+  ],
+  "5.5.3c": [
+    "Building regulation consents should be forwarded to the borrower, not the lender."
+  ],
+  "5.5.3d": [
+    "Certificates of lawful use or development should be forwarded to the borrower, not the lender."
+  ],
+  "5.5.4": [
+    "Refer to contact details in the letter of instruction (section 1.11a)."
+  ],
+  "5.7.1a": [
+    "Flying freeholds are acceptable if they affect no more than 15% of the property."
+  ],
+  "5.7.1b": [
+    "Freehold flats are not accepted as security."
+  ],
+  "5.7.1c": [
+    "Refer to contact details in the letter of instruction (section 1.11a)."
+  ],
+  "5.8.1": [
+    "Converted buildings with up to four flats are accepted if the borrower occupies one flat with a separate leasehold title.",
+    "If the borrower also owns the freehold, the lender requires security over the freehold title as well."
+  ],
+  "5.8.5": [
+    "For arrangements where two leaseholders own each other's freehold reversions, the lender requires a charge over both the leasehold interest and the freehold reversion held by the borrower."
+  ],
+  "5.9.1": [
+    "Commonhold title is not accepted."
+  ],
+  "5.10.1": [
+    "Refer to contact details in the letter of instruction (section 1.11a)."
+  ],
+  "5.13.1": [
+    "Refer to contact details in the letter of instruction (section 1.11a) regarding non-borrower funds or second charges."
+  ],
+  "5.14.1": [
+    "Minimum unexpired lease term is 85 years from completion.",
+    "Help to Buy Shared Equity scheme requirements: 250 years for houses, 125 years for flats.",
+    "Help to Buy ground rent must be linked to RPI or similar index and remain reasonable."
+  ],
+  "5.14.9": [
+    "Ground rent must not exceed 0.1% of the property's market value; 0.2% may be accepted subject to review.",
+    "Unreasonable multipliers (e.g., doubling every 5, 10, 15, or 20 years) or onerous provisions are prohibited.",
+    "Ground rent linked to RPI or similar index is acceptable without reporting."
+  ],
+  "5.14.10": [
+    "Refer to contact details in the letter of instruction (section 1.11a)."
+  ],
+  "5.14.11": [
+    "Indemnity insurance is accepted for lease defects if a Deed of Variation is not possible and the Certificate of Title is unqualified."
+  ],
+  "5.14.12": [
+    "Ground rent or service charge receipts do not need to be sent to the lender."
+  ],
+  "5.14.13": [
+    "Evidence of service of notice does not need to be sent to the lender."
+  ],
+  "5.14.15a": [
+    "Refer to contact details in the letter of instruction (section 1.11a)."
+  ],
+  "5.14.15b": [
+    "Indemnity insurance is accepted for absent or insolvent landlords subject to standard requirements."
+  ],
+  "5.14.17a": [
+    "Building safety documentation does not need to be sent to the lender."
+  ],
+  "5.14.17b": [
+    "BSA 2022 instructions are disregarded if: building <11m, <5 storeys, no cladding issues, or EWS1 rating is A1, A2, or B1.",
+    "EWS1 is not required for buildings constructed after 1 January 2020 if planning/building regs are present.",
+    "Lender must be notified if valuer assumptions on remediation are incorrect or if property needs remediation.",
+    "Lender must be notified if current owner is a non-qualifying leaseholder or if remediation costs are anticipated for the leaseholder."
+  ],
+  "5.14.17c": [
+    "Building safety instructions apply to remortgages."
+  ],
+  "5.15.2a": [
+    "Estate rent charges are acceptable if: LPA 1925 Section 121 is excluded, OR a mortgagee protection clause provides 28 days' notice before enforcement, OR the rent charge owner is a residents' management company.",
+    "If 28 days' notice is the only protection, an indemnity policy should be considered."
+  ],
+  "5.15.2b": [
+    "Management company share certificates do not need to be sent to the lender."
+  ],
+  "5.15.2c": [
+    "Stock transfer forms do not need to be sent to the lender."
+  ],
+  "5.15.2d": [
+    "Memorandum and articles of association do not need to be sent to the lender."
+  ],
+  "5.16.2": [
+    "Refer to contact details in the letter of instruction (section 1.11a)."
+  ],
+  "5.17.5a": [
+    "Power of Attorney should be sent after completion to be placed with title deeds."
+  ],
+  "5.17.5b": [
+    "Statutory declaration of non-revocation should be sent after completion to be placed with title deeds."
+  ],
+  "5.19.1": [
+    "The lender does not lend on affordable housing, shared equity, or shared ownership."
+  ],
+  "5.20.1": [
+    "Defects in solar PV roof space leases must be reported.",
+    "The lender requires an unconditional right to break the solar lease upon taking possession."
+  ],
+  "5.20.3": [
+    "An unconditional right to break the solar PV lease in the event of possession is required."
+  ],
+  "5.20.4": [
+    "Details of any existing Green Deal Plans must be disclosed."
+  ],
+  "6.1.3": [
+    "Refer to contact details in the letter of instruction (section 1.11a)."
+  ],
+  "6.2.1": [
+    "Refer to contact details in the letter of instruction (section 1.11a)."
+  ],
+  "6.3.1": [
+    "Refer to contact details in the letter of instruction (section 1.11a)."
+  ],
+  "6.4.4": [
+    "All incentives must be reported as early as possible."
+  ],
+  "6.4.5": [
+    "Refer to contact details in the letter of instruction (section 1.11a)."
+  ],
+  "6.5.1": [
+    "Refer to contact details in the letter of instruction (section 1.11a)."
+  ],
+  "6.6.1": [
+    "Refer to contact details in the letter of instruction (section 1.11a)."
+  ],
+  "6.6.2": [
+    "Refer to contact details in the letter of instruction (section 1.11a)."
+  ],
+  "6.6.3": [
+    "Tenancy agreements do not need to be sent to the lender."
+  ],
+  "6.6.4": [
+    "Lending on Houses in Multiple Occupation (HMO) is not permitted."
+  ],
+  "6.7.1": [
+    "Acceptable warranty schemes: ABC+, Advantage, ARK, Build Assure, Build Zone, BLP, CADIS, Checkmate, FMB, Global Home Warranties, HomeProof, ICW, LABC, NHBC, One Guarantee, Premier Guarantee, Protek, Q Assure."
+  ],
+  "6.7.2": [
+    "Warranty documentation should be sent after completion to the Manchester office address."
+  ],
+  "6.7.3": [
+    "Assignments of building standards indemnity schemes should be kept by the borrower."
+  ],
+  "6.7.4": [
+    "Properties without a warranty are accepted if monitored by a qualified professional from the start.",
+    "Professional Consultant's Certificates (PCC) are only accepted for developments of 10 or fewer properties.",
+    "The PCC must follow the UK Finance template without amendments.",
+    "Retrospective certificates are not accepted."
+  ],
+  "6.7.6": [
+    "Professional Consultant's Certificates should be retained by the borrower."
+  ],
+  "6.8.1": [
+    "Refer to contact details in the letter of instruction (section 1.11a)."
+  ],
+  "6.9.1": [
+    "Refer to contact details in the letter of instruction (section 1.11a)."
+  ],
+  "6.10.2": [
+    "Retentions or installments are released directly to the borrower unless the Mortgage Offer states otherwise."
+  ],
+  "6.11.1": [
+    "Refer to contact details in the letter of instruction (section 1.11a)."
+  ],
+  "6.12.1": [
+    "Refer to contact details in the letter of instruction (section 1.11a)."
+  ],
+  "6.13.1": [
+    "Refer to contact details in the letter of instruction (section 1.11a)."
+  ],
+  "7.3": [
+    "Consent to mortgage must be obtained from all occupants aged 17 or over."
+  ],
+  "7.4": [
+    "Refer to contact details in the letter of instruction (section 1.11a)."
+  ],
+  "8.1": [
+    "Advice may be given to third parties if no conflict of interest exists and the document remains legally robust."
+  ],
+  "9.1": [
+    "Indemnity insurance policies must be sent to the lender after completion for storage with the deeds."
+  ],
+  "9.2": [
+    "The limit of indemnity must be at least 110% of the mortgage advance."
+  ],
+  "10.2a": [
+    "Mortgage advances are paid electronically."
+  ],
+  "10.2b": [
+    "A minimum of five working days' notice is required for funds."
+  ],
+  "10.3": [
+    "Deductions from the advance are limited to those specified in the Mortgage Offer."
+  ],
+  "10.7": [
+    "If completion is delayed, funds must be returned via CHAPS within 3 working days.",
+    "Interest at the rate specified in the Mortgage Offer must be included with the return."
+  ],
+  "10.9": [
+    "Refer to contact details in the letter of instruction (section 1.11a)."
+  ],
+  "10.10": [
+    "Advance funds may be held for a maximum of three working days."
+  ],
+  "10.11": [
+    "Interest on delayed returns is charged at the rate specified in the Mortgage Offer."
+  ],
+  "12.3.1": [
+    "Refer to contact details in the letter of instruction (section 1.11a)."
+  ],
+  "14.1.4": [
+    "Form CH2 application is not required."
+  ],
+  "14.1.5": [
+    "Original mortgage deeds should be retained by the legal firm for e-Document registration applications."
+  ],
+  "14.2.1": [
+    "Deeds and documents must be sent to: The Co-operative Bank, Mortgages, 1 Balloon Street, Manchester M4 4BE."
+  ],
+  "14.2.2": [
+    "Post-completion documents required: TID, Occupier's Deed of Consent, Indemnity policy schedule, Power of Attorney/Statutory Declaration, Warranty certificate, Deed of Priority, and Receipted Notice of Assignment."
+  ],
+  "16.1.1": [
+    "Title document requests: The Co-operative Bank, Mortgages, 1 Balloon Street, Manchester M4 4BE (quote account number)."
+  ],
+  "16.3.1": [
+    "The lender does not have a standard form for transfer or deed of covenant."
+  ],
+  "16.3.2": [
+    "Refer to the Transfer of Equity Letter of Instructions for debt amount details."
+  ],
+  "16.3.4": [
+    "The transfer of equity only needs to be sent if the lender's signature is required."
+  ],
+  "16.3.7a": [
+    "Contact details for execution of transfer are provided in the Transfer of Equity Letter of Instructions."
+  ],
+  "16.3.7b": [
+    "The lender uses a specific attestation clause for execution by an appointed attorney of The Co-operative Bank p.l.c."
+  ],
+  "16.4.1": [
+    "Applications for consent to let should be sent to: The Co-operative Bank, Mortgages, 1 Balloon Street, Manchester M4 4BE."
+  ],
+  "16.4.2": [
+    "Proposed tenancy requirements are contained in the lender's lettings pack."
+  ],
+  "16.5.2": [
+    "Deed preparation and safety confirmation should be sent to: The Co-operative Bank, Mortgages, 1 Balloon Street, Manchester M4 4BE."
+  ],
+  "16.5.3a": [
+    "Deeds of variation should be sent to: The Co-operative Bank, Newton House, Cheadle Road, Leek, Staffordshire ST13 5RL."
+  ],
+  "16.5.3b": [
+    "Deeds of rectification should be sent to: The Co-operative Bank, Newton House, Cheadle Road, Leek, Staffordshire ST13 5RL."
+  ],
+  "16.5.3c": [
+    "Deeds of easement should be sent to: The Co-operative Bank, Newton House, Cheadle Road, Leek, Staffordshire ST13 5RL."
+  ],
+  "16.5.3d": [
+    "Option agreements should be sent to: The Co-operative Bank, Newton House, Cheadle Road, Leek, Staffordshire ST13 5RL."
+  ],
+  "17.1.1": [
+    "Redemption statement requests: The Co-operative Bank, Mortgages, 1 Balloon Street, Manchester M4 4BE."
+  ],
+  "17.2.1a": [
+    "Discharge and repayment remittance: The Co-operative Bank, Mortgages, 1 Balloon Street, Manchester M4 4BE."
+  ],
+  "17.2.1b": [
+    "Discharge is handled directly with the Land Registry via electronic discharge or EDS1.",
+    "The title number and charge date must be provided when sending repayment."
+  ]
+}

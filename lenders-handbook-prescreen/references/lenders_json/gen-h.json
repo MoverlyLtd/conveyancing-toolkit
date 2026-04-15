@@ -1,0 +1,363 @@
+{
+  "1.11a": [
+    "Instructions must be accessed via LMS Conveyancer Zone website",
+    "Mortgage offer and supporting documents are included in the instruction",
+    "Queries must be raised through Secure Link via LMS Conveyancer Zone or via email at conveyancing@generationhome.com"
+  ],
+  "1.11b": [
+    "Refer to contact details and procedures in 1.11a"
+  ],
+  "1.7": [
+    "Lending to non-owner mortgagors is permitted in certain circumstances",
+    "Enquiries must be sent via Secure Link (LMS) or conveyancing@generationhome.com"
+  ],
+  "1.14": [
+    "A firm cannot act if the fee earner or their immediate family is the seller",
+    "A firm may act if a separate fee earner or partner represents the seller and no conflict of interest exists"
+  ],
+  "1.15": [
+    "A firm cannot act if the fee earner or their immediate family is the borrower",
+    "A firm may act if a separate fee earner or partner represents the borrower and the lender, provided no conflict of interest exists"
+  ],
+  "3.1.3": [
+    "Notification of the seller's legal representative's details is not required unless the firm is not registered with a regulatory body"
+  ],
+  "3.1.4": [
+    "Notify the lender via the contact details in 1.11a if the seller is unrepresented",
+    "Lender will not proceed if the seller does not have legal representation"
+  ],
+  "3.1.5": [
+    "No alternative documents are accepted for identity verification"
+  ],
+  "3.2.3": [
+    "Notification of the seller's legal representative's details is not required unless the firm is not registered with a regulatory body"
+  ],
+  "3.2.4": [
+    "Notify the lender via the contact details in 1.11a if the seller is unrepresented",
+    "Lender will not proceed if the seller does not have legal representation"
+  ],
+  "4.1": [
+    "A valuation report is provided with the offer only if a physical or desktop valuation was performed"
+  ],
+  "4.3": [
+    "Report incorrect valuation assumptions via Secure Link in LMS Conveyancer Zone"
+  ],
+  "4.5a": [
+    "Submit re-inspection requests via Secure Link in LMS Conveyancer Zone"
+  ],
+  "4.5b": [
+    "Certificate of title link is provided within the mortgage offer",
+    "Submission issues must be reported via Secure Link (LMS) or conveyancing@generationhome.com"
+  ],
+  "5.1.1": [
+    "Report if seller has owned property for less than 6 months via Secure Link (LMS)"
+  ],
+  "5.2.1": [
+    "Report if seller is not the registered proprietor via Secure Link (LMS)"
+  ],
+  "5.4.4": [
+    "Do not send environmental or contaminated land reports unless essential to report an adverse entry",
+    "Borrower must disclose entries to insurer; insurance must be on standard terms without onerous exclusions"
+  ],
+  "5.4.5": [
+    "Personal searches are accepted if the agent has professional indemnity insurance and belongs to a trade body adhering to The Property Ombudsman scheme"
+  ],
+  "5.4.6": [
+    "Search validation indemnity insurance is accepted if searches are 6-12 months old and recommended by the conveyancer",
+    "No-search indemnity insurance is accepted for remortgages if recommended by the conveyancer",
+    "Indemnity limit must equal or exceed the property value"
+  ],
+  "5.5.3a": [
+    "Report planning breaches or unsatisfied conditions via Secure Link (LMS)"
+  ],
+  "5.5.3b": [
+    "Original or copy planning permissions are not required"
+  ],
+  "5.5.3c": [
+    "Original or copy building regulation consents are not required"
+  ],
+  "5.5.3d": [
+    "Certificates of lawful use or development are not required"
+  ],
+  "5.5.4": [
+    "Report restrictions affecting marketability or value via Secure Link (LMS)"
+  ],
+  "5.7.1a": [
+    "Flying freeholds are accepted at lender discretion if they represent less than 20% of total floor area and are common in the local area",
+    "Notify lender via Secure Link (LMS)"
+  ],
+  "5.7.1b": [
+    "Lender does not lend on freehold flats"
+  ],
+  "5.7.1c": [
+    "Report flying freehold or freehold flat titles via Secure Link (LMS)"
+  ],
+  "5.8.1": [
+    "Share of freehold is accepted for buildings with up to four flats if the freehold is split equally between dwellings"
+  ],
+  "5.8.5": [
+    "Security comprising one of two leasehold flats where owners cross-hold freehold reversions is accepted if all units have long leases"
+  ],
+  "5.9.1": [
+    "Commonhold titles are not accepted"
+  ],
+  "5.10.1": [
+    "Report restrictions on use via Secure Link (LMS)"
+  ],
+  "5.13.1": [
+    "Report second charges or non-standard funding of purchase balance via Secure Link (LMS)",
+    "Deposits from unsecured credit or personal borrowing are not accepted",
+    "Gifted deposits from relatives (per Family Law Act Section 63) are discretionary",
+    "Conveyancer must report donor name, relationship, amount, and occupancy status",
+    "Gifts from cohabitees of the borrower or cohabitees of family members require specific written instruction",
+    "Conveyancer must retain a signed donor letter confirming the gift is non-repayable, unconditional, and grants no interest in the property",
+    "Bankruptcy searches are required for all parties contributing to the purchase balance",
+    "Lender does not consent to second charges"
+  ],
+  "5.14.1": [
+    "Minimum unexpired lease term: 85 years at mortgage commencement and 50 years remaining at end of term"
+  ],
+  "5.14.9": [
+    "For new leases under Leasehold Reform Act 2022, ground rent must be maximum one peppercorn per year",
+    "Ground rent escalation linked to RPI or similar index is acceptable without referral",
+    "Refer to lender if ground rent review period is less than 10 years",
+    "Refer to lender if ground rent doubles in less than 20 years",
+    "Refer to lender if ground rent exceeds 0.1% of property value",
+    "Refer to lender if ground rent is linked to Open Market Value"
+  ],
+  "5.14.10": [
+    "Report service charges exceeding 1% of property value or significant planned increases via Secure Link (LMS)"
+  ],
+  "5.14.11": [
+    "Unsatisfactory lease terms should be varied with the landlord",
+    "Indemnity insurance for lease terms is discretionary and requires referral via 1.11a"
+  ],
+  "5.14.12": [
+    "Ground rent or service charge receipts are not required"
+  ],
+  "5.14.13": [
+    "Notice of service evidence is not required"
+  ],
+  "5.14.15a": [
+    "Report absentee or insolvent landlords via Secure Link (LMS)"
+  ],
+  "5.14.15b": [
+    "Indemnity insurance for absentee/insolvent landlords is acceptable for leasehold properties with 6 or fewer flats",
+    "Absentee/insolvent landlords are not acceptable if the building contains 7 or more flats"
+  ],
+  "5.14.17a": [
+    "Require documentation specified in section 14.2.2"
+  ],
+  "5.14.17b": [
+    "Report incorrect Building Safety Act 2022 remediation assumptions or unidentified remediation needs before submitting Certificate of Title"
+  ],
+  "5.14.17c": [
+    "For remortgages, report incorrect Building Safety Act 2022 assumptions or remediation needs before submitting Certificate of Title"
+  ],
+  "5.15.2a": [
+    "Historic rent charges under £200/year uncollected for 12+ years are acceptable; otherwise, indemnity insurance is required",
+    "Collected rent charges are acceptable if statutory remedies under LPA S121 are excluded, or the residents own the management company, or a 2-month mortgagee notification clause exists"
+  ],
+  "5.15.2b": [
+    "Management company share certificates are not required"
+  ],
+  "5.15.2c": [
+    "Signed blank stock transfer forms are not required"
+  ],
+  "5.15.2d": [
+    "Management company memorandum and articles of association are not required"
+  ],
+  "5.16.2": [
+    "Contact lender via 1.11a if unable to certify search entry non-relation"
+  ],
+  "5.17.5a": [
+    "Notify lender via 1.11a if a Power of Attorney is being used"
+  ],
+  "5.17.5b": [
+    "Notify lender via 1.11a if a Statutory Declaration of non-revocation of Power of Attorney exists"
+  ],
+  "5.19.1": [
+    "Notify lender via 1.11a for affordable housing, shared equity, or shared ownership",
+    "Lending usually limited to cases where borrower owns 100% at completion"
+  ],
+  "5.20.1": [
+    "Report solar panel roof space leases not meeting UK Finance minimum requirements via 1.11a"
+  ],
+  "5.20.3": [
+    "Solar PV roof leases must meet UKF minimum standards; case cannot proceed if standard is not met and lease cannot be varied",
+    "Lender does not require a copy of the lease"
+  ],
+  "5.20.4": [
+    "Disclose Green Deal plans via 1.11a, including work details, balance, payments, term, guarantees, and EPC"
+  ],
+  "6.1.3": [
+    "Notify lender via 1.11a if borrower does not proceed with offer"
+  ],
+  "6.2.1": [
+    "Report property description discrepancies via 1.11a"
+  ],
+  "6.3.1": [
+    "Report purchase price issues via 1.11a"
+  ],
+  "6.4.4": [
+    "Notify lender of incentives not in instructions or valuation via Secure Link (LMS)",
+    "Provide UK Finance Disclosure of Incentives Form only if different from the version in the valuation"
+  ],
+  "6.4.5": [
+    "Report if firm lacks control over all purchase money via 1.11a"
+  ],
+  "6.5.1": [
+    "Report if vacant possession is not provided via 1.11a"
+  ],
+  "6.6.1": [
+    "Lender does not consent to letting on residential mortgages"
+  ],
+  "6.6.2": [
+    "Lender does not consent to letting on residential mortgages"
+  ],
+  "6.6.3": [
+    "Tenancy agreements are not required"
+  ],
+  "6.6.4": [
+    "Lender does not lend on Houses in Multiple Occupation (HMO)"
+  ],
+  "6.7.1": [
+    "Accepted 10-year warranties: NHBC, Zurich Municipal (Newbuild/Rebuild), Premier Guarantee, Build Assure (FMB), Building Life Plans, Buildzone, LABC Warranty, ICW, One Guarantee, Castle Ten/Checkmate, Global Home Warranties, Protek, Q Assure, Advantage HCI"
+  ],
+  "6.7.2": [
+    "Send full warranty documents after completion as per section 14.2.2"
+  ],
+  "6.7.3": [
+    "Send building standards indemnity assignments after completion as per section 14.2.2"
+  ],
+  "6.7.4": [
+    "Properties without a listed warranty or Professional Consultant's Certificate (PCC) require reporting via Secure Link (LMS)"
+  ],
+  "6.7.6": [
+    "PCC must be in standard UK Finance format",
+    "Supply PCC after completion as per section 14.2.2"
+  ],
+  "6.8.1": [
+    "Report unadopted roads/sewers without agreement/bond via 1.11a",
+    "Transfer/lease must include developer maintenance covenants and adoption obligations",
+    "Private drainage must be within boundaries or have formal rights, and comply with General Binding Rules"
+  ],
+  "6.9.1": [
+    "Report absent necessary easements via 1.11a"
+  ],
+  "6.10.2": [
+    "Lender does not agree to retentions or phased fund releases"
+  ],
+  "6.11.1": [
+    "Report redevelopment or road proposals via 1.11a"
+  ],
+  "6.12.1": [
+    "Report pre-emption rights, resale restrictions, or options via 1.11a"
+  ],
+  "6.13.1": [
+    "Report undischarged improvement or repair grants via 1.11a"
+  ],
+  "7.3": [
+    "Signed Deed of Consent and Postponement required for all occupants aged 17+",
+    "Form must be provided prior to submission of Certificate of Title",
+    "Independent Legal Advice (ILA) documentation for occupiers is sent directly to the occupier's solicitor"
+  ],
+  "7.4": [
+    "Report doubts about accuracy of information via 1.11a"
+  ],
+  "8.1": [
+    "Firm may only advise third parties if a separate fee earner does so and no conflict of interest exists"
+  ],
+  "9.1": [
+    "Include indemnity policy details in Certificate of Title",
+    "Do not send policy documents to lender; provide them to the borrower"
+  ],
+  "9.2": [
+    "Indemnity limit must equal property value unless otherwise agreed in writing"
+  ],
+  "10.2a": [
+    "Advance paid via CHAPS on the working day before the completion date"
+  ],
+  "10.2b": [
+    "Minimum notice for advance: 5 clear working days"
+  ],
+  "10.3": [
+    "Standard deductions are detailed in the mortgage offer"
+  ],
+  "10.7": [
+    "Delayed completion requires a new Certificate of Title",
+    "Funds must be returned via CHAPS within one working day of scheduled completion",
+    "Notify lender via Secure Link (LMS) once funds are returned"
+  ],
+  "10.9": [
+    "Notify lender of delays via Secure Link (LMS); submit new Certificate of Title"
+  ],
+  "10.10": [
+    "Funds must be returned within one working day if completion is delayed"
+  ],
+  "10.11": [
+    "Interest is charged at the mortgage rate from the date of release until funds are recredited to the lender's account"
+  ],
+  "12.3.1": [
+    "Lender does not agree to retentions or phased fund releases"
+  ],
+  "14.1.4": [
+    "Lender does not require Form CH2 applications; no obligation for further advances"
+  ],
+  "14.1.5": [
+    "Do not send original mortgage deeds",
+    "Certified copies must be uploaded via LMS within 7 working days of completion",
+    "Electronic execution per Land Registry Practice Guide 82 is accepted"
+  ],
+  "14.2.1": [
+    "Registration and post-completion documents must be sent via LMS Conveyancer Zone"
+  ],
+  "14.2.2": [
+    "Required post-completion documents (within 7 working days): Certified copy Mortgage Deed, Deposit Booster Agreement, Home Agreement, Power of Attorney/Statutory Declaration, Occupier's Consent and Postponement Deed, New Build Warranty/PCC, Official Copy of Title Register"
+  ],
+  "16.1.1": [
+    "Refer to 1.11a for title document contact details"
+  ],
+  "16.3.1": [
+    "Lender has no standard form of transfer or deed of covenant"
+  ],
+  "16.3.2": [
+    "Redemption debt amounts: redemptions@generationhome.com"
+  ],
+  "16.3.4": [
+    "Transfer of equity document does not need to be sent"
+  ],
+  "16.3.7b": [
+    "Attestation clause: Executed as a Deed for and on behalf of Imagine Mortgages Limited by a duly authorised signatory"
+  ],
+  "16.4.1": [
+    "Applications for consent to let: hello@generationhome.com"
+  ],
+  "16.4.2": [
+    "Tenancy applications: hello@generationhome.com"
+  ],
+  "16.5.2": [
+    "Confirm impact of deeds/agreements via Secure Link (LMS) or conveyancing@generationhome.com"
+  ],
+  "16.5.3a": [
+    "Send deeds of variation via Secure Link (LMS) or conveyancing@generationhome.com"
+  ],
+  "16.5.3b": [
+    "Send deeds of rectification via Secure Link (LMS) or conveyancing@generationhome.com"
+  ],
+  "16.5.3c": [
+    "Send deeds of easement via Secure Link (LMS) or conveyancing@generationhome.com"
+  ],
+  "16.5.3d": [
+    "Send option agreements via Secure Link (LMS) or conveyancing@generationhome.com"
+  ],
+  "17.1.1": [
+    "Redemption statements: redemptions@generationhome.com"
+  ],
+  "17.2.1a": [
+    "Discharge and remittance instructions are provided in the redemption statement"
+  ],
+  "17.2.1b": [
+    "Lender issues electronic DS1 to HM Land Registry; conveyancer does not need to request discharge"
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "1.11a": [
+    "Contact via LMS portal for managed cases.",
+    "For non-LMS cases, refer to the address and telephone number on the first page of the mortgage offer."
+  ],
+  "1.11b": [
+    "Contact via LMS portal for managed cases.",
+    "For non-LMS cases, refer to the contact details on the first page of the mortgage offer."
+  ],
+  "1.7": [
+    "Contact via LMS portal for managed cases or details on the first page of the offer.",
+    "No contact is required for First Start mortgages if permitted under offer conditions."
+  ],
+  "1.14": [
+    "Firm may act if a member of the firm or their family is the seller provided a separate fee earner of no less standing deals with the transaction and has no relation to the seller."
+  ],
+  "1.15": [
+    "Firm may act if a member of the firm or their family is the borrower provided a separate fee earner of no less standing deals with the transaction and has no relation to the borrower."
+  ],
+  "3.1.3": [
+    "Notify the Case Manager in writing of the seller's solicitors or licensed conveyancers firm's name and address."
+  ],
+  "3.1.4": [
+    "Notification only required if there is a family or business connection between buyer and seller involving a gift or undervalue sale.",
+    "Use LMS portal or contact details on the first page of the offer."
+  ],
+  "3.1.5": [
+    "No other identity verification documents are acceptable."
+  ],
+  "3.2.3": [
+    "Notify the Case Manager in writing of the seller's legal representative's name and address."
+  ],
+  "3.2.4": [
+    "Contact is only necessary for family/business connections involving gifts or undervalue sales.",
+    "Use LMS portal or contact details on the offer."
+  ],
+  "4.1": [
+    "Lender does not provide a copy of the valuation report to the conveyancer.",
+    "Conveyancers should use information in the mortgage offer for required property checks."
+  ],
+  "4.5b": [
+    "Submit Certificate of Title via LMS portal for managed cases.",
+    "For non-LMS cases, send to the contact details on the front page of the offer."
+  ],
+  "5.4.4": [
+    "Only send environmental or contaminated land reports if prompted by entries in the Local Authority search."
+  ],
+  "5.4.5": [
+    "Personal searches must be performed by firms registered under The Search Code and monitored by the Property Codes Compliance Board."
+  ],
+  "5.4.6": [
+    "For remortgages up to £1 million: No Local Authority search or search insurance required; lender procures own indemnity policy.",
+    "For remortgages up to £1 million: Mining, Cheshire Brine, or commons registration searches are not mandatory but recommended.",
+    "For purchases: Search insurance is accepted provided the conveyancer provides an unqualified certificate of title."
+  ],
+  "5.5.3b": [
+    "Original or copy of planning permission is not required."
+  ],
+  "5.5.3c": [
+    "Original or copy of building regulation consents is not required."
+  ],
+  "5.5.3d": [
+    "Certificates of lawful use or development are not required."
+  ],
+  "5.7.1a": [
+    "Lending on flying freeholds is permitted if it only affects part of the property.",
+    "Conveyancer must report the extent and specific accommodation within the flying freehold."
+  ],
+  "5.7.1b": [
+    "Lending on freehold flats is not permitted."
+  ],
+  "5.8.1": [
+    "A first charge is required on the freehold title if it is wholly owned by the borrower, even if the primary security is leasehold."
+  ],
+  "5.8.5": [
+    "Lender requires a first charge on both leasehold and freehold interests for reciprocal leasehold/freehold arrangements."
+  ],
+  "5.9.1": [
+    "Commonhold title is acceptable security."
+  ],
+  "5.13.1": [
+    "Report if borrower is not providing the balance of purchase price or proposes a second charge via 1.11 contact points."
+  ],
+  "5.14.1": [
+    "Minimum lease term is 85 years.",
+    "Unexpired lease term must be at least the mortgage term plus 45 years."
+  ],
+  "5.14.9": [
+    "Initial ground rent must not exceed 0.1% of property value or £500 per annum, whichever is higher.",
+    "Ground rent escalation linked to RPI or similar index is acceptable without referral.",
+    "Multipliers that double every 5, 10, or 15 years are considered unreasonable and must be referred to the lender.",
+    "Leases must be amended if they do not comply with these ground rent criteria."
+  ],
+  "5.14.11": [
+    "Indemnity insurance is accepted for lease defects where a Deed of Variation is not possible, subject to standard Part 1 requirements."
+  ],
+  "5.14.12": [
+    "Ground rent/service charge receipts should not be sent to the lender but must be obtained by the conveyancer before completion."
+  ],
+  "5.14.13": [
+    "Receipted copy of notice or evidence of service must be kept with the title deeds after completion."
+  ],
+  "5.14.15b": [
+    "Indemnity insurance for absentee/insolvent landlords is only accepted if it covers failure to insure or repair common parts and services."
+  ],
+  "5.14.17b": [
+    "Conveyancer must confirm building safety documentation complies with the Building Safety Act 2022."
+  ],
+  "5.14.17c": [
+    "Conveyancer must confirm building safety documentation complies with the Building Safety Act 2022 for remortgages."
+  ],
+  "5.15.2b": [
+    "Management company share certificate must be kept with the title deeds after completion."
+  ],
+  "5.15.2c": [
+    "Signed blank stock transfer form must be kept with the title deeds after completion."
+  ],
+  "5.15.2d": [
+    "Management company memorandum and articles of association must be kept with the title deeds after completion."
+  ],
+  "5.17.5a": [
+    "Power of Attorney documentation must be kept with the title deeds after completion."
+  ],
+  "5.17.5b": [
+    "Statutory declaration of non-revocation of power of attorney must be kept with the title deeds after completion."
+  ],
+  "5.19.1": [
+    "Shared ownership lending is not permitted.",
+    "Affordable housing and shared equity schemes require referral for consideration."
+  ],
+  "5.20.1": [
+    "Report if the lease does not meet UK Finance minimum requirements for solar PV panel roof space leases."
+  ],
+  "5.20.4": [
+    "Disclose details of any existing Green Deal Plans."
+  ],
+  "6.4.4": [
+    "Disclosure of Incentives Form is required.",
+    "Subsequent changes to incentives must be reported unless they fall under the 9 July 2020 stamp duty incentive exception.",
+    "Exceptions for pre-July 2020 apps: Cash instead of stamp duty is allowed if ≤5% of purchase price and ≤original stamp duty incentive value."
+  ],
+  "6.6.3": [
+    "Counterpart or certified copy of the tenancy agreement must be kept with the title deeds after completion."
+  ],
+  "6.6.4": [
+    "HMO lending requires written consent.",
+    "Lending is prohibited if: 5+ adults occupy, multiple tenancy agreements exist, or mandatory/additional licensing applies."
+  ],
+  "6.7.1": [
+    "Acceptable schemes: NHBC, Zurich Municipal, LABC, Build-Zone, Premier Guarantee (cover ≥ market value/insurance figure), Building Life Plan (with contaminated land/health & safety cover), Castle 10 from Checkmate (including outbuildings), The Q Policy, CRL, ICW, Protek, Advantage HCI, Aedis Warranties Limited, Global Home Warranty."
+  ],
+  "6.7.3": [
+    "Building standards indemnity scheme assignments must be kept with the title deeds after completion."
+  ],
+  "6.7.4": [
+    "Professional Consultants Certificate is required if no new home warranty is available."
+  ],
+  "6.7.6": [
+    "Professional consultant's certificate must be kept with the title deeds after completion."
+  ],
+  "6.10.2": [
+    "The lender no longer makes retentions from mortgage advances."
+  ],
+  "7.3": [
+    "Consent from all occupants aged 17+ is required, except for Buy to Let offers with assured shorthold tenants."
+  ],
+  "8.1": [
+    "Conveyancer may not advise the borrower if they have a First Start mortgage offer unless special conditions are met.",
+    "May not advise any other specified third parties except those in bullet point 3."
+  ],
+  "9.1": [
+    "Indemnity insurance policies must be kept with the title deeds after completion."
+  ],
+  "9.2": [
+    "Indemnity insurance limit must be at least the market value of the property."
+  ],
+  "10.2a": [
+    "Advance is paid electronically; a £15 fee is deducted."
+  ],
+  "10.2b": [
+    "Minimum 3 working days notice required for the advance.",
+    "Additional 5 working days notice required if a final inspection is needed."
+  ],
+  "10.7": [
+    "Delayed completion: Advance must be returned via telegraphic transfer within 1 working day.",
+    "Return to the bank account on page 2 of the Certificate of Title quoting the mortgage account number."
+  ],
+  "10.11": [
+    "The lender may charge interest at the mortgage rate if the return of the advance is delayed."
+  ],
+  "14.1.4": [
+    "Form CH2 required only for stage releases, retentions, deferred interest, or instalment loans."
+  ],
+  "14.2.1": [
+    "LMS managed: registration documents/delays managed via LMS system.",
+    "Non-LMS cases: Send to Mortgage Services Department, Securities Section, Bank of Ireland UK, PO Box 3191, One Temple Quay, Bristol, BS1 9HY (DX 98850 Bristol 2)."
+  ],
+  "14.2.2": [
+    "Documents to upload for LMS: Priority Notice (OS1/OS2/K17), Registration confirmation (AP1/receipt), Official Copy of Register.",
+    "Delays over 30 days must be reported to LMS every 30 days.",
+    "Documents to keep/send: Professional Consultant’s Certificate, Indemnity policy, Power of Attorney, First Start Mortgage Deed, BTL Tenancy Agreement, Receipted Notice of Transfer/Mortgage, Management Company documentation."
+  ],
+  "16.1.1": [
+    "Contact Mortgage Services Department, Bristol: 0345 602 7056 or DX 98850 Bristol 2."
+  ],
+  "16.3.7b": [
+    "Attestation clause: 'THE COMMON SEAL OF BANK OF IRELAND (UK) PLC was affixed hereto by authority of the Directors:'"
+  ],
+  "16.4.1": [
+    "Contact for consent to let: Mortgage Services Department (0345 602 7056).",
+    "Buy to Let mortgages: refer to offer special conditions."
+  ],
+  "16.4.2": [
+    "Proposed tenancy agreement must be sent to the lender, unless it is a Buy to Let complying with offer conditions."
+  ],
+  "17.2.1b": [
+    "Discharge is handled directly with the Land Registry."
+  ]
+}

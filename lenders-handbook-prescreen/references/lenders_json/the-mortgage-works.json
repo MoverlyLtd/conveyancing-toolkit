@@ -1,0 +1,266 @@
+{
+  "1.11a": [
+    "Contact point for standard documents is the Issuing Office shown on the front of the Mortgage Offer."
+  ],
+  "1.11b": [
+    "Contact point for inappropriate standard documents is the Issuing Office shown on the front of the Mortgage Offer."
+  ],
+  "1.7": [
+    "Lending is not permitted where the borrower and mortgagor are different entities."
+  ],
+  "1.14": [
+    "A firm may act if the person handling the transaction or their immediate family is the seller, provided a different fee earner or partner of equal standing acts for the lender.",
+    "There must be no conflict of interest and Law Society guidelines must be followed."
+  ],
+  "1.15": [
+    "A firm may act if the person handling the transaction or their immediate family is the borrower, provided a different fee earner or partner of equal standing acts for the lender.",
+    "There must be no conflict of interest and Law Society guidelines must be followed."
+  ],
+  "3.1.3": [
+    "Notification of the seller's solicitor or licensed conveyancer's name and address is not required."
+  ],
+  "3.1.4": [
+    "If the seller does not have legal representation, contact the Issuing Office."
+  ],
+  "3.1.5": [
+    "Acceptable List A ID: Signed Employer's Photo ID card (if employer is known to the conveyancer) or a UK-issued debit/cheque guarantee card with an original account statement less than 3 months old.",
+    "Acceptable List B ID: Inland Revenue Notice of Tax Codes less than 12 months old or a Home Office Residence Permit for EU Nationals."
+  ],
+  "3.2.3": [
+    "Notification of the seller's legal representative's details is not required."
+  ],
+  "3.2.4": [
+    "Contact the Issuing Office if the seller is unrepresented."
+  ],
+  "4.5a": [
+    "Contact Originations if a re-inspection of the property is required."
+  ],
+  "4.5b": [
+    "The Certificate of Title must be sent to Originations."
+  ],
+  "4.1": [
+    "A copy of the valuation report for the applicant is provided with the instructions."
+  ],
+  "4.3": [
+    "Contact Originations if the valuer's assumptions are found to be incorrect."
+  ],
+  "5.1.1": [
+    "Lending is generally prohibited for sub-sales, back-to-back transactions, or contract assignments.",
+    "Refer to the Issuing Office at least 2 weeks before exchange if the seller has owned the property for less than 6 months.",
+    "Required details for referral include: previous vendor details, purchase price paid by the current vendor, connections between parties, work carried out, and transaction dates."
+  ],
+  "5.2.1": [
+    "Refer all cases where the seller is not the registered owner (outside standard exceptions) to the Issuing Office with full details."
+  ],
+  "5.4.4": [
+    "Environmental, flood, or contaminated land reports do not need to be sent to the lender unless a local search identifies unremedied contamination.",
+    "Inform the lender if the property has an EPC rating of F or G.",
+    "Climate Hazard Reports: only report Medium/Moderate or High exposure risks.",
+    "Radon Gas: Area-wide reports are not required, but specific high radon levels for the property must be referred to the lender.",
+    "Mining: Reports showing a mine entry or adit within 20 metres or a history of subsidence claims must be submitted with an interpretive and buffer report.",
+    "Mundic: Properties in postcodes PL10-18, PL22, and PL23 require a Class A certificate. Class A/B requires referral; Class B or C is declined. Pre-1965 builds without a report must be referred.",
+    "Fire Risk Assessment (FRA): Required for flats. The FRA must be in-date. Outstanding works and associated costs for the leaseholder must be reported to the Issuing Office at least 2 weeks before exchange."
+  ],
+  "5.4.5": [
+    "Personal searches are accepted at the conveyancer's risk and must include appropriate insurance covering both lender and borrower.",
+    "Chancel Repair: No insurance required if there is no liability at Land Registry and the property was transferred for value after 13 October 2013.",
+    "Chancel Repair: Insurance is required for first registrations or known liabilities."
+  ],
+  "5.4.6": [
+    "Search insurance is not accepted for second-hand purchases; a local search is mandatory.",
+    "Search insurance is not required for remortgages.",
+    "New builds: Search insurance is accepted if the original plot search has expired.",
+    "Delayed search insurance is permitted subject to specific conditions regarding planning consents and land charges."
+  ],
+  "5.5.3a": [
+    "Report building or planning consent breaches to the Issuing Office; an indemnity policy does not negate the need for a valuer's check.",
+    "Report planning conditions related to flood defences; indemnity insurance is not acceptable for unsatisfied flood conditions.",
+    "New build flats: Verify construction complies with Building (Amendment) Regulations 2018; refer if older regulations apply.",
+    "New builds require building control sign-off at or before completion."
+  ],
+  "5.5.3b": [
+    "Original or copies of planning permissions should be retained by the borrower."
+  ],
+  "5.5.3c": [
+    "Building regulation consents are not required by the lender."
+  ],
+  "5.5.3d": [
+    "Certificates of lawful use or development are not required by the lender."
+  ],
+  "5.5.4": [
+    "Restrictions affecting value or marketability should be reported to Originations."
+  ],
+  "5.7.1a": [
+    "Flying freeholds are acceptable if they only affect part of the property; 100% flying freeholds are not accepted."
+  ],
+  "5.7.1b": [
+    "Freehold flats are not accepted, except for coach house flats above garages or access ways."
+  ],
+  "5.7.1c": [
+    "Report accepted flying freeholds or coach house flats to Originations."
+  ],
+  "5.8.1": [
+    "Security comprising a building with up to four flats where the borrower occupies one and owns the freehold is acceptable."
+  ],
+  "5.8.5": [
+    "Reciprocal leasehold/freehold arrangements for two flats are acceptable; both the leasehold and freehold interests must be charged."
+  ],
+  "5.9.1": [
+    "Commonhold properties are not accepted."
+  ],
+  "5.10.1": [
+    "Report restrictions on use to the Issuing Office.",
+    "Breaches of restrictive covenants must be reported with specific details including wording, date, owner, and potential enforcement risks."
+  ],
+  "5.13.1": [
+    "Deposits sourced from crypto-assets (even if converted to fiat) must be reported to the Issuing Office."
+  ],
+  "5.14.15a": [
+    "Absentee or insolvent landlords must be reported to Originations."
+  ],
+  "5.14.15b": [
+    "Indemnity insurance for absent landlords is acceptable for up to 6 flats in a building; buildings with 7 or more flats are unacceptable.",
+    "Leasehold houses with absent landlords are acceptable with indemnity insurance.",
+    "Indemnity limit must be the higher of the purchase price or property value."
+  ],
+  "5.14.17a": [
+    "Conveyancers must refer LPE1 Form answers (Q8.19 & 8.20) indicating building safety issues to the Issuing Office before exchange.",
+    "A1 rated EWS1 forms do not need to be reported.",
+    "The lender may provide Building Safety certificates; missing documents must be obtained from the seller, management company, or freeholder."
+  ],
+  "5.14.17b": [
+    "Conveyancers must verify the accuracy of Leaseholder and Landlord Certificates against the lease agreement and available evidence.",
+    "Specific checks are required for leaseholder qualifying status as of 14 February 2022.",
+    "Details of the last sale prior to 14 February 2022 must be obtained (unless not on HMLR).",
+    "Refer to the Issuing Office if the leaseholder or landlord is determined to be non-qualifying under the Building Safety Act 2022."
+  ],
+  "5.14.1": [
+    "Minimum unexpired lease term is 70 years at start and must have 30 years remaining at the end of the mortgage term.",
+    "Second-hand lease: Unacceptable if Ground Rent > 0.5% of value, doubles more frequently than every 20 years, is compounded RPI, or has a review period of 5 years or less.",
+    "Second-hand lease: Refer if Ground Rent is between 0.1% and 0.5% of value or if Estate Rent Charges exceed £500 per annum.",
+    "New build lease: Must have a minimum term of 125 years (flat) or 250 years (house).",
+    "New build lease: Ground rent must be peppercorn only; any review mechanism is unacceptable.",
+    "Lease extensions must be completed under the Leasehold Reform Housing and Urban Development Act 1993."
+  ],
+  "5.14.10": [
+    "Report service charge increases exceeding £1000 per annum to the Issuing Office.",
+    "Report planned works or Section 20 notices with cost estimates and timescales."
+  ],
+  "5.14.11": [
+    "Indemnity insurance for unsatisfactory lease terms must be referred to the Issuing Office.",
+    "A Deed of Variation is preferred for missing Mortgagee Protection Clauses; indemnity is a last resort requiring explanation."
+  ],
+  "5.14.12": [
+    "Ground rent and service charge receipts should be retained by the borrower."
+  ],
+  "5.14.13": [
+    "Evidence of notice service should be retained by the borrower."
+  ],
+  "5.15.2a": [
+    "Non-regulated rent charges for estate upkeep must include a requirement for the collector to notify the lender before taking action for non-payment.",
+    "Rent charge agreements must prohibit the creation of a lease or ensure lease surrender upon payment of arrears and reasonable costs. A Deed of Variation is required if these terms are missing (indemnity is not accepted)."
+  ],
+  "5.15.2b": [
+    "Management company share certificates should be retained by the borrower."
+  ],
+  "5.15.2c": [
+    "Signed blank stock transfer forms do not need to be sent to the lender."
+  ],
+  "5.15.2d": [
+    "Management company Memorandum and Articles of Association do not need to be sent."
+  ],
+  "5.16.2": [
+    "Contact Originations if unable to certify that a search entry does not relate to the property."
+  ],
+  "5.17.5a": [
+    "Powers of Attorney do not need to be sent to the lender."
+  ],
+  "5.17.5b": [
+    "A statutory declaration of non-revocation of power of attorney must be sent to the lender."
+  ],
+  "5.19.1": [
+    "Contact Originations for requirements regarding affordable housing, shared equity, and shared ownership."
+  ],
+  "5.20.1": [
+    "If solar panel lease terms do not meet UK Finance minimums, a Deed of Variation is required; otherwise, the case cannot proceed."
+  ],
+  "5.20.4": [
+    "Green Deal loans with a balance over £10,000 must be reported with details of the balance, payments, works, and EPC."
+  ],
+  "6.4.4": [
+    "All incentives, including guaranteed rental payments, must be reported."
+  ],
+  "6.6.1": [
+    "Rent back arrangements are not accepted.",
+    "Report if the existing tenant or seller retains any interest in the property.",
+    "Selective licensing must be in place or confirmed to be granted by completion."
+  ],
+  "6.6.3": [
+    "Standard ASTs up to 36 months do not require the tenancy agreement to be sent.",
+    "Non-standard tenancies (e.g., to Corporate bodies, LAs, Universities) must be submitted for review and meet specific occupancy and repossession rights criteria."
+  ],
+  "6.6.4": [
+    "HMOs are only acceptable if expressly stated in the mortgage offer and require a valid licence."
+  ],
+  "6.7.1": [
+    "Acceptable warranties include NHBC, LABC, Premier Guarantee, BLP, Build-zone, Checkmate (Castle 10), and others listed; CRL is accepted only under specific underwriter conditions."
+  ],
+  "6.7.4": [
+    "A Professional Consultant's Certificate (PCC) is acceptable for new builds in developments of up to 10 units (or 4 units in a terrace/block) and for conversions/refurbishments under 5 years old."
+  ],
+  "6.7.6": [
+    "The Professional Consultant's Certificate must be sent to the Issuing Office."
+  ],
+  "6.8.1": [
+    "Unadopted roads are acceptable for new builds if adoption is planned or managed by residents.",
+    "For second-hand properties, report unadopted road details to the Issuing Office, including maintenance obligations and disputes.",
+    "Septic tanks must comply with General Binding Rules; works must be completed before mortgage completion (no retentions)."
+  ],
+  "6.9.1": [
+    "Indemnity insurance is not accepted if the property has no legal access.",
+    "Simultaneous formalization of access rights at completion is acceptable without referral."
+  ],
+  "6.10.2": [
+    "Retentions or instalments are released to the Solicitor or Licensed Conveyancer."
+  ],
+  "6.11.1": [
+    "Report redevelopment or road proposals to the Issuing Office; HS2 impact does not need reporting."
+  ],
+  "6.12.1": [
+    "Overage Agreements are not acceptable."
+  ],
+  "6.13.1": [
+    "Outstanding improvement or repair grants must be reported to the Issuing Office with terms and amounts."
+  ],
+  "7.3": [
+    "Consent to mortgage from occupants aged 17 or over is not required for Buy-to-Let mortgages."
+  ],
+  "9.1": [
+    "Acceptable indemnity policies must be noted on the Certificate of Title with the insurer and policy number.",
+    "Indemnity insurance is not required for cash gifts."
+  ],
+  "9.2": [
+    "The limit of indemnity must be the higher of the full purchase price or property value."
+  ],
+  "10.2b": [
+    "Minimum notice for funds is 5 working days, or 10 working days if a re-inspection is required."
+  ],
+  "10.7": [
+    "Return advance funds within 3 working days electronically if completion is delayed."
+  ],
+  "10.11": [
+    "Interest at the contract rate is charged if the return of funds is delayed."
+  ],
+  "14.1.5": [
+    "Original mortgage deeds and title documents do not need to be sent to the lender."
+  ],
+  "14.2.2": [
+    "After completion, send the Official Copy of the register to the Title Registration Team in Northampton or via the specified email address."
+  ],
+  "16.3.7b": [
+    "Standard attestation: 'Signed as a deed by The Mortgage Works (UK) PLC by two duly authorised officials'."
+  ],
+  "17.2.1b": [
+    "Discharge is via DS1 form sent to Accounting Servicing."
+  ]
+}

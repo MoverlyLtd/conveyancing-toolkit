@@ -1,0 +1,339 @@
+{
+  "1.11a": [
+    "Address: 7 Harbour Buildings, The Waterfront, Brierley Hill, DY5 1LN",
+    "Telephone: 01384 231414",
+    "Email: Mortgagesales@dudleybuildingsociety.co.uk"
+  ],
+  "1.11b": [
+    "Address: 7 Harbour Buildings, The Waterfront, Brierley Hill, DY5 1LN",
+    "Telephone: 01384 231414",
+    "Email: Mortgagesales@dudleybuildingsociety.co.uk"
+  ],
+  "1.7": [
+    "Lending is not permitted when the borrower and mortgagor are not the same person."
+  ],
+  "1.14": [
+    "Legal firms may not act if the conveyancer or an immediate family member is the seller."
+  ],
+  "1.15": [
+    "Legal firms may not act if the conveyancer or an immediate family member is the borrower."
+  ],
+  "3.1.3": [
+    "Notification of the seller's legal representative's name and address is required only upon specific request."
+  ],
+  "3.1.4": [
+    "The lender must be notified if the seller is unrepresented or if representative checks are unsatisfactory."
+  ],
+  "3.1.5": [
+    "Acceptable identity verification documents are listed under the Savings tab on the Dudley Building Society website."
+  ],
+  "3.2.3": [
+    "Notification of seller's solicitor is only required if specifically requested."
+  ],
+  "3.2.4": [
+    "The lender must be notified if the seller is unrepresented or if representative checks are unsatisfactory."
+  ],
+  "4.5a": [
+    "Contact point for re-inspection is the Principal Office in Brierley Hill."
+  ],
+  "4.5b": [
+    "Certificate of Title should be emailed to MortgageCompletions@dudleybuildingsociety.co.uk"
+  ],
+  "4.1": [
+    "Property inspection is not always mandatory for remortgages.",
+    "Solicitors should obtain a copy of the valuation report from the borrower if available.",
+    "Conveyancers must perform checks as per sections 4.2 and 4.3 regardless of the source of the valuation report."
+  ],
+  "4.3": [
+    "Contact point for incorrect valuation assumptions is the Principal Office in Brierley Hill."
+  ],
+  "5.1.1": [
+    "Contact Principal Office for cases where the seller has owned the property for less than 6 months.",
+    "Required info: previous vendor name/address, previous sale price, connections between parties, details of property work, and remortgage reason.",
+    "Cases must be put on hold until instructions are received.",
+    "Lending is prohibited for sub-sales, back-to-back transactions, or assigned sale contracts."
+  ],
+  "5.2.1": [
+    "Contact Principal Office and confirm the identity of the seller if they are not the registered proprietor."
+  ],
+  "5.4.4": [
+    "Environmental or contaminated land reports should not be sent.",
+    "Advise the lender of contamination entries found in local authority searches."
+  ],
+  "5.4.5": [
+    "Personal searches are accepted subject to compliance with section 5.4.7."
+  ],
+  "5.4.6": [
+    "Search insurance is accepted if it provides adequate protection and enables certification of marketable title."
+  ],
+  "5.5.3a": [
+    "Report breaches of planning or building conditions to the Principal Office."
+  ],
+  "5.5.3b": [
+    "Conveyancer must provide valid full planning permission.",
+    "Confirmation of submission of working drawings for Building Regulation Design Approval is required."
+  ],
+  "5.5.3c": [
+    "Conveyancer must provide valid full planning permission.",
+    "Confirmation of submission of working drawings for Building Regulation Design Approval is required."
+  ],
+  "5.5.3d": [
+    "Certificates of lawful use or development are not required to be sent but must be retained by the borrower.",
+    "The solicitor must notify the Society of any identified issues."
+  ],
+  "5.5.4": [
+    "Restrictions affecting value or marketability must be reported to the Principal Office."
+  ],
+  "5.7.1a": [
+    "Flying freeholds are acceptable if they affect no more than 25% of the property.",
+    "Requires existing cross covenants and a deed of mutual enforceability of covenants."
+  ],
+  "5.7.1b": [
+    "Freehold flats are generally not acceptable.",
+    "Exceptions: Modern coach houses or single freehold properties where the applicant owns the entire block and other units are leasehold."
+  ],
+  "5.7.1c": [
+    "Report acceptable freehold flats or flying freeholds to the Principal Office."
+  ],
+  "5.8.1": [
+    "Security comprising a building with up to four flats is acceptable if the borrower occupies one and owns the freehold, with other flats on long leases."
+  ],
+  "5.8.5": [
+    "Arrangements involving two leasehold flats where owners cross-own freeholds are acceptable.",
+    "Requires a charge over the borrower's leasehold interest and their freehold interest in the other flat."
+  ],
+  "5.9.1": [
+    "Commonhold title is accepted."
+  ],
+  "5.10.1": [
+    "Restrictions on use must be reported to the Principal Office."
+  ],
+  "5.13.1": [
+    "Contact the Principal Office if the borrower is not providing the full purchase balance or proposes a second charge."
+  ],
+  "5.14.15a": [
+    "Report absentee or insolvent landlords to the Principal Office."
+  ],
+  "5.14.15b": [
+    "Indemnity insurance is accepted for absent or insolvent landlords if it covers all lease requirements."
+  ],
+  "5.14.1": [
+    "Minimum unexpired lease term for Capital & Interest: 85 years at drawdown.",
+    "Minimum term for Interest Only/Part & Part (LTV <= 50%): 85 years at drawdown.",
+    "Minimum term for Interest Only/Part & Part (LTV > 50%): 85 years remaining at end of mortgage term."
+  ],
+  "5.14.9": [
+    "Lease-related matters should be reported to the Principal Office."
+  ],
+  "5.14.10": [
+    "Service charge matters should be reported to the Principal Office."
+  ],
+  "5.14.11": [
+    "Contact the Society regarding indemnity insurance for unsatisfactory lease terms."
+  ],
+  "5.14.12": [
+    "Ground rent or service charge receipts are not required to be sent."
+  ],
+  "5.14.13": [
+    "Evidence of service of notice is required."
+  ],
+  "5.15.2a": [
+    "Report management company issues to the Principal Office."
+  ],
+  "5.15.2b": [
+    "Management company share certificates do not need to be sent."
+  ],
+  "5.15.2c": [
+    "Signed blank stock transfer forms must be sent after completion."
+  ],
+  "5.15.2d": [
+    "Management company memorandum and articles of association do not need to be sent."
+  ],
+  "5.16.2": [
+    "Contact the Principal Office if unable to certify that a search entry is irrelevant."
+  ],
+  "5.17.5a": [
+    "A certified copy of the Power of Attorney must be sent after completion if used to execute the mortgage deed."
+  ],
+  "5.17.5b": [
+    "A statutory declaration of non-revocation for a power of attorney is required."
+  ],
+  "5.19.1": [
+    "Contact the Principal Office for matters regarding affordable housing, shared equity, or shared ownership."
+  ],
+  "5.20.1": [
+    "Report solar PV panel roof space leases that do not meet UK Finance minimum requirements."
+  ],
+  "5.20.3": [
+    "Solar PV panel leases must meet minimum UK Finance/CML requirements."
+  ],
+  "5.20.4": [
+    "Details of existing Green Deal Plans must be disclosed to the lender."
+  ],
+  "6.1.3": [
+    "Notify the Principal Office if the borrower is not proceeding with the mortgage offer."
+  ],
+  "6.2.1": [
+    "Report property description discrepancies to the Principal Office."
+  ],
+  "6.3.1": [
+    "Report purchase price issues to the Principal Office."
+  ],
+  "6.4.4": [
+    "Incentives must be reported."
+  ],
+  "6.4.5": [
+    "Contact the Principal Office if the solicitor does not have control over all purchase funds."
+  ],
+  "6.5.1": [
+    "Issues with vacant possession must be emailed to MortgageCompletions@dudleybuildingsociety.co.uk"
+  ],
+  "6.6.1": [
+    "Contact the Principal Office regarding properties to be let or buy-to-let status."
+  ],
+  "6.6.2": [
+    "Contact the Principal Office if letting details are missing at completion."
+  ],
+  "6.6.3": [
+    "Tenancy agreements do not need to be sent."
+  ],
+  "6.6.4": [
+    "Lending on Houses in Multiple Occupation (HMO) is not permitted."
+  ],
+  "6.7.1": [
+    "Acceptable warranty schemes: ABC+, Advantage (AHCI), Ark, Checkmate/Castle 10, LABC, NHBC, Premier Guarantee, Q, Protek, ICW, Self-Build Zone.",
+    "Global Home Warranties Limited and Buildzone are accepted for new builds only."
+  ],
+  "6.7.2": [
+    "Send a certified copy of the warranty policy and certificate."
+  ],
+  "6.7.3": [
+    "Building standards indemnity scheme assignments should be retained by the borrower; notify the lender only of issues."
+  ],
+  "6.7.4": [
+    "Lending without a warranty is permitted if a Professional Consultants certificate is provided."
+  ],
+  "6.7.6": [
+    "Professional consultant's certificates must be sent."
+  ],
+  "6.8.1": [
+    "Report lack of agreements or bonds for unadopted roads/sewers to the Principal Office."
+  ],
+  "6.9.1": [
+    "Report missing necessary easements to the Principal Office."
+  ],
+  "6.10.2": [
+    "Retentions or advance instalments are released directly to borrowers."
+  ],
+  "6.11.1": [
+    "Report redevelopment or road proposals to the Principal Office."
+  ],
+  "6.12.1": [
+    "Report pre-emption rights, resale restrictions, or options to the Principal Office."
+  ],
+  "6.13.1": [
+    "Report undischarged improvement or repair grants to the Principal Office."
+  ],
+  "7.3": [
+    "Consent to mortgage is required from all occupants aged 17 or older."
+  ],
+  "7.4": [
+    "Report doubts regarding information accuracy to the Principal Office."
+  ],
+  "8.1": [
+    "Advice may be provided to specified third parties if no conflict of interest exists."
+  ],
+  "9.1": [
+    "Indemnity insurance policies must be sent after completion."
+  ],
+  "9.2": [
+    "Indemnity insurance limit must be the higher of the purchase price or valuation."
+  ],
+  "10.2a": [
+    "The mortgage advance is paid electronically."
+  ],
+  "10.2b": [
+    "Minimum notice for electronic advance: 3 clear working days."
+  ],
+  "10.3": [
+    "No standard deductions are made from the mortgage advance."
+  ],
+  "10.7": [
+    "Returns of the advance due to delay (over 5 days) must be made via the same method received."
+  ],
+  "10.9": [
+    "Contact the Principal Office if completion is delayed."
+  ],
+  "10.10": [
+    "Advance may be held for a maximum of 5 working days.",
+    "If held, funds must be in an interest-bearing account with interest passed to the borrower."
+  ],
+  "10.11": [
+    "Interest is charged from the date of the advance.",
+    "Advances must be returned immediately if completion is delayed more than 5 days or does not proceed."
+  ],
+  "12.3.1": [
+    "Contact the Principal Office for release of retentions or instalments."
+  ],
+  "14.1.4": [
+    "Form CH2 application is required for staged loan advances."
+  ],
+  "14.1.5": [
+    "Certified copies of the mortgage deed and title documents are acceptable instead of originals."
+  ],
+  "14.2.1": [
+    "Title deeds and documents must be uploaded electronically to LMS."
+  ],
+  "14.2.2": [
+    "Post-completion documents for LMS upload: Priority Notice, Confirmation of Application to Register, Official Copy of Register, signed/dated Mortgage Deed.",
+    "If registration takes longer than 30 days, provide updates via LMS STARS every 30 days."
+  ],
+  "16.1.1": [
+    "Contact the Principal Office for title document matters."
+  ],
+  "16.3.7a": [
+    "Contact the Principal Office regarding execution of transfer of equity."
+  ],
+  "16.3.7b": [
+    "Attestation clause: 'The Common Seal of Dudley Building Society was affixed in the presence of:'"
+  ],
+  "16.3.1": [
+    "The lender does not have a standard form for transfer or deed of covenant."
+  ],
+  "16.3.2": [
+    "Contact the Principal Office for current debt amounts."
+  ],
+  "16.3.4": [
+    "Transfers of equity require lender approval and are processed by redeeming the existing mortgage for a new regulated one."
+  ],
+  "16.4.1": [
+    "Consent to letting applications email: Mortgages@dudleybuildingsociety.co.uk"
+  ],
+  "16.4.2": [
+    "A copy of the proposed tenancy agreement must be sent."
+  ],
+  "16.5.3a": [
+    "Deeds of variation email: Mortgages@dudleybuildingsociety.co.uk"
+  ],
+  "16.5.3b": [
+    "Deeds of rectification email: Mortgages@dudleybuildingsociety.co.uk"
+  ],
+  "16.5.3c": [
+    "Deeds of easement email: Mortgages@dudleybuildingsociety.co.uk"
+  ],
+  "16.5.3d": [
+    "Option agreements email: Mortgages@dudleybuildingsociety.co.uk"
+  ],
+  "16.5.2": [
+    "Contact for deed/agreement approval email: Mortgages@dudleybuildingsociety.co.uk"
+  ],
+  "17.1.1": [
+    "Redemption statement requests email: Mortgages@dudleybuildingsociety.co.uk"
+  ],
+  "17.2.1a": [
+    "Discharge and repayment remittance email: Mortgages@dudleybuildingsociety.co.uk"
+  ],
+  "17.2.1b": [
+    "Discharges are processed directly with the Land Registry."
+  ]
+}

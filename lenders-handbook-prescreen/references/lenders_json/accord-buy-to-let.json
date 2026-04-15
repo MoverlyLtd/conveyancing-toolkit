@@ -1,0 +1,334 @@
+{
+  "1.11a": [
+    "Accounts starting 10013 or 10014: Accord Buy to Let, PO Box 869, Newport, NP20 9GY (Fax: 0345 848 0305).",
+    "All other accounts: Lending Shared Services Accord Mortgages Limited, Yorkshire House, Yorkshire Drive, Bradford BD5 8LJ (DX11798 Bradford)."
+  ],
+  "1.11b": [
+    "Contact point same as 1.11a.",
+    "Pre-existing second charges must be removed before completion.",
+    "Existing mortgages must be fully repaid and Land Registry charges cancelled."
+  ],
+  "1.7": [
+    "Lending is prohibited if the borrower and mortgagor are different parties."
+  ],
+  "1.14": [
+    "Firm may act if a member is the seller provided it is a partnership and no conflict of interest exists.",
+    "The specific conveyancer handling the case cannot be the seller or an immediate family member of the seller."
+  ],
+  "1.15": [
+    "Firm may act if a member is the borrower provided it is a partnership and no conflict of interest exists.",
+    "The specific conveyancer handling the case cannot be the borrower or an immediate family member of the borrower."
+  ],
+  "3.1.3": [
+    "Notification of the seller's legal representative's name and address is not required."
+  ],
+  "3.1.4": [
+    "Contact point for unrepresented sellers is same as 1.11a."
+  ],
+  "3.1.5": [
+    "Acceptable identification: Full Driving Licence (photocard or old style paper version).",
+    "No documents are accepted from List B."
+  ],
+  "3.2.3": [
+    "Notification of the seller's legal representative's name and address is not required."
+  ],
+  "3.2.4": [
+    "Contact point for unrepresented sellers is same as 1.11a."
+  ],
+  "4.1": [
+    "Valuation report is provided to the conveyancer with the mortgage offer."
+  ],
+  "4.3": [
+    "Contact point for incorrect valuation assumptions is same as 1.11a."
+  ],
+  "4.5a": [
+    "Contact point for re-inspection is same as 1.11a."
+  ],
+  "4.5b": [
+    "Certificate of title should be sent to the address in 1.11a."
+  ],
+  "5.1.1": [
+    "Contact point for properties owned less than 6 months is same as 1.11a.",
+    "Sub-sales, back-to-back transactions, assignable contracts, and irrevocable powers of attorney for intervening sellers are not accepted."
+  ],
+  "5.2.1": [
+    "Contact point if seller is not the registered owner is same as 1.11a."
+  ],
+  "5.4.4": [
+    "Do not send environmental or contaminated land reports to the lender."
+  ],
+  "5.4.5": [
+    "Personal searches are accepted if an unqualified Certificate of Title is provided.",
+    "Search firms must subscribe to the Search Code and be monitored by the Property Codes Compliance Board."
+  ],
+  "5.4.6": [
+    "Search insurance is accepted if an unqualified Certificate of Title is provided."
+  ],
+  "5.5.3a": [
+    "Contact point for breaches is same as 1.11a.",
+    "Indemnity insurance is permitted for planning/building regulation breaches 10+ years old if the valuation is not negative.",
+    "Breaches within enforcement periods require conveyancer recommendations and structural soundness confirmation; indemnity insurance alone is insufficient.",
+    "Private drainage must be compliant with current legislation; shared systems require legal access and maintenance arrangements.",
+    "HMOs and Multi Unit Blocks must possess all necessary licenses and consents."
+  ],
+  "5.5.3b": [
+    "Original planning permissions are not required by the lender but must be kept on the conveyancer's file."
+  ],
+  "5.5.3c": [
+    "Building regulation consents are not required by the lender but must be kept on the conveyancer's file."
+  ],
+  "5.5.3d": [
+    "Proof of residential status is required for commercial-to-residential conversions.",
+    "Certificate of lawful use is required only if planning permission for change of use cannot be confirmed."
+  ],
+  "5.5.4": [
+    "Contact point for restrictive covenants is same as 1.11a."
+  ],
+  "5.7.1a": [
+    "Lending on flying freeholds is not permitted."
+  ],
+  "5.7.1b": [
+    "Lending on freehold flats is not permitted."
+  ],
+  "5.7.1c": [
+    "Not applicable."
+  ],
+  "5.8.1": [
+    "Lending accepted on buildings converted into max 4 flats where borrower occupies one and owns the freehold.",
+    "The borrower's flat must have a separate leasehold title.",
+    "Security must include the freehold title if owned by the borrower.",
+    "Lending is restricted to one flat per building."
+  ],
+  "5.8.5": [
+    "Security must include the freehold reversion of other flats.",
+    "Shared freehold ownership requires a trust deed or confirmation that the share transfers simultaneously with the leasehold interest upon enforcement.",
+    "Tyneside flats are prohibited for resident landlords."
+  ],
+  "5.9.1": [
+    "Lending on commonhold is not permitted."
+  ],
+  "5.10.1": [
+    "Contact point for use restrictions is same as 1.11a."
+  ],
+  "5.13.1": [
+    "Contact point for non-standard funding or second charges is same as 1.11a."
+  ],
+  "5.14.1": [
+    "Minimum unexpired lease term must be 85 years from the date of completion."
+  ],
+  "5.14.9": [
+    "Contact point for lease matters is same as 1.11a.",
+    "Maximum starting ground rent is £1,000 per annum.",
+    "Ground rent must be fixed for the first 21 years and reviewable no more than every 21 years thereafter.",
+    "Rent reviews capped at the higher of 100% of current rent or RPI increase."
+  ],
+  "5.14.10": [
+    "Contact point for service charges is same as 1.11a."
+  ],
+  "5.14.11": [
+    "Indemnity insurance is accepted for unsatisfactory lease terms if it allows for an unqualified Certificate of Title."
+  ],
+  "5.14.12": [
+    "Ground rent/service charge receipts are not required by the lender but must be kept on file."
+  ],
+  "5.14.13": [
+    "Notice of service evidence is not required by the lender but must be kept on file."
+  ],
+  "5.14.15a": [
+    "Contact point for absentee/insolvent landlords is same as 1.11a."
+  ],
+  "5.14.15b": [
+    "Indemnity insurance for absent/insolvent landlords is accepted if it allows for an unqualified Certificate of Title."
+  ],
+  "5.14.17a": [
+    "Documentation is not required prior to completion unless specified in 5.14.17b."
+  ],
+  "5.14.17b": [
+    "Notify lender if remediation is required under the Building Safety Act 2022 or if valuer assumptions are incorrect.",
+    "Lending prohibited if fire safety works are required and non-qualifying leaseholders bear costs.",
+    "Written instructions from lender required before completion if safety issues are present."
+  ],
+  "5.14.17c": [
+    "Remortgages must follow the same building safety instructions as purchases."
+  ],
+  "5.15.2a": [
+    "Rentcharges/service charges must include 2 months' written notice of arrears to the lender before enforcement.",
+    "Enforcement leases must be surrenderable upon payment of reasonable costs with no premium.",
+    "Maximum annual rentcharge/freehold service charge is £500.",
+    "Charges must not double more than once every 25 years.",
+    "Indemnity insurance is required for uncollected historic rentcharges (12+ years old) not related to services."
+  ],
+  "5.15.2b": [
+    "Management company share certificates are not required."
+  ],
+  "5.15.2c": [
+    "Signed blank stock transfer forms are not required."
+  ],
+  "5.15.2d": [
+    "Memorandum and articles of association are not required."
+  ],
+  "5.16.2": [
+    "Contact point for search entry certification is same as 1.11a."
+  ],
+  "5.17.5a": [
+    "Power of Attorney documents do not need to be sent to the lender."
+  ],
+  "5.17.5b": [
+    "Statutory declarations of non-revocation do not need to be sent to the lender."
+  ],
+  "5.19.1": [
+    "Lending is not permitted for affordable housing, key worker schemes, shared equity, or shared ownership."
+  ],
+  "5.20.1": [
+    "Report solar PV panel leases that do not meet UK Finance minimum requirements to the contact in 1.11a."
+  ],
+  "5.20.3": [
+    "Solar PV lease break clauses must state the provider is responsible for removal costs and damage repair if the lender terminates the lease."
+  ],
+  "5.20.4": [
+    "Disclose any Green Deal Plan details to the contact in 1.11a."
+  ],
+  "6.1.3": [
+    "Contact point for aborted mortgages is same as 1.11a."
+  ],
+  "6.2.1": [
+    "Contact point for property description discrepancies is same as 1.11a."
+  ],
+  "6.3.1": [
+    "Contact point for purchase price issues is same as 1.11a."
+  ],
+  "6.4.4": [
+    "All incentives, discounts, and cashbacks must be reported."
+  ],
+  "6.4.5": [
+    "Contact point if purchase money control is limited is same as 1.11a."
+  ],
+  "6.5.1": [
+    "Contact point for vacant possession issues is same as 1.11a."
+  ],
+  "6.6.1": [
+    "Contact point for BTL letting queries is same as 1.11a.",
+    "Property must have a minimum EPC rating of E at completion unless a valid PRS exemption exists."
+  ],
+  "6.6.3": [
+    "Tenancy agreements are not required by the lender but must be kept on file."
+  ],
+  "6.6.4": [
+    "Lending prohibited if a mandatory HMO license is required.",
+    "Lending allowed for houses with additional, selective, or discretionary licensing if the license is in place by completion."
+  ],
+  "6.7.1": [
+    "Accepted warranties: NHBC, Premier Guarantee, LABC, Checkmate/Castle 10 (with garage endorsement), Build-Zone, Build Assure, Global Home Warranties, Q Policy (Q Assure Build), Protek, Advantage, ICW (flat roof >10sqm endorsement), Ark Residential (garage endorsement), One Guarantee, TMSC, HomeProof."
+  ],
+  "6.7.2": [
+    "New home warranty documents are not required by the lender but must be kept on file."
+  ],
+  "6.7.3": [
+    "Assignments of building standards indemnity schemes are not required by the lender but must be kept on file."
+  ],
+  "6.7.4": [
+    "Professional Consultant's Certificates (PCC) must use the unmodified UK Finance form.",
+    "PCCs accepted for max 4 units in a continuous structure and max 10 units in a development.",
+    "Retrospective PCCs are not accepted; projects must be supervised and inspected from the start."
+  ],
+  "6.7.6": [
+    "PCCs do not need to be sent to the lender but must be kept on file."
+  ],
+  "6.8.1": [
+    "Agreements for unadopted roads/sewers are not required by the lender."
+  ],
+  "6.9.1": [
+    "Contact point for easement issues is same as 1.11a.",
+    "Indemnity insurance is required if title defects cannot be rectified.",
+    "If access depends on the borrower's adjoining land, that land must also be charged to the lender."
+  ],
+  "6.10.2": [
+    "Retentions are released to the borrower unless otherwise authorized.",
+    "Advance instalments are released to the conveyancer."
+  ],
+  "6.11.1": [
+    "Contact point for redevelopment/road proposals is same as 1.11a."
+  ],
+  "6.12.1": [
+    "Contact point for resale restrictions or options is same as 1.11a."
+  ],
+  "6.13.1": [
+    "Contact point for improvement/repair grants is same as 1.11a."
+  ],
+  "7.3": [
+    "Occupant consent is not required for BTL, but letting to the borrower's family is prohibited."
+  ],
+  "7.4": [
+    "Contact point for disclosure accuracy doubts is same as 1.11a."
+  ],
+  "8.1": [
+    "Conveyancers may advise third parties if no conflict of interest exists and the document is not vulnerable to challenge."
+  ],
+  "9.1": [
+    "Indemnity policies do not need to be sent to the lender but must be kept on file."
+  ],
+  "9.2": [
+    "Indemnity limit must at least equal the mortgage advance and cover borrowers, successors, and the mortgagee."
+  ],
+  "10.2a": [
+    "Advance is paid electronically via CHAPS."
+  ],
+  "10.2b": [
+    "Certificate of Title must be received at least 6 working days before completion.",
+    "Funds are released on the working day before completion."
+  ],
+  "10.3": [
+    "Standard deductions include a Funds Transfer Fee and potentially a Higher Lending Charge (refer to offer)."
+  ],
+  "10.7": [
+    "Funds must be returned within one working day of the scheduled completion date.",
+    "Accounts 10013/10014: NatWest, Sort 56-00-36, Acc 29562805.",
+    "Case IDs starting 'M': NatWest, Sort 56-00-36, Acc 28512162.",
+    "Account number and borrower name must be quoted or interest will be charged."
+  ],
+  "10.11": [
+    "Delayed return of funds incurs interest at the mortgage rate."
+  ],
+  "14.1.4": [
+    "Form CH2 application required for instalment mortgages or retentions."
+  ],
+  "14.1.5": [
+    "If using e-DRS: Send original mortgage deed to lender and keep a certified copy on file.",
+    "If not using e-DRS: Lodge original mortgage deed with the Land Registry."
+  ],
+  "14.2.1": [
+    "Accounts 10013/10014: Customer Service, Accord Buy to Let, PO BOX 869, Newport, NP20 9GY.",
+    "Case IDs starting 'M': Securities Team, Accord Mortgages Limited, Yorkshire House, Yorkshire Drive, Bradford BD5 8LJ."
+  ],
+  "14.2.2": [
+    "Documents to send after completion: Official copy of register entries, filed plan, and the original or certified mortgage deed."
+  ],
+  "16.3.7a": [
+    "Accounts 10013/10014: Customer Services Team, Newport PO Box.",
+    "Other cases: Technical Team, Bradford office."
+  ],
+  "16.3.7b": [
+    "Standard attestation: 'Executed as a deed by affixing the Common Seal of Accord Mortgages Limited in the presence of: By Authority of the Board of Directors'."
+  ],
+  "16.3.1": [
+    "Lender provides a standard deed of covenant for changes to mortgage parties.",
+    "Lender is not a party to transfer deeds."
+  ],
+  "16.3.2": [
+    "Accounts 10013/10014: 0345 848 0224.",
+    "Other cases: 0345 1 200 872."
+  ],
+  "16.3.4": [
+    "Keep a certified copy of the transfer on file if it involves a new borrower or release of a party."
+  ],
+  "16.5.2": [
+    "Accounts 10013/10014: Customer Services Team, Newport PO Box.",
+    "Other cases: Contact in 16.4.1."
+  ],
+  "17.1.1": [
+    "Request redemption statements online at https://online.accordmortgages.com/public/contact_us/deeds.do"
+  ],
+  "17.2.1b": [
+    "Discharge is issued via Form DS1."
+  ]
+}

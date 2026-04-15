@@ -1,0 +1,358 @@
+{
+  "1.11a": [
+    "Mortgage Administration Department, PO Box 89, Queen Street, Cardiff, CF10 1UA",
+    "Telephone: 0330 333 4000"
+  ],
+  "1.11b": [
+    "Mortgage Administration Department, PO Box 89, Queen Street, Cardiff, CF10 1UA",
+    "Telephone: 0330 333 4000"
+  ],
+  "1.7": [
+    "Mortgage New Business, PO Box 89, Queen Street, Cardiff, CF10 1UA",
+    "Telephone: 0330 333 4021",
+    "Lending where borrower and mortgagor are different requires specific lender instruction."
+  ],
+  "1.14": [
+    "Firm may act if person dealing with transaction or family is seller provided: firm is a partnership, no conflict of interest exists, and the conveyancer acting is not the seller or immediate family.",
+    "Written confirmation must be sent to and acknowledged by the lender.",
+    "Conveyancers must follow Law Society Guidelines and SRA Outcomes-Focused Regulation."
+  ],
+  "1.15": [
+    "Firm may act if person dealing with transaction or family is borrower provided: firm is a partnership, no conflict of interest exists, and the conveyancer acting is not the borrower or immediate family.",
+    "Written confirmation must be submitted and lender acknowledgement received before proceeding."
+  ],
+  "3.1.3": [
+    "Notification of seller's solicitor required only if the firm is not in a legal directory or not registered with the SRA or CLC at the provided address."
+  ],
+  "3.1.4": [
+    "Notify Mortgage New Business (section 1.7) if the seller is unrepresented or using in-house legal advisors."
+  ],
+  "3.1.5": [
+    "Acceptable ID (List A - Name or Address): Current UK passport, UK Driving License, HMRC Tax Notification (<12 months), EU ID card/passport, Non-EU passport with Visa, DWP benefit notification (<12 months).",
+    "Acceptable ID (List B - Address only): Utility bill (Gas/Elec <3 months, Water <12 months), Council Tax bill (<12 months), Government department letter (<12 months), Solicitor confirmation of house purchase with previous proof (<6 months), Mortgage Statement (<12 months), Tenancy agreement (<12 months), Care home letter (<12 months), Bank/Credit Card statement (<3 months, no online prints).",
+    "Items marked for List A can verify either name or address, but not both simultaneously."
+  ],
+  "3.2.3": [
+    "Notification of seller's solicitor required only if the firm is not in a legal directory or not registered with SRA, CLC, or other regulatory body at the provided address."
+  ],
+  "3.2.4": [
+    "Notify Mortgage New Business (section 1.7) if the seller is unrepresented or using in-house legal advisors."
+  ],
+  "4.1": [
+    "Lender shares valuation report if physical inspection is conducted; remote (desktop) valuations are not shared.",
+    "Valuation is for lender use only and should not be relied upon by the borrower.",
+    "Conveyancers must compare valuation against mortgage offer and report issues to 1.7."
+  ],
+  "4.3": [
+    "Contact Mortgage New Business (1.7) if valuer assumptions are incorrect."
+  ],
+  "4.5a": [
+    "Contact Mortgage New Business (1.7) if re-inspection is required."
+  ],
+  "4.5b": [
+    "Send Certificate of Title to: Completions Team, Mortgage New Business, PO Box 89, Queen Street, Cardiff, CF10 1UA.",
+    "Telephone: 0330 333 4021",
+    "Email: completions@principality.co.uk",
+    "Monies only released on signed and fully completed certificates."
+  ],
+  "5.1.1": [
+    "If seller owned property <6 months, provide: seller's seller name/address, amount paid by seller, details of connections between all parties, work carried out between transactions, transaction dates, and reason for quick sale.",
+    "Do not proceed until written lender confirmation is received."
+  ],
+  "5.2.1": [
+    "Contact Mortgage New Business (1.7) if the seller is not the owner or registered proprietor."
+  ],
+  "5.4.4": [
+    "Environmental or contaminated land reports required if adverse search entry exists or if recommended by valuer."
+  ],
+  "5.4.5": [
+    "Personal searches accepted if conveyancer provides unqualified certificate of title at own risk and search firm is PCCB Search Code registered."
+  ],
+  "5.4.6": [
+    "Search insurance: Not accepted for purchases.",
+    "Search insurance: Accepted for remortgages if title is good and marketable and section 9 requirements are met."
+  ],
+  "5.5.3a": [
+    "Contact Mortgage New Business (1.7) regarding breach of planning or building conditions."
+  ],
+  "5.5.3b": [
+    "Do not send planning permissions; pass to borrower."
+  ],
+  "5.5.3c": [
+    "Do not send building regulation consents; pass to borrower."
+  ],
+  "5.5.3d": [
+    "Do not send certificates of lawful use; pass to borrower."
+  ],
+  "5.5.4": [
+    "Advise Mortgage New Business (1.7) of restrictions affecting value or marketability and await response before proceeding."
+  ],
+  "5.7.1a": [
+    "Flying freeholds accepted if no more than 25% of the total floor area."
+  ],
+  "5.7.1b": [
+    "Freehold flats are not accepted. Contact 1.7 for further discussion."
+  ],
+  "5.7.1c": [
+    "Report freehold flats or flying freeholds to Mortgage New Business (1.7)."
+  ],
+  "5.8.1": [
+    "Building converted to max 4 flats (one borrower-occupied) accepted if lease has maintenance covenants; report borrower interests in other flats in the building."
+  ],
+  "5.8.5": [
+    "Cross-over leaseholds accepted if lease requires simultaneous freehold transfer on sale or unexpired term is >=85 years plus mortgage term.",
+    "Term <85 years + mortgage requires extension or variation for simultaneous transfer.",
+    "Blocks with >2 flats require a management company.",
+    "Lender requires a charge over the borrower's leasehold interest and their freehold interest in the other flat."
+  ],
+  "5.9.1": [
+    "Commonhold security is not accepted."
+  ],
+  "5.10.1": [
+    "Report use restrictions to Mortgage New Business (1.7) and await decision."
+  ],
+  "5.13.1": [
+    "Gifted deposits from family (spouse, parent, sibling, child, grandparent, grandchild, legal guardian) are accepted if not repayable.",
+    "Gifts from unrelated third parties, friends, or employers are not accepted.",
+    "Giftor letter required stating name/address, relationship, borrower details, property address, amount, source, and confirming no interest in property and non-repayability.",
+    "Bankruptcy searches required for all giftors; report non-clear searches to 1.7.",
+    "Report if family member giftor is also the vendor."
+  ],
+  "5.14.1": [
+    "Minimum unexpired lease term is 85 years. Notify lender if term is 85 years or less."
+  ],
+  "5.14.9": [
+    "Ground rent and fees must be reasonable; RPI-linked increases are generally acceptable; unreasonable multipliers are not accepted.",
+    "Contact Mortgage New Business (1.7) if in doubt."
+  ],
+  "5.14.10": [
+    "Service charge matters to be referred to Mortgage New Business (1.7)."
+  ],
+  "5.14.11": [
+    "Indemnity insurance for unsatisfactory lease terms accepted if unqualified CoT is possible and section 9 met; record policy details on CoT."
+  ],
+  "5.14.12": [
+    "Do not send ground rent/service charge receipts; pass to borrower."
+  ],
+  "5.14.13": [
+    "Do not send notice of service evidence; pass to borrower."
+  ],
+  "5.14.15a": [
+    "Contact Mortgage New Business (1.7) regarding absentee or insolvent landlords."
+  ],
+  "5.14.15b": [
+    "Indemnity insurance for absent/insolvent landlords accepted if unqualified CoT is possible; send copy of policy to lender."
+  ],
+  "5.15.2a": [
+    "Estate rent charges must exclude Law of Property Act s121, or include a 28-day mortgagee protection clause, or owner must be a resident-controlled management company.",
+    "If rent charge requirements not met, indemnity insurance is required at customer's expense; decline if insurance unavailable.",
+    "Rent charges pre-1977 require proof of payment or indemnity insurance."
+  ],
+  "5.15.2b": [
+    "Do not send management company share certificates; pass to borrower."
+  ],
+  "5.15.2c": [
+    "Do not send signed blank stock transfer forms; pass to borrower."
+  ],
+  "5.15.2d": [
+    "Do not send management company Mem & Arts; pass to borrower."
+  ],
+  "5.16.2": [
+    "Contact Mortgage New Business (1.7) if unable to certify search entries."
+  ],
+  "5.17.5a": [
+    "Send certified copy of Power of Attorney with Certificate of Title."
+  ],
+  "5.17.5b": [
+    "Send copy of statutory declaration of non-revocation with TID after charge registration."
+  ],
+  "5.19.1": [
+    "Shared Ownership: Wales only; Pobl Group or Shared Ownership Wales template leases only.",
+    "Shared Ownership requirements: Lessor's written consent, Mortgagee Protection Clause, >=85 years term, in borrower names only.",
+    "Downward staircasing requires written pre-approval; proceeds paid to lender.",
+    "Nomination/pre-emption rights accepted if period <=20 weeks.",
+    "Section 106 agreements: Summary of points/risks/advice required; do not proceed until instructions received.",
+    "All shared housing queries to be referred to Mortgage New Business (1.7)."
+  ],
+  "5.20.1": [
+    "Report if solar PV panel lease does not meet UK Finance minimum requirements."
+  ],
+  "5.20.3": [
+    "No lending if solar PV lease fails UK Finance minimum requirements.",
+    "Post-completion requests for solar PV to be sent to Mortgage Administration (1.11a)."
+  ],
+  "5.20.4": [
+    "Disclose existing Green Deal Plans to Mortgage New Business (1.7)."
+  ],
+  "6.1.3": [
+    "Contact Mortgage New Business (0330 333 4021) if borrower does not take up offer."
+  ],
+  "6.2.1": [
+    "Contact Mortgage New Business (0330 333 4021) regarding property description discrepancies."
+  ],
+  "6.3.1": [
+    "Contact Mortgage New Business (0330 333 4021) regarding purchase price issues."
+  ],
+  "6.4.4": [
+    "CML Disclosure of Incentives Form must be checked.",
+    "Advise lender prior to exchange if deposit is not from borrower's own funds.",
+    "Specify nature and amount of all incentives/cashbacks/allowances; lender may reconsider lending if price does not reflect incentives."
+  ],
+  "6.4.5": [
+    "Whole mortgage advance must be paid directly to seller's conveyancer unless offer states otherwise.",
+    "Notify 1.7 if conveyancer will not have control over all purchase money."
+  ],
+  "6.5.1": [
+    "Contact Mortgage New Business (0330 333 4021) if vacant possession is not provided."
+  ],
+  "6.6.1": [
+    "Contact Mortgage New Business (0330 333 4021) regarding properties to be let."
+  ],
+  "6.6.2": [
+    "Contact Mortgage New Business (0330 333 4021) if letting details are missing."
+  ],
+  "6.6.3": [
+    "Do not send tenancy agreements; pass to borrower."
+  ],
+  "6.6.4": [
+    "Lending on Houses in Multiple Occupation (HMO) is not permitted."
+  ],
+  "6.7.1": [
+    "Acceptable Warranty Schemes: NHBC, Zurich Municipal (to 30/09/09), HAPM, Premier Guarantee, Building Life Plans, LABC, Checkmate/Castle 10, Build-Zone (must include outbuildings), ICW, Advantage HCI, Protek, AEDIS (Homeproof), Q Policy, ABC+, Global Warranties Ltd, Ark, One Guarantee, CADIS.",
+    "Conveyancer must confirm level of cover meets rebuilding cost."
+  ],
+  "6.7.2": [
+    "Do not send new home warranty docs; pass to borrower and keep copy on file."
+  ],
+  "6.7.3": [
+    "Do not send building standards assignments; pass to borrower and keep copy on file."
+  ],
+  "6.7.4": [
+    "If no warranty: confirm monitoring by professional consultant, consultant's experience/qualifications, appropriate indemnity level (6.7.5), and completion of Professional Consultant's Certificate.",
+    "Obtain written lender confirmation before submitting Certificate of Title."
+  ],
+  "6.7.6": [
+    "Do not send Professional Consultant's Certificate; pass to borrower and keep copy on file."
+  ],
+  "6.8.1": [
+    "Contact Mortgage New Business (0330 333 4021) if no agreement/bond for unadopted roads or sewers."
+  ],
+  "6.9.1": [
+    "Contact Mortgage New Business (0330 333 4021) if easements are absent.",
+    "Indemnity insurance required if defect cannot be rectified; policy details must be on CoT."
+  ],
+  "6.10.2": [
+    "Retentions or instalments released to the conveyancer."
+  ],
+  "6.11.1": [
+    "Contact Mortgage New Business (1.7) regarding redevelopment or road proposals."
+  ],
+  "6.12.1": [
+    "Contact Mortgage New Business (1.7) regarding pre-emption rights, resale restrictions, or options."
+  ],
+  "6.13.1": [
+    "Contact Mortgage New Business (1.7) regarding undischarged improvement/repair grants."
+  ],
+  "7.3": [
+    "Consent required from all occupants aged 17 or over using the pro-forma incorporated in the Mortgage Deed."
+  ],
+  "7.4": [
+    "Contact Mortgage New Business (1.7) if doubts exist regarding information accuracy."
+  ],
+  "8.1": [
+    "Conveyancer may not advise specified third parties."
+  ],
+  "9.1": [
+    "Indemnity policy must be sent to lender or insurer and policy number noted on the CoT."
+  ],
+  "9.2": [
+    "Indemnity limit: Full market value preferred; minimum of loan advance amount accepted."
+  ],
+  "10.2a": [
+    "Advance paid via CHAPS."
+  ],
+  "10.2b": [
+    "Minimum 5 working days notice required.",
+    "Advance sent to client account on the working day prior to completion."
+  ],
+  "10.3": [
+    "Standard deductions detailed in the Mortgage Offer."
+  ],
+  "10.7": [
+    "Return advance via CHAPS if completion delayed beyond 48 hours.",
+    "If delayed beyond offer expiry, new offer/documentation may be required."
+  ],
+  "10.9": [
+    "Contact Completions Team, Mortgage New Business (0330 333 4021) if completion is delayed."
+  ],
+  "10.10": [
+    "Maximum hold period for mortgage advance: 2 days."
+  ],
+  "10.11": [
+    "Interest charged to borrower from the date the advance is released at the account rate."
+  ],
+  "12.3.1": [
+    "Contact Completions Team, Mortgage New Business (0330 333 4021) for release of retentions."
+  ],
+  "14.1.4": [
+    "Form CH2 required for instalment mortgages or where a retention is made."
+  ],
+  "14.1.5": [
+    "Send original Mortgage Deed and TID to the lender."
+  ],
+  "14.2.1": [
+    "Send title deeds to: Mortgage Administration Department, PO Box 89, Queen Street, Cardiff, CF10 1UA."
+  ],
+  "14.2.2": [
+    "Post-completion documents to send: TID, original Mortgage Deed, Occupier Consent Forms, and required indemnity policies.",
+    "Other documents should be sent to the borrowers."
+  ],
+  "16.1.1": [
+    "Contact Mortgage Administration Department (1.11a) for title documents."
+  ],
+  "16.3.1": [
+    "No standard form of transfer/deed of covenant provided."
+  ],
+  "16.3.2": [
+    "Contact Mortgage Administration (1.11a) for debt amount."
+  ],
+  "16.3.4": [
+    "Do not send Transfer of Equity; file with HM Land Registry."
+  ],
+  "16.3.7a": [
+    "Contact Mortgage Administration (1.11a) for execution of transfer of equity."
+  ],
+  "16.3.7b": [
+    "Standard attestation: Executed as a deed by common seal of Principality Building Society by order of Board in presence of Authorised Official."
+  ],
+  "16.4.1": [
+    "Contact Mortgage Administration (1.11a) for consent to letting."
+  ],
+  "16.4.2": [
+    "Send copy of proposed tenancy agreement to the lender."
+  ],
+  "16.5.2": [
+    "Contact Mortgage Administration (1.11a) to confirm deeds/agreements do not affect security."
+  ],
+  "16.5.3a": [
+    "Send Deed of Variation to Mortgage Administration (1.11a); may be referred to valuer."
+  ],
+  "16.5.3b": [
+    "Send Deed of Rectification to Mortgage Administration (1.11a)."
+  ],
+  "16.5.3c": [
+    "Send Deed of Easement to Mortgage Administration (1.11a)."
+  ],
+  "16.5.3d": [
+    "Send Option Agreements to Mortgage Administration (1.11a)."
+  ],
+  "17.1.1": [
+    "Contact Mortgage Administration (1.11a) for redemption statements."
+  ],
+  "17.2.1a": [
+    "Send discharge and repayment remittance to Mortgage Administration (1.11a)."
+  ],
+  "17.2.1b": [
+    "Lender discharges via e-DS1 directly with Land Registry; DS1 form not required."
+  ]
+}
