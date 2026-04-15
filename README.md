@@ -28,7 +28,7 @@ More skills are coming — search report analysers, protocol compliance checkers
 
 ### ChatGPT
 
-As of April 2026, ChatGPT supports skills natively (currently in beta for Business, Enterprise, Edu, and Teachers plans).
+As of April 2026, ChatGPT supports skills natively (currently in beta for Business, Enterprise, Edu, and Teachers plans). **You only need to install a skill once** — it will be saved to your account.
 
 1. Go to **Settings** → **Features** and enable **Skills**
 2. In your chat, type `/skill add` and paste the GitHub URL of the skill you want to use (e.g., `https://github.com/MoverlyLtd/conveyancing-toolkit/tree/master/sdlt-calculator`)
@@ -39,7 +39,7 @@ For more details, see OpenAI's [Skills in ChatGPT guide](https://help.openai.com
 
 ### Claude (claude.ai)
 
-Claude now supports skills natively in both chats and Projects.
+Claude now supports skills natively in both chats and Projects. **You only need to install a skill once** — it will be saved to your account and available for any future conversation.
 
 1. Download the `.zip` file for the skill you want from the [Releases folder](https://github.com/MoverlyLtd/conveyancing-toolkit/tree/master/releases)
 2. In your Claude chat or Project, click the **Plus icon** (+) next to the text box
