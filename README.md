@@ -28,28 +28,25 @@ More skills are coming — search report analysers, protocol compliance checkers
 
 ### ChatGPT
 
-1. Go to [chatgpt.com](https://chatgpt.com) and start a new chat
-2. Click the **paperclip icon** (📎) or drag and drop files
-3. Upload the `SKILL.md` file from whichever skill you want (e.g. `sdlt-calculator/SKILL.md`)
-4. For skills with scripts, also upload the files from the `scripts/` folder (e.g. `sdlt-calculator/scripts/sdlt-rates.json` and `sdlt-calculator/scripts/calculate-sdlt.js`)
-5. That's it — just ask your question naturally
+As of April 2026, ChatGPT supports skills natively.
 
-**Example:** Upload the SDLT Calculator files, then type:
-> "Calculate stamp duty on a £425,000 purchase for a first-time buyer"
+1. Go to **Settings** → **Features** and enable **Skills**
+2. In your chat, type `/skill add` and paste the GitHub URL of the skill you want to use (e.g., `https://github.com/MoverlyLtd/conveyancing-toolkit/tree/master/sdlt-calculator`)
+3. ChatGPT will automatically load the instructions and data
+4. Ask your question naturally
 
-**Tip:** You can save a skill as a custom GPT so you don't need to upload the files every time. Click your name → My GPTs → Create a GPT, and paste the SKILL.md contents as instructions.
+For more details, see OpenAI's [Skills in ChatGPT guide](https://help.openai.com/en/articles/20001066-skills-in-chatgpt).
 
 ### Claude (claude.ai)
 
-1. Go to [claude.ai](https://claude.ai) and start a new chat
-2. Click the **paperclip icon** (📎) to attach files
-3. Upload the `SKILL.md` file and any files from `scripts/` and `references/`
+Claude now supports skills natively in both chats and Projects.
+
+1. In your chat or Project, click the **Skills icon** (⚡️) next to the attachment clip
+2. Select **Add from GitHub**
+3. Paste the URL of the skill folder (e.g., `https://github.com/MoverlyLtd/conveyancing-toolkit/tree/master/lease-impact-advisor`)
 4. Ask your question
 
-**Example:** Upload the Lease Impact Advisor files, then type:
-> "My client's property has 72 years on the lease. Which lenders will accept this?"
-
-**Tip:** Create a Claude Project to keep skills loaded permanently. Go to Projects → New Project, add the skill files to the project knowledge, and every conversation in that project will have the skill available.
+For more details, see Anthropic's [Use Skills in Claude guide](https://support.claude.com/en/articles/12512180-use-skills-in-claude).
 
 ### Claude Code (terminal)
 
