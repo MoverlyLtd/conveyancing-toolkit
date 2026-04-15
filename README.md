@@ -41,9 +41,9 @@ For more details, see OpenAI's [Skills in ChatGPT guide](https://help.openai.com
 
 Claude now supports skills natively in both chats and Projects.
 
-1. In your chat or Project, click the **Skills icon** (⚡️) next to the attachment clip
-2. Select **Add from GitHub**
-3. Paste the URL of the skill folder (e.g., `https://github.com/MoverlyLtd/conveyancing-toolkit/tree/master/lease-impact-advisor`)
+1. In your chat or Project, click the **Plus icon** (+) next to the text box
+2. Select **Skills** > **Add skill**
+3. Select **Add from GitHub** and paste the URL of the skill folder (e.g., `https://github.com/MoverlyLtd/conveyancing-toolkit/tree/master/lease-impact-advisor`)
 4. Ask your question
 
 For more details, see Anthropic's [Use Skills in Claude guide](https://support.claude.com/en/articles/12512180-use-skills-in-claude).
