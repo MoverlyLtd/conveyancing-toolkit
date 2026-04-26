@@ -1,1 +1,7 @@
 evals-workspace/
+node_modules/
+package-lock.json
+
+# Stale root-level zip build artifacts. Tracked zips live in releases/.
+/*.zip
+.DS_Store

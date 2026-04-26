@@ -1,0 +1,8 @@
+{
+  "name": "conveyancing-toolkit",
+  "private": true,
+  "description": "Free, open-source AI skills for UK residential conveyancing.",
+  "scripts": {
+    "build:zips": "bash scripts/build-zips.sh"
+  }
+}

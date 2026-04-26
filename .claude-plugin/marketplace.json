@@ -24,51 +24,15 @@
       "version": "1.0.0"
     },
     {
-      "name": "conveyancing-protocol-checklist",
-      "source": "./conveyancing-protocol-checklist",
-      "description": "Law Society Conveyancing Protocol compliance checklists. Track pre-exchange, exchange, completion, and post-completion obligations.",
+      "name": "restrictive-covenant-advisor",
+      "source": "./restrictive-covenant-advisor",
+      "description": "Assess impact and enforceability of freehold restrictive covenants — Hepworth v Pickles 20-year rule, indemnity insurance, retrospective consent, and s.84 LPA 1925 Upper Tribunal applications.",
       "version": "1.0.0"
     },
     {
-      "name": "ca-protocol-compliance",
-      "source": "./ca-protocol-compliance",
-      "description": "Conveyancing Association Protocol (5th Edition) compliance. Covers delays, enquiries, building regulations, planning, covenants, leasehold, and fraud.",
-      "version": "1.0.0"
-    },
-    {
-      "name": "cqs-practice-standards",
-      "source": "./cqs-practice-standards",
-      "description": "CQS practice management standards for SRA-regulated firms. Governance, supervision, training, complaints, cyber security, and file management.",
-      "version": "1.0.0"
-    },
-    {
-      "name": "clc-compliance-tracker",
-      "source": "./clc-compliance-tracker",
-      "description": "CLC regulatory compliance tracking. Code of Conduct, ethical principles, subsidiary codes, and outcomes-focused assessment.",
-      "version": "1.0.0"
-    },
-    {
-      "name": "property-law-reference",
-      "source": "./property-law-reference",
-      "description": "Curated directory of 100+ authoritative property law sources — GOV.UK, HMLR Practice Guides, LEASE Advisory Service, Law Commission reports.",
-      "version": "1.0.0"
-    },
-    {
-      "name": "pdtf-connector",
-      "source": "./pdtf-connector",
-      "description": "Connect to any PDTF-compliant MCP server for property transaction data. 15 standard tools: create, list, claims, provenance, vouch, upload, enquiries.",
-      "version": "1.1.0"
-    },
-    {
-      "name": "moverly-diligence",
-      "source": "./moverly-diligence",
-      "description": "Moverly's proprietary risk intelligence — deterministic diligence engine analysis (37 categories, 2,215 scenarios), document processing, and risk management.",
-      "version": "1.1.0"
-    },
-    {
-      "name": "report-on-title",
-      "source": "./report-on-title",
-      "description": "Generate comprehensive buyer's conveyancer Reports on Title from Moverly transaction data and diligence engine risk flags.",
+      "name": "title-defect-advisor",
+      "source": "./title-defect-advisor",
+      "description": "Analyse HM Land Registry Official Copy Registers (Title Deeds) for conveyancing risks, defects, and critical information — covenants, charges, title class, and risk summaries.",
       "version": "1.0.0"
     }
   ]
