@@ -51,19 +51,19 @@ Replicate this for any new calculator-style skill.
 
 ## Copyright trap — handbook content
 
-The UK Finance Lender's Handbook is licensed material. We learned this in real time: commit `8a4e4fa` added verbatim Part 2 markdown for 66 lenders → reverted in `fd492ff` → re-added as factual JSON only in `d0a17db`.
+The UK Finance Mortgage Lenders' Handbook is licensed material. From June 2026 UK Finance licenses it commercially and does not permit redistribution without written authorisation; in September 2026 UK Finance explicitly declined an open-source route. We learned this in stages: commit `8a4e4fa` added verbatim Part 2 markdown → reverted in `fd492ff` → re-added as factual JSON in `d0a17db` → **all Handbook content removed** and `lenders-handbook-prescreen` deprecated (Sep 2026).
 
 The rule:
 
-- **Never** check in verbatim handbook prose.
-- Extract **facts only** — numeric thresholds, contact details, named conditions, yes/no requirements — into structured JSON. One file per lender under `lenders-handbook-prescreen/references/lenders_json/`.
-- Same logic applies to any future skill wrapping third-party regulatory text.
+- **Never** check in Handbook content in any form — not prose, not extracted facts, not per-lender JSON. `lenders-handbook-prescreen/` is a deprecation notice only and must stay that way.
+- Do not describe any threshold as "from the Handbook" or "Part 2". If a skill needs lender criteria, source them from the lender's own published lending criteria and say so.
+- Same logic applies to any future skill wrapping third-party regulatory text. Moverly's licensed Handbook integration lives in the diligence-engine repo, not here.
 
 ## `marketplace.json` lists only real skills
 
 `.claude-plugin/marketplace.json` must list **only** plugins whose `source: ./<dir>` path resolves to a real directory containing a `SKILL.md`. Aspirational entries cause Claude's plugins marketplace to fail validation with "Marketplace sync failed".
 
-Currently published (5): `sdlt-calculator`, `lease-impact-advisor`, `lenders-handbook-prescreen`, `restrictive-covenant-advisor`, `title-defect-advisor`. Roadmap and ideas live in `SKILLS_ROADMAP.md` — that's the right place for "we're considering X". When a planned skill becomes real, add it to `marketplace.json` and move it from Planned → Published in the roadmap.
+Currently published (4): `sdlt-calculator`, `lease-impact-advisor`, `restrictive-covenant-advisor`, `title-defect-advisor`. `lenders-handbook-prescreen` is deprecated and deliberately absent from `marketplace.json` and `releases/`. Roadmap and ideas live in `SKILLS_ROADMAP.md` — that's the right place for "we're considering X". When a planned skill becomes real, add it to `marketplace.json` and move it from Planned → Published in the roadmap.
 
 ## Releases and zip building
 

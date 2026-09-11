@@ -26,17 +26,17 @@ The AI runs the Lease Impact Advisor:
 
 **What you tell the vendor:** "We can list this, but the short lease significantly limits who can buy it. Only about half of mainstream lenders will accept it, which means fewer mortgage buyers and lower offers. I'd strongly recommend starting a lease extension before we go to market."
 
-**Time saved:** An hour of handbook checking → 15 seconds.
+**Time saved:** An hour of criteria checking → 15 seconds.
 
 ---
 
-## 2. Lender pre-screen
+## 2. Lender shortlist
 
 **You say:**
 > My buyer wants a leasehold flat, 72 years on the lease, £280k. They're first-time buyers on a 25-year mortgage. Which lenders will work?
 
 **What happens:**
-The AI checks Part 2 requirements for each major lender:
+The Lease Impact Advisor checks each major lender's published minimum lease term:
 
 > | Lender | Verdict | Reason |
 > |--------|---------|--------|
@@ -50,9 +50,9 @@ The AI checks Part 2 requirements for each major lender:
 >
 > **Summary:** 6 eligible, 5 marginal, 2 ineligible. Nationwide, NatWest, and Santander are your cleanest options.
 
-Then for each eligible lender, the Lenders Handbook Pre-Screen runs through the full Part 1 requirements, cross-referenced with that lender's Part 2 answers — flagging what needs reporting and what can be certified.
+For the full Handbook Part 1 and Part 2 checks against the chosen lender, use the UK Finance Handbook directly at [lendershandbook.ukfinance.org.uk](https://lendershandbook.ukfinance.org.uk) — the Lenders Handbook Pre-Screen skill is deprecated because the Handbook is licensed material.
 
-**Time saved:** 2-3 hours of manual handbook checking → seconds.
+**Time saved:** the lender shortlist in seconds instead of an hour of criteria checking.
 
 ---
 

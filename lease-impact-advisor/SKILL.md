@@ -79,9 +79,9 @@ If extension is advisable, explain:
 | **CRITICAL** | Under 70 years | Most lenders decline. Severe buyer pool restriction — cash buyers or specialist lenders only. Price discount 15-30%+. Extension essential. |
 | **UNMORTGAGEABLE** | Under 55 years | Virtually no mainstream lenders. Cash buyers only. Significant price discount. Some properties become functionally unsaleable without extension. |
 
-## Lender thresholds (Part 2 data)
+## Lender thresholds
 
-These are the minimum unexpired lease terms from the UK Finance Lender's Handbook Part 2. The script has these built in, but for reference:
+Indicative minimum unexpired lease terms for major lenders, from each lender's published lending criteria. The script has these built in, but for reference. Lenders change these without notice: always confirm the current figure with the lender or its published criteria before relying on it.
 
 | Lender | Minimum at completion | End-of-term requirement | Notes |
 |--------|----------------------|------------------------|-------|
