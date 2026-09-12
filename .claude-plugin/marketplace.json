@@ -12,27 +12,21 @@
       "version": "1.0.0"
     },
     {
-      "name": "lenders-handbook-prescreen",
-      "source": "./lenders-handbook-prescreen",
-      "description": "Exhaustive UK Finance Lender's Handbook Part 1 pre-screen with 90+ checks across 24 categories, plus Part 2 data for 60+ lenders.",
-      "version": "1.0.0"
-    },
-    {
       "name": "lease-impact-advisor",
       "source": "./lease-impact-advisor",
-      "description": "Leasehold saleability assessment — risk banding, lender eligibility matrix for 13 major lenders, extension cost estimates, marriage value analysis.",
+      "description": "Leasehold saleability assessment \u2014 risk banding, lender eligibility matrix for 13 major lenders, extension cost estimates, marriage value analysis.",
       "version": "1.0.0"
     },
     {
       "name": "restrictive-covenant-advisor",
       "source": "./restrictive-covenant-advisor",
-      "description": "Assess impact and enforceability of freehold restrictive covenants — Hepworth v Pickles 20-year rule, indemnity insurance, retrospective consent, and s.84 LPA 1925 Upper Tribunal applications.",
+      "description": "Assess impact and enforceability of freehold restrictive covenants \u2014 Hepworth v Pickles 20-year rule, indemnity insurance, retrospective consent, and s.84 LPA 1925 Upper Tribunal applications.",
       "version": "1.0.0"
     },
     {
       "name": "title-defect-advisor",
       "source": "./title-defect-advisor",
-      "description": "Analyse HM Land Registry Official Copy Registers (Title Deeds) for conveyancing risks, defects, and critical information — covenants, charges, title class, and risk summaries.",
+      "description": "Analyse HM Land Registry Official Copy Registers (Title Deeds) for conveyancing risks, defects, and critical information \u2014 covenants, charges, title class, and risk summaries.",
       "version": "1.0.0"
     }
   ]

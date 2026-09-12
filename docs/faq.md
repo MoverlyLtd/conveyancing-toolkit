@@ -2,7 +2,7 @@
 
 ## Is this just an SDLT calculator?
 
-No. The SDLT calculator is one skill. The toolkit also includes a Lease Impact Advisor (saleability assessment, lender eligibility across 13 major lenders, extension cost estimates) and a Lenders Handbook Pre-Screen (90+ Part 1 checks, Part 2 data for 67 lenders). More skills are planned — see the [roadmap](../SKILLS_ROADMAP.md).
+No. The SDLT calculator is one skill. The toolkit also includes a Lease Impact Advisor (saleability assessment, lender eligibility across 13 major lenders, extension cost estimates) plus Restrictive Covenant and Title Defect advisors. (The Lenders Handbook Pre-Screen is deprecated: the UK Finance Handbook is licensed material and we no longer redistribute it.) More skills are planned — see the [roadmap](../SKILLS_ROADMAP.md).
 
 ## How is this different from asking ChatGPT?
 
@@ -12,7 +12,7 @@ Skills fix this by giving the AI access to deterministic scripts and structured 
 
 ## Can I trust the output?
 
-The SDLT calculator uses a deterministic script with rates verified daily against GOV.UK. The lender data comes from the published UK Finance Handbook Part 2. The lease impact thresholds are from each lender's published requirements.
+The SDLT calculator uses a deterministic script with rates verified daily against GOV.UK. The lease impact thresholds are from each lender's published lending criteria — always confirm against the lender before relying on them.
 
 That said, this is a professional tool, not a replacement for professional judgment. Always verify critical outputs against primary sources.
 
@@ -34,4 +34,4 @@ Built and maintained by [Moverly](https://moverly.com), with contributions from 
 
 ## How often is the data updated?
 
-SDLT rates are verified daily against GOV.UK via automated checks. Lender handbook data is refreshed periodically from the UK Finance website. The toolkit is designed so that data updates are separate from skill logic — when rates or thresholds change, only the data files need updating.
+SDLT rates are verified daily against GOV.UK via automated checks. The toolkit is designed so that data updates are separate from skill logic — when rates or thresholds change, only the data files need updating.

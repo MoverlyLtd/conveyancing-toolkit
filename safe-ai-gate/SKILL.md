@@ -35,7 +35,7 @@ Compare the question against the **validated-skill registry**:
 |--------|-----------------|-------------------|
 | Stamp duty / SDLT | `sdlt-calculator` | Don't compute from memory — rates go stale. Say so; load the skill. |
 | Lease length / saleability / marriage value | `lease-impact-advisor` | Flag thresholds as unvalidated. |
-| Lender requirements / Handbook Part 1 & 2 | `lenders-handbook-prescreen` | Don't recall lender rules from memory. |
+| Lender requirements / Handbook Part 1 & 2 | None — `lenders-handbook-prescreen` is deprecated. Direct the user to lendershandbook.ukfinance.org.uk. | Don't recall lender rules from memory. |
 | Restrictive covenants | `restrictive-covenant-advisor` | Use the skill's framework. |
 | HM Land Registry title analysis | `title-defect-advisor` | Use the skill. |
 | Personal / client data in the input | `data-protection-guard` | Run the data-protection check first. |

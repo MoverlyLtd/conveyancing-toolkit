@@ -8,7 +8,7 @@ Built by [Moverly](https://moverly.com). Open to everyone.
 
 ## What this is
 
-AI skills that give conveyancers instant access to structured property intelligence — lender requirements, SDLT calculations, lease assessments — through the AI tools you already use.
+AI skills that give conveyancers instant access to structured property intelligence — SDLT calculations, lease assessments, title and covenant analysis — through the AI tools you already use.
 
 Every skill is **free, open source, and MIT-licensed**. No subscription. No API key. No vendor lock-in.
 
@@ -18,7 +18,8 @@ Every skill is **free, open source, and MIT-licensed**. No subscription. No API 
 |-------|-------------|
 | **[SDLT Calculator](sdlt-calculator/)** | Stamp Duty Land Tax — standard, first-time buyer, additional property, non-UK resident. Uses live rates, updated automatically. |
 | **[Lease Impact Advisor](lease-impact-advisor/)** | Leasehold saleability assessment — risk banding, lender eligibility for 13 major lenders, extension cost estimates. |
-| **[Lenders Handbook Pre-Screen](lenders-handbook-prescreen/)** | Full UK Finance Lender's Handbook Part 1 (90+ checks) plus Part 2 requirements for 67 individual lenders. |
+
+> **Lenders Handbook Pre-Screen — deprecated.** The UK Finance Mortgage Lenders' Handbook is licensed material, so this skill no longer ships any Handbook content. Check the Handbook directly at [lendershandbook.ukfinance.org.uk](https://lendershandbook.ukfinance.org.uk) (free login). A licensed Handbook integration is available in Moverly's diligence engine.
 
 More skills are coming — search report analysers, protocol compliance checkers, building regulations advisors, and more. [Tell us what you need.](https://github.com/MoverlyLtd/conveyancing-toolkit/issues)
 
@@ -85,10 +86,7 @@ Once you've loaded a skill, just ask questions in plain English:
 - "Which lenders accept a 72-year lease?"
 - "What's the estimated cost to extend a 65-year lease on a £350,000 flat?"
 
-**Lenders Handbook Pre-Screen:**
-- "Pre-screen this property against Nationwide's handbook requirements"
-- "Does HSBC need to be notified about Japanese knotweed?"
-- "What does Santander's Part 2 say about new-build properties?"
+**Lenders Handbook Pre-Screen:** deprecated — Handbook questions should go to [lendershandbook.ukfinance.org.uk](https://lendershandbook.ukfinance.org.uk) directly.
 
 ---
 

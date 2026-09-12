@@ -14,7 +14,7 @@ Then start Claude and ask a question:
 ```
 "Calculate SDLT on a £510,000 first-time buyer purchase"
 "I have a flat with 72 years on the lease, worth £425,000. What's the impact?"
-"Pre-screen a 72-year lease against Nationwide's Part 2 requirements"
+"Which lenders will accept a 72-year lease on a 25-year mortgage?"
 ```
 
 Claude reads the `SKILL.md` files automatically and uses the scripts and reference data.
@@ -39,6 +39,6 @@ Point your AI tool at the relevant skill directory.
 |-------|-------------|
 | **sdlt-calculator** | SDLT for all buyer types. Deterministic script, rates verified daily against GOV.UK. |
 | **lease-impact-advisor** | Saleability assessment, lender eligibility across 13 major lenders, extension cost estimates. |
-| **lenders-handbook-prescreen** | Part 1 checklist (90+ checks) plus Part 2 data for 67 lenders. |
+| **lenders-handbook-prescreen** | Deprecated — no longer ships Handbook content. Use the free Handbook login at lendershandbook.ukfinance.org.uk. |
 
 No API key. No account. No configuration. Just clone and ask.

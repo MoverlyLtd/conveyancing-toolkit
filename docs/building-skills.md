@@ -62,10 +62,10 @@ For data the agent should consult but not hold in context all the time:
 ```markdown
 ## Reference data
 
-When checking lender-specific requirements, read the relevant file from `references/lenders/`:
+When checking search-specific guidance, read the relevant file from `references/searches/`:
 
-- Nationwide: `references/lenders/nationwide.md`
-- Halifax: `references/lenders/halifax.md`
+- Local authority: `references/searches/local-authority.md`
+- Drainage and water: `references/searches/drainage-water.md`
 ```
 
 The agent loads the reference on demand — keeping context lean.

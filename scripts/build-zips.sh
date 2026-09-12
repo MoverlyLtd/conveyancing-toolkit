@@ -14,9 +14,26 @@ REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 RELEASES_DIR="$REPO_ROOT/releases"
 mkdir -p "$RELEASES_DIR"
 
+# Deprecated skills are never zipped. lenders-handbook-prescreen no longer
+# ships any content (the UK Finance Handbook is licensed material).
+DEPRECATED_SKILLS=("lenders-handbook-prescreen")
+
+is_deprecated() {
+  local s
+  for s in "${DEPRECATED_SKILLS[@]}"; do
+    [[ "$s" == "$1" ]] && return 0
+  done
+  return 1
+}
+
 build_one() {
   local skill="$1"
   local skill_dir="$REPO_ROOT/$skill"
+  if is_deprecated "$skill"; then
+    echo "skip: $skill (deprecated, not distributed)" >&2
+    rm -f "$RELEASES_DIR/$skill.zip"
+    return 0
+  fi
   if [[ ! -f "$skill_dir/SKILL.md" ]]; then
     echo "skip: $skill (no SKILL.md)" >&2
     return 0
